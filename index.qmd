@@ -1,6 +1,6 @@
 ---
-title: "Da Pergunta à Síntese"
-subtitle: "Revisões de Literatura em Saúde"
+title: "Revisões de Literatura em Saúde"
+subtitle: "Da Pergunta à Síntese"
 ---
 
 ## Bem-vindo(a)
