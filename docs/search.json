@@ -456,6 +456,593 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Revisões de Literatura em Saúde",
+    "section": "",
+    "text": "Este material foi desenvolvido para estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.\nAo longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.\n\n\n\n\n\n\nNotaMais do que um guia técnico\n\n\n\nA proposta é ajudar você a pensar metodologicamente, entendendo por que escolher um tipo de revisão — e não apenas como executá-la.",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#bem-vindoa",
+    "href": "index.html#bem-vindoa",
+    "title": "Revisões de Literatura em Saúde",
+    "section": "",
+    "text": "Este material foi desenvolvido para estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.\nAo longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.\n\n\n\n\n\n\nNotaMais do que um guia técnico\n\n\n\nA proposta é ajudar você a pensar metodologicamente, entendendo por que escolher um tipo de revisão — e não apenas como executá-la.",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#por-que-aprender-sobre-revisão-de-literatura",
+    "href": "index.html#por-que-aprender-sobre-revisão-de-literatura",
+    "title": "Revisões de Literatura em Saúde",
+    "section": "Por que aprender sobre revisão de literatura?",
+    "text": "Por que aprender sobre revisão de literatura?\nNa prática clínica, na pesquisa e na tomada de decisão em saúde, somos constantemente confrontados com perguntas como:\n\nEste tratamento realmente funciona?\nQual é a melhor evidência disponível?\nO que já se sabe — e o que ainda não se sabe — sobre esse tema?\n\nResponder a essas perguntas exige mais do que “ler alguns artigos”. Exige método, critério e síntese. Revisões de literatura bem conduzidas são a base da prática baseada em evidências, da formulação de diretrizes clínicas e do avanço do conhecimento científico.",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#o-que-você-encontrará-aqui",
+    "href": "index.html#o-que-você-encontrará-aqui",
+    "title": "Revisões de Literatura em Saúde",
+    "section": "O que você encontrará aqui",
+    "text": "O que você encontrará aqui\n\n\n\nSeção\nConteúdo\n\n\n\n\nVisão geral\nPanorama de todos os tipos de revisão e suas diferenças\n\n\nRevisão Narrativa\nFundamentação teórica e contextualização\n\n\nRevisão Integrativa\nSíntese de evidências com flexibilidade metodológica\n\n\nRevisão de Escopo\nMapeamento de campos de pesquisa\n\n\nRevisão Sistemática\nO padrão-ouro para síntese de evidências\n\n\nMeta-análise\nSíntese quantitativa de múltiplos estudos\n\n\nAcrônimos PICO\nEstruturação de perguntas de pesquisa\n\n\nRegistro de Protocolos\nOSF, PROSPERO e transparência científica\n\n\nAtividades Práticas\nExercícios para aplicação dos conceitos",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#autor",
+    "href": "index.html#autor",
+    "title": "Revisões de Literatura em Saúde",
+    "section": "Autor",
+    "text": "Autor\nHenrique Alvarenga da Silva\nMédico psiquiatra.\nProfessor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).\nProfessor de Métodos de Pesquisa em Medicina na AFYA.\n🌐 henriquealvarenga.com",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html",
+    "href": "07-acronimos-pico.html",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "",
+    "text": "Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.\nOs acrônimos como PICO funcionam como frameworks que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável (Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\nNotaPrincípio fundamental\n\n\n\nUma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#por-que-estruturar-a-pergunta-de-pesquisa",
+    "href": "07-acronimos-pico.html#por-que-estruturar-a-pergunta-de-pesquisa",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "",
+    "text": "Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.\nOs acrônimos como PICO funcionam como frameworks que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável (Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\nNotaPrincípio fundamental\n\n\n\nUma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#pico-o-acrônimo-clássico",
+    "href": "07-acronimos-pico.html#pico-o-acrônimo-clássico",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PICO: o acrônimo clássico",
+    "text": "PICO: o acrônimo clássico\nO acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre intervenções (Richardson et al., 1995; Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\n\n\nElemento\nSignificado\nPergunta orientadora\n\n\n\n\nP\nPopulação / Paciente / Problema\nQuem são os pacientes? Qual a condição?\n\n\nI\nIntervenção\nO que está sendo testado ou avaliado?\n\n\nC\nComparação\nQual a alternativa? (pode ser ausente)\n\n\nO\nOutcome (Desfecho)\nQual o resultado esperado?\n\n\n\n\nExemplo de pergunta PICO\nPergunta narrativa: “Antidepressivos funcionam para depressão em idosos?”\nPergunta estruturada (PICO):\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nIdosos (≥ 65 anos) com transtorno depressivo maior\n\n\nI\nAntidepressivos (ISRS)\n\n\nC\nPlacebo\n\n\nO\nRemissão dos sintomas depressivos\n\n\n\nPergunta final: “Em idosos com transtorno depressivo maior, os inibidores seletivos de recaptação de serotonina são superiores ao placebo para alcançar remissão dos sintomas?”\n\n\n\n\n\n\nDicaDica prática\n\n\n\nO elemento C (comparação) nem sempre está presente. Em estudos descritivos ou de prevalência, pode não haver grupo de comparação.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#picot-adicionando-o-tempo",
+    "href": "07-acronimos-pico.html#picot-adicionando-o-tempo",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PICOT: adicionando o tempo",
+    "text": "PICOT: adicionando o tempo\nO acrônimo PICOT acrescenta o elemento T (Time / Tempo), útil quando a duração do seguimento ou o momento da avaliação são relevantes.\n\n\n\nElemento\nSignificado\n\n\n\n\nP\nPopulação\n\n\nI\nIntervenção\n\n\nC\nComparação\n\n\nO\nOutcome (Desfecho)\n\n\nT\nTime (Tempo)\n\n\n\n\nExemplo de pergunta PICOT\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nAdultos com transtorno de ansiedade generalizada\n\n\nI\nTerapia cognitivo-comportamental\n\n\nC\nLista de espera\n\n\nO\nRedução dos sintomas de ansiedade\n\n\nT\n12 semanas de seguimento",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#pico-para-estudos-qualitativos",
+    "href": "07-acronimos-pico.html#pico-para-estudos-qualitativos",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PICo: para estudos qualitativos",
+    "text": "PICo: para estudos qualitativos\nO acrônimo PICo (com “o” minúsculo) é uma adaptação para perguntas de pesquisa qualitativa, onde não há intervenção nem comparação no sentido tradicional.\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nP\nPopulação\nQuem são os participantes?\n\n\nI\nFenômeno de Interesse\nO que está sendo explorado?\n\n\nCo\nContexto\nEm que circunstância ou ambiente?\n\n\n\n\nExemplo de pergunta PICo\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nPacientes com esquizofrenia\n\n\nI\nExperiência de ouvir vozes\n\n\nCo\nAtendimento ambulatorial em serviço público\n\n\n\nPergunta final: “Como pacientes com esquizofrenia em atendimento ambulatorial no serviço público vivenciam a experiência de ouvir vozes?”",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#pcc-para-revisões-de-escopo",
+    "href": "07-acronimos-pico.html#pcc-para-revisões-de-escopo",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PCC: para revisões de escopo",
+    "text": "PCC: para revisões de escopo\nO framework PCC é recomendado pelo JBI para revisões de escopo, que têm caráter exploratório e mapeiam a literatura.\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nP\nPopulação\nQuem são os participantes ou público-alvo?\n\n\nC\nConceito\nQual o conceito ou fenômeno central?\n\n\nC\nContexto\nEm que setting ou circunstância?\n\n\n\n\nExemplo de pergunta PCC\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nProfissionais de saúde\n\n\nC\nEstratégias de prevenção de burnout\n\n\nC\nUnidades de terapia intensiva\n\n\n\nPergunta final: “Quais estratégias de prevenção de burnout têm sido estudadas em profissionais de saúde que atuam em unidades de terapia intensiva?”",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#spider-alternativa-para-estudos-qualitativos",
+    "href": "07-acronimos-pico.html#spider-alternativa-para-estudos-qualitativos",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "SPIDER: alternativa para estudos qualitativos",
+    "text": "SPIDER: alternativa para estudos qualitativos\nO acrônimo SPIDER foi proposto como alternativa ao PICO para revisões que incluem estudos qualitativos e mistos (Cooke; Smith; Booth, 2012).\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nS\nSample (Amostra)\nGrupo de interesse\n\n\nPI\nPhenomenon of Interest\nFenômeno estudado\n\n\nD\nDesign\nDelineamento do estudo\n\n\nE\nEvaluation\nComo o fenômeno é avaliado\n\n\nR\nResearch type\nTipo de pesquisa (quali, quanti, mista)\n\n\n\n\nExemplo de pergunta SPIDER\n\n\n\nElemento\nConteúdo\n\n\n\n\nS\nCuidadores de pacientes com demência\n\n\nPI\nSobrecarga do cuidador\n\n\nD\nEstudos qualitativos\n\n\nE\nEntrevistas, grupos focais\n\n\nR\nQualitativa",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#peco-para-estudos-de-etiologiaexposição",
+    "href": "07-acronimos-pico.html#peco-para-estudos-de-etiologiaexposição",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PECO: para estudos de etiologia/exposição",
+    "text": "PECO: para estudos de etiologia/exposição\nO acrônimo PECO é usado para perguntas sobre fatores de risco ou exposição, comuns em estudos observacionais (coorte, caso-controle).\n\n\n\nElemento\nSignificado\n\n\n\n\nP\nPopulação\n\n\nE\nExposição (fator de risco)\n\n\nC\nComparação (não expostos)\n\n\nO\nOutcome (Desfecho)\n\n\n\n\nExemplo de pergunta PECO\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nAdultos jovens\n\n\nE\nUso de cannabis na adolescência\n\n\nC\nNão uso de cannabis\n\n\nO\nDesenvolvimento de transtornos psicóticos\n\n\n\nPergunta final: “O uso de cannabis na adolescência aumenta o risco de transtornos psicóticos em adultos jovens comparado a não usuários?”",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#qual-acrônimo-usar",
+    "href": "07-acronimos-pico.html#qual-acrônimo-usar",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Qual acrônimo usar?",
+    "text": "Qual acrônimo usar?\nA escolha depende do tipo de pergunta e do tipo de estudo:\n\n\n\nTipo de pergunta\nAcrônimo recomendado\n\n\n\n\nEficácia de intervenção\nPICO, PICOT\n\n\nEtiologia / Fatores de risco\nPECO\n\n\nExperiências e significados (quali)\nPICo, SPIDER\n\n\nMapeamento da literatura (escopo)\nPCC\n\n\nDiagnóstico\nPICO (adaptado)\n\n\nPrognóstico\nPICO (adaptado)\n\n\n\n\n\n\n\n\nflowchart TD\n    A[Qual é sua pergunta?] --&gt; B{Tipo de estudo?}\n    \n    B --&gt;|Intervenção| C[PICO / PICOT]\n    B --&gt;|Exposição / Risco| D[PECO]\n    B --&gt;|Qualitativo| E[PICo / SPIDER]\n    B --&gt;|Revisão de escopo| F[PCC]",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#da-pergunta-à-estratégia-de-busca",
+    "href": "07-acronimos-pico.html#da-pergunta-à-estratégia-de-busca",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Da pergunta à estratégia de busca",
+    "text": "Da pergunta à estratégia de busca\nApós estruturar a pergunta, cada elemento do acrônimo orienta a construção da estratégia de busca nas bases de dados.\n\nPasso a passo\n\nIdentifique os termos para cada elemento do acrônimo\nBusque sinônimos e termos relacionados\nIdentifique descritores controlados (MeSH, DeCS)\nCombine os termos com operadores booleanos\n\n\n\nOperadores booleanos\n\n\n\nOperador\nFunção\nExemplo\n\n\n\n\nAND\nIntersecção (restringe)\ndepression AND elderly\n\n\nOR\nUnião (amplia)\nelderly OR aged OR older\n\n\nNOT\nExclusão (use com cautela)\ndepression NOT bipolar\n\n\n\n\n\nExemplo de estratégia de busca\nPergunta PICO: “Em idosos com depressão, os ISRS são eficazes para remissão dos sintomas?”\n\n\n\n\n\n\n\nElemento\nTermos de busca\n\n\n\n\nP\nelderly OR aged OR “older adults” OR geriatric\n\n\nI\nSSRI OR “selective serotonin reuptake inhibitor” OR fluoxetine OR sertraline\n\n\nO\nremission OR response OR improvement\n\n\n\nEstratégia combinada:\n(elderly OR aged OR \"older adults\" OR geriatric)\nAND\n(SSRI OR \"selective serotonin reuptake inhibitor\" OR fluoxetine OR sertraline OR escitalopram)\nAND\n(depression OR \"depressive disorder\" OR \"major depression\")\nAND\n(remission OR response OR improvement)\n\n\n\n\n\n\nDicaDica prática\n\n\n\nComece com uma busca sensível (ampla) e depois refine conforme necessário. É melhor ter muitos resultados para triar do que perder estudos relevantes.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#erros-comuns-na-formulação-da-pergunta",
+    "href": "07-acronimos-pico.html#erros-comuns-na-formulação-da-pergunta",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Erros comuns na formulação da pergunta",
+    "text": "Erros comuns na formulação da pergunta\n\n\n\n\n\n\nAvisoEvite estes erros\n\n\n\n\nPergunta muito ampla: “O que se sabe sobre depressão?” — impossível de responder sistematicamente\nPergunta muito restrita: “A fluoxetina 20mg por 8 semanas é eficaz para depressão leve em mulheres entre 30-35 anos no Brasil?” — pode não haver estudos\nAusência de desfecho claro: “Os ISRS são bons para idosos?” — bons em quê?\nConfundir intervenção com exposição: usar PICO quando deveria usar PECO\nMisturar múltiplas perguntas: “Os ISRS são eficazes e seguros e melhoram qualidade de vida?” — são três perguntas diferentes",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#resumo",
+    "href": "07-acronimos-pico.html#resumo",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nAcrônimos ajudam a estruturar perguntas de pesquisa de forma clara\nPICO é o padrão para perguntas sobre intervenções\nPICo e SPIDER são adaptações para estudos qualitativos\nPCC é recomendado para revisões de escopo\nPECO é usado para perguntas sobre exposição/risco\nCada elemento do acrônimo orienta a estratégia de busca\nUse operadores booleanos (AND, OR, NOT) para combinar termos\nEvite perguntas muito amplas ou muito restritas",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#leituras-recomendadas",
+    "href": "07-acronimos-pico.html#leituras-recomendadas",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nSantos; Pimenta; Nobre (2007) — A estratégia PICO para a construção da pergunta de pesquisa\nRichardson et al. (1995) — The well-built clinical question\nCooke; Smith; Booth (2012) — Beyond PICO: the SPIDER tool for qualitative evidence synthesis\nNobre; Bernardo; Jatene (2004) — A prática clínica baseada em evidências\n\n\nPróximo capítulo: Registro de Protocolos",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html",
+    "href": "09-pratica-1.html",
+    "title": "Atividade Prática 1",
+    "section": "",
+    "text": "Esta atividade prática tem como objetivo consolidar os conhecimentos metodológicos discutidos em aula por meio da análise crítica de uma revisão de escopo publicada. Ao final da atividade, espera-se que o estudante seja capaz de:\n\nAnalisar a estrutura, clareza e transparência metodológica de uma revisão de escopo;\nReconhecer as etapas metodológicas descritas no checklist PRISMA-ScR;\nDesenvolver senso crítico para distinguir revisões de escopo de outros tipos de revisão (narrativa, sistemática, integrativa, entre outras).",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#objetivos-da-atividade",
+    "href": "09-pratica-1.html#objetivos-da-atividade",
+    "title": "Atividade Prática 1",
+    "section": "",
+    "text": "Esta atividade prática tem como objetivo consolidar os conhecimentos metodológicos discutidos em aula por meio da análise crítica de uma revisão de escopo publicada. Ao final da atividade, espera-se que o estudante seja capaz de:\n\nAnalisar a estrutura, clareza e transparência metodológica de uma revisão de escopo;\nReconhecer as etapas metodológicas descritas no checklist PRISMA-ScR;\nDesenvolver senso crítico para distinguir revisões de escopo de outros tipos de revisão (narrativa, sistemática, integrativa, entre outras).",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#descrição-geral-da-atividade",
+    "href": "09-pratica-1.html#descrição-geral-da-atividade",
+    "title": "Atividade Prática 1",
+    "section": "Descrição geral da atividade",
+    "text": "Descrição geral da atividade\nOs estudantes, organizados em grupos, deverão localizar, selecionar e analisar criticamente um artigo de revisão de escopo relacionado a um dos temas propostos.\nO foco da atividade não está apenas no tema, mas principalmente na qualidade do relato metodológico do estudo, especialmente no que diz respeito à aderência às recomendações do PRISMA-ScR.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#onde-o-aluno-deve-pesquisar",
+    "href": "09-pratica-1.html#onde-o-aluno-deve-pesquisar",
+    "title": "Atividade Prática 1",
+    "section": "Onde o aluno deve pesquisar?",
+    "text": "Onde o aluno deve pesquisar?\nA busca pelo artigo de revisão de escopo deve ser realizada em bases de dados científicas, preferencialmente nas seguintes:\n\nPubMed / MEDLINE\nScopus\nWeb of Science\nScielo\nBiblioteca Virtual em Saúde (BVS)\n\n📌 Sempre que possível, priorize bases que permitam identificar claramente o tipo de estudo (scoping review, systematic review, etc.).",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#como-realizar-a-busca",
+    "href": "09-pratica-1.html#como-realizar-a-busca",
+    "title": "Atividade Prática 1",
+    "section": "Como realizar a busca?",
+    "text": "Como realizar a busca?\n\nAcesse uma das bases de dados indicadas;\nLocalize o campo de busca avançada (Advanced Search);\nCopie e cole a estratégia de busca sugerida para o tema escolhido;\nAjuste filtros, se necessário (idioma, período, tipo de estudo);\nIdentifique artigos que se declarem explicitamente como scoping review.\n\n\n\n\n\n\n\nDicaDica importante\n\n\n\nNem todo artigo que se autodenomina “revisão” é uma revisão de escopo. O aluno deve verificar se o estudo: - Utiliza o modelo PCC; - Declara seguir o PRISMA-ScR; - Apresenta um fluxograma de seleção e descrição clara da metodologia.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#tarefa-a-ser-entregue",
+    "href": "09-pratica-1.html#tarefa-a-ser-entregue",
+    "title": "Atividade Prática 1",
+    "section": "Tarefa a ser entregue",
+    "text": "Tarefa a ser entregue\n\nChecklist PRISMA-ScR preenchido\n\nPara cada item do checklist, o grupo deverá:\n\nIndicar se o artigo cumpre ou não o critério;\nJustificar a resposta, citando trechos específicos do artigo analisado.\n\nO checklist oficial pode ser acessado em:\n\nPRISMA-ScR Checklist (PDF)\n\nPara cada item do checklist, você deve:\n\n✅ ou ❌ — Indicar se o artigo cumpre ou não cumpre o critério\n📝 — Escrever uma justificativa baseada no conteúdo do artigo\n\n\nExemplo de como preencher\n\n\n\n\n\n\n\n\nItem\nCumpre?\nJustificativa\n\n\n\n\nItem 1 - Título\n✅ Sim\nO título indica claramente que é uma revisão de escopo: “A scoping review of…”\n\n\nItem 5 - Objetivos\n❌ Não\nOs autores apresentam o objetivo geral, mas não formulam as perguntas de pesquisa de forma explícita conforme recomendado pelo PRISMA-ScR\n\n\n\n\n\n\n\n\n\nImportanteAtenção\n\n\n\nNão basta marcar “sim” ou “não”! Suas justificativas devem demonstrar que você leu o artigo e entendeu os critérios do PRISMA-ScR.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#temas-propostos-estrutura-pcc",
+    "href": "09-pratica-1.html#temas-propostos-estrutura-pcc",
+    "title": "Atividade Prática 1",
+    "section": "Temas propostos (Estrutura PCC)",
+    "text": "Temas propostos (Estrutura PCC)\nOs grupos deverão escolher um dos temas abaixo. Todos estão estruturados segundo o modelo PCC (População, Conceito, Contexto).",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#impacto-da-telemedicina-no-acesso-aos-cuidados-de-saúde-primários",
+    "href": "09-pratica-1.html#impacto-da-telemedicina-no-acesso-aos-cuidados-de-saúde-primários",
+    "title": "Atividade Prática 1",
+    "section": "1. Impacto da Telemedicina no Acesso aos Cuidados de Saúde Primários",
+    "text": "1. Impacto da Telemedicina no Acesso aos Cuidados de Saúde Primários\n\nEstrutura PCC\n\nP (População): Pacientes que buscam cuidados primários\n\nC (Conceito): Telemedicina e acesso aos cuidados de saúde\n\nC (Contexto): Cuidados de saúde primários\n\n\n\nPergunta PCC\n\nQuais são as evidências existentes sobre o impacto da telemedicina no acesso aos cuidados de saúde primários?\n\n\n\nEstratégia de busca (exemplo)\nCopiar e colar no campo de busca avançada da base de dados:\n(\"Telemedicine\" OR \"Telehealth\" OR \"eHealth\")\nAND (\"Access to Healthcare\" OR \"Healthcare Access\" OR \"Primary Care Access\")\nAND (\"Primary Care\" OR \"Primary Healthcare\" OR \"Family Medicine\")",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#envelhecimento-populacional-e-desafios-para-a-saúde-mental",
+    "href": "09-pratica-1.html#envelhecimento-populacional-e-desafios-para-a-saúde-mental",
+    "title": "Atividade Prática 1",
+    "section": "2. Envelhecimento Populacional e Desafios para a Saúde Mental",
+    "text": "2. Envelhecimento Populacional e Desafios para a Saúde Mental\n\nEstrutura PCC\n\nP (População): Idosos\nC (Conceito): Saúde mental e seus desafios\nC (Contexto): Sistema de saúde pública e serviços de saúde\n\n\n\nPergunta PCC\n\nQuais são os principais desafios de saúde mental enfrentados pela população idosa no contexto dos sistemas de saúde pública?\n\n\n\nEstratégia de busca (exemplo)\n(\"Aging Population\" OR \"Elderly\" OR \"Older Adults\")\nAND (\"Mental Health Challenges\" OR \"Psychological Health\" OR \"Mental Health Issues\")\nAND (\"Public Health\" OR \"Healthcare System\" OR \"Health Services\")",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#uso-de-inteligência-artificial-na-detecção-precoce-de-doenças-cardiovasculares",
+    "href": "09-pratica-1.html#uso-de-inteligência-artificial-na-detecção-precoce-de-doenças-cardiovasculares",
+    "title": "Atividade Prática 1",
+    "section": "3. Uso de Inteligência Artificial na Detecção Precoce de Doenças Cardiovasculares",
+    "text": "3. Uso de Inteligência Artificial na Detecção Precoce de Doenças Cardiovasculares\n\nEstrutura PCC\n\nP (População): Pacientes em risco de doenças cardiovasculares\nC (Conceito): Inteligência artificial aplicada à detecção precoce\nC (Contexto): Detecção e diagnóstico de doenças cardiovasculares\n\n\n\nPergunta PCC\n\nQuais são as evidências sobre o uso da inteligência artificial na detecção precoce de doenças cardiovasculares?\n\n\n\nEstratégia de busca (exemplo)\n(\"Artificial Intelligence\" OR \"AI\" OR \"Machine Learning\")\nAND (\"Early Detection\" OR \"Screening\" OR \"Diagnosis\")\nAND (\"Cardiovascular Diseases\" OR \"Heart Diseases\" OR \"Cardiac Disorders\")",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#políticas-públicas-para-a-promoção-da-vacinação-em-populações-vulneráveis",
+    "href": "09-pratica-1.html#políticas-públicas-para-a-promoção-da-vacinação-em-populações-vulneráveis",
+    "title": "Atividade Prática 1",
+    "section": "4. Políticas Públicas para a Promoção da Vacinação em Populações Vulneráveis",
+    "text": "4. Políticas Públicas para a Promoção da Vacinação em Populações Vulneráveis\n\nEstrutura PCC\n\nP (População): Populações vulneráveis ou em risco\nC (Conceito): Políticas públicas para promoção da vacinação\nC (Contexto): Aumento da cobertura vacinal\n\n\n\nPergunta PCC\n\nQuais políticas públicas têm sido implementadas para promover a vacinação em populações vulneráveis, e quais foram seus impactos na cobertura vacinal?\n\n\n\nEstratégia de busca (exemplo)\n(\"Vaccination Policies\" OR \"Immunization Programs\" OR \"Public Health Policies\")\nAND (\"Vulnerable Populations\" OR \"At-risk Populations\" OR \"Underserved Populations\")\nAND (\"Vaccine Uptake\" OR \"Immunization Coverage\" OR \"Vaccination Rates\")",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "09-pratica-1.html#considerações-finais",
+    "href": "09-pratica-1.html#considerações-finais",
+    "title": "Atividade Prática 1",
+    "section": "Considerações finais",
+    "text": "Considerações finais\nEsta atividade foi concebida para desenvolver no estudante uma postura ativa diante da literatura científica, estimulando a leitura crítica, o entendimento dos métodos e a distinção entre diferentes tipos de revisão.\nMais do que responder à pergunta temática, o objetivo central é avaliar como o conhecimento foi produzido, organizado e relatado, à luz das recomendações do PRISMA-ScR.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html",
+    "href": "01-introducao.html",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "",
+    "text": "O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos (González-Márquez et al., 2024; National Library of Medicine, 2024). Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.\nDiante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.\nNem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#introdução",
+    "href": "01-introducao.html#introdução",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "",
+    "text": "O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos (González-Márquez et al., 2024; National Library of Medicine, 2024). Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.\nDiante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.\nNem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#por-que-existem-diferentes-tipos-de-revisão",
+    "href": "01-introducao.html#por-que-existem-diferentes-tipos-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Por que existem diferentes tipos de revisão?",
+    "text": "Por que existem diferentes tipos de revisão?\nA diversidade de métodos reflete diferentes necessidades:\n\nFundamentar teoricamente um estudo ou discussão\nMapear o que existe sobre um tema amplo\nResponder a uma pergunta clínica específica\nQuantificar o efeito de uma intervenção\n\nCada objetivo demanda uma abordagem metodológica distinta.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#os-principais-tipos-de-revisão",
+    "href": "01-introducao.html#os-principais-tipos-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Os principais tipos de revisão",
+    "text": "Os principais tipos de revisão\n\nRevisão Narrativa\nA forma mais flexível e tradicional de revisão. O autor seleciona e discute a literatura de forma qualitativa, sem necessidade de protocolo rígido ou busca exaustiva. É útil para contextualização teórica, mas tem baixa reprodutibilidade.\nQuando usar: Fundamentação teórica de artigos, capítulos introdutórios, discussão de conceitos.\n➡️ Saiba mais em Revisão Narrativa\n\n\nRevisão Integrativa\nMétodo sistematizado que permite incluir estudos com diferentes delineamentos (quantitativos e qualitativos). Segue etapas definidas, mas com mais flexibilidade que a revisão sistemática. Muito utilizada na enfermagem e em outras áreas da saúde.\nQuando usar: Síntese ampla sobre um tema, quando há diversidade de tipos de estudo.\n➡️ Saiba mais em Revisão Integrativa\n\n\nRevisão de Escopo (Scoping Review)\nMapeia a extensão e a natureza da literatura sobre um tema amplo, identificando conceitos-chave, tipos de evidência disponíveis e lacunas no conhecimento. Não avalia a qualidade dos estudos — seu objetivo é exploratório.\nQuando usar: Temas amplos ou emergentes, antes de uma revisão sistemática, para identificar lacunas.\n➡️ Saiba mais em Revisão de Escopo\n\n\nRevisão Sistemática\nO padrão-ouro para síntese de evidências. Segue protocolo rígido, com busca exaustiva, critérios explícitos de inclusão/exclusão, avaliação da qualidade metodológica e síntese estruturada. Alta reprodutibilidade e transparência.\nQuando usar: Responder a perguntas clínicas específicas, fundamentar diretrizes, avaliar efetividade de intervenções.\n➡️ Saiba mais em Revisão Sistemática\n\n\nMeta-análise\nTécnica estatística que combina quantitativamente os resultados de múltiplos estudos, gerando uma estimativa sumária do efeito. Geralmente realizada dentro de uma revisão sistemática, quando os estudos são suficientemente homogêneos.\nQuando usar: Quando há estudos comparáveis e deseja-se estimar o tamanho do efeito combinado.\n➡️ Saiba mais em Meta-análise",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#quadro-comparativo",
+    "href": "01-introducao.html#quadro-comparativo",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Quadro comparativo",
+    "text": "Quadro comparativo\n\n\n\n\n\n\n\n\n\n\n\nCaracterística\nNarrativa\nIntegrativa\nEscopo\nSistemática\nMeta-análise\n\n\n\n\nPergunta\nAmpla\nAmpla a específica\nAmpla\nEspecífica\nEspecífica\n\n\nProtocolo prévio\nNão\nRecomendado\nRecomendado\nObrigatório\nObrigatório\n\n\nBusca\nNão sistemática\nSistemática\nSistemática\nExaustiva\nExaustiva\n\n\nSeleção de estudos\nSubjetiva\nCritérios definidos\nCritérios definidos\nCritérios rígidos\nCritérios rígidos\n\n\nAvaliação de qualidade\nNão\nOpcional\nNão\nObrigatória\nObrigatória\n\n\nTipos de estudo incluídos\nQualquer\nDiversos\nQualquer\nGeralmente homogêneos\nHomogêneos\n\n\nSíntese\nQualitativa\nQualitativa\nQualitativa\nQuali ou quanti\nQuantitativa\n\n\nReprodutibilidade\nBaixa\nModerada\nModerada\nAlta\nAlta\n\n\nTempo/recursos\nBaixo\nModerado\nModerado\nAlto\nAlto\n\n\nNível de evidência\nBaixo\nModerado\n—\nAlto\nAlto",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#como-escolher-o-tipo-de-revisão",
+    "href": "01-introducao.html#como-escolher-o-tipo-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Como escolher o tipo de revisão?",
+    "text": "Como escolher o tipo de revisão?\n\n\n\n\n\nflowchart TD\n    A[Qual é sua pergunta?] --&gt; B{É ampla ou&lt;br&gt;específica?}\n    \n    B --&gt;|Ampla| C{Quer mapear&lt;br&gt;o campo?}\n    B --&gt;|Específica| D{Quer quantificar&lt;br&gt;o efeito?}\n    \n    C --&gt;|Sim| E[Revisão de Escopo]\n    C --&gt;|Não| F{Inclui diferentes&lt;br&gt;tipos de estudo?}\n    \n    F --&gt;|Sim| G[Revisão Integrativa]\n    F --&gt;|Não| H[Revisão Narrativa]\n    \n    D --&gt;|Sim| I{Estudos são&lt;br&gt;comparáveis?}\n    D --&gt;|Não| J[Revisão Sistemática]\n    \n    I --&gt;|Sim| K[Meta-análise]\n    I --&gt;|Não| J\n\n\n\n\n\n\n\n\n\n\n\n\nDicaDica prática\n\n\n\nAntes de iniciar, faça uma busca exploratória para verificar:\n\nQuantos estudos existem sobre o tema\nQue tipos de estudo predominam\nSe já existem revisões sistemáticas publicadas\nSe o tema é amplo ou específico demais\n\nIsso ajuda a calibrar suas expectativas e escolher o método adequado.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#outros-tipos-de-revisão",
+    "href": "01-introducao.html#outros-tipos-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Outros tipos de revisão",
+    "text": "Outros tipos de revisão\nAlém dos cinco tipos principais, existem outras abordagens que você pode encontrar na literatura:\n\nRevisão rápida (Rapid Review): Versão acelerada da revisão sistemática, com simplificações metodológicas para atender demandas urgentes.\nRevisão guarda-chuva (Umbrella Review): Revisão de revisões sistemáticas sobre um tema.\nMeta-síntese qualitativa: Síntese interpretativa de estudos qualitativos.\nRevisão realista (Realist Review): Busca entender “o que funciona, para quem, em quais circunstâncias e por quê”.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#resumo",
+    "href": "01-introducao.html#resumo",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nExistem diferentes tipos de revisão, cada um com finalidades específicas\nA pergunta de pesquisa determina o método mais adequado\nRevisões narrativas são flexíveis, mas têm baixa reprodutibilidade\nRevisões integrativas permitem incluir estudos diversos\nRevisões de escopo mapeiam campos amplos ou emergentes\nRevisões sistemáticas são o padrão-ouro para perguntas específicas\nMeta-análises combinam resultados quantitativamente\nEscolher o tipo errado compromete todo o trabalho\n\n\n\n\nPróximo capítulo: Revisão Narrativa",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "09-pratica-0.html",
+    "href": "09-pratica-0.html",
+    "title": "Atividades Práticas",
+    "section": "",
+    "text": "Ao longo deste módulo, os estudantes realizarão duas atividades práticas complementares, voltadas ao desenvolvimento de competências essenciais para a leitura crítica, o planejamento metodológico e a compreensão dos diferentes tipos de revisão de literatura em saúde.\nAs atividades foram desenhadas para enfatizar que cada tipo de revisão responde a objetivos distintos e exige decisões metodológicas específicas, indo além da simples busca de artigos.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Atividades Práticas"
+    ]
+  },
+  {
+    "objectID": "09-pratica-0.html#apresentação",
+    "href": "09-pratica-0.html#apresentação",
+    "title": "Atividades Práticas",
+    "section": "",
+    "text": "Ao longo deste módulo, os estudantes realizarão duas atividades práticas complementares, voltadas ao desenvolvimento de competências essenciais para a leitura crítica, o planejamento metodológico e a compreensão dos diferentes tipos de revisão de literatura em saúde.\nAs atividades foram desenhadas para enfatizar que cada tipo de revisão responde a objetivos distintos e exige decisões metodológicas específicas, indo além da simples busca de artigos.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Atividades Práticas"
+    ]
+  },
+  {
+    "objectID": "09-pratica-0.html#atividade-1",
+    "href": "09-pratica-0.html#atividade-1",
+    "title": "Atividades Práticas",
+    "section": "Atividade 1",
+    "text": "Atividade 1\n\nAnálise Crítica de uma Revisão de Escopo (PRISMA-ScR)\nNesta atividade, os estudantes irão analisar criticamente uma revisão de escopo publicada, com foco na transparência metodológica e na qualidade do relato científico.\nO objetivo central é que o aluno aprenda a:\n\nReconhecer as etapas metodológicas de uma revisão de escopo;\nUtilizar o checklist PRISMA-ScR como instrumento de análise crítica;\nDiferenciar a revisão de escopo de outros tipos de revisão de literatura;\nDesenvolver senso crítico quanto à forma como o conhecimento é organizado e apresentado.\n\n👉 Acesse a atividade:\nAtividade 1 – Revisão de Escopo (PRISMA-ScR)",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Atividades Práticas"
+    ]
+  },
+  {
+    "objectID": "09-pratica-0.html#atividade-2",
+    "href": "09-pratica-0.html#atividade-2",
+    "title": "Atividades Práticas",
+    "section": "Atividade 2",
+    "text": "Atividade 2\n\nPlanejamento de Revisões Narrativa e Integrativa\nNesta atividade, os estudantes irão planejar duas estratégias distintas de revisão de literatura — uma revisão narrativa e uma revisão integrativa — a partir de um mesmo cenário clínico ou pergunta de pesquisa.\nO foco da atividade não é executar a revisão completa, mas compreender como o tipo de revisão influencia todas as decisões metodológicas, incluindo:\n\nFormulação da pergunta de pesquisa;\nEstratégia de busca bibliográfica;\nDefinição de critérios de inclusão e exclusão;\nForma de síntese e apresentação dos dados.\n\nA atividade enfatiza a comparação explícita entre as duas abordagens, promovendo uma compreensão mais profunda das diferenças conceituais e metodológicas entre elas.\n👉 Acesse a atividade:\nAtividade 2 – Planejamento de Revisões Narrativa e Integrativa",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Atividades Práticas"
+    ]
+  },
+  {
+    "objectID": "09-pratica-0.html#considerações-finais",
+    "href": "09-pratica-0.html#considerações-finais",
+    "title": "Atividades Práticas",
+    "section": "Considerações finais",
+    "text": "Considerações finais\nAs duas atividades devem ser compreendidas como complementares:\n\nA primeira foca na leitura crítica de um produto científico já publicado;\nA segunda foca no planejamento metodológico da produção científica.\n\nJuntas, elas oferecem uma base sólida para que o estudante compreenda como revisões de literatura são avaliadas, planejadas e utilizadas na prática científica em saúde.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Atividades Práticas"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html",
+    "href": "09-pratica-2.html",
+    "title": "Atividade Prática 2",
+    "section": "",
+    "text": "Esta atividade prática tem como objetivo desenvolver a capacidade do estudante de planejar estratégias de revisão de literatura, diferenciando de forma clara e consciente a revisão narrativa da revisão integrativa, a partir de um mesmo cenário clínico ou pergunta de pesquisa.\nAo final da atividade, espera-se que o aluno seja capaz de:\n\nCompreender as diferenças conceituais, metodológicas e epistemológicas entre revisão narrativa e revisão integrativa;\nFormular perguntas de pesquisa adequadas a cada tipo de revisão;\nPlanejar estratégias de busca bibliográfica coerentes com os objetivos de cada abordagem;\nDefinir critérios de inclusão e exclusão compatíveis com o grau de rigor metodológico esperado;\nRefletir criticamente sobre formas distintas de síntese e apresentação dos dados.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html#objetivo-da-atividade",
+    "href": "09-pratica-2.html#objetivo-da-atividade",
+    "title": "Atividade Prática 2",
+    "section": "",
+    "text": "Esta atividade prática tem como objetivo desenvolver a capacidade do estudante de planejar estratégias de revisão de literatura, diferenciando de forma clara e consciente a revisão narrativa da revisão integrativa, a partir de um mesmo cenário clínico ou pergunta de pesquisa.\nAo final da atividade, espera-se que o aluno seja capaz de:\n\nCompreender as diferenças conceituais, metodológicas e epistemológicas entre revisão narrativa e revisão integrativa;\nFormular perguntas de pesquisa adequadas a cada tipo de revisão;\nPlanejar estratégias de busca bibliográfica coerentes com os objetivos de cada abordagem;\nDefinir critérios de inclusão e exclusão compatíveis com o grau de rigor metodológico esperado;\nRefletir criticamente sobre formas distintas de síntese e apresentação dos dados.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html#descrição-geral-da-atividade",
+    "href": "09-pratica-2.html#descrição-geral-da-atividade",
+    "title": "Atividade Prática 2",
+    "section": "Descrição geral da atividade",
+    "text": "Descrição geral da atividade\nOs alunos deverão ser organizados em grupos de 4 a 5 participantes. Cada grupo trabalhará com um cenário temático, que deverá ser explorado em paralelo por meio de:\n\numa revisão narrativa;\n\numa revisão integrativa.\n\nA proposta central da atividade é que os estudantes planejem conscientemente duas estratégias distintas de revisão, partindo do mesmo tema, e sejam capazes de justificar as diferenças metodológicas entre elas.\n📌 O foco da atividade não é executar a revisão completa, mas planejar adequadamente cada tipo de revisão e compreender seus pressupostos.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html#etapas-da-atividade",
+    "href": "09-pratica-2.html#etapas-da-atividade",
+    "title": "Atividade Prática 2",
+    "section": "Etapas da atividade",
+    "text": "Etapas da atividade\nCada grupo deverá desenvolver as etapas abaixo, sempre considerando duas abordagens paralelas:\numa para a revisão narrativa e outra para a revisão integrativa.\n\n\n1. Formulação da pergunta de pesquisa\nOs grupos deverão formular duas perguntas de pesquisa, uma para cada tipo de revisão:\n\nRevisão narrativa:\nA pergunta deve ser ampla, exploratória e contextual, permitindo abordagem histórica, conceitual ou interpretativa.\nRevisão integrativa:\nA pergunta deve ser mais delimitada e estruturada, voltada para a síntese de evidências, podendo utilizar modelos como PICO, PICo ou variações semelhantes.\n\n📌 O objetivo é compreender como o tipo de revisão condiciona a forma da pergunta.\n\n\n\n2. Elaboração da estratégia de busca bibliográfica\nOs grupos deverão planejar como a busca seria realizada, definindo:\n\nBases de dados, como:\n\nPubMed / MEDLINE\nSciELO\nBiblioteca Virtual em Saúde (BVS)\n\nDescritores e palavras-chave\nOperadores booleanos (AND, OR, NOT)\n\nDeve ficar claro que:\n\nNa revisão narrativa, a busca pode ser mais flexível, iterativa e exploratória;\nNa revisão integrativa, a busca deve ser mais sistemática, transparente e potencialmente reprodutível.\n\n\n\n\n3. Definição de critérios de inclusão e exclusão\nOs grupos deverão propor critérios distintos para cada tipo de revisão:\n\nRevisão narrativa:\nCritérios mais amplos, podendo incluir estudos observacionais, revisões anteriores, textos conceituais e análises históricas.\nRevisão integrativa:\nCritérios mais explícitos e rigorosos, como:\n\ntipo de estudo;\npopulação;\nperíodo de publicação;\nidioma;\ndesfechos de interesse.\n\n\n\n\n\n4. Planejamento da síntese dos dados\nOs grupos deverão descrever como os dados seriam organizados e apresentados:\n\nRevisão narrativa:\nSíntese temática, interpretativa e integradora, com maior liberdade analítica.\nRevisão integrativa:\nSíntese comparativa e estruturada, frequentemente com tabelas, categorias analíticas e descrição sistemática dos resultados.\n\n\n\n\n5. Apresentação da atividade\nCada grupo deverá apresentar um resumo do planejamento, incluindo:\n\nas duas perguntas de pesquisa;\nas estratégias de busca;\nos critérios de inclusão e exclusão;\no plano de síntese dos dados;\numa justificativa clara das diferenças entre a revisão narrativa e a integrativa.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html#cenários-propostos",
+    "href": "09-pratica-2.html#cenários-propostos",
+    "title": "Atividade Prática 2",
+    "section": "Cenários propostos",
+    "text": "Cenários propostos\nCada grupo deverá escolher um dos cenários abaixo.\n\n\nCenário 1\nImpacto da Atividade Física na Prevenção de Doenças Cardiovasculares em Idosos\n\nRevisão Narrativa:\nExplorar de forma ampla como diferentes formas de atividade física têm sido utilizadas ao longo do tempo na prevenção de doenças cardiovasculares em idosos.\nRevisão Integrativa:\nSintetizar evidências sobre os efeitos da atividade física em parâmetros específicos, como pressão arterial, colesterol e índice de massa corporal.\n\n\n\n\nCenário 2\nUso da Inteligência Artificial no Diagnóstico Precoce de Câncer de Mama\n\nRevisão Narrativa:\nExplorar a evolução histórica do uso da inteligência artificial na saúde, com foco no diagnóstico do câncer de mama.\nRevisão Integrativa:\nSintetizar evidências sobre acurácia e sensibilidade da IA na detecção precoce do câncer de mama em comparação com métodos tradicionais.\n\n\n\n\nCenário 3\nAbordagens Nutricionais para o Controle da Diabetes Mellitus Tipo 2\n\nRevisão Narrativa:\nRevisar a evolução das abordagens nutricionais ao longo das últimas décadas, considerando diferentes contextos culturais e socioeconômicos.\nRevisão Integrativa:\nSintetizar evidências clínicas sobre o impacto de diferentes abordagens nutricionais no controle glicêmico.\n\n\n\n\nCenário 4\nEficácia de Programas de Vacinação contra o HPV na Redução do Câncer Cervical\n\nRevisão Narrativa:\nExplorar o impacto dos programas de vacinação em diferentes regiões, enfatizando barreiras culturais, políticas e econômicas.\nRevisão Integrativa:\nSintetizar evidências de ensaios clínicos e estudos populacionais sobre a eficácia da vacinação contra o HPV.\n\n\n\n\nCenário 5\nEstratégias de Saúde Mental para Redução do Estresse em Profissionais de Saúde durante a Pandemia de COVID-19\n\nRevisão Narrativa:\nExplorar estratégias utilizadas em pandemias anteriores e durante a COVID-19 para apoio à saúde mental de profissionais de saúde.\nRevisão Integrativa:\nSintetizar evidências sobre a eficácia de intervenções específicas, como TCC, mindfulness e suporte psicológico online.\n\n\n\n\nCenário 6\nUso de Antidepressivos em Transtornos Depressivos Leves a Moderados\n\nRevisão Narrativa:\nExplorar a evolução histórica do uso de antidepressivos, incluindo debates sobre medicalização e mudanças nas classificações diagnósticas.\nRevisão Integrativa:\nSintetizar evidências clínicas sobre eficácia e efeitos adversos de antidepressivos em comparação com placebo ou intervenções não farmacológicas.\n\n\n\n\nCenário 7\nTeletrabalho e Saúde Mental em Profissionais da Saúde\n\nRevisão Narrativa:\nExplorar transformações organizacionais e percepções subjetivas relacionadas ao teletrabalho e à saúde mental.\nRevisão Integrativa:\nSintetizar evidências sobre impactos do teletrabalho em desfechos como estresse, burnout, ansiedade e depressão.\n\n\n\n\nCenário 8\nUso de Canabinoides Medicinais no Tratamento da Dor Crônica\n\nRevisão Narrativa:\nRevisar o contexto histórico, regulatório e sociocultural do uso de canabinoides medicinais.\nRevisão Integrativa:\nSintetizar evidências clínicas sobre eficácia, segurança e eventos adversos no tratamento da dor crônica.\n\n\n\n\nCenário 9\nIntervenções Não Farmacológicas para Prevenção de Quedas em Idosos\n\nRevisão Narrativa:\nExplorar diferentes abordagens preventivas considerando contextos de cuidado e aspectos culturais.\nRevisão Integrativa:\nSintetizar evidências sobre a efetividade dessas intervenções na redução de quedas, hospitalizações e mortalidade.\n\n\n\n\n\n\n\n\nImportanteExemplo de entrega – Resultado esperado da atividade\n\n\n\nO quadro abaixo exemplifica como um grupo de alunos poderia redigir o planejamento final da atividade, a partir do Cenário 10.\nTrata-se de um modelo orientador: o conteúdo pode variar, desde que o raciocínio metodológico esteja correto e as diferenças entre revisão narrativa e revisão integrativa estejam claramente explicitadas.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html#exemplo-de-planejamento-entregue-pelo-grupo",
+    "href": "09-pratica-2.html#exemplo-de-planejamento-entregue-pelo-grupo",
+    "title": "Atividade Prática 2",
+    "section": "Exemplo de planejamento entregue pelo grupo",
+    "text": "Exemplo de planejamento entregue pelo grupo\n\nCenário 10 – Uso de Psicofármacos no Tratamento da Insônia em Idosos\n\n\n\n\n\n\n\n\nItem\nRevisão Narrativa\nRevisão Integrativa\n\n\n\n\nPergunta de pesquisa\nComo o tratamento farmacológico da insônia em idosos tem sido abordado ao longo do tempo, considerando mudanças nas recomendações clínicas, preocupações com segurança, risco de quedas, dependência e alternativas terapêuticas?\nQuais são as evidências sobre a eficácia e a segurança de diferentes classes de psicofármacos (benzodiazepínicos, Z-drugs, antidepressivos sedativos e melatonina) no tratamento da insônia em idosos?\n\n\nJustificativa da abordagem\nOptamos pela revisão narrativa porque o tema envolve transformações históricas, debates conceituais e mudanças em diretrizes clínicas. Essa abordagem permite integrar diferentes perspectivas e discutir o contexto da medicalização do sono em idosos.\nOptamos pela revisão integrativa porque há necessidade de sintetizar evidências clínicas de forma estruturada, comparando classes de medicamentos quanto à eficácia e aos eventos adversos, o que exige maior rigor metodológico.\n\n\nBases de dados\nPubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS).\nPubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS).\n\n\nEstratégia de busca inicial\ntext (\"insomnia\" AND \"elderly\") AND (\"hypnotics\" OR \"sleep medication\" OR \"pharmacological treatment\")\ntext (\"insomnia\" AND \"elderly\") AND (\"benzodiazepines\" OR \"z-drugs\" OR \"melatonin\" OR \"sedating antidepressants\") AND (\"efficacy\" OR \"safety\" OR \"adverse effects\" OR \"falls\")\n\n\nAjustes planejados na busca\nInclusão posterior de termos relacionados a diretrizes e recomendações clínicas (ex.: “guideline”, “Beers criteria”), priorizando textos conceituais e revisões relevantes.\nRefinamento por descritores MeSH, filtros de idade, tipo de estudo e desfechos clínicos, visando maior precisão e reprodutibilidade.\n\n\nCritérios de inclusão\nEstudos em português, inglês ou espanhol; revisões, diretrizes, estudos observacionais e textos conceituais relevantes; foco em população idosa (≥60 anos); sem restrição rígida de período para permitir análise histórica.\nEnsaios clínicos e estudos observacionais; população ≥60 anos; avaliação de eficácia e/ou segurança farmacológica; desfechos clínicos relacionados ao sono e eventos adversos; preferência por estudos dos últimos 10 anos.\n\n\nCritérios de exclusão\nEstudos exclusivamente pediátricos ou sem foco em idosos; artigos sem relação com tratamento farmacológico da insônia; textos de opinião sem base bibliográfica relevante.\nEstudos sem desfechos clínicos claros; metodologia inadequada ou pouco descrita; populações mistas sem análise específica de idosos; estudos apenas com intervenções não farmacológicas.\n\n\nPlano de síntese\nSíntese temática e interpretativa, organizada em eixos: evolução histórica do uso de hipnóticos, mudanças em diretrizes, riscos clínicos e tendências atuais no tratamento da insônia em idosos.\nSíntese estruturada e comparativa, com tabelas por classe farmacológica, descrição dos desfechos avaliados, comparação entre estudos e discussão das convergências e divergências dos resultados.\n\n\nJustificativa das diferenças\nA revisão narrativa permite contextualizar e interpretar o tema de forma ampla, integrando aspectos históricos, conceituais e clínicos.\nA revisão integrativa exige delimitação, padronização e maior rigor metodológico para produzir uma síntese comparável e baseada em evidências.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
+    "objectID": "09-pratica-2.html#considerações-finais",
+    "href": "09-pratica-2.html#considerações-finais",
+    "title": "Atividade Prática 2",
+    "section": "Considerações finais",
+    "text": "Considerações finais\nEsta atividade enfatiza que diferentes tipos de revisão respondem a diferentes tipos de perguntas e exigem níveis distintos de rigor metodológico. O objetivo central é desenvolver consciência metodológica, pensamento crítico e capacidade de planejamento científico, fundamentais para a leitura e produção qualificada de literatura em saúde.",
+    "crumbs": [
+      "Início",
+      "Prática",
+      "Revisão Narrativa e Integrativa"
+    ]
+  },
+  {
     "objectID": "06-metanalise.html",
     "href": "06-metanalise.html",
     "title": "Meta-análise",
@@ -672,590 +1259,25 @@
     ]
   },
   {
-    "objectID": "09-pratica-2.html",
-    "href": "09-pratica-2.html",
-    "title": "Atividade Prática 2",
+    "objectID": "01.1-historia.html",
+    "href": "01.1-historia.html",
+    "title": "",
     "section": "",
-    "text": "Esta atividade prática tem como objetivo desenvolver a capacidade do estudante de planejar estratégias de revisão de literatura, diferenciando de forma clara e consciente a revisão narrativa da revisão integrativa, a partir de um mesmo cenário clínico ou pergunta de pesquisa.\nAo final da atividade, espera-se que o aluno seja capaz de:\n\nCompreender as diferenças conceituais, metodológicas e epistemológicas entre revisão narrativa e revisão integrativa;\nFormular perguntas de pesquisa adequadas a cada tipo de revisão;\nPlanejar estratégias de busca bibliográfica coerentes com os objetivos de cada abordagem;\nDefinir critérios de inclusão e exclusão compatíveis com o grau de rigor metodológico esperado;\nRefletir criticamente sobre formas distintas de síntese e apresentação dos dados.",
+    "text": "InícioUma Breve História das Revisões Código",
     "crumbs": [
       "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
+      "Uma Breve História das Revisões"
     ]
   },
   {
-    "objectID": "09-pratica-2.html#objetivo-da-atividade",
-    "href": "09-pratica-2.html#objetivo-da-atividade",
-    "title": "Atividade Prática 2",
-    "section": "",
-    "text": "Esta atividade prática tem como objetivo desenvolver a capacidade do estudante de planejar estratégias de revisão de literatura, diferenciando de forma clara e consciente a revisão narrativa da revisão integrativa, a partir de um mesmo cenário clínico ou pergunta de pesquisa.\nAo final da atividade, espera-se que o aluno seja capaz de:\n\nCompreender as diferenças conceituais, metodológicas e epistemológicas entre revisão narrativa e revisão integrativa;\nFormular perguntas de pesquisa adequadas a cada tipo de revisão;\nPlanejar estratégias de busca bibliográfica coerentes com os objetivos de cada abordagem;\nDefinir critérios de inclusão e exclusão compatíveis com o grau de rigor metodológico esperado;\nRefletir criticamente sobre formas distintas de síntese e apresentação dos dados.",
+    "objectID": "01.1-historia.html#breve-história-das-revisões-de-literatura",
+    "href": "01.1-historia.html#breve-história-das-revisões-de-literatura",
+    "title": "",
+    "section": "Breve história das revisões de literatura",
+    "text": "Breve história das revisões de literatura\nA prática de sintetizar conhecimento científico não é recente. Ao longo do século XX, diferentes métodos foram desenvolvidos para lidar com o crescente volume de publicações e a necessidade de fundamentar decisões — inicialmente na educação e nas ciências sociais, posteriormente na medicina e nas demais áreas da saúde.\n\nAs origens da síntese quantitativa\nO primeiro registro documentado de uma abordagem que hoje reconheceríamos como meta-analítica data de 1904, quando o estatístico britânico Karl Pearson foi solicitado a analisar dados de múltiplos estudos sobre vacinação contra febre tifoide em soldados do Império Britânico (Pearson, 1904). Pearson não apenas combinou os resultados, mas também observou a “irregularidade extrema” dos valores entre os estudos — o que hoje denominamos heterogeneidade — e questionou se as correlações encontradas eram suficientemente robustas para justificar a intervenção (O’Rourke, 2007).\nApesar dessa contribuição pioneira, as técnicas de síntese quantitativa permaneceram relativamente adormecidas na literatura médica por décadas. Foi somente em 1976 que o psicólogo e estatístico Gene Glass cunhou o termo “meta-análise”, definindo-a como “a análise estatística de uma grande coleção de resultados de análises de estudos individuais, com o propósito de integrar os achados” (Glass, 1976). O trabalho de Glass, voltado inicialmente para avaliar a efetividade da psicoterapia, estabeleceu as bases conceituais e metodológicas que seriam posteriormente adaptadas para a pesquisa em saúde.\n\n\nArchie Cochrane e o desafio à medicina\nO impulso decisivo para o desenvolvimento das revisões sistemáticas na área da saúde veio de Archibald Leman Cochrane (1909–1988), epidemiologista escocês cuja trajetória pessoal moldou profundamente sua visão sobre a prática médica. Durante a Segunda Guerra Mundial, Cochrane atuou como médico em campos de prisioneiros de guerra, onde a escassez absoluta de recursos o forçou a questionar quais intervenções realmente funcionavam e quais eram inúteis ou mesmo prejudiciais (Cochrane, 1972).\nEm 1972, Cochrane publicou Effectiveness and Efficiency: Random Reflections on Health Services, uma crítica contundente à falta de evidências confiáveis por trás de muitas práticas médicas aceitas. No livro, ele argumentou que a profissão médica deveria organizar “um resumo crítico, adaptado periodicamente, de todos os ensaios clínicos randomizados relevantes” (Cochrane, 1972). Essa proposta — aparentemente simples, mas revolucionária — lançou as bases para o que viria a ser o movimento da medicina baseada em evidências.\nEm 1979, Cochrane reiterou seu desafio de forma ainda mais direta, afirmando que era “seguramente uma grande crítica à nossa profissão que não tenhamos organizado um resumo crítico, por especialidade ou subespecialidade, adaptado periodicamente, de todos os ensaios clínicos controlados randomizados relevantes” (Cochrane, 1979).\n\n\nDa obstetrícia para o mundo: as primeiras revisões sistemáticas\nA resposta ao desafio de Cochrane começou na área de cuidados perinatais. Em 1978, Iain Chalmers assumiu a direção da recém-criada National Perinatal Epidemiology Unit em Oxford, onde liderou um esforço colaborativo internacional para identificar, avaliar e sintetizar todos os ensaios clínicos randomizados em obstetrícia e neonatologia (Starr et al., 2009).\nEsse trabalho culminou, em 1989, na publicação de Effective Care in Pregnancy and Childbirth (Chalmers; Enkin; Keirse, 1989), uma obra em dois volumes que é considerada o primeiro livro de medicina inteiramente baseado em revisões sistemáticas de ensaios clínicos. O impacto foi imediato: a obra demonstrou, por exemplo, que o uso de corticosteroides antes do parto prematuro — prática já estudada desde 1972 — reduzia em 30 a 50% a mortalidade neonatal por complicações da prematuridade. Antes da revisão sistemática, a maioria dos obstetras desconhecia a magnitude desse benefício, e a intervenção era subutilizada (Starr et al., 2009).\nUm ano antes de sua morte, em 1987, Cochrane referiu-se a esse trabalho em obstetrícia como “um verdadeiro marco na história dos ensaios randomizados e na avaliação do cuidado”, sugerindo que outras especialidades copiassem os métodos utilizados (Cochrane, 1979).\n\n\nA institucionalização: Cochrane Collaboration e além\nO reconhecimento do valor das revisões sistemáticas levou à institucionalização do método. Em 1992, foi inaugurado o UK Cochrane Centre em Oxford, e no ano seguinte foi fundada a Cochrane Collaboration — uma rede internacional de pesquisadores dedicados a preparar, manter e disseminar revisões sistemáticas sobre os efeitos de intervenções em saúde (Starr et al., 2009).\nO termo “medicina baseada em evidências” foi introduzido em 1991 por Gordon Guyatt e sua equipe na McMaster University, consolidando um novo paradigma que colocava a síntese sistemática da literatura no centro da tomada de decisão clínica (Sackett et al., 1996).\n\n\nA diversificação dos métodos de revisão\nÀ medida que o movimento da prática baseada em evidências se expandiu, ficou evidente que diferentes perguntas de pesquisa demandavam diferentes abordagens metodológicas. A revisão sistemática clássica, otimizada para avaliar a eficácia de intervenções por meio de ensaios clínicos randomizados, não era adequada para todas as situações.\nNa enfermagem, onde questões frequentemente envolvem fenômenos complexos e múltiplas dimensões do cuidado, desenvolveu-se a revisão integrativa. Embora suas raízes remontem ao trabalho de Broome (1993), foi o artigo de Whittemore e Knafl (2005) que consolidou o método, propondo estratégias para aumentar o rigor na combinação de estudos com diferentes delineamentos metodológicos.\nPara perguntas amplas ou exploratórias, Arksey e O’Malley (2005) propuseram o framework das revisões de escopo (scoping reviews), posteriormente aprimorado por Levac e colaboradores (2010) e pelo Joanna Briggs Institute (Peters et al., 2020). Diferentemente da revisão sistemática, a revisão de escopo visa mapear a extensão e a natureza da literatura disponível, sem necessariamente avaliar a qualidade metodológica dos estudos incluídos.\n\n\nA era da padronização e transparência\nO crescimento exponencial das revisões de literatura trouxe consigo preocupações com a qualidade e a transparência do relato. Em resposta, foram desenvolvidas diretrizes específicas para diferentes tipos de revisão.\nO PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses), publicado originalmente em 2009 (Moher et al., 2009) e atualizado em 2021 (Page et al., 2021), tornou-se o padrão para relato de revisões sistemáticas. Para revisões de escopo, foi desenvolvida a extensão PRISMA-ScR (Tricco et al., 2018).\nO Cochrane Handbook (Higgins et al., 2019) consolidou-se como a referência metodológica mais influente para a condução de revisões sistemáticas de intervenções, enquanto o JBI Manual for Evidence Synthesis (Aromataris et al., 2024) expandiu as orientações para outros tipos de revisão, incluindo revisões de prevalência, de etiologia e de texto e opinião.\n\n\nO cenário contemporâneo\nAtualmente, a produção de revisões de literatura cresce em ritmo acelerado. O PubMed indexa mais de 1,5 milhão de novos artigos por ano (National Library of Medicine, 2024), e estima-se que o número de revisões sistemáticas publicadas supere o de ensaios clínicos randomizados em diversas áreas (González-Márquez et al., 2024).\nEssa proliferação traz desafios: revisões de baixa qualidade metodológica, duplicação de esforços e dificuldade de atualização são problemas recorrentes. Por outro lado, o desenvolvimento de ferramentas como o PROSPERO para registro de protocolos, o OSF para ciência aberta (Foster; Deardorff, 2017), e softwares de gerenciamento como Rayyan e Covidence têm contribuído para aumentar a transparência e a eficiência do processo.\nA história das revisões de literatura é, em última análise, a história da busca por métodos mais confiáveis de transformar a pesquisa em conhecimento útil para a prática. Do insight de Karl Pearson em 1904 ao desafio de Archie Cochrane em 1972, das primeiras revisões em obstetrícia à multiplicidade de métodos disponíveis hoje, o campo evoluiu de forma notável — mas permanece em constante desenvolvimento.",
     "crumbs": [
       "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
-    ]
-  },
-  {
-    "objectID": "09-pratica-2.html#descrição-geral-da-atividade",
-    "href": "09-pratica-2.html#descrição-geral-da-atividade",
-    "title": "Atividade Prática 2",
-    "section": "Descrição geral da atividade",
-    "text": "Descrição geral da atividade\nOs alunos deverão ser organizados em grupos de 4 a 5 participantes. Cada grupo trabalhará com um cenário temático, que deverá ser explorado em paralelo por meio de:\n\numa revisão narrativa;\n\numa revisão integrativa.\n\nA proposta central da atividade é que os estudantes planejem conscientemente duas estratégias distintas de revisão, partindo do mesmo tema, e sejam capazes de justificar as diferenças metodológicas entre elas.\n📌 O foco da atividade não é executar a revisão completa, mas planejar adequadamente cada tipo de revisão e compreender seus pressupostos.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
-    ]
-  },
-  {
-    "objectID": "09-pratica-2.html#etapas-da-atividade",
-    "href": "09-pratica-2.html#etapas-da-atividade",
-    "title": "Atividade Prática 2",
-    "section": "Etapas da atividade",
-    "text": "Etapas da atividade\nCada grupo deverá desenvolver as etapas abaixo, sempre considerando duas abordagens paralelas:\numa para a revisão narrativa e outra para a revisão integrativa.\n\n\n1. Formulação da pergunta de pesquisa\nOs grupos deverão formular duas perguntas de pesquisa, uma para cada tipo de revisão:\n\nRevisão narrativa:\nA pergunta deve ser ampla, exploratória e contextual, permitindo abordagem histórica, conceitual ou interpretativa.\nRevisão integrativa:\nA pergunta deve ser mais delimitada e estruturada, voltada para a síntese de evidências, podendo utilizar modelos como PICO, PICo ou variações semelhantes.\n\n📌 O objetivo é compreender como o tipo de revisão condiciona a forma da pergunta.\n\n\n\n2. Elaboração da estratégia de busca bibliográfica\nOs grupos deverão planejar como a busca seria realizada, definindo:\n\nBases de dados, como:\n\nPubMed / MEDLINE\nSciELO\nBiblioteca Virtual em Saúde (BVS)\n\nDescritores e palavras-chave\nOperadores booleanos (AND, OR, NOT)\n\nDeve ficar claro que:\n\nNa revisão narrativa, a busca pode ser mais flexível, iterativa e exploratória;\nNa revisão integrativa, a busca deve ser mais sistemática, transparente e potencialmente reprodutível.\n\n\n\n\n3. Definição de critérios de inclusão e exclusão\nOs grupos deverão propor critérios distintos para cada tipo de revisão:\n\nRevisão narrativa:\nCritérios mais amplos, podendo incluir estudos observacionais, revisões anteriores, textos conceituais e análises históricas.\nRevisão integrativa:\nCritérios mais explícitos e rigorosos, como:\n\ntipo de estudo;\npopulação;\nperíodo de publicação;\nidioma;\ndesfechos de interesse.\n\n\n\n\n\n4. Planejamento da síntese dos dados\nOs grupos deverão descrever como os dados seriam organizados e apresentados:\n\nRevisão narrativa:\nSíntese temática, interpretativa e integradora, com maior liberdade analítica.\nRevisão integrativa:\nSíntese comparativa e estruturada, frequentemente com tabelas, categorias analíticas e descrição sistemática dos resultados.\n\n\n\n\n5. Apresentação da atividade\nCada grupo deverá apresentar um resumo do planejamento, incluindo:\n\nas duas perguntas de pesquisa;\nas estratégias de busca;\nos critérios de inclusão e exclusão;\no plano de síntese dos dados;\numa justificativa clara das diferenças entre a revisão narrativa e a integrativa.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
-    ]
-  },
-  {
-    "objectID": "09-pratica-2.html#cenários-propostos",
-    "href": "09-pratica-2.html#cenários-propostos",
-    "title": "Atividade Prática 2",
-    "section": "Cenários propostos",
-    "text": "Cenários propostos\nCada grupo deverá escolher um dos cenários abaixo.\n\n\nCenário 1\nImpacto da Atividade Física na Prevenção de Doenças Cardiovasculares em Idosos\n\nRevisão Narrativa:\nExplorar de forma ampla como diferentes formas de atividade física têm sido utilizadas ao longo do tempo na prevenção de doenças cardiovasculares em idosos.\nRevisão Integrativa:\nSintetizar evidências sobre os efeitos da atividade física em parâmetros específicos, como pressão arterial, colesterol e índice de massa corporal.\n\n\n\n\nCenário 2\nUso da Inteligência Artificial no Diagnóstico Precoce de Câncer de Mama\n\nRevisão Narrativa:\nExplorar a evolução histórica do uso da inteligência artificial na saúde, com foco no diagnóstico do câncer de mama.\nRevisão Integrativa:\nSintetizar evidências sobre acurácia e sensibilidade da IA na detecção precoce do câncer de mama em comparação com métodos tradicionais.\n\n\n\n\nCenário 3\nAbordagens Nutricionais para o Controle da Diabetes Mellitus Tipo 2\n\nRevisão Narrativa:\nRevisar a evolução das abordagens nutricionais ao longo das últimas décadas, considerando diferentes contextos culturais e socioeconômicos.\nRevisão Integrativa:\nSintetizar evidências clínicas sobre o impacto de diferentes abordagens nutricionais no controle glicêmico.\n\n\n\n\nCenário 4\nEficácia de Programas de Vacinação contra o HPV na Redução do Câncer Cervical\n\nRevisão Narrativa:\nExplorar o impacto dos programas de vacinação em diferentes regiões, enfatizando barreiras culturais, políticas e econômicas.\nRevisão Integrativa:\nSintetizar evidências de ensaios clínicos e estudos populacionais sobre a eficácia da vacinação contra o HPV.\n\n\n\n\nCenário 5\nEstratégias de Saúde Mental para Redução do Estresse em Profissionais de Saúde durante a Pandemia de COVID-19\n\nRevisão Narrativa:\nExplorar estratégias utilizadas em pandemias anteriores e durante a COVID-19 para apoio à saúde mental de profissionais de saúde.\nRevisão Integrativa:\nSintetizar evidências sobre a eficácia de intervenções específicas, como TCC, mindfulness e suporte psicológico online.\n\n\n\n\nCenário 6\nUso de Antidepressivos em Transtornos Depressivos Leves a Moderados\n\nRevisão Narrativa:\nExplorar a evolução histórica do uso de antidepressivos, incluindo debates sobre medicalização e mudanças nas classificações diagnósticas.\nRevisão Integrativa:\nSintetizar evidências clínicas sobre eficácia e efeitos adversos de antidepressivos em comparação com placebo ou intervenções não farmacológicas.\n\n\n\n\nCenário 7\nTeletrabalho e Saúde Mental em Profissionais da Saúde\n\nRevisão Narrativa:\nExplorar transformações organizacionais e percepções subjetivas relacionadas ao teletrabalho e à saúde mental.\nRevisão Integrativa:\nSintetizar evidências sobre impactos do teletrabalho em desfechos como estresse, burnout, ansiedade e depressão.\n\n\n\n\nCenário 8\nUso de Canabinoides Medicinais no Tratamento da Dor Crônica\n\nRevisão Narrativa:\nRevisar o contexto histórico, regulatório e sociocultural do uso de canabinoides medicinais.\nRevisão Integrativa:\nSintetizar evidências clínicas sobre eficácia, segurança e eventos adversos no tratamento da dor crônica.\n\n\n\n\nCenário 9\nIntervenções Não Farmacológicas para Prevenção de Quedas em Idosos\n\nRevisão Narrativa:\nExplorar diferentes abordagens preventivas considerando contextos de cuidado e aspectos culturais.\nRevisão Integrativa:\nSintetizar evidências sobre a efetividade dessas intervenções na redução de quedas, hospitalizações e mortalidade.\n\n\n\n\n\n\n\n\nImportanteExemplo de entrega – Resultado esperado da atividade\n\n\n\nO quadro abaixo exemplifica como um grupo de alunos poderia redigir o planejamento final da atividade, a partir do Cenário 10.\nTrata-se de um modelo orientador: o conteúdo pode variar, desde que o raciocínio metodológico esteja correto e as diferenças entre revisão narrativa e revisão integrativa estejam claramente explicitadas.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
-    ]
-  },
-  {
-    "objectID": "09-pratica-2.html#exemplo-de-planejamento-entregue-pelo-grupo",
-    "href": "09-pratica-2.html#exemplo-de-planejamento-entregue-pelo-grupo",
-    "title": "Atividade Prática 2",
-    "section": "Exemplo de planejamento entregue pelo grupo",
-    "text": "Exemplo de planejamento entregue pelo grupo\n\nCenário 10 – Uso de Psicofármacos no Tratamento da Insônia em Idosos\n\n\n\n\n\n\n\n\nItem\nRevisão Narrativa\nRevisão Integrativa\n\n\n\n\nPergunta de pesquisa\nComo o tratamento farmacológico da insônia em idosos tem sido abordado ao longo do tempo, considerando mudanças nas recomendações clínicas, preocupações com segurança, risco de quedas, dependência e alternativas terapêuticas?\nQuais são as evidências sobre a eficácia e a segurança de diferentes classes de psicofármacos (benzodiazepínicos, Z-drugs, antidepressivos sedativos e melatonina) no tratamento da insônia em idosos?\n\n\nJustificativa da abordagem\nOptamos pela revisão narrativa porque o tema envolve transformações históricas, debates conceituais e mudanças em diretrizes clínicas. Essa abordagem permite integrar diferentes perspectivas e discutir o contexto da medicalização do sono em idosos.\nOptamos pela revisão integrativa porque há necessidade de sintetizar evidências clínicas de forma estruturada, comparando classes de medicamentos quanto à eficácia e aos eventos adversos, o que exige maior rigor metodológico.\n\n\nBases de dados\nPubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS).\nPubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS).\n\n\nEstratégia de busca inicial\ntext (\"insomnia\" AND \"elderly\") AND (\"hypnotics\" OR \"sleep medication\" OR \"pharmacological treatment\")\ntext (\"insomnia\" AND \"elderly\") AND (\"benzodiazepines\" OR \"z-drugs\" OR \"melatonin\" OR \"sedating antidepressants\") AND (\"efficacy\" OR \"safety\" OR \"adverse effects\" OR \"falls\")\n\n\nAjustes planejados na busca\nInclusão posterior de termos relacionados a diretrizes e recomendações clínicas (ex.: “guideline”, “Beers criteria”), priorizando textos conceituais e revisões relevantes.\nRefinamento por descritores MeSH, filtros de idade, tipo de estudo e desfechos clínicos, visando maior precisão e reprodutibilidade.\n\n\nCritérios de inclusão\nEstudos em português, inglês ou espanhol; revisões, diretrizes, estudos observacionais e textos conceituais relevantes; foco em população idosa (≥60 anos); sem restrição rígida de período para permitir análise histórica.\nEnsaios clínicos e estudos observacionais; população ≥60 anos; avaliação de eficácia e/ou segurança farmacológica; desfechos clínicos relacionados ao sono e eventos adversos; preferência por estudos dos últimos 10 anos.\n\n\nCritérios de exclusão\nEstudos exclusivamente pediátricos ou sem foco em idosos; artigos sem relação com tratamento farmacológico da insônia; textos de opinião sem base bibliográfica relevante.\nEstudos sem desfechos clínicos claros; metodologia inadequada ou pouco descrita; populações mistas sem análise específica de idosos; estudos apenas com intervenções não farmacológicas.\n\n\nPlano de síntese\nSíntese temática e interpretativa, organizada em eixos: evolução histórica do uso de hipnóticos, mudanças em diretrizes, riscos clínicos e tendências atuais no tratamento da insônia em idosos.\nSíntese estruturada e comparativa, com tabelas por classe farmacológica, descrição dos desfechos avaliados, comparação entre estudos e discussão das convergências e divergências dos resultados.\n\n\nJustificativa das diferenças\nA revisão narrativa permite contextualizar e interpretar o tema de forma ampla, integrando aspectos históricos, conceituais e clínicos.\nA revisão integrativa exige delimitação, padronização e maior rigor metodológico para produzir uma síntese comparável e baseada em evidências.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
-    ]
-  },
-  {
-    "objectID": "09-pratica-2.html#considerações-finais",
-    "href": "09-pratica-2.html#considerações-finais",
-    "title": "Atividade Prática 2",
-    "section": "Considerações finais",
-    "text": "Considerações finais\nEsta atividade enfatiza que diferentes tipos de revisão respondem a diferentes tipos de perguntas e exigem níveis distintos de rigor metodológico. O objetivo central é desenvolver consciência metodológica, pensamento crítico e capacidade de planejamento científico, fundamentais para a leitura e produção qualificada de literatura em saúde.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão Narrativa e Integrativa"
-    ]
-  },
-  {
-    "objectID": "09-pratica-0.html",
-    "href": "09-pratica-0.html",
-    "title": "Atividades Práticas",
-    "section": "",
-    "text": "Ao longo deste módulo, os estudantes realizarão duas atividades práticas complementares, voltadas ao desenvolvimento de competências essenciais para a leitura crítica, o planejamento metodológico e a compreensão dos diferentes tipos de revisão de literatura em saúde.\nAs atividades foram desenhadas para enfatizar que cada tipo de revisão responde a objetivos distintos e exige decisões metodológicas específicas, indo além da simples busca de artigos.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Atividades Práticas"
-    ]
-  },
-  {
-    "objectID": "09-pratica-0.html#apresentação",
-    "href": "09-pratica-0.html#apresentação",
-    "title": "Atividades Práticas",
-    "section": "",
-    "text": "Ao longo deste módulo, os estudantes realizarão duas atividades práticas complementares, voltadas ao desenvolvimento de competências essenciais para a leitura crítica, o planejamento metodológico e a compreensão dos diferentes tipos de revisão de literatura em saúde.\nAs atividades foram desenhadas para enfatizar que cada tipo de revisão responde a objetivos distintos e exige decisões metodológicas específicas, indo além da simples busca de artigos.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Atividades Práticas"
-    ]
-  },
-  {
-    "objectID": "09-pratica-0.html#atividade-1",
-    "href": "09-pratica-0.html#atividade-1",
-    "title": "Atividades Práticas",
-    "section": "Atividade 1",
-    "text": "Atividade 1\n\nAnálise Crítica de uma Revisão de Escopo (PRISMA-ScR)\nNesta atividade, os estudantes irão analisar criticamente uma revisão de escopo publicada, com foco na transparência metodológica e na qualidade do relato científico.\nO objetivo central é que o aluno aprenda a:\n\nReconhecer as etapas metodológicas de uma revisão de escopo;\nUtilizar o checklist PRISMA-ScR como instrumento de análise crítica;\nDiferenciar a revisão de escopo de outros tipos de revisão de literatura;\nDesenvolver senso crítico quanto à forma como o conhecimento é organizado e apresentado.\n\n👉 Acesse a atividade:\nAtividade 1 – Revisão de Escopo (PRISMA-ScR)",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Atividades Práticas"
-    ]
-  },
-  {
-    "objectID": "09-pratica-0.html#atividade-2",
-    "href": "09-pratica-0.html#atividade-2",
-    "title": "Atividades Práticas",
-    "section": "Atividade 2",
-    "text": "Atividade 2\n\nPlanejamento de Revisões Narrativa e Integrativa\nNesta atividade, os estudantes irão planejar duas estratégias distintas de revisão de literatura — uma revisão narrativa e uma revisão integrativa — a partir de um mesmo cenário clínico ou pergunta de pesquisa.\nO foco da atividade não é executar a revisão completa, mas compreender como o tipo de revisão influencia todas as decisões metodológicas, incluindo:\n\nFormulação da pergunta de pesquisa;\nEstratégia de busca bibliográfica;\nDefinição de critérios de inclusão e exclusão;\nForma de síntese e apresentação dos dados.\n\nA atividade enfatiza a comparação explícita entre as duas abordagens, promovendo uma compreensão mais profunda das diferenças conceituais e metodológicas entre elas.\n👉 Acesse a atividade:\nAtividade 2 – Planejamento de Revisões Narrativa e Integrativa",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Atividades Práticas"
-    ]
-  },
-  {
-    "objectID": "09-pratica-0.html#considerações-finais",
-    "href": "09-pratica-0.html#considerações-finais",
-    "title": "Atividades Práticas",
-    "section": "Considerações finais",
-    "text": "Considerações finais\nAs duas atividades devem ser compreendidas como complementares:\n\nA primeira foca na leitura crítica de um produto científico já publicado;\nA segunda foca no planejamento metodológico da produção científica.\n\nJuntas, elas oferecem uma base sólida para que o estudante compreenda como revisões de literatura são avaliadas, planejadas e utilizadas na prática científica em saúde.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Atividades Práticas"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html",
-    "href": "01-introducao.html",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "",
-    "text": "O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos (González-Márquez et al., 2024; National Library of Medicine, 2024). Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.\nDiante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.\nNem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#introdução",
-    "href": "01-introducao.html#introdução",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "",
-    "text": "O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos (González-Márquez et al., 2024; National Library of Medicine, 2024). Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.\nDiante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.\nNem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#por-que-existem-diferentes-tipos-de-revisão",
-    "href": "01-introducao.html#por-que-existem-diferentes-tipos-de-revisão",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "Por que existem diferentes tipos de revisão?",
-    "text": "Por que existem diferentes tipos de revisão?\nA diversidade de métodos reflete diferentes necessidades:\n\nFundamentar teoricamente um estudo ou discussão\nMapear o que existe sobre um tema amplo\nResponder a uma pergunta clínica específica\nQuantificar o efeito de uma intervenção\n\nCada objetivo demanda uma abordagem metodológica distinta.",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#os-principais-tipos-de-revisão",
-    "href": "01-introducao.html#os-principais-tipos-de-revisão",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "Os principais tipos de revisão",
-    "text": "Os principais tipos de revisão\n\nRevisão Narrativa\nA forma mais flexível e tradicional de revisão. O autor seleciona e discute a literatura de forma qualitativa, sem necessidade de protocolo rígido ou busca exaustiva. É útil para contextualização teórica, mas tem baixa reprodutibilidade.\nQuando usar: Fundamentação teórica de artigos, capítulos introdutórios, discussão de conceitos.\n➡️ Saiba mais em Revisão Narrativa\n\n\nRevisão Integrativa\nMétodo sistematizado que permite incluir estudos com diferentes delineamentos (quantitativos e qualitativos). Segue etapas definidas, mas com mais flexibilidade que a revisão sistemática. Muito utilizada na enfermagem e em outras áreas da saúde.\nQuando usar: Síntese ampla sobre um tema, quando há diversidade de tipos de estudo.\n➡️ Saiba mais em Revisão Integrativa\n\n\nRevisão de Escopo (Scoping Review)\nMapeia a extensão e a natureza da literatura sobre um tema amplo, identificando conceitos-chave, tipos de evidência disponíveis e lacunas no conhecimento. Não avalia a qualidade dos estudos — seu objetivo é exploratório.\nQuando usar: Temas amplos ou emergentes, antes de uma revisão sistemática, para identificar lacunas.\n➡️ Saiba mais em Revisão de Escopo\n\n\nRevisão Sistemática\nO padrão-ouro para síntese de evidências. Segue protocolo rígido, com busca exaustiva, critérios explícitos de inclusão/exclusão, avaliação da qualidade metodológica e síntese estruturada. Alta reprodutibilidade e transparência.\nQuando usar: Responder a perguntas clínicas específicas, fundamentar diretrizes, avaliar efetividade de intervenções.\n➡️ Saiba mais em Revisão Sistemática\n\n\nMeta-análise\nTécnica estatística que combina quantitativamente os resultados de múltiplos estudos, gerando uma estimativa sumária do efeito. Geralmente realizada dentro de uma revisão sistemática, quando os estudos são suficientemente homogêneos.\nQuando usar: Quando há estudos comparáveis e deseja-se estimar o tamanho do efeito combinado.\n➡️ Saiba mais em Meta-análise",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#quadro-comparativo",
-    "href": "01-introducao.html#quadro-comparativo",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "Quadro comparativo",
-    "text": "Quadro comparativo\n\n\n\n\n\n\n\n\n\n\n\nCaracterística\nNarrativa\nIntegrativa\nEscopo\nSistemática\nMeta-análise\n\n\n\n\nPergunta\nAmpla\nAmpla a específica\nAmpla\nEspecífica\nEspecífica\n\n\nProtocolo prévio\nNão\nRecomendado\nRecomendado\nObrigatório\nObrigatório\n\n\nBusca\nNão sistemática\nSistemática\nSistemática\nExaustiva\nExaustiva\n\n\nSeleção de estudos\nSubjetiva\nCritérios definidos\nCritérios definidos\nCritérios rígidos\nCritérios rígidos\n\n\nAvaliação de qualidade\nNão\nOpcional\nNão\nObrigatória\nObrigatória\n\n\nTipos de estudo incluídos\nQualquer\nDiversos\nQualquer\nGeralmente homogêneos\nHomogêneos\n\n\nSíntese\nQualitativa\nQualitativa\nQualitativa\nQuali ou quanti\nQuantitativa\n\n\nReprodutibilidade\nBaixa\nModerada\nModerada\nAlta\nAlta\n\n\nTempo/recursos\nBaixo\nModerado\nModerado\nAlto\nAlto\n\n\nNível de evidência\nBaixo\nModerado\n—\nAlto\nAlto",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#como-escolher-o-tipo-de-revisão",
-    "href": "01-introducao.html#como-escolher-o-tipo-de-revisão",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "Como escolher o tipo de revisão?",
-    "text": "Como escolher o tipo de revisão?\n\n\n\n\n\nflowchart TD\n    A[Qual é sua pergunta?] --&gt; B{É ampla ou&lt;br&gt;específica?}\n    \n    B --&gt;|Ampla| C{Quer mapear&lt;br&gt;o campo?}\n    B --&gt;|Específica| D{Quer quantificar&lt;br&gt;o efeito?}\n    \n    C --&gt;|Sim| E[Revisão de Escopo]\n    C --&gt;|Não| F{Inclui diferentes&lt;br&gt;tipos de estudo?}\n    \n    F --&gt;|Sim| G[Revisão Integrativa]\n    F --&gt;|Não| H[Revisão Narrativa]\n    \n    D --&gt;|Sim| I{Estudos são&lt;br&gt;comparáveis?}\n    D --&gt;|Não| J[Revisão Sistemática]\n    \n    I --&gt;|Sim| K[Meta-análise]\n    I --&gt;|Não| J\n\n\n\n\n\n\n\n\n\n\n\n\nDicaDica prática\n\n\n\nAntes de iniciar, faça uma busca exploratória para verificar:\n\nQuantos estudos existem sobre o tema\nQue tipos de estudo predominam\nSe já existem revisões sistemáticas publicadas\nSe o tema é amplo ou específico demais\n\nIsso ajuda a calibrar suas expectativas e escolher o método adequado.",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#outros-tipos-de-revisão",
-    "href": "01-introducao.html#outros-tipos-de-revisão",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "Outros tipos de revisão",
-    "text": "Outros tipos de revisão\nAlém dos cinco tipos principais, existem outras abordagens que você pode encontrar na literatura:\n\nRevisão rápida (Rapid Review): Versão acelerada da revisão sistemática, com simplificações metodológicas para atender demandas urgentes.\nRevisão guarda-chuva (Umbrella Review): Revisão de revisões sistemáticas sobre um tema.\nMeta-síntese qualitativa: Síntese interpretativa de estudos qualitativos.\nRevisão realista (Realist Review): Busca entender “o que funciona, para quem, em quais circunstâncias e por quê”.",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "01-introducao.html#resumo",
-    "href": "01-introducao.html#resumo",
-    "title": "Visão Geral dos Tipos de Revisão de Literatura",
-    "section": "Resumo",
-    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nExistem diferentes tipos de revisão, cada um com finalidades específicas\nA pergunta de pesquisa determina o método mais adequado\nRevisões narrativas são flexíveis, mas têm baixa reprodutibilidade\nRevisões integrativas permitem incluir estudos diversos\nRevisões de escopo mapeiam campos amplos ou emergentes\nRevisões sistemáticas são o padrão-ouro para perguntas específicas\nMeta-análises combinam resultados quantitativamente\nEscolher o tipo errado compromete todo o trabalho\n\n\n\n\nPróximo capítulo: Revisão Narrativa",
-    "crumbs": [
-      "Início",
-      "Visão Geral dos Tipos de Revisão"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html",
-    "href": "09-pratica-1.html",
-    "title": "Atividade Prática 1",
-    "section": "",
-    "text": "Esta atividade prática tem como objetivo consolidar os conhecimentos metodológicos discutidos em aula por meio da análise crítica de uma revisão de escopo publicada. Ao final da atividade, espera-se que o estudante seja capaz de:\n\nAnalisar a estrutura, clareza e transparência metodológica de uma revisão de escopo;\nReconhecer as etapas metodológicas descritas no checklist PRISMA-ScR;\nDesenvolver senso crítico para distinguir revisões de escopo de outros tipos de revisão (narrativa, sistemática, integrativa, entre outras).",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#objetivos-da-atividade",
-    "href": "09-pratica-1.html#objetivos-da-atividade",
-    "title": "Atividade Prática 1",
-    "section": "",
-    "text": "Esta atividade prática tem como objetivo consolidar os conhecimentos metodológicos discutidos em aula por meio da análise crítica de uma revisão de escopo publicada. Ao final da atividade, espera-se que o estudante seja capaz de:\n\nAnalisar a estrutura, clareza e transparência metodológica de uma revisão de escopo;\nReconhecer as etapas metodológicas descritas no checklist PRISMA-ScR;\nDesenvolver senso crítico para distinguir revisões de escopo de outros tipos de revisão (narrativa, sistemática, integrativa, entre outras).",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#descrição-geral-da-atividade",
-    "href": "09-pratica-1.html#descrição-geral-da-atividade",
-    "title": "Atividade Prática 1",
-    "section": "Descrição geral da atividade",
-    "text": "Descrição geral da atividade\nOs estudantes, organizados em grupos, deverão localizar, selecionar e analisar criticamente um artigo de revisão de escopo relacionado a um dos temas propostos.\nO foco da atividade não está apenas no tema, mas principalmente na qualidade do relato metodológico do estudo, especialmente no que diz respeito à aderência às recomendações do PRISMA-ScR.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#onde-o-aluno-deve-pesquisar",
-    "href": "09-pratica-1.html#onde-o-aluno-deve-pesquisar",
-    "title": "Atividade Prática 1",
-    "section": "Onde o aluno deve pesquisar?",
-    "text": "Onde o aluno deve pesquisar?\nA busca pelo artigo de revisão de escopo deve ser realizada em bases de dados científicas, preferencialmente nas seguintes:\n\nPubMed / MEDLINE\nScopus\nWeb of Science\nScielo\nBiblioteca Virtual em Saúde (BVS)\n\n📌 Sempre que possível, priorize bases que permitam identificar claramente o tipo de estudo (scoping review, systematic review, etc.).",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#como-realizar-a-busca",
-    "href": "09-pratica-1.html#como-realizar-a-busca",
-    "title": "Atividade Prática 1",
-    "section": "Como realizar a busca?",
-    "text": "Como realizar a busca?\n\nAcesse uma das bases de dados indicadas;\nLocalize o campo de busca avançada (Advanced Search);\nCopie e cole a estratégia de busca sugerida para o tema escolhido;\nAjuste filtros, se necessário (idioma, período, tipo de estudo);\nIdentifique artigos que se declarem explicitamente como scoping review.\n\n\n\n\n\n\n\nDicaDica importante\n\n\n\nNem todo artigo que se autodenomina “revisão” é uma revisão de escopo. O aluno deve verificar se o estudo: - Utiliza o modelo PCC; - Declara seguir o PRISMA-ScR; - Apresenta um fluxograma de seleção e descrição clara da metodologia.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#tarefa-a-ser-entregue",
-    "href": "09-pratica-1.html#tarefa-a-ser-entregue",
-    "title": "Atividade Prática 1",
-    "section": "Tarefa a ser entregue",
-    "text": "Tarefa a ser entregue\n\nChecklist PRISMA-ScR preenchido\n\nPara cada item do checklist, o grupo deverá:\n\nIndicar se o artigo cumpre ou não o critério;\nJustificar a resposta, citando trechos específicos do artigo analisado.\n\nO checklist oficial pode ser acessado em:\n\nPRISMA-ScR Checklist (PDF)\n\nPara cada item do checklist, você deve:\n\n✅ ou ❌ — Indicar se o artigo cumpre ou não cumpre o critério\n📝 — Escrever uma justificativa baseada no conteúdo do artigo\n\n\nExemplo de como preencher\n\n\n\n\n\n\n\n\nItem\nCumpre?\nJustificativa\n\n\n\n\nItem 1 - Título\n✅ Sim\nO título indica claramente que é uma revisão de escopo: “A scoping review of…”\n\n\nItem 5 - Objetivos\n❌ Não\nOs autores apresentam o objetivo geral, mas não formulam as perguntas de pesquisa de forma explícita conforme recomendado pelo PRISMA-ScR\n\n\n\n\n\n\n\n\n\nImportanteAtenção\n\n\n\nNão basta marcar “sim” ou “não”! Suas justificativas devem demonstrar que você leu o artigo e entendeu os critérios do PRISMA-ScR.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#temas-propostos-estrutura-pcc",
-    "href": "09-pratica-1.html#temas-propostos-estrutura-pcc",
-    "title": "Atividade Prática 1",
-    "section": "Temas propostos (Estrutura PCC)",
-    "text": "Temas propostos (Estrutura PCC)\nOs grupos deverão escolher um dos temas abaixo. Todos estão estruturados segundo o modelo PCC (População, Conceito, Contexto).",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#impacto-da-telemedicina-no-acesso-aos-cuidados-de-saúde-primários",
-    "href": "09-pratica-1.html#impacto-da-telemedicina-no-acesso-aos-cuidados-de-saúde-primários",
-    "title": "Atividade Prática 1",
-    "section": "1. Impacto da Telemedicina no Acesso aos Cuidados de Saúde Primários",
-    "text": "1. Impacto da Telemedicina no Acesso aos Cuidados de Saúde Primários\n\nEstrutura PCC\n\nP (População): Pacientes que buscam cuidados primários\n\nC (Conceito): Telemedicina e acesso aos cuidados de saúde\n\nC (Contexto): Cuidados de saúde primários\n\n\n\nPergunta PCC\n\nQuais são as evidências existentes sobre o impacto da telemedicina no acesso aos cuidados de saúde primários?\n\n\n\nEstratégia de busca (exemplo)\nCopiar e colar no campo de busca avançada da base de dados:\n(\"Telemedicine\" OR \"Telehealth\" OR \"eHealth\")\nAND (\"Access to Healthcare\" OR \"Healthcare Access\" OR \"Primary Care Access\")\nAND (\"Primary Care\" OR \"Primary Healthcare\" OR \"Family Medicine\")",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#envelhecimento-populacional-e-desafios-para-a-saúde-mental",
-    "href": "09-pratica-1.html#envelhecimento-populacional-e-desafios-para-a-saúde-mental",
-    "title": "Atividade Prática 1",
-    "section": "2. Envelhecimento Populacional e Desafios para a Saúde Mental",
-    "text": "2. Envelhecimento Populacional e Desafios para a Saúde Mental\n\nEstrutura PCC\n\nP (População): Idosos\nC (Conceito): Saúde mental e seus desafios\nC (Contexto): Sistema de saúde pública e serviços de saúde\n\n\n\nPergunta PCC\n\nQuais são os principais desafios de saúde mental enfrentados pela população idosa no contexto dos sistemas de saúde pública?\n\n\n\nEstratégia de busca (exemplo)\n(\"Aging Population\" OR \"Elderly\" OR \"Older Adults\")\nAND (\"Mental Health Challenges\" OR \"Psychological Health\" OR \"Mental Health Issues\")\nAND (\"Public Health\" OR \"Healthcare System\" OR \"Health Services\")",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#uso-de-inteligência-artificial-na-detecção-precoce-de-doenças-cardiovasculares",
-    "href": "09-pratica-1.html#uso-de-inteligência-artificial-na-detecção-precoce-de-doenças-cardiovasculares",
-    "title": "Atividade Prática 1",
-    "section": "3. Uso de Inteligência Artificial na Detecção Precoce de Doenças Cardiovasculares",
-    "text": "3. Uso de Inteligência Artificial na Detecção Precoce de Doenças Cardiovasculares\n\nEstrutura PCC\n\nP (População): Pacientes em risco de doenças cardiovasculares\nC (Conceito): Inteligência artificial aplicada à detecção precoce\nC (Contexto): Detecção e diagnóstico de doenças cardiovasculares\n\n\n\nPergunta PCC\n\nQuais são as evidências sobre o uso da inteligência artificial na detecção precoce de doenças cardiovasculares?\n\n\n\nEstratégia de busca (exemplo)\n(\"Artificial Intelligence\" OR \"AI\" OR \"Machine Learning\")\nAND (\"Early Detection\" OR \"Screening\" OR \"Diagnosis\")\nAND (\"Cardiovascular Diseases\" OR \"Heart Diseases\" OR \"Cardiac Disorders\")",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#políticas-públicas-para-a-promoção-da-vacinação-em-populações-vulneráveis",
-    "href": "09-pratica-1.html#políticas-públicas-para-a-promoção-da-vacinação-em-populações-vulneráveis",
-    "title": "Atividade Prática 1",
-    "section": "4. Políticas Públicas para a Promoção da Vacinação em Populações Vulneráveis",
-    "text": "4. Políticas Públicas para a Promoção da Vacinação em Populações Vulneráveis\n\nEstrutura PCC\n\nP (População): Populações vulneráveis ou em risco\nC (Conceito): Políticas públicas para promoção da vacinação\nC (Contexto): Aumento da cobertura vacinal\n\n\n\nPergunta PCC\n\nQuais políticas públicas têm sido implementadas para promover a vacinação em populações vulneráveis, e quais foram seus impactos na cobertura vacinal?\n\n\n\nEstratégia de busca (exemplo)\n(\"Vaccination Policies\" OR \"Immunization Programs\" OR \"Public Health Policies\")\nAND (\"Vulnerable Populations\" OR \"At-risk Populations\" OR \"Underserved Populations\")\nAND (\"Vaccine Uptake\" OR \"Immunization Coverage\" OR \"Vaccination Rates\")",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "09-pratica-1.html#considerações-finais",
-    "href": "09-pratica-1.html#considerações-finais",
-    "title": "Atividade Prática 1",
-    "section": "Considerações finais",
-    "text": "Considerações finais\nEsta atividade foi concebida para desenvolver no estudante uma postura ativa diante da literatura científica, estimulando a leitura crítica, o entendimento dos métodos e a distinção entre diferentes tipos de revisão.\nMais do que responder à pergunta temática, o objetivo central é avaliar como o conhecimento foi produzido, organizado e relatado, à luz das recomendações do PRISMA-ScR.",
-    "crumbs": [
-      "Início",
-      "Prática",
-      "Revisão de Escopo"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html",
-    "href": "07-acronimos-pico.html",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "",
-    "text": "Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.\nOs acrônimos como PICO funcionam como frameworks que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável (Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\nNotaPrincípio fundamental\n\n\n\nUma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#por-que-estruturar-a-pergunta-de-pesquisa",
-    "href": "07-acronimos-pico.html#por-que-estruturar-a-pergunta-de-pesquisa",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "",
-    "text": "Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.\nOs acrônimos como PICO funcionam como frameworks que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável (Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\nNotaPrincípio fundamental\n\n\n\nUma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#pico-o-acrônimo-clássico",
-    "href": "07-acronimos-pico.html#pico-o-acrônimo-clássico",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "PICO: o acrônimo clássico",
-    "text": "PICO: o acrônimo clássico\nO acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre intervenções (Richardson et al., 1995; Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\n\n\nElemento\nSignificado\nPergunta orientadora\n\n\n\n\nP\nPopulação / Paciente / Problema\nQuem são os pacientes? Qual a condição?\n\n\nI\nIntervenção\nO que está sendo testado ou avaliado?\n\n\nC\nComparação\nQual a alternativa? (pode ser ausente)\n\n\nO\nOutcome (Desfecho)\nQual o resultado esperado?\n\n\n\n\nExemplo de pergunta PICO\nPergunta narrativa: “Antidepressivos funcionam para depressão em idosos?”\nPergunta estruturada (PICO):\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nIdosos (≥ 65 anos) com transtorno depressivo maior\n\n\nI\nAntidepressivos (ISRS)\n\n\nC\nPlacebo\n\n\nO\nRemissão dos sintomas depressivos\n\n\n\nPergunta final: “Em idosos com transtorno depressivo maior, os inibidores seletivos de recaptação de serotonina são superiores ao placebo para alcançar remissão dos sintomas?”\n\n\n\n\n\n\nDicaDica prática\n\n\n\nO elemento C (comparação) nem sempre está presente. Em estudos descritivos ou de prevalência, pode não haver grupo de comparação.",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#picot-adicionando-o-tempo",
-    "href": "07-acronimos-pico.html#picot-adicionando-o-tempo",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "PICOT: adicionando o tempo",
-    "text": "PICOT: adicionando o tempo\nO acrônimo PICOT acrescenta o elemento T (Time / Tempo), útil quando a duração do seguimento ou o momento da avaliação são relevantes.\n\n\n\nElemento\nSignificado\n\n\n\n\nP\nPopulação\n\n\nI\nIntervenção\n\n\nC\nComparação\n\n\nO\nOutcome (Desfecho)\n\n\nT\nTime (Tempo)\n\n\n\n\nExemplo de pergunta PICOT\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nAdultos com transtorno de ansiedade generalizada\n\n\nI\nTerapia cognitivo-comportamental\n\n\nC\nLista de espera\n\n\nO\nRedução dos sintomas de ansiedade\n\n\nT\n12 semanas de seguimento",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#pico-para-estudos-qualitativos",
-    "href": "07-acronimos-pico.html#pico-para-estudos-qualitativos",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "PICo: para estudos qualitativos",
-    "text": "PICo: para estudos qualitativos\nO acrônimo PICo (com “o” minúsculo) é uma adaptação para perguntas de pesquisa qualitativa, onde não há intervenção nem comparação no sentido tradicional.\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nP\nPopulação\nQuem são os participantes?\n\n\nI\nFenômeno de Interesse\nO que está sendo explorado?\n\n\nCo\nContexto\nEm que circunstância ou ambiente?\n\n\n\n\nExemplo de pergunta PICo\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nPacientes com esquizofrenia\n\n\nI\nExperiência de ouvir vozes\n\n\nCo\nAtendimento ambulatorial em serviço público\n\n\n\nPergunta final: “Como pacientes com esquizofrenia em atendimento ambulatorial no serviço público vivenciam a experiência de ouvir vozes?”",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#pcc-para-revisões-de-escopo",
-    "href": "07-acronimos-pico.html#pcc-para-revisões-de-escopo",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "PCC: para revisões de escopo",
-    "text": "PCC: para revisões de escopo\nO framework PCC é recomendado pelo JBI para revisões de escopo, que têm caráter exploratório e mapeiam a literatura.\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nP\nPopulação\nQuem são os participantes ou público-alvo?\n\n\nC\nConceito\nQual o conceito ou fenômeno central?\n\n\nC\nContexto\nEm que setting ou circunstância?\n\n\n\n\nExemplo de pergunta PCC\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nProfissionais de saúde\n\n\nC\nEstratégias de prevenção de burnout\n\n\nC\nUnidades de terapia intensiva\n\n\n\nPergunta final: “Quais estratégias de prevenção de burnout têm sido estudadas em profissionais de saúde que atuam em unidades de terapia intensiva?”",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#spider-alternativa-para-estudos-qualitativos",
-    "href": "07-acronimos-pico.html#spider-alternativa-para-estudos-qualitativos",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "SPIDER: alternativa para estudos qualitativos",
-    "text": "SPIDER: alternativa para estudos qualitativos\nO acrônimo SPIDER foi proposto como alternativa ao PICO para revisões que incluem estudos qualitativos e mistos (Cooke; Smith; Booth, 2012).\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nS\nSample (Amostra)\nGrupo de interesse\n\n\nPI\nPhenomenon of Interest\nFenômeno estudado\n\n\nD\nDesign\nDelineamento do estudo\n\n\nE\nEvaluation\nComo o fenômeno é avaliado\n\n\nR\nResearch type\nTipo de pesquisa (quali, quanti, mista)\n\n\n\n\nExemplo de pergunta SPIDER\n\n\n\nElemento\nConteúdo\n\n\n\n\nS\nCuidadores de pacientes com demência\n\n\nPI\nSobrecarga do cuidador\n\n\nD\nEstudos qualitativos\n\n\nE\nEntrevistas, grupos focais\n\n\nR\nQualitativa",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#peco-para-estudos-de-etiologiaexposição",
-    "href": "07-acronimos-pico.html#peco-para-estudos-de-etiologiaexposição",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "PECO: para estudos de etiologia/exposição",
-    "text": "PECO: para estudos de etiologia/exposição\nO acrônimo PECO é usado para perguntas sobre fatores de risco ou exposição, comuns em estudos observacionais (coorte, caso-controle).\n\n\n\nElemento\nSignificado\n\n\n\n\nP\nPopulação\n\n\nE\nExposição (fator de risco)\n\n\nC\nComparação (não expostos)\n\n\nO\nOutcome (Desfecho)\n\n\n\n\nExemplo de pergunta PECO\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nAdultos jovens\n\n\nE\nUso de cannabis na adolescência\n\n\nC\nNão uso de cannabis\n\n\nO\nDesenvolvimento de transtornos psicóticos\n\n\n\nPergunta final: “O uso de cannabis na adolescência aumenta o risco de transtornos psicóticos em adultos jovens comparado a não usuários?”",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#qual-acrônimo-usar",
-    "href": "07-acronimos-pico.html#qual-acrônimo-usar",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "Qual acrônimo usar?",
-    "text": "Qual acrônimo usar?\nA escolha depende do tipo de pergunta e do tipo de estudo:\n\n\n\nTipo de pergunta\nAcrônimo recomendado\n\n\n\n\nEficácia de intervenção\nPICO, PICOT\n\n\nEtiologia / Fatores de risco\nPECO\n\n\nExperiências e significados (quali)\nPICo, SPIDER\n\n\nMapeamento da literatura (escopo)\nPCC\n\n\nDiagnóstico\nPICO (adaptado)\n\n\nPrognóstico\nPICO (adaptado)\n\n\n\n\n\n\n\n\nflowchart TD\n    A[Qual é sua pergunta?] --&gt; B{Tipo de estudo?}\n    \n    B --&gt;|Intervenção| C[PICO / PICOT]\n    B --&gt;|Exposição / Risco| D[PECO]\n    B --&gt;|Qualitativo| E[PICo / SPIDER]\n    B --&gt;|Revisão de escopo| F[PCC]",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#da-pergunta-à-estratégia-de-busca",
-    "href": "07-acronimos-pico.html#da-pergunta-à-estratégia-de-busca",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "Da pergunta à estratégia de busca",
-    "text": "Da pergunta à estratégia de busca\nApós estruturar a pergunta, cada elemento do acrônimo orienta a construção da estratégia de busca nas bases de dados.\n\nPasso a passo\n\nIdentifique os termos para cada elemento do acrônimo\nBusque sinônimos e termos relacionados\nIdentifique descritores controlados (MeSH, DeCS)\nCombine os termos com operadores booleanos\n\n\n\nOperadores booleanos\n\n\n\nOperador\nFunção\nExemplo\n\n\n\n\nAND\nIntersecção (restringe)\ndepression AND elderly\n\n\nOR\nUnião (amplia)\nelderly OR aged OR older\n\n\nNOT\nExclusão (use com cautela)\ndepression NOT bipolar\n\n\n\n\n\nExemplo de estratégia de busca\nPergunta PICO: “Em idosos com depressão, os ISRS são eficazes para remissão dos sintomas?”\n\n\n\n\n\n\n\nElemento\nTermos de busca\n\n\n\n\nP\nelderly OR aged OR “older adults” OR geriatric\n\n\nI\nSSRI OR “selective serotonin reuptake inhibitor” OR fluoxetine OR sertraline\n\n\nO\nremission OR response OR improvement\n\n\n\nEstratégia combinada:\n(elderly OR aged OR \"older adults\" OR geriatric)\nAND\n(SSRI OR \"selective serotonin reuptake inhibitor\" OR fluoxetine OR sertraline OR escitalopram)\nAND\n(depression OR \"depressive disorder\" OR \"major depression\")\nAND\n(remission OR response OR improvement)\n\n\n\n\n\n\nDicaDica prática\n\n\n\nComece com uma busca sensível (ampla) e depois refine conforme necessário. É melhor ter muitos resultados para triar do que perder estudos relevantes.",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#erros-comuns-na-formulação-da-pergunta",
-    "href": "07-acronimos-pico.html#erros-comuns-na-formulação-da-pergunta",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "Erros comuns na formulação da pergunta",
-    "text": "Erros comuns na formulação da pergunta\n\n\n\n\n\n\nAvisoEvite estes erros\n\n\n\n\nPergunta muito ampla: “O que se sabe sobre depressão?” — impossível de responder sistematicamente\nPergunta muito restrita: “A fluoxetina 20mg por 8 semanas é eficaz para depressão leve em mulheres entre 30-35 anos no Brasil?” — pode não haver estudos\nAusência de desfecho claro: “Os ISRS são bons para idosos?” — bons em quê?\nConfundir intervenção com exposição: usar PICO quando deveria usar PECO\nMisturar múltiplas perguntas: “Os ISRS são eficazes e seguros e melhoram qualidade de vida?” — são três perguntas diferentes",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#resumo",
-    "href": "07-acronimos-pico.html#resumo",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "Resumo",
-    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nAcrônimos ajudam a estruturar perguntas de pesquisa de forma clara\nPICO é o padrão para perguntas sobre intervenções\nPICo e SPIDER são adaptações para estudos qualitativos\nPCC é recomendado para revisões de escopo\nPECO é usado para perguntas sobre exposição/risco\nCada elemento do acrônimo orienta a estratégia de busca\nUse operadores booleanos (AND, OR, NOT) para combinar termos\nEvite perguntas muito amplas ou muito restritas",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "07-acronimos-pico.html#leituras-recomendadas",
-    "href": "07-acronimos-pico.html#leituras-recomendadas",
-    "title": "Acrônimos PICO, PICo, PICOT e Variações",
-    "section": "Leituras recomendadas",
-    "text": "Leituras recomendadas\n\nSantos; Pimenta; Nobre (2007) — A estratégia PICO para a construção da pergunta de pesquisa\nRichardson et al. (1995) — The well-built clinical question\nCooke; Smith; Booth (2012) — Beyond PICO: the SPIDER tool for qualitative evidence synthesis\nNobre; Bernardo; Jatene (2004) — A prática clínica baseada em evidências\n\n\nPróximo capítulo: Registro de Protocolos",
-    "crumbs": [
-      "Início",
-      "Ferramentas",
-      "Acrônimos PICO, PICo, PICOT"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Revisões de Literatura em Saúde",
-    "section": "",
-    "text": "Este material foi desenvolvido para estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.\nAo longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.\n\n\n\n\n\n\nNotaMais do que um guia técnico\n\n\n\nA proposta é ajudar você a pensar metodologicamente, entendendo por que escolher um tipo de revisão — e não apenas como executá-la.",
-    "crumbs": [
-      "Início",
-      "Apresentação"
-    ]
-  },
-  {
-    "objectID": "index.html#bem-vindoa",
-    "href": "index.html#bem-vindoa",
-    "title": "Revisões de Literatura em Saúde",
-    "section": "",
-    "text": "Este material foi desenvolvido para estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.\nAo longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.\n\n\n\n\n\n\nNotaMais do que um guia técnico\n\n\n\nA proposta é ajudar você a pensar metodologicamente, entendendo por que escolher um tipo de revisão — e não apenas como executá-la.",
-    "crumbs": [
-      "Início",
-      "Apresentação"
-    ]
-  },
-  {
-    "objectID": "index.html#por-que-aprender-sobre-revisão-de-literatura",
-    "href": "index.html#por-que-aprender-sobre-revisão-de-literatura",
-    "title": "Revisões de Literatura em Saúde",
-    "section": "Por que aprender sobre revisão de literatura?",
-    "text": "Por que aprender sobre revisão de literatura?\nNa prática clínica, na pesquisa e na tomada de decisão em saúde, somos constantemente confrontados com perguntas como:\n\nEste tratamento realmente funciona?\nQual é a melhor evidência disponível?\nO que já se sabe — e o que ainda não se sabe — sobre esse tema?\n\nResponder a essas perguntas exige mais do que “ler alguns artigos”. Exige método, critério e síntese. Revisões de literatura bem conduzidas são a base da prática baseada em evidências, da formulação de diretrizes clínicas e do avanço do conhecimento científico.",
-    "crumbs": [
-      "Início",
-      "Apresentação"
-    ]
-  },
-  {
-    "objectID": "index.html#o-que-você-encontrará-aqui",
-    "href": "index.html#o-que-você-encontrará-aqui",
-    "title": "Revisões de Literatura em Saúde",
-    "section": "O que você encontrará aqui",
-    "text": "O que você encontrará aqui\n\n\n\nSeção\nConteúdo\n\n\n\n\nVisão geral\nPanorama de todos os tipos de revisão e suas diferenças\n\n\nRevisão Narrativa\nFundamentação teórica e contextualização\n\n\nRevisão Integrativa\nSíntese de evidências com flexibilidade metodológica\n\n\nRevisão de Escopo\nMapeamento de campos de pesquisa\n\n\nRevisão Sistemática\nO padrão-ouro para síntese de evidências\n\n\nMeta-análise\nSíntese quantitativa de múltiplos estudos\n\n\nAcrônimos PICO\nEstruturação de perguntas de pesquisa\n\n\nRegistro de Protocolos\nOSF, PROSPERO e transparência científica\n\n\nAtividades Práticas\nExercícios para aplicação dos conceitos",
-    "crumbs": [
-      "Início",
-      "Apresentação"
-    ]
-  },
-  {
-    "objectID": "index.html#autor",
-    "href": "index.html#autor",
-    "title": "Revisões de Literatura em Saúde",
-    "section": "Autor",
-    "text": "Autor\nHenrique Alvarenga da Silva\nMédico psiquiatra.\nProfessor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).\nProfessor de Métodos de Pesquisa em Medicina na AFYA.\n🌐 henriquealvarenga.com",
-    "crumbs": [
-      "Início",
-      "Apresentação"
+      "Uma Breve História das Revisões"
     ]
   },
   {

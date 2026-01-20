@@ -30,6 +30,8 @@ website:
             href: index.qmd
           - text: "Visão Geral dos Tipos de Revisão"
             href: 01-introducao.qmd
+          - text: "Uma Breve História das Revisões"
+            href: 01.1-historia.qmd
       - section: "Tipos de Revisão"
         contents:
           - text: "Revisão Narrativa"

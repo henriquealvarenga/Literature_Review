@@ -1,0 +1,55 @@
+## Breve história das revisões de literatura
+
+A prática de sintetizar conhecimento científico não é recente. Ao longo do século XX, diferentes métodos foram desenvolvidos para lidar com o crescente volume de publicações e a necessidade de fundamentar decisões — inicialmente na educação e nas ciências sociais, posteriormente na medicina e nas demais áreas da saúde.
+
+### As origens da síntese quantitativa
+
+O primeiro registro documentado de uma abordagem que hoje reconheceríamos como meta-analítica data de 1904, quando o estatístico britânico Karl Pearson foi solicitado a analisar dados de múltiplos estudos sobre vacinação contra febre tifoide em soldados do Império Britânico [@pearson1904]. Pearson não apenas combinou os resultados, mas também observou a "irregularidade extrema" dos valores entre os estudos — o que hoje denominamos heterogeneidade — e questionou se as correlações encontradas eram suficientemente robustas para justificar a intervenção [@orourke2007].
+
+Apesar dessa contribuição pioneira, as técnicas de síntese quantitativa permaneceram relativamente adormecidas na literatura médica por décadas. Foi somente em 1976 que o psicólogo e estatístico Gene Glass cunhou o termo "meta-análise", definindo-a como "a análise estatística de uma grande coleção de resultados de análises de estudos individuais, com o propósito de integrar os achados" [@glass1976]. O trabalho de Glass, voltado inicialmente para avaliar a efetividade da psicoterapia, estabeleceu as bases conceituais e metodológicas que seriam posteriormente adaptadas para a pesquisa em saúde.
+
+### Archie Cochrane e o desafio à medicina
+
+O impulso decisivo para o desenvolvimento das revisões sistemáticas na área da saúde veio de Archibald Leman Cochrane (1909–1988), epidemiologista escocês cuja trajetória pessoal moldou profundamente sua visão sobre a prática médica. Durante a Segunda Guerra Mundial, Cochrane atuou como médico em campos de prisioneiros de guerra, onde a escassez absoluta de recursos o forçou a questionar quais intervenções realmente funcionavam e quais eram inúteis ou mesmo prejudiciais [@cochrane1972].
+
+Em 1972, Cochrane publicou *Effectiveness and Efficiency: Random Reflections on Health Services*, uma crítica contundente à falta de evidências confiáveis por trás de muitas práticas médicas aceitas. No livro, ele argumentou que a profissão médica deveria organizar "um resumo crítico, adaptado periodicamente, de todos os ensaios clínicos randomizados relevantes" [@cochrane1972]. Essa proposta — aparentemente simples, mas revolucionária — lançou as bases para o que viria a ser o movimento da medicina baseada em evidências.
+
+Em 1979, Cochrane reiterou seu desafio de forma ainda mais direta, afirmando que era "seguramente uma grande crítica à nossa profissão que não tenhamos organizado um resumo crítico, por especialidade ou subespecialidade, adaptado periodicamente, de todos os ensaios clínicos controlados randomizados relevantes" [@cochrane1979].
+
+### Da obstetrícia para o mundo: as primeiras revisões sistemáticas
+
+A resposta ao desafio de Cochrane começou na área de cuidados perinatais. Em 1978, Iain Chalmers assumiu a direção da recém-criada National Perinatal Epidemiology Unit em Oxford, onde liderou um esforço colaborativo internacional para identificar, avaliar e sintetizar todos os ensaios clínicos randomizados em obstetrícia e neonatologia [@starr2009].
+
+Esse trabalho culminou, em 1989, na publicação de *Effective Care in Pregnancy and Childbirth* [@chalmers1989], uma obra em dois volumes que é considerada o primeiro livro de medicina inteiramente baseado em revisões sistemáticas de ensaios clínicos. O impacto foi imediato: a obra demonstrou, por exemplo, que o uso de corticosteroides antes do parto prematuro — prática já estudada desde 1972 — reduzia em 30 a 50% a mortalidade neonatal por complicações da prematuridade. Antes da revisão sistemática, a maioria dos obstetras desconhecia a magnitude desse benefício, e a intervenção era subutilizada [@starr2009].
+
+Um ano antes de sua morte, em 1987, Cochrane referiu-se a esse trabalho em obstetrícia como "um verdadeiro marco na história dos ensaios randomizados e na avaliação do cuidado", sugerindo que outras especialidades copiassem os métodos utilizados [@cochrane1979].
+
+### A institucionalização: Cochrane Collaboration e além
+
+O reconhecimento do valor das revisões sistemáticas levou à institucionalização do método. Em 1992, foi inaugurado o UK Cochrane Centre em Oxford, e no ano seguinte foi fundada a Cochrane Collaboration — uma rede internacional de pesquisadores dedicados a preparar, manter e disseminar revisões sistemáticas sobre os efeitos de intervenções em saúde [@starr2009].
+
+O termo "medicina baseada em evidências" foi introduzido em 1991 por Gordon Guyatt e sua equipe na McMaster University, consolidando um novo paradigma que colocava a síntese sistemática da literatura no centro da tomada de decisão clínica [@sackett1996].
+
+### A diversificação dos métodos de revisão
+
+À medida que o movimento da prática baseada em evidências se expandiu, ficou evidente que diferentes perguntas de pesquisa demandavam diferentes abordagens metodológicas. A revisão sistemática clássica, otimizada para avaliar a eficácia de intervenções por meio de ensaios clínicos randomizados, não era adequada para todas as situações.
+
+Na enfermagem, onde questões frequentemente envolvem fenômenos complexos e múltiplas dimensões do cuidado, desenvolveu-se a **revisão integrativa**. Embora suas raízes remontem ao trabalho de Broome [-@broome1993], foi o artigo de Whittemore e Knafl [-@whittemore2005] que consolidou o método, propondo estratégias para aumentar o rigor na combinação de estudos com diferentes delineamentos metodológicos.
+
+Para perguntas amplas ou exploratórias, Arksey e O'Malley [-@arksey2005] propuseram o framework das **revisões de escopo** (*scoping reviews*), posteriormente aprimorado por Levac e colaboradores [-@levac2010] e pelo Joanna Briggs Institute [@peters2020]. Diferentemente da revisão sistemática, a revisão de escopo visa mapear a extensão e a natureza da literatura disponível, sem necessariamente avaliar a qualidade metodológica dos estudos incluídos.
+
+### A era da padronização e transparência
+
+O crescimento exponencial das revisões de literatura trouxe consigo preocupações com a qualidade e a transparência do relato. Em resposta, foram desenvolvidas diretrizes específicas para diferentes tipos de revisão.
+
+O **PRISMA** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses), publicado originalmente em 2009 [@moher2009] e atualizado em 2021 [@page2021], tornou-se o padrão para relato de revisões sistemáticas. Para revisões de escopo, foi desenvolvida a extensão **PRISMA-ScR** [@tricco2018].
+
+O **Cochrane Handbook** [@higgins2019] consolidou-se como a referência metodológica mais influente para a condução de revisões sistemáticas de intervenções, enquanto o **JBI Manual for Evidence Synthesis** [@jbi2024] expandiu as orientações para outros tipos de revisão, incluindo revisões de prevalência, de etiologia e de texto e opinião.
+
+### O cenário contemporâneo
+
+Atualmente, a produção de revisões de literatura cresce em ritmo acelerado. O PubMed indexa mais de 1,5 milhão de novos artigos por ano [@nlm2024pubmedstats], e estima-se que o número de revisões sistemáticas publicadas supere o de ensaios clínicos randomizados em diversas áreas [@gonzalezmarquez2024landscape].
+
+Essa proliferação traz desafios: revisões de baixa qualidade metodológica, duplicação de esforços e dificuldade de atualização são problemas recorrentes. Por outro lado, o desenvolvimento de ferramentas como o PROSPERO para registro de protocolos, o OSF para ciência aberta [@foster2017], e softwares de gerenciamento como Rayyan e Covidence têm contribuído para aumentar a transparência e a eficiência do processo.
+
+A história das revisões de literatura é, em última análise, a história da busca por métodos mais confiáveis de transformar a pesquisa em conhecimento útil para a prática. Do insight de Karl Pearson em 1904 ao desafio de Archie Cochrane em 1972, das primeiras revisões em obstetrícia à multiplicidade de métodos disponíveis hoje, o campo evoluiu de forma notável — mas permanece em constante desenvolvimento.
