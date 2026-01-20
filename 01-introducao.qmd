@@ -1,0 +1,142 @@
+---
+title: "Visão Geral dos Tipos de Revisão de Literatura"
+subtitle: "Conhecendo as diferentes abordagens para síntese do conhecimento"
+---
+
+## Introdução
+
+O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos [@gonzalezmarquez2024landscape; @nlm2024pubmedstats]. Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.   
+
+Diante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.  
+
+Nem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.
+
+
+## Por que existem diferentes tipos de revisão?
+
+A diversidade de métodos reflete diferentes necessidades:
+
+- **Fundamentar teoricamente** um estudo ou discussão
+- **Mapear** o que existe sobre um tema amplo
+- **Responder** a uma pergunta clínica específica
+- **Quantificar** o efeito de uma intervenção
+
+Cada objetivo demanda uma abordagem metodológica distinta.
+
+## Os principais tipos de revisão
+
+### Revisão Narrativa
+
+A forma mais flexível e tradicional de revisão. O autor seleciona e discute a literatura de forma qualitativa, sem necessidade de protocolo rígido ou busca exaustiva. É útil para contextualização teórica, mas tem baixa reprodutibilidade.
+
+**Quando usar:** Fundamentação teórica de artigos, capítulos introdutórios, discussão de conceitos.
+
+➡️ Saiba mais em [Revisão Narrativa](02-revisao-narrativa.qmd)
+
+### Revisão Integrativa
+
+Método sistematizado que permite incluir estudos com diferentes delineamentos (quantitativos e qualitativos). Segue etapas definidas, mas com mais flexibilidade que a revisão sistemática. Muito utilizada na enfermagem e em outras áreas da saúde.
+
+**Quando usar:** Síntese ampla sobre um tema, quando há diversidade de tipos de estudo.
+
+➡️ Saiba mais em [Revisão Integrativa](03-revisao-integrativa.qmd)
+
+### Revisão de Escopo (Scoping Review)
+
+Mapeia a extensão e a natureza da literatura sobre um tema amplo, identificando conceitos-chave, tipos de evidência disponíveis e lacunas no conhecimento. Não avalia a qualidade dos estudos — seu objetivo é exploratório.
+
+**Quando usar:** Temas amplos ou emergentes, antes de uma revisão sistemática, para identificar lacunas.
+
+➡️ Saiba mais em [Revisão de Escopo](04-revisao-escopo.qmd)
+
+### Revisão Sistemática
+
+O padrão-ouro para síntese de evidências. Segue protocolo rígido, com busca exaustiva, critérios explícitos de inclusão/exclusão, avaliação da qualidade metodológica e síntese estruturada. Alta reprodutibilidade e transparência.
+
+**Quando usar:** Responder a perguntas clínicas específicas, fundamentar diretrizes, avaliar efetividade de intervenções.
+
+➡️ Saiba mais em [Revisão Sistemática](05-revisao-sistematica.qmd)
+
+### Meta-análise
+
+Técnica estatística que combina quantitativamente os resultados de múltiplos estudos, gerando uma estimativa sumária do efeito. Geralmente realizada dentro de uma revisão sistemática, quando os estudos são suficientemente homogêneos.
+
+**Quando usar:** Quando há estudos comparáveis e deseja-se estimar o tamanho do efeito combinado.
+
+➡️ Saiba mais em [Meta-análise](06-metanalise.qmd)
+
+## Quadro comparativo
+
+| Característica | Narrativa | Integrativa | Escopo | Sistemática | Meta-análise |
+|----------------|:---------:|:-----------:|:------:|:-----------:|:------------:|
+| **Pergunta** | Ampla | Ampla a específica | Ampla | Específica | Específica |
+| **Protocolo prévio** | Não | Recomendado | Recomendado | Obrigatório | Obrigatório |
+| **Busca** | Não sistemática | Sistemática | Sistemática | Exaustiva | Exaustiva |
+| **Seleção de estudos** | Subjetiva | Critérios definidos | Critérios definidos | Critérios rígidos | Critérios rígidos |
+| **Avaliação de qualidade** | Não | Opcional | Não | Obrigatória | Obrigatória |
+| **Tipos de estudo incluídos** | Qualquer | Diversos | Qualquer | Geralmente homogêneos | Homogêneos |
+| **Síntese** | Qualitativa | Qualitativa | Qualitativa | Quali ou quanti | Quantitativa |
+| **Reprodutibilidade** | Baixa | Moderada | Moderada | Alta | Alta |
+| **Tempo/recursos** | Baixo | Moderado | Moderado | Alto | Alto |
+| **Nível de evidência** | Baixo | Moderado | — | Alto | Alto |
+
+## Como escolher o tipo de revisão?
+```{mermaid}
+flowchart TD
+    A[Qual é sua pergunta?] --> B{É ampla ou<br>específica?}
+    
+    B -->|Ampla| C{Quer mapear<br>o campo?}
+    B -->|Específica| D{Quer quantificar<br>o efeito?}
+    
+    C -->|Sim| E[Revisão de Escopo]
+    C -->|Não| F{Inclui diferentes<br>tipos de estudo?}
+    
+    F -->|Sim| G[Revisão Integrativa]
+    F -->|Não| H[Revisão Narrativa]
+    
+    D -->|Sim| I{Estudos são<br>comparáveis?}
+    D -->|Não| J[Revisão Sistemática]
+    
+    I -->|Sim| K[Meta-análise]
+    I -->|Não| J
+```
+
+::: {.callout-tip}
+## Dica prática
+Antes de iniciar, faça uma busca exploratória para verificar:
+
+- Quantos estudos existem sobre o tema
+- Que tipos de estudo predominam
+- Se já existem revisões sistemáticas publicadas
+- Se o tema é amplo ou específico demais
+
+Isso ajuda a calibrar suas expectativas e escolher o método adequado.
+:::
+
+## Outros tipos de revisão
+
+Além dos cinco tipos principais, existem outras abordagens que você pode encontrar na literatura:
+
+- **Revisão rápida (Rapid Review):** Versão acelerada da revisão sistemática, com simplificações metodológicas para atender demandas urgentes.
+- **Revisão guarda-chuva (Umbrella Review):** Revisão de revisões sistemáticas sobre um tema.
+- **Meta-síntese qualitativa:** Síntese interpretativa de estudos qualitativos.
+- **Revisão realista (Realist Review):** Busca entender "o que funciona, para quem, em quais circunstâncias e por quê".
+
+## Resumo
+
+::: {.callout-note}
+## Pontos-chave
+
+- Existem diferentes tipos de revisão, cada um com finalidades específicas
+- A **pergunta de pesquisa** determina o método mais adequado
+- **Revisões narrativas** são flexíveis, mas têm baixa reprodutibilidade
+- **Revisões integrativas** permitem incluir estudos diversos
+- **Revisões de escopo** mapeiam campos amplos ou emergentes
+- **Revisões sistemáticas** são o padrão-ouro para perguntas específicas
+- **Meta-análises** combinam resultados quantitativamente
+- Escolher o tipo errado compromete todo o trabalho
+:::
+
+---
+
+Próximo capítulo: **[Revisão Narrativa](02-revisao-narrativa.qmd)**

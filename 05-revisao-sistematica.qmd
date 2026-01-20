@@ -1,0 +1,291 @@
+---
+title: "Revisão Sistemática"
+subtitle: "O padrão-ouro para síntese de evidências"
+---
+
+## O que é uma revisão sistemática?
+
+A revisão sistemática é um tipo de estudo secundário que utiliza métodos rigorosos e explícitos para identificar, selecionar, avaliar criticamente e sintetizar todas as evidências disponíveis sobre uma pergunta de pesquisa específica [@higgins2019].
+
+É considerada o **padrão-ouro** para síntese de evidências porque minimiza vieses através de um processo transparente, reprodutível e abrangente. Seus resultados fundamentam diretrizes clínicas, políticas de saúde e decisões sobre práticas assistenciais.
+
+::: {.callout-note}
+## Definição
+"Uma revisão sistemática é uma revisão de uma pergunta claramente formulada que utiliza métodos sistemáticos e explícitos para identificar, selecionar e avaliar criticamente pesquisas relevantes, e para coletar e analisar dados dos estudos incluídos na revisão" [@higgins2019].
+:::
+
+## Características principais
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Pergunta de pesquisa** | Específica, bem delimitada |
+| **Protocolo** | Obrigatório, registrado previamente |
+| **Estratégia de busca** | Exaustiva, em múltiplas bases |
+| **Seleção de estudos** | Critérios rígidos, revisores independentes |
+| **Tipos de estudo** | Geralmente homogêneos (ex: apenas ECRs) |
+| **Avaliação de qualidade** | Obrigatória, com instrumentos validados |
+| **Síntese dos resultados** | Qualitativa e/ou quantitativa (meta-análise) |
+| **Reprodutibilidade** | Alta |
+
+## O que diferencia a revisão sistemática?
+
+Três elementos fundamentais distinguem a revisão sistemática de outros tipos:
+
+### 1. Protocolo prévio
+
+O método é definido **antes** de iniciar a revisão e registrado publicamente (PROSPERO, OSF). Isso evita que decisões metodológicas sejam influenciadas pelos resultados encontrados.
+
+### 2. Busca exaustiva
+
+A busca visa identificar **todos** os estudos relevantes, incluindo literatura cinzenta e estudos não publicados, para minimizar o viés de publicação.
+
+### 3. Avaliação de qualidade
+
+Cada estudo incluído é avaliado quanto ao **risco de viés** usando instrumentos padronizados. A qualidade da evidência influencia as conclusões.
+
+::: {.callout-important}
+## Rigor metodológico
+A força da revisão sistemática está na transparência. Cada etapa é documentada de forma que outro pesquisador possa reproduzir o processo e chegar aos mesmos resultados.
+:::
+
+## Quando usar a revisão sistemática?
+
+A revisão sistemática é indicada para:
+
+- Responder a **perguntas clínicas específicas** sobre eficácia ou efetividade
+- Fundamentar **diretrizes clínicas** e protocolos assistenciais
+- Subsidiar **políticas de saúde** baseadas em evidências
+- Resolver **controvérsias** quando estudos individuais são conflitantes
+- Identificar a **necessidade de novos estudos** primários
+
+::: {.callout-tip}
+## Exemplos de perguntas adequadas
+- "A terapia cognitivo-comportamental é eficaz para tratamento de insônia em adultos?"
+- "Qual a acurácia diagnóstica da ultrassonografia para apendicite aguda?"
+- "Antidepressivos são superiores ao placebo no tratamento de depressão leve?"
+
+Observe que são perguntas específicas, com população, intervenção e desfecho bem definidos.
+:::
+
+## Quando NÃO usar a revisão sistemática?
+
+A revisão sistemática **não é adequada** quando:
+
+- A pergunta é **ampla ou exploratória** (prefira revisão de escopo)
+- Há **poucos estudos** primários disponíveis
+- Os estudos são **muito heterogêneos** para síntese
+- O objetivo é **fundamentação teórica** (prefira revisão narrativa)
+- Há **urgência** e não há tempo para o processo completo (considere revisão rápida)
+
+## Etapas da revisão sistemática
+
+O processo segue etapas bem definidas, conforme o Cochrane Handbook [@higgins2019]:
+
+1. Formular a pergunta PICO
+2. Elaborar e registrar o protocolo
+3. Buscar estudos nas bases de dados
+4. Selecionar estudos por critérios
+5. Extrair dados dos estudos
+6. Avaliar risco de viés
+7. Sintetizar resultados
+8. Avaliar certeza da evidência
+9. Redigir e publicar a revisão
+
+### Etapa 1: Formulação da pergunta
+
+A pergunta deve seguir o formato **PICO**:
+
+| Elemento | Descrição | Exemplo |
+|----------|-----------|---------|
+| **P** - População | Quem são os pacientes? | Adultos com transtorno de ansiedade generalizada |
+| **I** - Intervenção | O que está sendo avaliado? | Terapia cognitivo-comportamental |
+| **C** - Comparação | Qual a alternativa? | Lista de espera ou tratamento usual |
+| **O** - Outcome | Qual o desfecho? | Redução dos sintomas de ansiedade |
+
+➡️ Veja mais em [Acrônimos PICO](07-acronimos-pico.qmd)
+
+### Etapa 2: Elaboração e registro do protocolo
+
+O protocolo deve conter:
+
+- Pergunta de pesquisa (PICO)
+- Critérios de inclusão e exclusão
+- Estratégia de busca
+- Processo de seleção
+- Variáveis a serem extraídas
+- Método de avaliação de qualidade
+- Plano de síntese dos dados
+
+::: {.callout-important}
+## Registro obrigatório
+Registre o protocolo no **PROSPERO** (para revisões de saúde) ou **OSF** antes de iniciar a busca. Isso aumenta a transparência e evita duplicação de esforços.
+
+➡️ Veja mais em [Registro de Protocolos](08-registro-osf.qmd)
+:::
+
+### Etapa 3: Busca nas bases de dados
+
+A busca deve ser:
+
+- **Sensível:** capturar o máximo de estudos relevantes
+- **Específica:** evitar excesso de estudos irrelevantes
+- **Reprodutível:** documentada em detalhes
+
+**Bases de dados recomendadas:**
+
+| Área | Bases principais |
+|------|------------------|
+| Medicina/Saúde | PubMed/MEDLINE, Embase, Cochrane CENTRAL |
+| Enfermagem | CINAHL |
+| Psicologia | PsycINFO |
+| América Latina | LILACS |
+| Multidisciplinar | Scopus, Web of Science |
+
+Inclua também:
+
+- Busca manual em referências dos estudos incluídos
+- Literatura cinzenta (teses, dissertações, anais)
+- Contato com especialistas
+- Registros de ensaios clínicos (ClinicalTrials.gov)
+
+### Etapa 4: Seleção dos estudos
+
+O processo de seleção deve ser realizado por **dois revisores independentes**:
+
+1. **Triagem por título e resumo:** excluir estudos claramente irrelevantes
+2. **Leitura do texto completo:** aplicar todos os critérios de elegibilidade
+3. **Resolução de discordâncias:** consenso ou terceiro revisor
+
+Documente o processo no **fluxograma PRISMA** [@page2021].
+```{mermaid}
+flowchart TD
+    A[Registros identificados<br>nas bases de dados] --> B[Registros após<br>remoção de duplicatas]
+    B --> C[Registros triados<br>por título/resumo]
+    C --> D[Registros excluídos]
+    C --> E[Artigos em texto completo<br>avaliados para elegibilidade]
+    E --> F[Artigos excluídos<br>com motivos]
+    E --> G[Estudos incluídos<br>na revisão]
+```
+
+### Etapa 5: Extração de dados
+
+Utilize um formulário padronizado para extrair:
+
+- Características do estudo (autor, ano, país, delineamento)
+- Características dos participantes (n, idade, sexo, critérios diagnósticos)
+- Detalhes da intervenção e comparação
+- Desfechos e medidas utilizadas
+- Resultados numéricos (médias, desvios-padrão, razões de chance, etc.)
+- Fontes de financiamento e conflitos de interesse
+
+::: {.callout-tip}
+## Dica prática
+Faça um piloto da extração com 2-3 estudos para calibrar os revisores e ajustar o formulário antes de prosseguir.
+:::
+
+### Etapa 6: Avaliação do risco de viés
+
+Cada estudo deve ser avaliado quanto à qualidade metodológica. Os instrumentos variam conforme o delineamento:
+
+| Tipo de estudo | Instrumento recomendado |
+|----------------|-------------------------|
+| Ensaios clínicos randomizados | Cochrane Risk of Bias (RoB 2) |
+| Estudos observacionais | Newcastle-Ottawa Scale, ROBINS-I |
+| Estudos diagnósticos | QUADAS-2 |
+| Estudos qualitativos | CASP, JBI Critical Appraisal |
+
+A avaliação deve ser feita por **dois revisores independentes**.
+
+### Etapa 7: Síntese dos resultados
+
+A síntese pode ser:
+
+**Qualitativa (narrativa):** quando os estudos são muito heterogêneos para combinação estatística. Descreve os achados de forma estruturada, agrupando por características relevantes.
+
+**Quantitativa (meta-análise):** quando os estudos são suficientemente semelhantes, permite calcular uma estimativa combinada do efeito.
+
+➡️ Veja mais em [Meta-análise](06-metanalise.qmd)
+
+### Etapa 8: Avaliação da certeza da evidência
+
+O sistema **GRADE** [@guyatt2008] é o método recomendado para avaliar a qualidade geral da evidência para cada desfecho:
+
+| Nível | Significado |
+|-------|-------------|
+| **Alta** | Muita confiança no efeito estimado |
+| **Moderada** | Confiança moderada; o efeito verdadeiro provavelmente é próximo |
+| **Baixa** | Confiança limitada; o efeito pode ser diferente |
+| **Muito baixa** | Pouca confiança; o efeito é incerto |
+
+Fatores que reduzem a qualidade: risco de viés, inconsistência, imprecisão, evidência indireta, viés de publicação.
+
+### Etapa 9: Redação e publicação
+
+O relato deve seguir as diretrizes **PRISMA 2020** [@page2021], que incluem 27 itens obrigatórios para garantir transparência e completude.
+
+## PRISMA 2020
+
+O **PRISMA** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) é o checklist padrão para relato de revisões sistemáticas [@page2021]. A versão 2020 inclui:
+
+- Checklist com 27 itens
+- Modelo de fluxograma
+- Orientações para cada item
+
+::: {.callout-warning}
+## Atenção
+Muitos periódicos exigem o checklist PRISMA preenchido como condição para submissão. Verifique as instruções aos autores antes de submeter.
+:::
+
+## Vantagens
+
+- **Rigor metodológico:** minimiza vieses na seleção e análise
+- **Transparência:** processo reprodutível e auditável
+- **Abrangência:** busca exaustiva da literatura
+- **Confiabilidade:** avaliação de qualidade dos estudos incluídos
+- **Força de evidência:** alto nível na hierarquia de evidências
+- **Utilidade clínica:** fundamenta diretrizes e decisões
+
+## Limitações
+
+- **Tempo e recursos:** processo demorado (6-18 meses)
+- **Dependência de estudos primários:** qualidade limitada pela qualidade dos estudos originais
+- **Viés de publicação:** estudos negativos podem não estar publicados
+- **Heterogeneidade:** estudos muito diferentes dificultam síntese
+- **Desatualização:** pode ficar obsoleta rapidamente em áreas com muita produção
+
+## Revisão sistemática vs. outros tipos
+
+| Aspecto | Narrativa | Integrativa | Escopo | Sistemática |
+|---------|:---------:|:-----------:|:------:|:-----------:|
+| Pergunta | Ampla | Ampla | Ampla | Específica |
+| Protocolo | Não | Recomendado | Recomendado | Obrigatório |
+| Busca | Não sistemática | Sistemática | Sistemática | Exaustiva |
+| Avaliação de qualidade | Não | Opcional | Não | Obrigatória |
+| Síntese | Qualitativa | Qualitativa | Descritiva | Quali/quanti |
+| Nível de evidência | Baixo | Moderado | — | Alto |
+
+## Resumo
+
+::: {.callout-note}
+## Pontos-chave
+
+- A revisão sistemática é o **padrão-ouro** para síntese de evidências
+- Exige **protocolo registrado** antes do início
+- A busca deve ser **exaustiva** e documentada
+- A seleção e extração são feitas por **dois revisores independentes**
+- A **avaliação de qualidade** dos estudos é obrigatória
+- O relato deve seguir as diretrizes **PRISMA 2020** [@page2021]
+- Fundamenta **diretrizes clínicas** e **decisões em saúde**
+- Demanda **tempo e recursos** significativos
+:::
+
+## Leituras recomendadas
+
+- @higgins2019 — Cochrane Handbook for Systematic Reviews of Interventions
+- @page2021 — The PRISMA 2020 statement
+- @moher2009 — PRISMA statement (versão original)
+- @sampaio2007 — Estudos de revisão sistemática: um guia para síntese criteriosa
+
+---
+
+Próximo capítulo: **[Meta-análise](06-metanalise.qmd)**

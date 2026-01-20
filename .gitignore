@@ -1,0 +1,58 @@
+# Quarto
+/.quarto/
+/_site/
+/.luarc.json
+
+# Arquivos de referência grandes
+references/books/
+references/PDFs/books/
+references/_PDFs/books/
+
+# R and RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+
+# VS Code / Positron
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*~
+*.swp
+*.swo
+.tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Output files (não ignorar docs/ pois é necessário para GitHub Pages)
+# mas ignorar arquivos temporários dentro dela
+docs/.DS_Store
+
+**/*.quarto_ipynb
+
+
+# Logs
+*.log
+
+# Node (se usar)
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.local

@@ -1,0 +1,91 @@
+/* Estilos customizados para o site Da Pergunta à Síntese */
+
+/* Melhora a legibilidade do texto */
+body {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+/* Destaque para blocos de exemplo */
+.exemplo-pratico {
+  background-color: #e8f4f8;
+  border-left: 4px solid #17a2b8;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+.exemplo-pratico h4 {
+  color: #17a2b8;
+  margin-top: 0;
+}
+
+/* Destaque para definições importantes */
+.definicao {
+  background-color: #f0f7ff;
+  border-left: 4px solid #0066cc;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+.definicao h4 {
+  color: #0066cc;
+  margin-top: 0;
+}
+
+/* Callout para dicas metodológicas */
+.dica-metodologica {
+  background-color: #d4edda;
+  border-left: 4px solid #28a745;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+/* Callout para alertas/cuidados */
+.alerta {
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+/* Destaque para conceitos importantes */
+.conceito-chave {
+  background-color: #e7f3ff;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+/* Espaçamento entre seções */
+section {
+  margin-bottom: 3rem;
+}
+
+/* Melhora aparência de citações */
+blockquote {
+  border-left: 4px solid #6c757d;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #495057;
+}
+
+/* Tabelas mais legíveis */
+table {
+  margin: 1.5rem 0;
+}
+
+table th {
+  background-color: #0066cc;
+  color: white;
+}
+
+/* Responsividade para tabelas */
+@media (max-width: 768px) {
+  .table-responsive {
+    overflow-x: auto;
+  }
+}

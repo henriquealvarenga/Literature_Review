@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+// Cores principais
+$primary: #0066cc;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+
+// Fontes
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+// Tamanhos
+$font-size-base: 1.1rem;
+$line-height-base: 1.7;
+
+/*-- scss:rules --*/
+
+// Estilos para blocos de código
+pre {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+}
+
+// Estilos para exemplos práticos
+.exemplo-pratico {
+  background-color: rgba($info, 0.1);
+  border-left: 3px solid $info;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+// Estilos para definições
+.definicao {
+  background-color: rgba($primary, 0.1);
+  border-left: 3px solid $primary;
+}
+
+// Callouts do Quarto
+.callout-note {
+  border-left-color: $info;
+}
+
+.callout-tip {
+  border-left-color: $success;
+}
+
+.callout-warning {
+  border-left-color: $warning;
+}
+
+.callout-important {
+  border-left-color: $danger;
+}
+
+// TOC (Table of Contents)
+.toc-active {
+  font-weight: 600;
+  color: $primary;
+}
+
+// Tabelas
+.table {
+  margin-bottom: 1.5rem;
+}
+
+.table thead th {
+  background-color: $primary;
+  color: white;
+  border-color: $primary;
+}
+
+// Footer
+.page-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  padding: 1rem 0;
+  margin-top: 3rem;
+}
+
+// Responsividade para tabelas
+@media (max-width: 768px) {
+  .table-responsive {
+    overflow-x: auto;
+  }
+}

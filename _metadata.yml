@@ -1,0 +1,24 @@
+# Metadados Globais do Projeto
+
+# Bibliografia global
+bibliography: references/references.bib
+
+# Estilos de Citação e Referências
+csl: references/csl_styles/ABNT.csl
+
+# Configurações de linguagem
+lang: pt-BR
+
+# Autor padrão
+author:
+  - name: "Henrique Alvarenga da Silva"
+    affiliation: "Universidade Federal de São João del-Rei (UFSJ)"
+    email: "henriquealvarenga@ufsj.edu.br"
+    orcid: "0000-0001-9799-5240"
+
+# Configurações de citação
+citation: false
+citations-hover: true
+footnotes-hover: true
+
+

@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Da Pergunta à Síntese: Revisões de Literatura em Saúde"
+  site-url: "https://henriquealvarenga.com"
+  site-path: "/Literature_Review"
+  favicon: favicon.ico
+  
+  navbar:
+    background: primary
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Tipos de Revisão"
+        href: 01-introducao.qmd
+      - text: "Acrônimos PICO"
+        href: 07-acronimos-pico.qmd
+      - text: "Atividades Práticas"
+        href: 09-pratica.qmd
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Início"
+        contents:
+          - text: "Apresentação"
+            href: index.qmd
+          - text: "Visão Geral dos Tipos de Revisão"
+            href: 01-introducao.qmd
+      - section: "Tipos de Revisão"
+        contents:
+          - text: "Revisão Narrativa"
+            href: 02-revisao-narrativa.qmd
+          - text: "Revisão Integrativa"
+            href: 03-revisao-integrativa.qmd
+          - text: "Revisão de Escopo"
+            href: 04-revisao-escopo.qmd
+          - text: "Revisão Sistemática"
+            href: 05-revisao-sistematica.qmd
+          - text: "Meta-análise"
+            href: 06-metanalise.qmd
+      - section: "Ferramentas"
+        contents:
+          - text: "Acrônimos PICO, PICo, PICOT"
+            href: 07-acronimos-pico.qmd
+          - text: "Registro de Protocolos (OSF)"
+            href: 08-registro-osf.qmd
+      - section: "Prática"
+        contents:
+          - text: "Atividades Práticas"
+            href: 09-pratica.qmd
+
+  page-footer:
+    left: "© 2025 Henrique Alvarenga da Silva - UFSJ"
+    right: 
+      - icon: github
+        href: https://henriquealvarenga.com
+
+format:
+  html:
+    theme: 
+      light: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    number-sections: false
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    
+execute:
+  freeze: auto
+  echo: false
+  warning: false
+  message: false

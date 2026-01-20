@@ -1,0 +1,294 @@
+---
+title: "Registro de Protocolos"
+subtitle: "OSF, PROSPERO e a transparência na pesquisa"
+---
+
+## Por que registrar o protocolo?
+
+O registro prévio do protocolo é uma prática fundamental para garantir **transparência, reprodutibilidade e integridade científica** em revisões de literatura [@stewart2012].
+
+Ao registrar publicamente o plano metodológico antes de iniciar a revisão, o pesquisador:
+
+- Documenta suas decisões metodológicas *a priori*
+- Evita que os resultados influenciem escolhas metodológicas
+- Permite que outros pesquisadores verifiquem se o estudo seguiu o planejado
+- Reduz o risco de viés de relato seletivo
+- Evita duplicação de esforços por outros grupos
+
+::: {.callout-important}
+## Princípio da transparência
+O registro do protocolo separa as decisões tomadas **antes** de conhecer os resultados (planejamento) daquelas tomadas **depois** (análise). Isso aumenta a credibilidade das conclusões.
+:::
+
+## O que é um protocolo de revisão?
+
+O protocolo é o **plano detalhado** de como a revisão será conduzida. Funciona como um "contrato" metodológico que o pesquisador assume publicamente.
+
+Um protocolo típico inclui:
+
+- Título da revisão
+- Pergunta de pesquisa (PICO ou variações)
+- Critérios de inclusão e exclusão
+- Estratégia de busca (bases de dados, termos)
+- Processo de seleção dos estudos
+- Método de extração de dados
+- Avaliação de qualidade/risco de viés
+- Plano de síntese dos resultados
+- Equipe envolvida
+- Cronograma
+
+## Principais plataformas de registro
+
+### PROSPERO
+
+O **PROSPERO** (International Prospective Register of Systematic Reviews) é a principal plataforma para registro de revisões sistemáticas na área da saúde.
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Mantido por** | Centre for Reviews and Dissemination (University of York) |
+| **Custo** | Gratuito |
+| **Foco** | Revisões sistemáticas em saúde e bem-estar |
+| **URL** | [www.crd.york.ac.uk/prospero](https://www.crd.york.ac.uk/prospero) |
+
+**Vantagens:**
+
+- Reconhecido internacionalmente
+- Específico para área da saúde
+- Exigido por muitos periódicos
+- Permite atualizações do registro
+- Gera número de registro citável (CRD42XXXXXXX)
+
+**Limitações:**
+
+- Apenas revisões sistemáticas (não aceita revisões de escopo desde 2022)
+- Foco em saúde e bem-estar social
+- Processo de aprovação pode levar algumas semanas
+
+::: {.callout-warning}
+## Atenção
+O PROSPERO só aceita registros de revisões que **ainda não iniciaram a extração de dados**. Se você já começou essa etapa, o registro será recusado.
+:::
+
+### Open Science Framework (OSF)
+
+O **OSF** é uma plataforma mais ampla para ciência aberta, que permite registrar protocolos de qualquer tipo de estudo, incluindo revisões [@foster2017].
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Mantido por** | Center for Open Science |
+| **Custo** | Gratuito |
+| **Foco** | Qualquer tipo de pesquisa |
+| **URL** | [osf.io](https://osf.io) |
+
+**Vantagens:**
+
+- Aceita qualquer tipo de revisão (narrativa, integrativa, escopo, sistemática)
+- Flexibilidade no formato do protocolo
+- Permite armazenar arquivos complementares (estratégia de busca, formulários)
+- Registro imediato (sem processo de aprovação)
+- Integração com outras ferramentas (GitHub, Zotero, etc.)
+- Possibilidade de criar pré-prints
+
+**Limitações:**
+
+- Menos específico que o PROSPERO
+- Menor reconhecimento em algumas áreas da saúde
+- Requer mais autonomia na elaboração do protocolo
+
+::: {.callout-tip}
+## Quando usar cada plataforma?
+
+| Tipo de revisão | Plataforma recomendada |
+|-----------------|------------------------|
+| Revisão sistemática (saúde) | PROSPERO |
+| Revisão de escopo | OSF |
+| Revisão integrativa | OSF |
+| Revisão narrativa | OSF (opcional) |
+| Meta-análise | PROSPERO (se parte de RS) |
+:::
+
+### Outras plataformas
+
+- **Cochrane Library:** para revisões Cochrane (processo próprio)
+- **JBI Evidence Synthesis:** aceita protocolos de revisões JBI
+- **Research Registry:** alternativa ao PROSPERO
+- **INPLASY:** plataforma internacional de protocolos
+
+## Como registrar no PROSPERO
+
+### Passo a passo
+
+1. **Crie uma conta** em [www.crd.york.ac.uk/prospero](https://www.crd.york.ac.uk/prospero)
+
+2. **Inicie um novo registro** clicando em "New registration"
+
+3. **Preencha os campos obrigatórios:**
+   - Título da revisão
+   - Pergunta de pesquisa
+   - Critérios de elegibilidade (PICO)
+   - Bases de dados a serem pesquisadas
+   - Método de seleção e extração
+   - Avaliação de qualidade
+   - Estratégia de síntese
+   - Membros da equipe
+
+4. **Submeta para revisão** — a equipe do PROSPERO verificará o registro
+
+5. **Receba o número de registro** (CRD42...) após aprovação
+
+6. **Atualize conforme necessário** durante a condução da revisão
+
+### Campos obrigatórios do PROSPERO
+
+| Campo | Descrição |
+|-------|-----------|
+| Review title | Título completo da revisão |
+| Anticipated start date | Data prevista de início |
+| Anticipated completion date | Data prevista de conclusão |
+| Stage of review | Etapa atual (ainda não iniciada extração) |
+| Named contact | Pesquisador responsável |
+| Review question | Pergunta estruturada (PICO) |
+| Searches | Bases de dados e estratégia |
+| Condition or domain | Condição de saúde estudada |
+| Participants/population | População elegível |
+| Intervention/exposure | Intervenção ou exposição |
+| Comparator | Grupo de comparação |
+| Main outcome | Desfecho primário |
+| Data extraction | Método de extração |
+| Risk of bias | Instrumento de avaliação |
+| Strategy for synthesis | Plano de síntese |
+
+## Como registrar no OSF
+
+### Passo a passo
+
+1. **Crie uma conta** em [osf.io](https://osf.io)
+
+2. **Crie um novo projeto** com título da revisão
+
+3. **Organize os componentes:**
+   - Protocolo (documento)
+   - Estratégia de busca
+   - Formulários de extração
+   - Dados (quando disponíveis)
+
+4. **Crie um "Registration":**
+   - Vá em "Registrations" > "New registration"
+   - Escolha um template (ex: "OSF Preregistration" ou "Open-Ended Registration")
+   - Preencha os campos solicitados
+
+5. **Submeta o registro** — fica imediatamente público e com DOI
+
+6. **Mantenha o projeto atualizado** durante a condução
+
+### Estrutura sugerida para protocolo no OSF
+```
+1. INFORMAÇÕES GERAIS
+   - Título
+   - Autores e afiliações
+   - Data do registro
+   - Tipo de revisão
+
+2. INTRODUÇÃO
+   - Justificativa
+   - Objetivos
+   - Pergunta de pesquisa (PICO/PICo/PCC)
+
+3. MÉTODOS
+   3.1 Critérios de elegibilidade
+       - Inclusão
+       - Exclusão
+   3.2 Fontes de informação
+       - Bases de dados
+       - Outras fontes
+   3.3 Estratégia de busca
+       - Termos e operadores
+       - Limites aplicados
+   3.4 Seleção dos estudos
+       - Processo de triagem
+       - Número de revisores
+   3.5 Extração de dados
+       - Variáveis extraídas
+       - Formulário utilizado
+   3.6 Avaliação de qualidade
+       - Instrumento
+       - Processo
+   3.7 Síntese dos resultados
+       - Método de síntese
+       - Análises planejadas
+
+4. CRONOGRAMA
+
+5. CONFLITOS DE INTERESSE
+
+6. FINANCIAMENTO
+```
+
+## Diferenças entre protocolo e artigo final
+
+É comum (e aceitável) que haja diferenças entre o protocolo registrado e o artigo final publicado. O importante é **documentar e justificar** qualquer mudança.
+
+| Aspecto | Protocolo | Artigo final |
+|---------|-----------|--------------|
+| Momento | Antes da coleta | Após análise |
+| Função | Planejamento | Relato |
+| Modificações | Possíveis, se justificadas | Reflete o que foi feito |
+| Transparência | Mostra a intenção | Mostra a execução |
+
+::: {.callout-warning}
+## Desvios do protocolo
+Se você precisar modificar algo do protocolo durante a revisão (ex: adicionar uma base de dados, mudar um critério), documente:
+
+1. O que foi modificado
+2. Por que foi modificado
+3. Quando foi modificado
+
+Relate essas mudanças no artigo final.
+:::
+
+## Benefícios do registro
+
+### Para o pesquisador
+
+- Organiza o planejamento da pesquisa
+- Protege a autoria e prioridade da ideia
+- Demonstra rigor metodológico
+- Facilita a escrita do artigo final
+- Aumenta chances de publicação
+
+### Para a ciência
+
+- Reduz viés de relato seletivo
+- Permite identificar revisões em andamento
+- Evita duplicação de esforços
+- Aumenta a transparência e confiança
+- Facilita a replicação
+
+### Para a prática clínica
+
+- Evidências mais confiáveis
+- Menor risco de conclusões enviesadas
+- Base mais sólida para diretrizes
+
+## Resumo
+
+::: {.callout-note}
+## Pontos-chave
+
+- O **registro do protocolo** aumenta transparência e reduz viés
+- **PROSPERO** é a plataforma padrão para revisões sistemáticas em saúde
+- **OSF** é mais flexível e aceita qualquer tipo de revisão
+- O registro deve ser feito **antes** de iniciar a extração de dados
+- **Mudanças no protocolo** são aceitáveis, desde que documentadas e justificadas
+- Muitos periódicos **exigem** registro prévio para publicação
+- O protocolo funciona como um "contrato" metodológico público
+:::
+
+## Leituras recomendadas
+
+- @stewart2012 — Why prospective registration of systematic reviews makes sense
+- @foster2017 — Open Science Framework (OSF)
+
+---
+
+Próximo capítulo: **[Atividades Práticas](09-pratica.qmd)**

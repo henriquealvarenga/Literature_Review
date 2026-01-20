@@ -1,0 +1,1713 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Henrique Alvarenga da Silva">
+
+<title>Revisão Sistemática – Da Pergunta à Síntese: Revisões de Literatura em Saúde</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 1em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./favicon.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-56346452e88ae1a5de58ede422006661.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nenhum resultado",
+    "search-matching-documents-text": "documentos correspondentes",
+    "search-copy-link-title": "Copiar link para a busca",
+    "search-hide-matches-text": "Esconder correspondências adicionais",
+    "search-more-match-text": "mais correspondência neste documento",
+    "search-more-matches-text": "mais correspondências neste documento",
+    "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Da Pergunta à Síntese: Revisões de Literatura em Saúde</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Procurar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Início</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./01-introducao.html"> 
+<span class="menu-text">Tipos de Revisão</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./07-acronimos-pico.html"> 
+<span class="menu-text">Acrônimos PICO</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./09-pratica.html"> 
+<span class="menu-text">Atividades Práticas</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-revisao-narrativa.html">Tipos de Revisão</a></li><li class="breadcrumb-item"><a href="./05-revisao-sistematica.html">Revisão Sistemática</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Procurar"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Início</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Apresentação</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01-introducao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Visão Geral dos Tipos de Revisão</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Tipos de Revisão</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-revisao-narrativa.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Revisão Narrativa</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-revisao-integrativa.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Revisão Integrativa</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-revisao-escopo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Revisão de Escopo</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./05-revisao-sistematica.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Revisão Sistemática</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./06-metanalise.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Meta-análise</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Ferramentas</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./07-acronimos-pico.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Acrônimos PICO, PICo, PICOT</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./08-registro-osf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Registro de Protocolos (OSF)</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Prática</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./09-pratica.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Atividades Práticas</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#o-que-é-uma-revisão-sistemática" id="toc-o-que-é-uma-revisão-sistemática" class="nav-link active" data-scroll-target="#o-que-é-uma-revisão-sistemática">O que é uma revisão sistemática?</a></li>
+  <li><a href="#características-principais" id="toc-características-principais" class="nav-link" data-scroll-target="#características-principais">Características principais</a></li>
+  <li><a href="#o-que-diferencia-a-revisão-sistemática" id="toc-o-que-diferencia-a-revisão-sistemática" class="nav-link" data-scroll-target="#o-que-diferencia-a-revisão-sistemática">O que diferencia a revisão sistemática?</a>
+  <ul class="collapse">
+  <li><a href="#protocolo-prévio" id="toc-protocolo-prévio" class="nav-link" data-scroll-target="#protocolo-prévio">1. Protocolo prévio</a></li>
+  <li><a href="#busca-exaustiva" id="toc-busca-exaustiva" class="nav-link" data-scroll-target="#busca-exaustiva">2. Busca exaustiva</a></li>
+  <li><a href="#avaliação-de-qualidade" id="toc-avaliação-de-qualidade" class="nav-link" data-scroll-target="#avaliação-de-qualidade">3. Avaliação de qualidade</a></li>
+  </ul></li>
+  <li><a href="#quando-usar-a-revisão-sistemática" id="toc-quando-usar-a-revisão-sistemática" class="nav-link" data-scroll-target="#quando-usar-a-revisão-sistemática">Quando usar a revisão sistemática?</a></li>
+  <li><a href="#quando-não-usar-a-revisão-sistemática" id="toc-quando-não-usar-a-revisão-sistemática" class="nav-link" data-scroll-target="#quando-não-usar-a-revisão-sistemática">Quando NÃO usar a revisão sistemática?</a></li>
+  <li><a href="#etapas-da-revisão-sistemática" id="toc-etapas-da-revisão-sistemática" class="nav-link" data-scroll-target="#etapas-da-revisão-sistemática">Etapas da revisão sistemática</a>
+  <ul class="collapse">
+  <li><a href="#etapa-1-formulação-da-pergunta" id="toc-etapa-1-formulação-da-pergunta" class="nav-link" data-scroll-target="#etapa-1-formulação-da-pergunta">Etapa 1: Formulação da pergunta</a></li>
+  <li><a href="#etapa-2-elaboração-e-registro-do-protocolo" id="toc-etapa-2-elaboração-e-registro-do-protocolo" class="nav-link" data-scroll-target="#etapa-2-elaboração-e-registro-do-protocolo">Etapa 2: Elaboração e registro do protocolo</a></li>
+  <li><a href="#etapa-3-busca-nas-bases-de-dados" id="toc-etapa-3-busca-nas-bases-de-dados" class="nav-link" data-scroll-target="#etapa-3-busca-nas-bases-de-dados">Etapa 3: Busca nas bases de dados</a></li>
+  <li><a href="#etapa-4-seleção-dos-estudos" id="toc-etapa-4-seleção-dos-estudos" class="nav-link" data-scroll-target="#etapa-4-seleção-dos-estudos">Etapa 4: Seleção dos estudos</a></li>
+  <li><a href="#etapa-5-extração-de-dados" id="toc-etapa-5-extração-de-dados" class="nav-link" data-scroll-target="#etapa-5-extração-de-dados">Etapa 5: Extração de dados</a></li>
+  <li><a href="#etapa-6-avaliação-do-risco-de-viés" id="toc-etapa-6-avaliação-do-risco-de-viés" class="nav-link" data-scroll-target="#etapa-6-avaliação-do-risco-de-viés">Etapa 6: Avaliação do risco de viés</a></li>
+  <li><a href="#etapa-7-síntese-dos-resultados" id="toc-etapa-7-síntese-dos-resultados" class="nav-link" data-scroll-target="#etapa-7-síntese-dos-resultados">Etapa 7: Síntese dos resultados</a></li>
+  <li><a href="#etapa-8-avaliação-da-certeza-da-evidência" id="toc-etapa-8-avaliação-da-certeza-da-evidência" class="nav-link" data-scroll-target="#etapa-8-avaliação-da-certeza-da-evidência">Etapa 8: Avaliação da certeza da evidência</a></li>
+  <li><a href="#etapa-9-redação-e-publicação" id="toc-etapa-9-redação-e-publicação" class="nav-link" data-scroll-target="#etapa-9-redação-e-publicação">Etapa 9: Redação e publicação</a></li>
+  </ul></li>
+  <li><a href="#prisma-2020" id="toc-prisma-2020" class="nav-link" data-scroll-target="#prisma-2020">PRISMA 2020</a></li>
+  <li><a href="#vantagens" id="toc-vantagens" class="nav-link" data-scroll-target="#vantagens">Vantagens</a></li>
+  <li><a href="#limitações" id="toc-limitações" class="nav-link" data-scroll-target="#limitações">Limitações</a></li>
+  <li><a href="#revisão-sistemática-vs.-outros-tipos" id="toc-revisão-sistemática-vs.-outros-tipos" class="nav-link" data-scroll-target="#revisão-sistemática-vs.-outros-tipos">Revisão sistemática vs.&nbsp;outros tipos</a></li>
+  <li><a href="#resumo" id="toc-resumo" class="nav-link" data-scroll-target="#resumo">Resumo</a></li>
+  <li><a href="#leituras-recomendadas" id="toc-leituras-recomendadas" class="nav-link" data-scroll-target="#leituras-recomendadas">Leituras recomendadas</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-revisao-narrativa.html">Tipos de Revisão</a></li><li class="breadcrumb-item"><a href="./05-revisao-sistematica.html">Revisão Sistemática</a></li></ol></nav>
+<div class="quarto-title">
+<div class="quarto-title-block"><div><h1 class="title">Revisão Sistemática</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Código</button></div></div>
+<p class="subtitle lead">O padrão-ouro para síntese de evidências</p>
+</div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Autor</div>
+  <div class="quarto-title-meta-heading">Afiliação</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author">Henrique Alvarenga da Silva <a href="mailto:henriquealvarenga@ufsj.edu.br" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0001-9799-5240" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            Universidade Federal de São João del-Rei (UFSJ)
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="o-que-é-uma-revisão-sistemática" class="level2">
+<h2 class="anchored" data-anchor-id="o-que-é-uma-revisão-sistemática">O que é uma revisão sistemática?</h2>
+<p>A revisão sistemática é um tipo de estudo secundário que utiliza métodos rigorosos e explícitos para identificar, selecionar, avaliar criticamente e sintetizar todas as evidências disponíveis sobre uma pergunta de pesquisa específica <span class="citation" data-cites="higgins2019">(<a href="#ref-higgins2019" role="doc-biblioref">Higgins et al., 2019</a>)</span>.</p>
+<p>É considerada o <strong>padrão-ouro</strong> para síntese de evidências porque minimiza vieses através de um processo transparente, reprodutível e abrangente. Seus resultados fundamentam diretrizes clínicas, políticas de saúde e decisões sobre práticas assistenciais.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Definição
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>“Uma revisão sistemática é uma revisão de uma pergunta claramente formulada que utiliza métodos sistemáticos e explícitos para identificar, selecionar e avaliar criticamente pesquisas relevantes, e para coletar e analisar dados dos estudos incluídos na revisão” <span class="citation" data-cites="higgins2019">(<a href="#ref-higgins2019" role="doc-biblioref">Higgins et al., 2019</a>)</span>.</p>
+</div>
+</div>
+</section>
+<section id="características-principais" class="level2">
+<h2 class="anchored" data-anchor-id="características-principais">Características principais</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 59%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Característica</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Pergunta de pesquisa</strong></td>
+<td>Específica, bem delimitada</td>
+</tr>
+<tr class="even">
+<td><strong>Protocolo</strong></td>
+<td>Obrigatório, registrado previamente</td>
+</tr>
+<tr class="odd">
+<td><strong>Estratégia de busca</strong></td>
+<td>Exaustiva, em múltiplas bases</td>
+</tr>
+<tr class="even">
+<td><strong>Seleção de estudos</strong></td>
+<td>Critérios rígidos, revisores independentes</td>
+</tr>
+<tr class="odd">
+<td><strong>Tipos de estudo</strong></td>
+<td>Geralmente homogêneos (ex: apenas ECRs)</td>
+</tr>
+<tr class="even">
+<td><strong>Avaliação de qualidade</strong></td>
+<td>Obrigatória, com instrumentos validados</td>
+</tr>
+<tr class="odd">
+<td><strong>Síntese dos resultados</strong></td>
+<td>Qualitativa e/ou quantitativa (meta-análise)</td>
+</tr>
+<tr class="even">
+<td><strong>Reprodutibilidade</strong></td>
+<td>Alta</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="o-que-diferencia-a-revisão-sistemática" class="level2">
+<h2 class="anchored" data-anchor-id="o-que-diferencia-a-revisão-sistemática">O que diferencia a revisão sistemática?</h2>
+<p>Três elementos fundamentais distinguem a revisão sistemática de outros tipos:</p>
+<section id="protocolo-prévio" class="level3">
+<h3 class="anchored" data-anchor-id="protocolo-prévio">1. Protocolo prévio</h3>
+<p>O método é definido <strong>antes</strong> de iniciar a revisão e registrado publicamente (PROSPERO, OSF). Isso evita que decisões metodológicas sejam influenciadas pelos resultados encontrados.</p>
+</section>
+<section id="busca-exaustiva" class="level3">
+<h3 class="anchored" data-anchor-id="busca-exaustiva">2. Busca exaustiva</h3>
+<p>A busca visa identificar <strong>todos</strong> os estudos relevantes, incluindo literatura cinzenta e estudos não publicados, para minimizar o viés de publicação.</p>
+</section>
+<section id="avaliação-de-qualidade" class="level3">
+<h3 class="anchored" data-anchor-id="avaliação-de-qualidade">3. Avaliação de qualidade</h3>
+<p>Cada estudo incluído é avaliado quanto ao <strong>risco de viés</strong> usando instrumentos padronizados. A qualidade da evidência influencia as conclusões.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Importante</span>Rigor metodológico
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A força da revisão sistemática está na transparência. Cada etapa é documentada de forma que outro pesquisador possa reproduzir o processo e chegar aos mesmos resultados.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="quando-usar-a-revisão-sistemática" class="level2">
+<h2 class="anchored" data-anchor-id="quando-usar-a-revisão-sistemática">Quando usar a revisão sistemática?</h2>
+<p>A revisão sistemática é indicada para:</p>
+<ul>
+<li>Responder a <strong>perguntas clínicas específicas</strong> sobre eficácia ou efetividade</li>
+<li>Fundamentar <strong>diretrizes clínicas</strong> e protocolos assistenciais</li>
+<li>Subsidiar <strong>políticas de saúde</strong> baseadas em evidências</li>
+<li>Resolver <strong>controvérsias</strong> quando estudos individuais são conflitantes</li>
+<li>Identificar a <strong>necessidade de novos estudos</strong> primários</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Exemplos de perguntas adequadas
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>“A terapia cognitivo-comportamental é eficaz para tratamento de insônia em adultos?”</li>
+<li>“Qual a acurácia diagnóstica da ultrassonografia para apendicite aguda?”</li>
+<li>“Antidepressivos são superiores ao placebo no tratamento de depressão leve?”</li>
+</ul>
+<p>Observe que são perguntas específicas, com população, intervenção e desfecho bem definidos.</p>
+</div>
+</div>
+</section>
+<section id="quando-não-usar-a-revisão-sistemática" class="level2">
+<h2 class="anchored" data-anchor-id="quando-não-usar-a-revisão-sistemática">Quando NÃO usar a revisão sistemática?</h2>
+<p>A revisão sistemática <strong>não é adequada</strong> quando:</p>
+<ul>
+<li>A pergunta é <strong>ampla ou exploratória</strong> (prefira revisão de escopo)</li>
+<li>Há <strong>poucos estudos</strong> primários disponíveis</li>
+<li>Os estudos são <strong>muito heterogêneos</strong> para síntese</li>
+<li>O objetivo é <strong>fundamentação teórica</strong> (prefira revisão narrativa)</li>
+<li>Há <strong>urgência</strong> e não há tempo para o processo completo (considere revisão rápida)</li>
+</ul>
+</section>
+<section id="etapas-da-revisão-sistemática" class="level2">
+<h2 class="anchored" data-anchor-id="etapas-da-revisão-sistemática">Etapas da revisão sistemática</h2>
+<p>O processo segue etapas bem definidas, conforme o Cochrane Handbook <span class="citation" data-cites="higgins2019">(<a href="#ref-higgins2019" role="doc-biblioref">Higgins et al., 2019</a>)</span>:</p>
+<ol type="1">
+<li>Formular a pergunta PICO</li>
+<li>Elaborar e registrar o protocolo</li>
+<li>Buscar estudos nas bases de dados</li>
+<li>Selecionar estudos por critérios</li>
+<li>Extrair dados dos estudos</li>
+<li>Avaliar risco de viés</li>
+<li>Sintetizar resultados</li>
+<li>Avaliar certeza da evidência</li>
+<li>Redigir e publicar a revisão</li>
+</ol>
+<section id="etapa-1-formulação-da-pergunta" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-1-formulação-da-pergunta">Etapa 1: Formulação da pergunta</h3>
+<p>A pergunta deve seguir o formato <strong>PICO</strong>:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 36%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Elemento</th>
+<th>Descrição</th>
+<th>Exemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>P</strong> - População</td>
+<td>Quem são os pacientes?</td>
+<td>Adultos com transtorno de ansiedade generalizada</td>
+</tr>
+<tr class="even">
+<td><strong>I</strong> - Intervenção</td>
+<td>O que está sendo avaliado?</td>
+<td>Terapia cognitivo-comportamental</td>
+</tr>
+<tr class="odd">
+<td><strong>C</strong> - Comparação</td>
+<td>Qual a alternativa?</td>
+<td>Lista de espera ou tratamento usual</td>
+</tr>
+<tr class="even">
+<td><strong>O</strong> - Outcome</td>
+<td>Qual o desfecho?</td>
+<td>Redução dos sintomas de ansiedade</td>
+</tr>
+</tbody>
+</table>
+<p>➡️ Veja mais em <a href="./07-acronimos-pico.html">Acrônimos PICO</a></p>
+</section>
+<section id="etapa-2-elaboração-e-registro-do-protocolo" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-2-elaboração-e-registro-do-protocolo">Etapa 2: Elaboração e registro do protocolo</h3>
+<p>O protocolo deve conter:</p>
+<ul>
+<li>Pergunta de pesquisa (PICO)</li>
+<li>Critérios de inclusão e exclusão</li>
+<li>Estratégia de busca</li>
+<li>Processo de seleção</li>
+<li>Variáveis a serem extraídas</li>
+<li>Método de avaliação de qualidade</li>
+<li>Plano de síntese dos dados</li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Importante</span>Registro obrigatório
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Registre o protocolo no <strong>PROSPERO</strong> (para revisões de saúde) ou <strong>OSF</strong> antes de iniciar a busca. Isso aumenta a transparência e evita duplicação de esforços.</p>
+<p>➡️ Veja mais em <a href="./08-registro-osf.html">Registro de Protocolos</a></p>
+</div>
+</div>
+</section>
+<section id="etapa-3-busca-nas-bases-de-dados" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-3-busca-nas-bases-de-dados">Etapa 3: Busca nas bases de dados</h3>
+<p>A busca deve ser:</p>
+<ul>
+<li><strong>Sensível:</strong> capturar o máximo de estudos relevantes</li>
+<li><strong>Específica:</strong> evitar excesso de estudos irrelevantes</li>
+<li><strong>Reprodutível:</strong> documentada em detalhes</li>
+</ul>
+<p><strong>Bases de dados recomendadas:</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Área</th>
+<th>Bases principais</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Medicina/Saúde</td>
+<td>PubMed/MEDLINE, Embase, Cochrane CENTRAL</td>
+</tr>
+<tr class="even">
+<td>Enfermagem</td>
+<td>CINAHL</td>
+</tr>
+<tr class="odd">
+<td>Psicologia</td>
+<td>PsycINFO</td>
+</tr>
+<tr class="even">
+<td>América Latina</td>
+<td>LILACS</td>
+</tr>
+<tr class="odd">
+<td>Multidisciplinar</td>
+<td>Scopus, Web of Science</td>
+</tr>
+</tbody>
+</table>
+<p>Inclua também:</p>
+<ul>
+<li>Busca manual em referências dos estudos incluídos</li>
+<li>Literatura cinzenta (teses, dissertações, anais)</li>
+<li>Contato com especialistas</li>
+<li>Registros de ensaios clínicos (ClinicalTrials.gov)</li>
+</ul>
+</section>
+<section id="etapa-4-seleção-dos-estudos" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-4-seleção-dos-estudos">Etapa 4: Seleção dos estudos</h3>
+<p>O processo de seleção deve ser realizado por <strong>dois revisores independentes</strong>:</p>
+<ol type="1">
+<li><strong>Triagem por título e resumo:</strong> excluir estudos claramente irrelevantes</li>
+<li><strong>Leitura do texto completo:</strong> aplicar todos os critérios de elegibilidade</li>
+<li><strong>Resolução de discordâncias:</strong> consenso ou terceiro revisor</li>
+</ol>
+<p>Documente o processo no <strong>fluxograma PRISMA</strong> <span class="citation" data-cites="page2021">(<a href="#ref-page2021" role="doc-biblioref">Page et al., 2021</a>)</span>.</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+    A[Registros identificados&lt;br&gt;nas bases de dados] --&gt; B[Registros após&lt;br&gt;remoção de duplicatas]
+    B --&gt; C[Registros triados&lt;br&gt;por título/resumo]
+    C --&gt; D[Registros excluídos]
+    C --&gt; E[Artigos em texto completo&lt;br&gt;avaliados para elegibilidade]
+    E --&gt; F[Artigos excluídos&lt;br&gt;com motivos]
+    E --&gt; G[Estudos incluídos&lt;br&gt;na revisão]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="etapa-5-extração-de-dados" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-5-extração-de-dados">Etapa 5: Extração de dados</h3>
+<p>Utilize um formulário padronizado para extrair:</p>
+<ul>
+<li>Características do estudo (autor, ano, país, delineamento)</li>
+<li>Características dos participantes (n, idade, sexo, critérios diagnósticos)</li>
+<li>Detalhes da intervenção e comparação</li>
+<li>Desfechos e medidas utilizadas</li>
+<li>Resultados numéricos (médias, desvios-padrão, razões de chance, etc.)</li>
+<li>Fontes de financiamento e conflitos de interesse</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Dica prática
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Faça um piloto da extração com 2-3 estudos para calibrar os revisores e ajustar o formulário antes de prosseguir.</p>
+</div>
+</div>
+</section>
+<section id="etapa-6-avaliação-do-risco-de-viés" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-6-avaliação-do-risco-de-viés">Etapa 6: Avaliação do risco de viés</h3>
+<p>Cada estudo deve ser avaliado quanto à qualidade metodológica. Os instrumentos variam conforme o delineamento:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Tipo de estudo</th>
+<th>Instrumento recomendado</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Ensaios clínicos randomizados</td>
+<td>Cochrane Risk of Bias (RoB 2)</td>
+</tr>
+<tr class="even">
+<td>Estudos observacionais</td>
+<td>Newcastle-Ottawa Scale, ROBINS-I</td>
+</tr>
+<tr class="odd">
+<td>Estudos diagnósticos</td>
+<td>QUADAS-2</td>
+</tr>
+<tr class="even">
+<td>Estudos qualitativos</td>
+<td>CASP, JBI Critical Appraisal</td>
+</tr>
+</tbody>
+</table>
+<p>A avaliação deve ser feita por <strong>dois revisores independentes</strong>.</p>
+</section>
+<section id="etapa-7-síntese-dos-resultados" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-7-síntese-dos-resultados">Etapa 7: Síntese dos resultados</h3>
+<p>A síntese pode ser:</p>
+<p><strong>Qualitativa (narrativa):</strong> quando os estudos são muito heterogêneos para combinação estatística. Descreve os achados de forma estruturada, agrupando por características relevantes.</p>
+<p><strong>Quantitativa (meta-análise):</strong> quando os estudos são suficientemente semelhantes, permite calcular uma estimativa combinada do efeito.</p>
+<p>➡️ Veja mais em <a href="./06-metanalise.html">Meta-análise</a></p>
+</section>
+<section id="etapa-8-avaliação-da-certeza-da-evidência" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-8-avaliação-da-certeza-da-evidência">Etapa 8: Avaliação da certeza da evidência</h3>
+<p>O sistema <strong>GRADE</strong> <span class="citation" data-cites="guyatt2008">(<a href="#ref-guyatt2008" role="doc-biblioref">Guyatt et al., 2008</a>)</span> é o método recomendado para avaliar a qualidade geral da evidência para cada desfecho:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 35%">
+<col style="width: 65%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Nível</th>
+<th>Significado</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Alta</strong></td>
+<td>Muita confiança no efeito estimado</td>
+</tr>
+<tr class="even">
+<td><strong>Moderada</strong></td>
+<td>Confiança moderada; o efeito verdadeiro provavelmente é próximo</td>
+</tr>
+<tr class="odd">
+<td><strong>Baixa</strong></td>
+<td>Confiança limitada; o efeito pode ser diferente</td>
+</tr>
+<tr class="even">
+<td><strong>Muito baixa</strong></td>
+<td>Pouca confiança; o efeito é incerto</td>
+</tr>
+</tbody>
+</table>
+<p>Fatores que reduzem a qualidade: risco de viés, inconsistência, imprecisão, evidência indireta, viés de publicação.</p>
+</section>
+<section id="etapa-9-redação-e-publicação" class="level3">
+<h3 class="anchored" data-anchor-id="etapa-9-redação-e-publicação">Etapa 9: Redação e publicação</h3>
+<p>O relato deve seguir as diretrizes <strong>PRISMA 2020</strong> <span class="citation" data-cites="page2021">(<a href="#ref-page2021" role="doc-biblioref">Page et al., 2021</a>)</span>, que incluem 27 itens obrigatórios para garantir transparência e completude.</p>
+</section>
+</section>
+<section id="prisma-2020" class="level2">
+<h2 class="anchored" data-anchor-id="prisma-2020">PRISMA 2020</h2>
+<p>O <strong>PRISMA</strong> (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) é o checklist padrão para relato de revisões sistemáticas <span class="citation" data-cites="page2021">(<a href="#ref-page2021" role="doc-biblioref">Page et al., 2021</a>)</span>. A versão 2020 inclui:</p>
+<ul>
+<li>Checklist com 27 itens</li>
+<li>Modelo de fluxograma</li>
+<li>Orientações para cada item</li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Aviso</span>Atenção
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Muitos periódicos exigem o checklist PRISMA preenchido como condição para submissão. Verifique as instruções aos autores antes de submeter.</p>
+</div>
+</div>
+</section>
+<section id="vantagens" class="level2">
+<h2 class="anchored" data-anchor-id="vantagens">Vantagens</h2>
+<ul>
+<li><strong>Rigor metodológico:</strong> minimiza vieses na seleção e análise</li>
+<li><strong>Transparência:</strong> processo reprodutível e auditável</li>
+<li><strong>Abrangência:</strong> busca exaustiva da literatura</li>
+<li><strong>Confiabilidade:</strong> avaliação de qualidade dos estudos incluídos</li>
+<li><strong>Força de evidência:</strong> alto nível na hierarquia de evidências</li>
+<li><strong>Utilidade clínica:</strong> fundamenta diretrizes e decisões</li>
+</ul>
+</section>
+<section id="limitações" class="level2">
+<h2 class="anchored" data-anchor-id="limitações">Limitações</h2>
+<ul>
+<li><strong>Tempo e recursos:</strong> processo demorado (6-18 meses)</li>
+<li><strong>Dependência de estudos primários:</strong> qualidade limitada pela qualidade dos estudos originais</li>
+<li><strong>Viés de publicação:</strong> estudos negativos podem não estar publicados</li>
+<li><strong>Heterogeneidade:</strong> estudos muito diferentes dificultam síntese</li>
+<li><strong>Desatualização:</strong> pode ficar obsoleta rapidamente em áreas com muita produção</li>
+</ul>
+</section>
+<section id="revisão-sistemática-vs.-outros-tipos" class="level2">
+<h2 class="anchored" data-anchor-id="revisão-sistemática-vs.-outros-tipos">Revisão sistemática vs.&nbsp;outros tipos</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Aspecto</th>
+<th style="text-align: center;">Narrativa</th>
+<th style="text-align: center;">Integrativa</th>
+<th style="text-align: center;">Escopo</th>
+<th style="text-align: center;">Sistemática</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pergunta</td>
+<td style="text-align: center;">Ampla</td>
+<td style="text-align: center;">Ampla</td>
+<td style="text-align: center;">Ampla</td>
+<td style="text-align: center;">Específica</td>
+</tr>
+<tr class="even">
+<td>Protocolo</td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;">Recomendado</td>
+<td style="text-align: center;">Recomendado</td>
+<td style="text-align: center;">Obrigatório</td>
+</tr>
+<tr class="odd">
+<td>Busca</td>
+<td style="text-align: center;">Não sistemática</td>
+<td style="text-align: center;">Sistemática</td>
+<td style="text-align: center;">Sistemática</td>
+<td style="text-align: center;">Exaustiva</td>
+</tr>
+<tr class="even">
+<td>Avaliação de qualidade</td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;">Opcional</td>
+<td style="text-align: center;">Não</td>
+<td style="text-align: center;">Obrigatória</td>
+</tr>
+<tr class="odd">
+<td>Síntese</td>
+<td style="text-align: center;">Qualitativa</td>
+<td style="text-align: center;">Qualitativa</td>
+<td style="text-align: center;">Descritiva</td>
+<td style="text-align: center;">Quali/quanti</td>
+</tr>
+<tr class="even">
+<td>Nível de evidência</td>
+<td style="text-align: center;">Baixo</td>
+<td style="text-align: center;">Moderado</td>
+<td style="text-align: center;">—</td>
+<td style="text-align: center;">Alto</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="resumo" class="level2">
+<h2 class="anchored" data-anchor-id="resumo">Resumo</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Pontos-chave
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>A revisão sistemática é o <strong>padrão-ouro</strong> para síntese de evidências</li>
+<li>Exige <strong>protocolo registrado</strong> antes do início</li>
+<li>A busca deve ser <strong>exaustiva</strong> e documentada</li>
+<li>A seleção e extração são feitas por <strong>dois revisores independentes</strong></li>
+<li>A <strong>avaliação de qualidade</strong> dos estudos é obrigatória</li>
+<li>O relato deve seguir as diretrizes <strong>PRISMA 2020</strong> <span class="citation" data-cites="page2021">(<a href="#ref-page2021" role="doc-biblioref">Page et al., 2021</a>)</span></li>
+<li>Fundamenta <strong>diretrizes clínicas</strong> e <strong>decisões em saúde</strong></li>
+<li>Demanda <strong>tempo e recursos</strong> significativos</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="leituras-recomendadas" class="level2">
+<h2 class="anchored" data-anchor-id="leituras-recomendadas">Leituras recomendadas</h2>
+<ul>
+<li><span class="citation" data-cites="higgins2019">Higgins et al. (<a href="#ref-higgins2019" role="doc-biblioref">2019</a>)</span> — Cochrane Handbook for Systematic Reviews of Interventions</li>
+<li><span class="citation" data-cites="page2021">Page et al. (<a href="#ref-page2021" role="doc-biblioref">2021</a>)</span> — The PRISMA 2020 statement</li>
+<li><span class="citation" data-cites="moher2009">Moher et al. (<a href="#ref-moher2009" role="doc-biblioref">2009</a>)</span> — PRISMA statement (versão original)</li>
+<li><span class="citation" data-cites="sampaio2007">Sampaio; Mancini (<a href="#ref-sampaio2007" role="doc-biblioref">2007</a>)</span> — Estudos de revisão sistemática: um guia para síntese criteriosa</li>
+</ul>
+<hr>
+<p>Próximo capítulo: <strong><a href="./06-metanalise.html">Meta-análise</a></strong></p>
+
+
+<!-- -->
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referências</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
+<div id="ref-guyatt2008" class="csl-entry" role="listitem">
+GUYATT, Gordon H. <em>et al.</em> <a href="https://doi.org/10.1136/bmj.39489.470347.AD"><span>GRADE</span>: an emerging consensus on rating quality of evidence and strength of recommendations</a>. <strong>BMJ</strong>, v. 336, n. 7650, p. 924–926, 2008.
+</div>
+<div id="ref-higgins2019" class="csl-entry" role="listitem">
+HIGGINS, Julian P. T. <em>et al.</em> <strong><a href="https://doi.org/10.1002/9781119536604">Cochrane Handbook for Systematic Reviews of Interventions</a></strong>. 2nd. ed. Chichester: John Wiley &amp; Sons, 2019.
+</div>
+<div id="ref-moher2009" class="csl-entry" role="listitem">
+MOHER, David <em>et al.</em> <a href="https://doi.org/10.1371/journal.pmed.1000097">Preferred reporting items for systematic reviews and meta-analyses: the <span>PRISMA</span> statement</a>. <strong>PLoS Medicine</strong>, v. 6, n. 7, p. e1000097, 2009.
+</div>
+<div id="ref-page2021" class="csl-entry" role="listitem">
+PAGE, Matthew J. <em>et al.</em> <a href="https://doi.org/10.1136/bmj.n71">The <span>PRISMA</span> 2020 statement: an updated guideline for reporting systematic reviews</a>. <strong>BMJ</strong>, v. 372, p. n71, 2021.
+</div>
+<div id="ref-sampaio2007" class="csl-entry" role="listitem">
+SAMPAIO, Rosana Ferreira; MANCINI, Marisa Cotta. <a href="https://doi.org/10.1590/S1413-35552007000100013">Estudos de revisão sistemática: um guia para síntese criteriosa da evidência científica</a>. <strong>Revista Brasileira de Fisioterapia</strong>, v. 11, n. 1, p. 83–89, 2007.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiada");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiada");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+    const viewSource = window.document.getElementById('quarto-view-source') ||
+                       window.document.getElementById('quarto-code-tools-source');
+    if (viewSource) {
+      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
+      viewSource.addEventListener("click", function(e) {
+        if (sourceUrl) {
+          // rstudio viewer pane
+          if (/\bcapabilities=\b/.test(window.location)) {
+            window.open(sourceUrl);
+          } else {
+            window.location.href = sourceUrl;
+          }
+        } else {
+          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
+          modal.show();
+        }
+        return false;
+      });
+    }
+    function toggleCodeHandler(show) {
+      return function(e) {
+        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
+        for (let i=0; i<detailsSrc.length; i++) {
+          const details = detailsSrc[i].parentElement;
+          if (show) {
+            details.open = true;
+          } else {
+            details.removeAttribute("open");
+          }
+        }
+        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
+        const fromCls = show ? "hidden" : "unhidden";
+        const toCls = show ? "unhidden" : "hidden";
+        for (let i=0; i<cellCodeDivs.length; i++) {
+          const codeDiv = cellCodeDivs[i];
+          if (codeDiv.classList.contains(fromCls)) {
+            codeDiv.classList.remove(fromCls);
+            codeDiv.classList.add(toCls);
+          } 
+        }
+        return false;
+      }
+    }
+    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
+    if (hideAllCode) {
+      hideAllCode.addEventListener("click", toggleCodeHandler(false));
+    }
+    const showAllCode = window.document.getElementById("quarto-show-all-code");
+    if (showAllCode) {
+      showAllCode.addEventListener("click", toggleCodeHandler(true));
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/henriquealvarenga\.com");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Código fonte</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Revisão Sistemática"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "O padrão-ouro para síntese de evidências"</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">## O que é uma revisão sistemática?</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>A revisão sistemática é um tipo de estudo secundário que utiliza métodos rigorosos e explícitos para identificar, selecionar, avaliar criticamente e sintetizar todas as evidências disponíveis sobre uma pergunta de pesquisa específica <span class="co">[</span><span class="ot">@higgins2019</span><span class="co">]</span>.</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>É considerada o **padrão-ouro** para síntese de evidências porque minimiza vieses através de um processo transparente, reprodutível e abrangente. Seus resultados fundamentam diretrizes clínicas, políticas de saúde e decisões sobre práticas assistenciais.</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">## Definição</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>"Uma revisão sistemática é uma revisão de uma pergunta claramente formulada que utiliza métodos sistemáticos e explícitos para identificar, selecionar e avaliar criticamente pesquisas relevantes, e para coletar e analisar dados dos estudos incluídos na revisão" <span class="co">[</span><span class="ot">@higgins2019</span><span class="co">]</span>.</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## Características principais</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Característica <span class="pp">|</span> Descrição <span class="pp">|</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------------|-----------|</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Pergunta de pesquisa** <span class="pp">|</span> Específica, bem delimitada <span class="pp">|</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Protocolo** <span class="pp">|</span> Obrigatório, registrado previamente <span class="pp">|</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Estratégia de busca** <span class="pp">|</span> Exaustiva, em múltiplas bases <span class="pp">|</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Seleção de estudos** <span class="pp">|</span> Critérios rígidos, revisores independentes <span class="pp">|</span></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Tipos de estudo** <span class="pp">|</span> Geralmente homogêneos (ex: apenas ECRs) <span class="pp">|</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Avaliação de qualidade** <span class="pp">|</span> Obrigatória, com instrumentos validados <span class="pp">|</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Síntese dos resultados** <span class="pp">|</span> Qualitativa e/ou quantitativa (meta-análise) <span class="pp">|</span></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Reprodutibilidade** <span class="pp">|</span> Alta <span class="pp">|</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="fu">## O que diferencia a revisão sistemática?</span></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>Três elementos fundamentais distinguem a revisão sistemática de outros tipos:</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="fu">### 1. Protocolo prévio</span></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>O método é definido **antes** de iniciar a revisão e registrado publicamente (PROSPERO, OSF). Isso evita que decisões metodológicas sejam influenciadas pelos resultados encontrados.</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="fu">### 2. Busca exaustiva</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>A busca visa identificar **todos** os estudos relevantes, incluindo literatura cinzenta e estudos não publicados, para minimizar o viés de publicação.</span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="fu">### 3. Avaliação de qualidade</span></span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>Cada estudo incluído é avaliado quanto ao **risco de viés** usando instrumentos padronizados. A qualidade da evidência influencia as conclusões.</span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>::: {.callout-important}</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="fu">## Rigor metodológico</span></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>A força da revisão sistemática está na transparência. Cada etapa é documentada de forma que outro pesquisador possa reproduzir o processo e chegar aos mesmos resultados.</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="fu">## Quando usar a revisão sistemática?</span></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>A revisão sistemática é indicada para:</span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Responder a **perguntas clínicas específicas** sobre eficácia ou efetividade</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Fundamentar **diretrizes clínicas** e protocolos assistenciais</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Subsidiar **políticas de saúde** baseadas em evidências</span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Resolver **controvérsias** quando estudos individuais são conflitantes</span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Identificar a **necessidade de novos estudos** primários</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip}</span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="fu">## Exemplos de perguntas adequadas</span></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>"A terapia cognitivo-comportamental é eficaz para tratamento de insônia em adultos?"</span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>"Qual a acurácia diagnóstica da ultrassonografia para apendicite aguda?"</span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>"Antidepressivos são superiores ao placebo no tratamento de depressão leve?"</span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>Observe que são perguntas específicas, com população, intervenção e desfecho bem definidos.</span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="fu">## Quando NÃO usar a revisão sistemática?</span></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>A revisão sistemática **não é adequada** quando:</span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A pergunta é **ampla ou exploratória** (prefira revisão de escopo)</span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Há **poucos estudos** primários disponíveis</span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Os estudos são **muito heterogêneos** para síntese</span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>O objetivo é **fundamentação teórica** (prefira revisão narrativa)</span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Há **urgência** e não há tempo para o processo completo (considere revisão rápida)</span>
+<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a><span class="fu">## Etapas da revisão sistemática</span></span>
+<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>O processo segue etapas bem definidas, conforme o Cochrane Handbook <span class="co">[</span><span class="ot">@higgins2019</span><span class="co">]</span>:</span>
+<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>Formular a pergunta PICO</span>
+<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>Elaborar e registrar o protocolo</span>
+<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>Buscar estudos nas bases de dados</span>
+<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a><span class="ss">4. </span>Selecionar estudos por critérios</span>
+<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a><span class="ss">5. </span>Extrair dados dos estudos</span>
+<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a><span class="ss">6. </span>Avaliar risco de viés</span>
+<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a><span class="ss">7. </span>Sintetizar resultados</span>
+<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a><span class="ss">8. </span>Avaliar certeza da evidência</span>
+<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a><span class="ss">9. </span>Redigir e publicar a revisão</span>
+<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 1: Formulação da pergunta</span></span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a>A pergunta deve seguir o formato **PICO**:</span>
+<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Descrição <span class="pp">|</span> Exemplo <span class="pp">|</span></span>
+<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-----------|---------|</span></span>
+<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** - População <span class="pp">|</span> Quem são os pacientes? <span class="pp">|</span> Adultos com transtorno de ansiedade generalizada <span class="pp">|</span></span>
+<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** - Intervenção <span class="pp">|</span> O que está sendo avaliado? <span class="pp">|</span> Terapia cognitivo-comportamental <span class="pp">|</span></span>
+<span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** - Comparação <span class="pp">|</span> Qual a alternativa? <span class="pp">|</span> Lista de espera ou tratamento usual <span class="pp">|</span></span>
+<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** - Outcome <span class="pp">|</span> Qual o desfecho? <span class="pp">|</span> Redução dos sintomas de ansiedade <span class="pp">|</span></span>
+<span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a>➡️ Veja mais em <span class="co">[</span><span class="ot">Acrônimos PICO</span><span class="co">](07-acronimos-pico.qmd)</span></span>
+<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 2: Elaboração e registro do protocolo</span></span>
+<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a>O protocolo deve conter:</span>
+<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Pergunta de pesquisa (PICO)</span>
+<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Critérios de inclusão e exclusão</span>
+<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Estratégia de busca</span>
+<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Processo de seleção</span>
+<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Variáveis a serem extraídas</span>
+<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Método de avaliação de qualidade</span>
+<span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Plano de síntese dos dados</span>
+<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a>::: {.callout-important}</span>
+<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a><span class="fu">## Registro obrigatório</span></span>
+<span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a>Registre o protocolo no **PROSPERO** (para revisões de saúde) ou **OSF** antes de iniciar a busca. Isso aumenta a transparência e evita duplicação de esforços.</span>
+<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a>➡️ Veja mais em <span class="co">[</span><span class="ot">Registro de Protocolos</span><span class="co">](08-registro-osf.qmd)</span></span>
+<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 3: Busca nas bases de dados</span></span>
+<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a>A busca deve ser:</span>
+<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Sensível:** capturar o máximo de estudos relevantes</span>
+<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Específica:** evitar excesso de estudos irrelevantes</span>
+<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Reprodutível:** documentada em detalhes</span>
+<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a>**Bases de dados recomendadas:**</span>
+<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Área <span class="pp">|</span> Bases principais <span class="pp">|</span></span>
+<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a><span class="pp">|------|------------------|</span></span>
+<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Medicina/Saúde <span class="pp">|</span> PubMed/MEDLINE, Embase, Cochrane CENTRAL <span class="pp">|</span></span>
+<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Enfermagem <span class="pp">|</span> CINAHL <span class="pp">|</span></span>
+<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Psicologia <span class="pp">|</span> PsycINFO <span class="pp">|</span></span>
+<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> América Latina <span class="pp">|</span> LILACS <span class="pp">|</span></span>
+<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Multidisciplinar <span class="pp">|</span> Scopus, Web of Science <span class="pp">|</span></span>
+<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a>Inclua também:</span>
+<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Busca manual em referências dos estudos incluídos</span>
+<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Literatura cinzenta (teses, dissertações, anais)</span>
+<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Contato com especialistas</span>
+<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Registros de ensaios clínicos (ClinicalTrials.gov)</span>
+<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 4: Seleção dos estudos</span></span>
+<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a>O processo de seleção deve ser realizado por **dois revisores independentes**:</span>
+<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**Triagem por título e resumo:** excluir estudos claramente irrelevantes</span>
+<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**Leitura do texto completo:** aplicar todos os critérios de elegibilidade</span>
+<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**Resolução de discordâncias:** consenso ou terceiro revisor</span>
+<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a>Documente o processo no **fluxograma PRISMA** <span class="co">[</span><span class="ot">@page2021</span><span class="co">]</span>.</span>
+<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a><span class="in">```{mermaid}</span></span>
+<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>flowchart TD</span>
+<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a>    A[Registros identificados&lt;br&gt;nas bases de dados] --&gt; B[Registros após&lt;br&gt;remoção de duplicatas]</span>
+<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a>    B --&gt; C[Registros triados&lt;br&gt;por título/resumo]</span>
+<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a>    C --&gt; D[Registros excluídos]</span>
+<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>    C --&gt; E[Artigos em texto completo&lt;br&gt;avaliados para elegibilidade]</span>
+<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a>    E --&gt; F[Artigos excluídos&lt;br&gt;com motivos]</span>
+<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a>    E --&gt; G[Estudos incluídos&lt;br&gt;na revisão]</span>
+<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 5: Extração de dados</span></span>
+<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a>Utilize um formulário padronizado para extrair:</span>
+<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Características do estudo (autor, ano, país, delineamento)</span>
+<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Características dos participantes (n, idade, sexo, critérios diagnósticos)</span>
+<span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Detalhes da intervenção e comparação</span>
+<span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Desfechos e medidas utilizadas</span>
+<span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Resultados numéricos (médias, desvios-padrão, razões de chance, etc.)</span>
+<span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Fontes de financiamento e conflitos de interesse</span>
+<span id="cb1-182"><a href="#cb1-182" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip}</span>
+<span id="cb1-184"><a href="#cb1-184" aria-hidden="true" tabindex="-1"></a><span class="fu">## Dica prática</span></span>
+<span id="cb1-185"><a href="#cb1-185" aria-hidden="true" tabindex="-1"></a>Faça um piloto da extração com 2-3 estudos para calibrar os revisores e ajustar o formulário antes de prosseguir.</span>
+<span id="cb1-186"><a href="#cb1-186" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-187"><a href="#cb1-187" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-188"><a href="#cb1-188" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 6: Avaliação do risco de viés</span></span>
+<span id="cb1-189"><a href="#cb1-189" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-190"><a href="#cb1-190" aria-hidden="true" tabindex="-1"></a>Cada estudo deve ser avaliado quanto à qualidade metodológica. Os instrumentos variam conforme o delineamento:</span>
+<span id="cb1-191"><a href="#cb1-191" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-192"><a href="#cb1-192" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Tipo de estudo <span class="pp">|</span> Instrumento recomendado <span class="pp">|</span></span>
+<span id="cb1-193"><a href="#cb1-193" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------------|-------------------------|</span></span>
+<span id="cb1-194"><a href="#cb1-194" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Ensaios clínicos randomizados <span class="pp">|</span> Cochrane Risk of Bias (RoB 2) <span class="pp">|</span></span>
+<span id="cb1-195"><a href="#cb1-195" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Estudos observacionais <span class="pp">|</span> Newcastle-Ottawa Scale, ROBINS-I <span class="pp">|</span></span>
+<span id="cb1-196"><a href="#cb1-196" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Estudos diagnósticos <span class="pp">|</span> QUADAS-2 <span class="pp">|</span></span>
+<span id="cb1-197"><a href="#cb1-197" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Estudos qualitativos <span class="pp">|</span> CASP, JBI Critical Appraisal <span class="pp">|</span></span>
+<span id="cb1-198"><a href="#cb1-198" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-199"><a href="#cb1-199" aria-hidden="true" tabindex="-1"></a>A avaliação deve ser feita por **dois revisores independentes**.</span>
+<span id="cb1-200"><a href="#cb1-200" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-201"><a href="#cb1-201" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 7: Síntese dos resultados</span></span>
+<span id="cb1-202"><a href="#cb1-202" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-203"><a href="#cb1-203" aria-hidden="true" tabindex="-1"></a>A síntese pode ser:</span>
+<span id="cb1-204"><a href="#cb1-204" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-205"><a href="#cb1-205" aria-hidden="true" tabindex="-1"></a>**Qualitativa (narrativa):** quando os estudos são muito heterogêneos para combinação estatística. Descreve os achados de forma estruturada, agrupando por características relevantes.</span>
+<span id="cb1-206"><a href="#cb1-206" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-207"><a href="#cb1-207" aria-hidden="true" tabindex="-1"></a>**Quantitativa (meta-análise):** quando os estudos são suficientemente semelhantes, permite calcular uma estimativa combinada do efeito.</span>
+<span id="cb1-208"><a href="#cb1-208" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-209"><a href="#cb1-209" aria-hidden="true" tabindex="-1"></a>➡️ Veja mais em <span class="co">[</span><span class="ot">Meta-análise</span><span class="co">](06-metanalise.qmd)</span></span>
+<span id="cb1-210"><a href="#cb1-210" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-211"><a href="#cb1-211" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 8: Avaliação da certeza da evidência</span></span>
+<span id="cb1-212"><a href="#cb1-212" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-213"><a href="#cb1-213" aria-hidden="true" tabindex="-1"></a>O sistema **GRADE** <span class="co">[</span><span class="ot">@guyatt2008</span><span class="co">]</span> é o método recomendado para avaliar a qualidade geral da evidência para cada desfecho:</span>
+<span id="cb1-214"><a href="#cb1-214" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-215"><a href="#cb1-215" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nível <span class="pp">|</span> Significado <span class="pp">|</span></span>
+<span id="cb1-216"><a href="#cb1-216" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|-------------|</span></span>
+<span id="cb1-217"><a href="#cb1-217" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Alta** <span class="pp">|</span> Muita confiança no efeito estimado <span class="pp">|</span></span>
+<span id="cb1-218"><a href="#cb1-218" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Moderada** <span class="pp">|</span> Confiança moderada; o efeito verdadeiro provavelmente é próximo <span class="pp">|</span></span>
+<span id="cb1-219"><a href="#cb1-219" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Baixa** <span class="pp">|</span> Confiança limitada; o efeito pode ser diferente <span class="pp">|</span></span>
+<span id="cb1-220"><a href="#cb1-220" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Muito baixa** <span class="pp">|</span> Pouca confiança; o efeito é incerto <span class="pp">|</span></span>
+<span id="cb1-221"><a href="#cb1-221" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-222"><a href="#cb1-222" aria-hidden="true" tabindex="-1"></a>Fatores que reduzem a qualidade: risco de viés, inconsistência, imprecisão, evidência indireta, viés de publicação.</span>
+<span id="cb1-223"><a href="#cb1-223" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-224"><a href="#cb1-224" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 9: Redação e publicação</span></span>
+<span id="cb1-225"><a href="#cb1-225" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-226"><a href="#cb1-226" aria-hidden="true" tabindex="-1"></a>O relato deve seguir as diretrizes **PRISMA 2020** <span class="co">[</span><span class="ot">@page2021</span><span class="co">]</span>, que incluem 27 itens obrigatórios para garantir transparência e completude.</span>
+<span id="cb1-227"><a href="#cb1-227" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-228"><a href="#cb1-228" aria-hidden="true" tabindex="-1"></a><span class="fu">## PRISMA 2020</span></span>
+<span id="cb1-229"><a href="#cb1-229" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-230"><a href="#cb1-230" aria-hidden="true" tabindex="-1"></a>O **PRISMA** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) é o checklist padrão para relato de revisões sistemáticas <span class="co">[</span><span class="ot">@page2021</span><span class="co">]</span>. A versão 2020 inclui:</span>
+<span id="cb1-231"><a href="#cb1-231" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-232"><a href="#cb1-232" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Checklist com 27 itens</span>
+<span id="cb1-233"><a href="#cb1-233" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Modelo de fluxograma</span>
+<span id="cb1-234"><a href="#cb1-234" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Orientações para cada item</span>
+<span id="cb1-235"><a href="#cb1-235" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-236"><a href="#cb1-236" aria-hidden="true" tabindex="-1"></a>::: {.callout-warning}</span>
+<span id="cb1-237"><a href="#cb1-237" aria-hidden="true" tabindex="-1"></a><span class="fu">## Atenção</span></span>
+<span id="cb1-238"><a href="#cb1-238" aria-hidden="true" tabindex="-1"></a>Muitos periódicos exigem o checklist PRISMA preenchido como condição para submissão. Verifique as instruções aos autores antes de submeter.</span>
+<span id="cb1-239"><a href="#cb1-239" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-240"><a href="#cb1-240" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-241"><a href="#cb1-241" aria-hidden="true" tabindex="-1"></a><span class="fu">## Vantagens</span></span>
+<span id="cb1-242"><a href="#cb1-242" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-243"><a href="#cb1-243" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Rigor metodológico:** minimiza vieses na seleção e análise</span>
+<span id="cb1-244"><a href="#cb1-244" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Transparência:** processo reprodutível e auditável</span>
+<span id="cb1-245"><a href="#cb1-245" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Abrangência:** busca exaustiva da literatura</span>
+<span id="cb1-246"><a href="#cb1-246" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Confiabilidade:** avaliação de qualidade dos estudos incluídos</span>
+<span id="cb1-247"><a href="#cb1-247" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Força de evidência:** alto nível na hierarquia de evidências</span>
+<span id="cb1-248"><a href="#cb1-248" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Utilidade clínica:** fundamenta diretrizes e decisões</span>
+<span id="cb1-249"><a href="#cb1-249" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-250"><a href="#cb1-250" aria-hidden="true" tabindex="-1"></a><span class="fu">## Limitações</span></span>
+<span id="cb1-251"><a href="#cb1-251" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-252"><a href="#cb1-252" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Tempo e recursos:** processo demorado (6-18 meses)</span>
+<span id="cb1-253"><a href="#cb1-253" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Dependência de estudos primários:** qualidade limitada pela qualidade dos estudos originais</span>
+<span id="cb1-254"><a href="#cb1-254" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Viés de publicação:** estudos negativos podem não estar publicados</span>
+<span id="cb1-255"><a href="#cb1-255" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Heterogeneidade:** estudos muito diferentes dificultam síntese</span>
+<span id="cb1-256"><a href="#cb1-256" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Desatualização:** pode ficar obsoleta rapidamente em áreas com muita produção</span>
+<span id="cb1-257"><a href="#cb1-257" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-258"><a href="#cb1-258" aria-hidden="true" tabindex="-1"></a><span class="fu">## Revisão sistemática vs. outros tipos</span></span>
+<span id="cb1-259"><a href="#cb1-259" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-260"><a href="#cb1-260" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Aspecto <span class="pp">|</span> Narrativa <span class="pp">|</span> Integrativa <span class="pp">|</span> Escopo <span class="pp">|</span> Sistemática <span class="pp">|</span></span>
+<span id="cb1-261"><a href="#cb1-261" aria-hidden="true" tabindex="-1"></a><span class="pp">|---------|:---------:|:-----------:|:------:|:-----------:|</span></span>
+<span id="cb1-262"><a href="#cb1-262" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Pergunta <span class="pp">|</span> Ampla <span class="pp">|</span> Ampla <span class="pp">|</span> Ampla <span class="pp">|</span> Específica <span class="pp">|</span></span>
+<span id="cb1-263"><a href="#cb1-263" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Protocolo <span class="pp">|</span> Não <span class="pp">|</span> Recomendado <span class="pp">|</span> Recomendado <span class="pp">|</span> Obrigatório <span class="pp">|</span></span>
+<span id="cb1-264"><a href="#cb1-264" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Busca <span class="pp">|</span> Não sistemática <span class="pp">|</span> Sistemática <span class="pp">|</span> Sistemática <span class="pp">|</span> Exaustiva <span class="pp">|</span></span>
+<span id="cb1-265"><a href="#cb1-265" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Avaliação de qualidade <span class="pp">|</span> Não <span class="pp">|</span> Opcional <span class="pp">|</span> Não <span class="pp">|</span> Obrigatória <span class="pp">|</span></span>
+<span id="cb1-266"><a href="#cb1-266" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Síntese <span class="pp">|</span> Qualitativa <span class="pp">|</span> Qualitativa <span class="pp">|</span> Descritiva <span class="pp">|</span> Quali/quanti <span class="pp">|</span></span>
+<span id="cb1-267"><a href="#cb1-267" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Nível de evidência <span class="pp">|</span> Baixo <span class="pp">|</span> Moderado <span class="pp">|</span> — <span class="pp">|</span> Alto <span class="pp">|</span></span>
+<span id="cb1-268"><a href="#cb1-268" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-269"><a href="#cb1-269" aria-hidden="true" tabindex="-1"></a><span class="fu">## Resumo</span></span>
+<span id="cb1-270"><a href="#cb1-270" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-271"><a href="#cb1-271" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
+<span id="cb1-272"><a href="#cb1-272" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pontos-chave</span></span>
+<span id="cb1-273"><a href="#cb1-273" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-274"><a href="#cb1-274" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A revisão sistemática é o **padrão-ouro** para síntese de evidências</span>
+<span id="cb1-275"><a href="#cb1-275" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Exige **protocolo registrado** antes do início</span>
+<span id="cb1-276"><a href="#cb1-276" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A busca deve ser **exaustiva** e documentada</span>
+<span id="cb1-277"><a href="#cb1-277" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A seleção e extração são feitas por **dois revisores independentes**</span>
+<span id="cb1-278"><a href="#cb1-278" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A **avaliação de qualidade** dos estudos é obrigatória</span>
+<span id="cb1-279"><a href="#cb1-279" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>O relato deve seguir as diretrizes **PRISMA 2020** <span class="co">[</span><span class="ot">@page2021</span><span class="co">]</span></span>
+<span id="cb1-280"><a href="#cb1-280" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Fundamenta **diretrizes clínicas** e **decisões em saúde**</span>
+<span id="cb1-281"><a href="#cb1-281" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Demanda **tempo e recursos** significativos</span>
+<span id="cb1-282"><a href="#cb1-282" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-283"><a href="#cb1-283" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-284"><a href="#cb1-284" aria-hidden="true" tabindex="-1"></a><span class="fu">## Leituras recomendadas</span></span>
+<span id="cb1-285"><a href="#cb1-285" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-286"><a href="#cb1-286" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@higgins2019 — Cochrane Handbook for Systematic Reviews of Interventions</span>
+<span id="cb1-287"><a href="#cb1-287" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@page2021 — The PRISMA 2020 statement</span>
+<span id="cb1-288"><a href="#cb1-288" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@moher2009 — PRISMA statement (versão original)</span>
+<span id="cb1-289"><a href="#cb1-289" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@sampaio2007 — Estudos de revisão sistemática: um guia para síntese criteriosa</span>
+<span id="cb1-290"><a href="#cb1-290" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-291"><a href="#cb1-291" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-292"><a href="#cb1-292" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-293"><a href="#cb1-293" aria-hidden="true" tabindex="-1"></a>Próximo capítulo: **[Meta-análise](06-metanalise.qmd)**</span>
+</code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+</div></div></div></div></div>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2025 Henrique Alvarenga da Silva - UFSJ</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://henriquealvarenga.com">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

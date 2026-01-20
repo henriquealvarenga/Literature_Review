@@ -1,0 +1,177 @@
+---
+title: "Revisão Narrativa"
+subtitle: "Fundamentação teórica e contextualização do conhecimento"
+---
+
+## O que é uma revisão narrativa?
+
+A revisão narrativa — também chamada de revisão tradicional ou revisão bibliográfica — é a forma mais antiga e flexível de síntese da literatura científica. Seu objetivo é descrever e discutir o "estado da arte" de um determinado tema, sob uma perspectiva teórica ou contextual [@rother2007].
+
+Diferente de outros tipos de revisão, a narrativa não exige protocolo rígido, busca exaustiva ou critérios explícitos de seleção. O autor tem liberdade para escolher as fontes que considera mais relevantes e construir uma argumentação fundamentada na literatura.
+
+::: {.callout-note}
+## Definição
+A revisão narrativa é uma síntese qualitativa da literatura, na qual o autor seleciona, analisa e interpreta os estudos de forma discursiva, sem a obrigatoriedade de critérios sistemáticos de busca e seleção [@cavalcante2020].
+:::
+
+## Características principais
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Pergunta de pesquisa** | Ampla, exploratória |
+| **Protocolo** | Não obrigatório |
+| **Estratégia de busca** | Não sistemática, definida pelo autor |
+| **Seleção de estudos** | Baseada no julgamento do autor |
+| **Avaliação de qualidade** | Não obrigatória |
+| **Síntese dos resultados** | Qualitativa, discursiva |
+| **Reprodutibilidade** | Baixa |
+
+## Quando usar a revisão narrativa?
+
+A revisão narrativa é adequada para:
+
+- **Fundamentação teórica** de artigos, dissertações, teses e TCCs
+- **Capítulos introdutórios** que contextualizam um problema de pesquisa
+- **Discussão de conceitos** e evolução histórica de ideias
+- **Atualização de conhecimentos** para profissionais
+- **Identificação de controvérsias** e diferentes perspectivas sobre um tema
+- **Mapeamento inicial** antes de definir uma pesquisa mais específica
+
+::: {.callout-tip}
+## Exemplo de pergunta adequada
+"Quais são as principais teorias sobre a relação entre inflamação e depressão?"
+
+Essa pergunta é ampla, conceitual e não busca quantificar um efeito — é ideal para revisão narrativa.
+:::
+
+## Quando NÃO usar a revisão narrativa?
+
+A revisão narrativa **não é adequada** quando:
+
+- O objetivo é avaliar a **efetividade** de uma intervenção
+- É necessário **quantificar** resultados ou calcular tamanho de efeito
+- A decisão clínica exige **alto nível de evidência**
+- O tema já possui **revisões sistemáticas** recentes e de qualidade
+- É preciso garantir **reprodutibilidade** metodológica
+
+::: {.callout-warning}
+## Atenção
+Muitos trabalhos acadêmicos usam o termo "revisão de literatura" de forma genérica, quando na verdade realizaram uma revisão narrativa. É importante nomear corretamente o método utilizado.
+:::
+
+## Etapas de elaboração
+
+Embora a revisão narrativa seja flexível, seguir algumas etapas ajuda a garantir qualidade:
+
+### 1. Definição do tema e objetivo
+
+Delimite claramente o que você quer discutir. Perguntas muito amplas resultam em textos superficiais; perguntas muito restritas podem não justificar uma revisão.
+
+### 2. Busca na literatura
+
+Consulte bases de dados relevantes (PubMed, LILACS, SciELO, Google Scholar) e outras fontes como livros, teses e documentos técnicos. Não há obrigatoriedade de busca exaustiva, mas a cobertura deve ser suficiente para sustentar a discussão.
+
+### 3. Seleção das fontes
+
+Selecione os estudos mais relevantes, clássicos e atuais sobre o tema. A escolha é baseada no seu julgamento, mas deve ser coerente com o objetivo da revisão.
+
+### 4. Leitura crítica e fichamento
+
+Leia os textos selecionados de forma crítica, identificando:
+
+- Principais conceitos e definições
+- Pontos de convergência e divergência entre autores
+- Lacunas e questões em aberto
+- Evolução histórica das ideias
+
+### 5. Organização e redação
+
+Estruture o texto de forma lógica e argumentativa. Não se trata de resumir artigo por artigo, mas de **articular as ideias** em uma narrativa coerente.
+
+::: {.callout-important}
+## Erro comum
+Evite transformar sua revisão em uma "colcha de retalhos" — uma sequência de resumos desconectados. O valor da revisão narrativa está na **síntese crítica e na articulação entre as fontes**.
+:::
+
+## Como escrever bem uma revisão narrativa?
+
+### Faça
+
+- Articule os autores em torno de ideias, não o contrário
+- Identifique tendências, consensos e controvérsias
+- Posicione-se criticamente quando apropriado
+- Use transições claras entre os tópicos
+- Cite fontes primárias sempre que possível
+
+### Evite
+
+- Apenas justapor resumos de artigos
+- Usar excessivamente citações diretas longas
+- Ignorar estudos com resultados contrários à sua tese
+- Apresentar informações sem conexão lógica
+
+
+::: {.exemplo-pratico}
+#### Exemplo de boa articulação
+
+"A relação entre neuroinflamação e transtornos do humor tem sido investigada por diferentes perspectivas. Estudos iniciais focaram em marcadores periféricos como a proteína C-reativa (Autor A), enquanto pesquisas mais recentes utilizam neuroimagem para identificar ativação microglial in vivo (Autor B). Apesar das diferenças metodológicas, ambos os enfoques convergem ao apontar o papel das citocinas pró-inflamatórias na fisiopatologia da depressão."
+
+*Observe como os autores são articulados em torno de uma ideia central, com transições lógicas.*
+
+#### Exemplo de má articulação
+
+"Autor A estudou a proteína C-reativa na depressão. Autor B usou neuroimagem para estudar inflamação. Autor C também pesquisou inflamação e humor."
+
+*Observe como os autores são apenas justapostos, sem conexão entre as ideias.*
+:::
+
+
+
+## Vantagens
+
+- **Flexibilidade:** permite abordar temas amplos e complexos
+- **Acessibilidade:** não exige softwares especializados ou equipe grande
+- **Rapidez:** pode ser realizada em menos tempo que revisões sistemáticas
+- **Visão panorâmica:** oferece contextualização ampla sobre um tema
+- **Espaço para interpretação:** permite análise crítica e posicionamento do autor
+
+## Limitações
+
+- **Baixa reprodutibilidade:** outro pesquisador pode chegar a conclusões diferentes
+- **Viés de seleção:** o autor pode privilegiar estudos que confirmam suas hipóteses
+- **Menor força de evidência:** não é adequada para embasar decisões clínicas
+- **Dificuldade de atualização:** sem protocolo, é difícil replicar ou atualizar
+- **Subjetividade:** critérios de inclusão implícitos podem não ser transparentes
+
+## Revisão narrativa vs. outros tipos
+
+| Aspecto | Narrativa | Integrativa | Sistemática |
+|---------|:---------:|:-----------:|:-----------:|
+| Pergunta | Ampla | Ampla a moderada | Específica |
+| Protocolo | Não | Recomendado | Obrigatório |
+| Busca | Não sistemática | Sistemática | Exaustiva |
+| Reprodutibilidade | Baixa | Moderada | Alta |
+| Síntese | Discursiva | Quali/quanti | Quali/quanti |
+| Tempo necessário | Menor | Moderado | Maior |
+
+## Resumo
+
+::: {.callout-note}
+## Pontos-chave
+
+- A revisão narrativa é a forma mais **flexível** de síntese da literatura
+- É adequada para **fundamentação teórica** e **contextualização**
+- Não exige protocolo, busca exaustiva ou avaliação de qualidade
+- Sua principal limitação é a **baixa reprodutibilidade**
+- O valor está na **articulação crítica** entre as fontes, não na mera justaposição
+- Não deve ser usada para **avaliar efetividade** ou **embasar decisões clínicas**
+:::
+
+## Leituras recomendadas
+
+- @rother2007 — Revisão sistemática X revisão narrativa
+- @cavalcante2020 — Métodos de revisão bibliográfica nos estudos científicos
+
+---
+
+Próximo capítulo: **[Revisão Integrativa](03-revisao-integrativa.qmd)**
