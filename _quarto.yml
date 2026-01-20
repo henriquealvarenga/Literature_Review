@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Da Pergunta à Síntese: Revisões de Literatura em Saúde"
+  title: "Revisões de Literatura em Saúde: Da Pergunta à Síntese"
   site-url: "https://henriquealvarenga.com"
   site-path: "/Literature_Review"
   favicon: favicon.ico
@@ -18,7 +18,7 @@ website:
       - text: "Acrônimos PICO"
         href: 07-acronimos-pico.qmd
       - text: "Atividades Práticas"
-        href: 09-pratica.qmd
+        href: 09-pratica-0.qmd
 
   sidebar:
     style: "docked"
@@ -51,7 +51,11 @@ website:
       - section: "Prática"
         contents:
           - text: "Atividades Práticas"
-            href: 09-pratica.qmd
+            href: 09-pratica-0.qmd
+          - text: "Revisão de Escopo"
+            href: 09-pratica-1.qmd
+          - text: "Revisão Narrativa e Integrativa"
+            href: 09-pratica-2.qmd
 
   page-footer:
     left: "© 2025 Henrique Alvarenga da Silva - UFSJ"

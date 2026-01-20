@@ -1,0 +1,243 @@
+---
+title: "Atividade Prática 2"
+subtitle: "Planejamento de Revisões Narrativa e Integrativa"
+---
+
+## Objetivo da atividade
+
+Esta atividade prática tem como objetivo desenvolver a capacidade do estudante de **planejar estratégias de revisão de literatura**, diferenciando de forma clara e consciente a **revisão narrativa** da **revisão integrativa**, a partir de um mesmo cenário clínico ou pergunta de pesquisa.
+
+Ao final da atividade, espera-se que o aluno seja capaz de:
+
+- Compreender as **diferenças conceituais, metodológicas e epistemológicas** entre revisão narrativa e revisão integrativa;
+- Formular **perguntas de pesquisa adequadas** a cada tipo de revisão;
+- Planejar **estratégias de busca bibliográfica** coerentes com os objetivos de cada abordagem;
+- Definir **critérios de inclusão e exclusão** compatíveis com o grau de rigor metodológico esperado;
+- Refletir criticamente sobre **formas distintas de síntese e apresentação dos dados**.
+
+---
+
+## Descrição geral da atividade
+
+Os alunos deverão ser organizados em **grupos de 4 a 5 participantes**. Cada grupo trabalhará com **um cenário temático**, que deverá ser explorado **em paralelo** por meio de:
+
+- uma **revisão narrativa**;  
+- uma **revisão integrativa**.
+
+A proposta central da atividade é que os estudantes **planejem conscientemente duas estratégias distintas de revisão**, partindo do mesmo tema, e sejam capazes de **justificar as diferenças metodológicas entre elas**.
+
+📌 O foco da atividade **não é executar a revisão completa**, mas **planejar adequadamente** cada tipo de revisão e compreender seus pressupostos.
+
+---
+
+## Etapas da atividade
+
+Cada grupo deverá desenvolver as etapas abaixo, sempre considerando **duas abordagens paralelas**:  
+uma para a **revisão narrativa** e outra para a **revisão integrativa**.
+
+---
+
+### 1. Formulação da pergunta de pesquisa
+
+Os grupos deverão formular **duas perguntas de pesquisa**, uma para cada tipo de revisão:
+
+- **Revisão narrativa:**  
+  A pergunta deve ser **ampla, exploratória e contextual**, permitindo abordagem histórica, conceitual ou interpretativa.
+
+- **Revisão integrativa:**  
+  A pergunta deve ser **mais delimitada e estruturada**, voltada para a síntese de evidências, podendo utilizar modelos como PICO, PICo ou variações semelhantes.
+
+📌 *O objetivo é compreender como o tipo de revisão condiciona a forma da pergunta.*
+
+---
+
+### 2. Elaboração da estratégia de busca bibliográfica
+
+Os grupos deverão planejar **como a busca seria realizada**, definindo:
+
+- **Bases de dados**, como:
+  - [PubMed / MEDLINE](https://pubmed.ncbi.nlm.nih.gov)
+  - [SciELO](https://scielo.org)
+  - [Biblioteca Virtual em Saúde (BVS)](https://bvsalud.org)
+
+- **Descritores e palavras-chave**
+- **Operadores booleanos** (AND, OR, NOT)
+
+Deve ficar claro que:
+
+- Na **revisão narrativa**, a busca pode ser **mais flexível, iterativa e exploratória**;
+- Na **revisão integrativa**, a busca deve ser **mais sistemática, transparente e potencialmente reprodutível**.
+
+---
+
+### 3. Definição de critérios de inclusão e exclusão
+
+Os grupos deverão propor critérios distintos para cada tipo de revisão:
+
+- **Revisão narrativa:**  
+  Critérios mais amplos, podendo incluir estudos observacionais, revisões anteriores, textos conceituais e análises históricas.
+
+- **Revisão integrativa:**  
+  Critérios mais **explícitos e rigorosos**, como:
+  - tipo de estudo;
+  - população;
+  - período de publicação;
+  - idioma;
+  - desfechos de interesse.
+
+---
+
+### 4. Planejamento da síntese dos dados
+
+Os grupos deverão descrever **como os dados seriam organizados e apresentados**:
+
+- **Revisão narrativa:**  
+  Síntese temática, interpretativa e integradora, com maior liberdade analítica.
+
+- **Revisão integrativa:**  
+  Síntese comparativa e estruturada, frequentemente com tabelas, categorias analíticas e descrição sistemática dos resultados.
+
+---
+
+### 5. Apresentação da atividade
+
+Cada grupo deverá apresentar um **resumo do planejamento**, incluindo:
+
+- as duas perguntas de pesquisa;
+- as estratégias de busca;
+- os critérios de inclusão e exclusão;
+- o plano de síntese dos dados;
+- uma **justificativa clara das diferenças** entre a revisão narrativa e a integrativa.
+
+---
+
+## Cenários propostos
+
+Cada grupo deverá escolher **um** dos cenários abaixo.
+
+---
+
+### Cenário 1  
+**Impacto da Atividade Física na Prevenção de Doenças Cardiovasculares em Idosos**
+
+- **Revisão Narrativa:**  
+  Explorar de forma ampla como diferentes formas de atividade física têm sido utilizadas ao longo do tempo na prevenção de doenças cardiovasculares em idosos.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências sobre os efeitos da atividade física em parâmetros específicos, como pressão arterial, colesterol e índice de massa corporal.
+
+---
+
+### Cenário 2  
+**Uso da Inteligência Artificial no Diagnóstico Precoce de Câncer de Mama**
+
+- **Revisão Narrativa:**  
+  Explorar a evolução histórica do uso da inteligência artificial na saúde, com foco no diagnóstico do câncer de mama.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências sobre acurácia e sensibilidade da IA na detecção precoce do câncer de mama em comparação com métodos tradicionais.
+
+---
+
+### Cenário 3  
+**Abordagens Nutricionais para o Controle da Diabetes Mellitus Tipo 2**
+
+- **Revisão Narrativa:**  
+  Revisar a evolução das abordagens nutricionais ao longo das últimas décadas, considerando diferentes contextos culturais e socioeconômicos.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências clínicas sobre o impacto de diferentes abordagens nutricionais no controle glicêmico.
+
+---
+
+### Cenário 4  
+**Eficácia de Programas de Vacinação contra o HPV na Redução do Câncer Cervical**
+
+- **Revisão Narrativa:**  
+  Explorar o impacto dos programas de vacinação em diferentes regiões, enfatizando barreiras culturais, políticas e econômicas.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências de ensaios clínicos e estudos populacionais sobre a eficácia da vacinação contra o HPV.
+
+---
+
+### Cenário 5  
+**Estratégias de Saúde Mental para Redução do Estresse em Profissionais de Saúde durante a Pandemia de COVID-19**
+
+- **Revisão Narrativa:**  
+  Explorar estratégias utilizadas em pandemias anteriores e durante a COVID-19 para apoio à saúde mental de profissionais de saúde.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências sobre a eficácia de intervenções específicas, como TCC, mindfulness e suporte psicológico online.
+
+---
+
+### Cenário 6  
+**Uso de Antidepressivos em Transtornos Depressivos Leves a Moderados**
+
+- **Revisão Narrativa:**  
+  Explorar a evolução histórica do uso de antidepressivos, incluindo debates sobre medicalização e mudanças nas classificações diagnósticas.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências clínicas sobre eficácia e efeitos adversos de antidepressivos em comparação com placebo ou intervenções não farmacológicas.
+
+---
+
+### Cenário 7  
+**Teletrabalho e Saúde Mental em Profissionais da Saúde**
+
+- **Revisão Narrativa:**  
+  Explorar transformações organizacionais e percepções subjetivas relacionadas ao teletrabalho e à saúde mental.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências sobre impactos do teletrabalho em desfechos como estresse, burnout, ansiedade e depressão.
+
+---
+
+### Cenário 8  
+**Uso de Canabinoides Medicinais no Tratamento da Dor Crônica**
+
+- **Revisão Narrativa:**  
+  Revisar o contexto histórico, regulatório e sociocultural do uso de canabinoides medicinais.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências clínicas sobre eficácia, segurança e eventos adversos no tratamento da dor crônica.
+
+---
+
+### Cenário 9  
+**Intervenções Não Farmacológicas para Prevenção de Quedas em Idosos**
+
+- **Revisão Narrativa:**  
+  Explorar diferentes abordagens preventivas considerando contextos de cuidado e aspectos culturais.
+
+- **Revisão Integrativa:**  
+  Sintetizar evidências sobre a efetividade dessas intervenções na redução de quedas, hospitalizações e mortalidade.
+
+---
+
+::: {.callout-important title="Exemplo de entrega – Resultado esperado da atividade"}
+O quadro abaixo exemplifica **como um grupo de alunos poderia redigir o planejamento final** da atividade, a partir do **Cenário 10**.  
+Trata-se de um **modelo orientador**: o conteúdo pode variar, desde que o raciocínio metodológico esteja correto e as diferenças entre **revisão narrativa** e **revisão integrativa** estejam claramente explicitadas.
+:::
+
+## Exemplo de planejamento entregue pelo grupo  
+### Cenário 10 – Uso de Psicofármacos no Tratamento da Insônia em Idosos
+
+| Item | Revisão Narrativa | Revisão Integrativa |
+|---|---|---|
+| **Pergunta de pesquisa** | Como o tratamento farmacológico da insônia em idosos tem sido abordado ao longo do tempo, considerando mudanças nas recomendações clínicas, preocupações com segurança, risco de quedas, dependência e alternativas terapêuticas? | Quais são as evidências sobre a eficácia e a segurança de diferentes classes de psicofármacos (benzodiazepínicos, Z-drugs, antidepressivos sedativos e melatonina) no tratamento da insônia em idosos? |
+| **Justificativa da abordagem** | Optamos pela revisão narrativa porque o tema envolve transformações históricas, debates conceituais e mudanças em diretrizes clínicas. Essa abordagem permite integrar diferentes perspectivas e discutir o contexto da medicalização do sono em idosos. | Optamos pela revisão integrativa porque há necessidade de sintetizar evidências clínicas de forma estruturada, comparando classes de medicamentos quanto à eficácia e aos eventos adversos, o que exige maior rigor metodológico. |
+| **Bases de dados** | PubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS). | PubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS). |
+| **Estratégia de busca inicial** | ```text ("insomnia" AND "elderly") AND ("hypnotics" OR "sleep medication" OR "pharmacological treatment") ``` | ```text ("insomnia" AND "elderly") AND ("benzodiazepines" OR "z-drugs" OR "melatonin" OR "sedating antidepressants") AND ("efficacy" OR "safety" OR "adverse effects" OR "falls") ``` |
+| **Ajustes planejados na busca** | Inclusão posterior de termos relacionados a diretrizes e recomendações clínicas (ex.: “guideline”, “Beers criteria”), priorizando textos conceituais e revisões relevantes. | Refinamento por descritores MeSH, filtros de idade, tipo de estudo e desfechos clínicos, visando maior precisão e reprodutibilidade. |
+| **Critérios de inclusão** | Estudos em português, inglês ou espanhol; revisões, diretrizes, estudos observacionais e textos conceituais relevantes; foco em população idosa (≥60 anos); sem restrição rígida de período para permitir análise histórica. | Ensaios clínicos e estudos observacionais; população ≥60 anos; avaliação de eficácia e/ou segurança farmacológica; desfechos clínicos relacionados ao sono e eventos adversos; preferência por estudos dos últimos 10 anos. |
+| **Critérios de exclusão** | Estudos exclusivamente pediátricos ou sem foco em idosos; artigos sem relação com tratamento farmacológico da insônia; textos de opinião sem base bibliográfica relevante. | Estudos sem desfechos clínicos claros; metodologia inadequada ou pouco descrita; populações mistas sem análise específica de idosos; estudos apenas com intervenções não farmacológicas. |
+| **Plano de síntese** | Síntese temática e interpretativa, organizada em eixos: evolução histórica do uso de hipnóticos, mudanças em diretrizes, riscos clínicos e tendências atuais no tratamento da insônia em idosos. | Síntese estruturada e comparativa, com tabelas por classe farmacológica, descrição dos desfechos avaliados, comparação entre estudos e discussão das convergências e divergências dos resultados. |
+| **Justificativa das diferenças** | A revisão narrativa permite contextualizar e interpretar o tema de forma ampla, integrando aspectos históricos, conceituais e clínicos. | A revisão integrativa exige delimitação, padronização e maior rigor metodológico para produzir uma síntese comparável e baseada em evidências. |
+
+
+
+## Considerações finais
+
+Esta atividade enfatiza que **diferentes tipos de revisão respondem a diferentes tipos de perguntas** e exigem **níveis distintos de rigor metodológico**. O objetivo central é desenvolver **consciência metodológica, pensamento crítico e capacidade de planejamento científico**, fundamentais para a leitura e produção qualificada de literatura em saúde.

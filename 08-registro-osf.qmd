@@ -291,4 +291,4 @@ Relate essas mudanças no artigo final.
 
 ---
 
-Próximo capítulo: **[Atividades Práticas](09-pratica.qmd)**
+Próximo capítulo: **[Atividades Práticas](09-pratica-0.qmd)**
