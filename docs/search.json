@@ -1,0 +1,1261 @@
+[
+  {
+    "objectID": "03-revisao-integrativa.html",
+    "href": "03-revisao-integrativa.html",
+    "title": "Revisão Integrativa",
+    "section": "",
+    "text": "A revisão integrativa é um método de síntese do conhecimento que permite reunir, avaliar criticamente e integrar resultados de estudos empíricos e teóricos, oriundos de diferentes delineamentos metodológicos (quantitativos, qualitativos, mistos e conceituais), de forma explícita, sistemática e transparente.\nDiferentemente de outras modalidades de revisão, a revisão integrativa não se define apenas pelo procedimento técnico de busca e seleção de estudos, mas sobretudo por sua finalidade epistemológica: compreender fenômenos complexos, desenvolver ou refinar conceitos, mapear campos de conhecimento heterogêneos e articular evidências empíricas com modelos teóricos.\nHistoricamente, esse método surge no contexto da Enfermagem, associado à Prática Baseada em Evidências (PBE), como resposta às limitações das revisões sistemáticas tradicionais para lidar com fenômenos relacionados ao cuidado, à experiência, ao significado e aos processos de saúde-doença (Broome, 1993; Whittemore; Knafl, 2005).\n\n\n\n\n\n\nNotaDefinição clássica\n\n\n\nA revisão integrativa é um método de revisão da literatura que possibilita a síntese de estudos empíricos e teóricos, com diferentes delineamentos metodológicos, visando ao desenvolvimento de conceitos e à construção de uma compreensão abrangente de um fenômeno.\nAdaptado de Broome (1993)",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#o-que-é-uma-revisão-integrativa",
+    "href": "03-revisao-integrativa.html#o-que-é-uma-revisão-integrativa",
+    "title": "Revisão Integrativa",
+    "section": "",
+    "text": "A revisão integrativa é um método de síntese do conhecimento que permite reunir, avaliar criticamente e integrar resultados de estudos empíricos e teóricos, oriundos de diferentes delineamentos metodológicos (quantitativos, qualitativos, mistos e conceituais), de forma explícita, sistemática e transparente.\nDiferentemente de outras modalidades de revisão, a revisão integrativa não se define apenas pelo procedimento técnico de busca e seleção de estudos, mas sobretudo por sua finalidade epistemológica: compreender fenômenos complexos, desenvolver ou refinar conceitos, mapear campos de conhecimento heterogêneos e articular evidências empíricas com modelos teóricos.\nHistoricamente, esse método surge no contexto da Enfermagem, associado à Prática Baseada em Evidências (PBE), como resposta às limitações das revisões sistemáticas tradicionais para lidar com fenômenos relacionados ao cuidado, à experiência, ao significado e aos processos de saúde-doença (Broome, 1993; Whittemore; Knafl, 2005).\n\n\n\n\n\n\nNotaDefinição clássica\n\n\n\nA revisão integrativa é um método de revisão da literatura que possibilita a síntese de estudos empíricos e teóricos, com diferentes delineamentos metodológicos, visando ao desenvolvimento de conceitos e à construção de uma compreensão abrangente de um fenômeno.\nAdaptado de Broome (1993)",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#origem-e-fundamento-conceitual",
+    "href": "03-revisao-integrativa.html#origem-e-fundamento-conceitual",
+    "title": "Revisão Integrativa",
+    "section": "Origem e fundamento conceitual",
+    "text": "Origem e fundamento conceitual\nA revisão integrativa não nasce como um atalho metodológico, mas como uma estratégia rigorosa de desenvolvimento conceitual. Em seu texto fundador, Broome (1993) a apresenta como ferramenta central para o concept development, isto é, para:\n\nidentificar como um conceito é definido e operacionalizado em diferentes estudos;\nreconhecer atributos, antecedentes e consequências conceituais;\nmapear convergências, divergências e lacunas conceituais;\nintegrar achados empíricos com formulações teóricas.\n\nEssa origem explica por que a revisão integrativa se consolidou inicialmente na Enfermagem, área historicamente comprometida com fenômenos que não se deixam reduzir a desenhos experimentais homogêneos.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#características-principais",
+    "href": "03-revisao-integrativa.html#características-principais",
+    "title": "Revisão Integrativa",
+    "section": "Características principais",
+    "text": "Características principais\n\n\n\n\n\n\n\nCaracterística\nDescrição\n\n\n\n\nPergunta de pesquisa\nAmpla a moderadamente específica\n\n\nFinalidade central\nCompreensão de fenômenos e desenvolvimento conceitual\n\n\nProtocolo\nRecomendado\n\n\nEstratégia de busca\nSistemática, em múltiplas bases\n\n\nSeleção de estudos\nCritérios explícitos de inclusão e exclusão\n\n\nTipos de estudo\nQuantitativos, qualitativos, mistos e teóricos\n\n\nAvaliação de qualidade\nRecomendada, dependente do objetivo\n\n\nSíntese dos resultados\nPredominantemente qualitativa e integrativa\n\n\nReprodutibilidade\nModerada a alta",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#o-que-diferencia-a-revisão-integrativa",
+    "href": "03-revisao-integrativa.html#o-que-diferencia-a-revisão-integrativa",
+    "title": "Revisão Integrativa",
+    "section": "O que diferencia a revisão integrativa?",
+    "text": "O que diferencia a revisão integrativa?\nA marca distintiva da revisão integrativa é a integração deliberada da heterogeneidade metodológica. Enquanto a revisão sistemática clássica tende a restringir seu escopo a estudos homogêneos (frequentemente ensaios clínicos randomizados), a revisão integrativa permite combinar:\n\nestudos experimentais e quase-experimentais;\nestudos observacionais (coorte, caso-controle, transversais);\nestudos qualitativos;\nartigos teóricos e conceituais;\nrelatos de experiência com relevância analítica.\n\nEssa característica torna a revisão integrativa particularmente adequada para temas nos quais a eficácia de intervenções é apenas uma dimensão do problema, e não seu núcleo explicativo.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#quando-usar-a-revisão-integrativa",
+    "href": "03-revisao-integrativa.html#quando-usar-a-revisão-integrativa",
+    "title": "Revisão Integrativa",
+    "section": "Quando usar a revisão integrativa?",
+    "text": "Quando usar a revisão integrativa?\nA revisão integrativa é especialmente indicada quando o objetivo é:\n\ncompreender um fenômeno complexo e multidimensional;\nintegrar evidências empíricas e conceituais;\nanalisar a evolução histórica de conceitos;\nidentificar lacunas teóricas ou metodológicas;\nfundamentar práticas clínicas, educacionais ou organizacionais em campos heterogêneos.\n\n\n\n\n\n\n\nDicaExemplos de perguntas adequadas\n\n\n\n\nComo o conceito de insight é definido e operacionalizado na literatura psiquiátrica?\nComo pacientes com esquizofrenia descrevem a experiência de ouvir vozes?\nQuais fatores estão associados ao burnout em residentes médicos segundo diferentes abordagens metodológicas?",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#quando-não-usar-a-revisão-integrativa",
+    "href": "03-revisao-integrativa.html#quando-não-usar-a-revisão-integrativa",
+    "title": "Revisão Integrativa",
+    "section": "Quando NÃO usar a revisão integrativa?",
+    "text": "Quando NÃO usar a revisão integrativa?\nA revisão integrativa não é a escolha mais apropriada quando:\n\na pergunta é estritamente sobre eficácia comparativa de intervenções;\no objetivo central é estimar tamanho de efeito;\na elaboração de diretrizes clínicas normativas é o foco;\no campo possui literatura homogênea e bem delimitada.\n\nNesses casos, revisões sistemáticas e meta-análises são metodologicamente superiores.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#as-seis-etapas-da-revisão-integrativa",
+    "href": "03-revisao-integrativa.html#as-seis-etapas-da-revisão-integrativa",
+    "title": "Revisão Integrativa",
+    "section": "As seis etapas da revisão integrativa",
+    "text": "As seis etapas da revisão integrativa\nO modelo amplamente adotado na literatura brasileira propõe seis etapas principais (Mendes; Silveira; Galvão, 2008):\n\n\n\n\n\nflowchart LR\nA[\"Pergunta de pesquisa\"] --&gt; B[\"Busca na literatura\"]\nB --&gt; C[\"Coleta de dados\"]\nC --&gt; D[\"Análise crítica\"]\nD --&gt; E[\"Discussão e síntese\"]\nE --&gt; F[\"Apresentação da revisão\"]",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#vantagens",
+    "href": "03-revisao-integrativa.html#vantagens",
+    "title": "Revisão Integrativa",
+    "section": "Vantagens",
+    "text": "Vantagens\n\nAbrangência epistemológica;\nIntegração de múltiplas formas de evidência;\nUtilidade para desenvolvimento conceitual;\nAplicabilidade em áreas clínicas e psicossociais;\nMaior rigor que revisões narrativas tradicionais.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#limitações",
+    "href": "03-revisao-integrativa.html#limitações",
+    "title": "Revisão Integrativa",
+    "section": "Limitações",
+    "text": "Limitações\n\nSíntese conceitual e empírica complexa;\nMaior risco de subjetividade interpretativa;\nDependência de clareza teórica do pesquisador;\nPossibilidade de conclusões frágeis se a qualidade dos estudos não for considerada.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#revisão-integrativa-vs.-sistemática",
+    "href": "03-revisao-integrativa.html#revisão-integrativa-vs.-sistemática",
+    "title": "Revisão Integrativa",
+    "section": "Revisão integrativa vs. sistemática",
+    "text": "Revisão integrativa vs. sistemática\n\n\n\nAspecto\nIntegrativa\nSistemática\n\n\n\n\nTipos de estudo\nDiversos\nHomogêneos\n\n\nPergunta\nAmpla\nEspecífica\n\n\nSíntese\nQualitativa-integrativa\nQuali ou quantitativa\n\n\nMeta-análise\nNão usual\nFrequente\n\n\nUso principal\nCompreensão e conceitos\nEficácia de intervenções",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#resumo",
+    "href": "03-revisao-integrativa.html#resumo",
+    "title": "Revisão Integrativa",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nA revisão integrativa integra heterogeneidade metodológica de forma deliberada;\nTem origem histórica na Enfermagem, voltada ao desenvolvimento conceitual;\nÉ mais rigorosa que a revisão narrativa e mais flexível que a sistemática;\nExige transparência, documentação e clareza teórica;\nÉ especialmente útil para fenômenos complexos em saúde mental.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "03-revisao-integrativa.html#leituras-recomendadas",
+    "href": "03-revisao-integrativa.html#leituras-recomendadas",
+    "title": "Revisão Integrativa",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nBroome (1993) — Integrative literature reviews for the development of concepts\nWhittemore; Knafl (2005) — The integrative review: updated methodology\nSouza; Silva; Carvalho (2010) — Revisão integrativa: o que é e como fazer\nMendes; Silveira; Galvão (2008) — Revisão integrativa: método de pesquisa para a incorporação de evidências\nBotelho; Cunha; Macedo (2011) — O método da revisão integrativa nos estudos organizacionais\n\n\nPróximo capítulo: Revisão de Escopo",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Integrativa"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html",
+    "href": "08-registro-osf.html",
+    "title": "Registro de Protocolos",
+    "section": "",
+    "text": "O registro prévio do protocolo é uma prática fundamental para garantir transparência, reprodutibilidade e integridade científica em revisões de literatura (Stewart; Moher; Shekelle, 2012).\nAo registrar publicamente o plano metodológico antes de iniciar a revisão, o pesquisador:\n\nDocumenta suas decisões metodológicas a priori\nEvita que os resultados influenciem escolhas metodológicas\nPermite que outros pesquisadores verifiquem se o estudo seguiu o planejado\nReduz o risco de viés de relato seletivo\nEvita duplicação de esforços por outros grupos\n\n\n\n\n\n\n\nImportantePrincípio da transparência\n\n\n\nO registro do protocolo separa as decisões tomadas antes de conhecer os resultados (planejamento) daquelas tomadas depois (análise). Isso aumenta a credibilidade das conclusões.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#por-que-registrar-o-protocolo",
+    "href": "08-registro-osf.html#por-que-registrar-o-protocolo",
+    "title": "Registro de Protocolos",
+    "section": "",
+    "text": "O registro prévio do protocolo é uma prática fundamental para garantir transparência, reprodutibilidade e integridade científica em revisões de literatura (Stewart; Moher; Shekelle, 2012).\nAo registrar publicamente o plano metodológico antes de iniciar a revisão, o pesquisador:\n\nDocumenta suas decisões metodológicas a priori\nEvita que os resultados influenciem escolhas metodológicas\nPermite que outros pesquisadores verifiquem se o estudo seguiu o planejado\nReduz o risco de viés de relato seletivo\nEvita duplicação de esforços por outros grupos\n\n\n\n\n\n\n\nImportantePrincípio da transparência\n\n\n\nO registro do protocolo separa as decisões tomadas antes de conhecer os resultados (planejamento) daquelas tomadas depois (análise). Isso aumenta a credibilidade das conclusões.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#o-que-é-um-protocolo-de-revisão",
+    "href": "08-registro-osf.html#o-que-é-um-protocolo-de-revisão",
+    "title": "Registro de Protocolos",
+    "section": "O que é um protocolo de revisão?",
+    "text": "O que é um protocolo de revisão?\nO protocolo é o plano detalhado de como a revisão será conduzida. Funciona como um “contrato” metodológico que o pesquisador assume publicamente.\nUm protocolo típico inclui:\n\nTítulo da revisão\nPergunta de pesquisa (PICO ou variações)\nCritérios de inclusão e exclusão\nEstratégia de busca (bases de dados, termos)\nProcesso de seleção dos estudos\nMétodo de extração de dados\nAvaliação de qualidade/risco de viés\nPlano de síntese dos resultados\nEquipe envolvida\nCronograma",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#principais-plataformas-de-registro",
+    "href": "08-registro-osf.html#principais-plataformas-de-registro",
+    "title": "Registro de Protocolos",
+    "section": "Principais plataformas de registro",
+    "text": "Principais plataformas de registro\n\nPROSPERO\nO PROSPERO (International Prospective Register of Systematic Reviews) é a principal plataforma para registro de revisões sistemáticas na área da saúde.\n\n\n\nCaracterística\nDescrição\n\n\n\n\nMantido por\nCentre for Reviews and Dissemination (University of York)\n\n\nCusto\nGratuito\n\n\nFoco\nRevisões sistemáticas em saúde e bem-estar\n\n\nURL\nwww.crd.york.ac.uk/prospero\n\n\n\nVantagens:\n\nReconhecido internacionalmente\nEspecífico para área da saúde\nExigido por muitos periódicos\nPermite atualizações do registro\nGera número de registro citável (CRD42XXXXXXX)\n\nLimitações:\n\nApenas revisões sistemáticas (não aceita revisões de escopo desde 2022)\nFoco em saúde e bem-estar social\nProcesso de aprovação pode levar algumas semanas\n\n\n\n\n\n\n\nAvisoAtenção\n\n\n\nO PROSPERO só aceita registros de revisões que ainda não iniciaram a extração de dados. Se você já começou essa etapa, o registro será recusado.\n\n\n\n\nOpen Science Framework (OSF)\nO OSF é uma plataforma mais ampla para ciência aberta, que permite registrar protocolos de qualquer tipo de estudo, incluindo revisões (Foster; Deardorff, 2017).\n\n\n\nCaracterística\nDescrição\n\n\n\n\nMantido por\nCenter for Open Science\n\n\nCusto\nGratuito\n\n\nFoco\nQualquer tipo de pesquisa\n\n\nURL\nosf.io\n\n\n\nVantagens:\n\nAceita qualquer tipo de revisão (narrativa, integrativa, escopo, sistemática)\nFlexibilidade no formato do protocolo\nPermite armazenar arquivos complementares (estratégia de busca, formulários)\nRegistro imediato (sem processo de aprovação)\nIntegração com outras ferramentas (GitHub, Zotero, etc.)\nPossibilidade de criar pré-prints\n\nLimitações:\n\nMenos específico que o PROSPERO\nMenor reconhecimento em algumas áreas da saúde\nRequer mais autonomia na elaboração do protocolo\n\n\n\n\n\n\n\nDicaQuando usar cada plataforma?\n\n\n\n\n\n\nTipo de revisão\nPlataforma recomendada\n\n\n\n\nRevisão sistemática (saúde)\nPROSPERO\n\n\nRevisão de escopo\nOSF\n\n\nRevisão integrativa\nOSF\n\n\nRevisão narrativa\nOSF (opcional)\n\n\nMeta-análise\nPROSPERO (se parte de RS)\n\n\n\n\n\n\n\nOutras plataformas\n\nCochrane Library: para revisões Cochrane (processo próprio)\nJBI Evidence Synthesis: aceita protocolos de revisões JBI\nResearch Registry: alternativa ao PROSPERO\nINPLASY: plataforma internacional de protocolos",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#como-registrar-no-prospero",
+    "href": "08-registro-osf.html#como-registrar-no-prospero",
+    "title": "Registro de Protocolos",
+    "section": "Como registrar no PROSPERO",
+    "text": "Como registrar no PROSPERO\n\nPasso a passo\n\nCrie uma conta em www.crd.york.ac.uk/prospero\nInicie um novo registro clicando em “New registration”\nPreencha os campos obrigatórios:\n\nTítulo da revisão\nPergunta de pesquisa\nCritérios de elegibilidade (PICO)\nBases de dados a serem pesquisadas\nMétodo de seleção e extração\nAvaliação de qualidade\nEstratégia de síntese\nMembros da equipe\n\nSubmeta para revisão — a equipe do PROSPERO verificará o registro\nReceba o número de registro (CRD42…) após aprovação\nAtualize conforme necessário durante a condução da revisão\n\n\n\nCampos obrigatórios do PROSPERO\n\n\n\nCampo\nDescrição\n\n\n\n\nReview title\nTítulo completo da revisão\n\n\nAnticipated start date\nData prevista de início\n\n\nAnticipated completion date\nData prevista de conclusão\n\n\nStage of review\nEtapa atual (ainda não iniciada extração)\n\n\nNamed contact\nPesquisador responsável\n\n\nReview question\nPergunta estruturada (PICO)\n\n\nSearches\nBases de dados e estratégia\n\n\nCondition or domain\nCondição de saúde estudada\n\n\nParticipants/population\nPopulação elegível\n\n\nIntervention/exposure\nIntervenção ou exposição\n\n\nComparator\nGrupo de comparação\n\n\nMain outcome\nDesfecho primário\n\n\nData extraction\nMétodo de extração\n\n\nRisk of bias\nInstrumento de avaliação\n\n\nStrategy for synthesis\nPlano de síntese",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#como-registrar-no-osf",
+    "href": "08-registro-osf.html#como-registrar-no-osf",
+    "title": "Registro de Protocolos",
+    "section": "Como registrar no OSF",
+    "text": "Como registrar no OSF\n\nPasso a passo\n\nCrie uma conta em osf.io\nCrie um novo projeto com título da revisão\nOrganize os componentes:\n\nProtocolo (documento)\nEstratégia de busca\nFormulários de extração\nDados (quando disponíveis)\n\nCrie um “Registration”:\n\nVá em “Registrations” &gt; “New registration”\nEscolha um template (ex: “OSF Preregistration” ou “Open-Ended Registration”)\nPreencha os campos solicitados\n\nSubmeta o registro — fica imediatamente público e com DOI\nMantenha o projeto atualizado durante a condução\n\n\n\nEstrutura sugerida para protocolo no OSF\n1. INFORMAÇÕES GERAIS\n   - Título\n   - Autores e afiliações\n   - Data do registro\n   - Tipo de revisão\n\n2. INTRODUÇÃO\n   - Justificativa\n   - Objetivos\n   - Pergunta de pesquisa (PICO/PICo/PCC)\n\n3. MÉTODOS\n   3.1 Critérios de elegibilidade\n       - Inclusão\n       - Exclusão\n   3.2 Fontes de informação\n       - Bases de dados\n       - Outras fontes\n   3.3 Estratégia de busca\n       - Termos e operadores\n       - Limites aplicados\n   3.4 Seleção dos estudos\n       - Processo de triagem\n       - Número de revisores\n   3.5 Extração de dados\n       - Variáveis extraídas\n       - Formulário utilizado\n   3.6 Avaliação de qualidade\n       - Instrumento\n       - Processo\n   3.7 Síntese dos resultados\n       - Método de síntese\n       - Análises planejadas\n\n4. CRONOGRAMA\n\n5. CONFLITOS DE INTERESSE\n\n6. FINANCIAMENTO",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#diferenças-entre-protocolo-e-artigo-final",
+    "href": "08-registro-osf.html#diferenças-entre-protocolo-e-artigo-final",
+    "title": "Registro de Protocolos",
+    "section": "Diferenças entre protocolo e artigo final",
+    "text": "Diferenças entre protocolo e artigo final\nÉ comum (e aceitável) que haja diferenças entre o protocolo registrado e o artigo final publicado. O importante é documentar e justificar qualquer mudança.\n\n\n\nAspecto\nProtocolo\nArtigo final\n\n\n\n\nMomento\nAntes da coleta\nApós análise\n\n\nFunção\nPlanejamento\nRelato\n\n\nModificações\nPossíveis, se justificadas\nReflete o que foi feito\n\n\nTransparência\nMostra a intenção\nMostra a execução\n\n\n\n\n\n\n\n\n\nAvisoDesvios do protocolo\n\n\n\nSe você precisar modificar algo do protocolo durante a revisão (ex: adicionar uma base de dados, mudar um critério), documente:\n\nO que foi modificado\nPor que foi modificado\nQuando foi modificado\n\nRelate essas mudanças no artigo final.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#benefícios-do-registro",
+    "href": "08-registro-osf.html#benefícios-do-registro",
+    "title": "Registro de Protocolos",
+    "section": "Benefícios do registro",
+    "text": "Benefícios do registro\n\nPara o pesquisador\n\nOrganiza o planejamento da pesquisa\nProtege a autoria e prioridade da ideia\nDemonstra rigor metodológico\nFacilita a escrita do artigo final\nAumenta chances de publicação\n\n\n\nPara a ciência\n\nReduz viés de relato seletivo\nPermite identificar revisões em andamento\nEvita duplicação de esforços\nAumenta a transparência e confiança\nFacilita a replicação\n\n\n\nPara a prática clínica\n\nEvidências mais confiáveis\nMenor risco de conclusões enviesadas\nBase mais sólida para diretrizes",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#resumo",
+    "href": "08-registro-osf.html#resumo",
+    "title": "Registro de Protocolos",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nO registro do protocolo aumenta transparência e reduz viés\nPROSPERO é a plataforma padrão para revisões sistemáticas em saúde\nOSF é mais flexível e aceita qualquer tipo de revisão\nO registro deve ser feito antes de iniciar a extração de dados\nMudanças no protocolo são aceitáveis, desde que documentadas e justificadas\nMuitos periódicos exigem registro prévio para publicação\nO protocolo funciona como um “contrato” metodológico público",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "08-registro-osf.html#leituras-recomendadas",
+    "href": "08-registro-osf.html#leituras-recomendadas",
+    "title": "Registro de Protocolos",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nStewart; Moher; Shekelle (2012) — Why prospective registration of systematic reviews makes sense\nFoster; Deardorff (2017) — Open Science Framework (OSF)\n\n\nPróximo capítulo: Atividades Práticas",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Registro de Protocolos (OSF)"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Da Pergunta à Síntese",
+    "section": "",
+    "text": "Este material foi desenvolvido para estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.\nAo longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.\n\n\n\n\n\n\nNotaMais do que um guia técnico\n\n\n\nA proposta é ajudar você a pensar metodologicamente, entendendo por que escolher um tipo de revisão — e não apenas como executá-la.",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#bem-vindoa",
+    "href": "index.html#bem-vindoa",
+    "title": "Da Pergunta à Síntese",
+    "section": "",
+    "text": "Este material foi desenvolvido para estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.\nAo longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.\n\n\n\n\n\n\nNotaMais do que um guia técnico\n\n\n\nA proposta é ajudar você a pensar metodologicamente, entendendo por que escolher um tipo de revisão — e não apenas como executá-la.",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#por-que-aprender-sobre-revisão-de-literatura",
+    "href": "index.html#por-que-aprender-sobre-revisão-de-literatura",
+    "title": "Da Pergunta à Síntese",
+    "section": "Por que aprender sobre revisão de literatura?",
+    "text": "Por que aprender sobre revisão de literatura?\nNa prática clínica, na pesquisa e na tomada de decisão em saúde, somos constantemente confrontados com perguntas como:\n\nEste tratamento realmente funciona?\nQual é a melhor evidência disponível?\nO que já se sabe — e o que ainda não se sabe — sobre esse tema?\n\nResponder a essas perguntas exige mais do que “ler alguns artigos”. Exige método, critério e síntese. Revisões de literatura bem conduzidas são a base da prática baseada em evidências, da formulação de diretrizes clínicas e do avanço do conhecimento científico.",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#o-que-você-encontrará-aqui",
+    "href": "index.html#o-que-você-encontrará-aqui",
+    "title": "Da Pergunta à Síntese",
+    "section": "O que você encontrará aqui",
+    "text": "O que você encontrará aqui\n\n\n\nSeção\nConteúdo\n\n\n\n\nVisão geral\nPanorama de todos os tipos de revisão e suas diferenças\n\n\nRevisão Narrativa\nFundamentação teórica e contextualização\n\n\nRevisão Integrativa\nSíntese de evidências com flexibilidade metodológica\n\n\nRevisão de Escopo\nMapeamento de campos de pesquisa\n\n\nRevisão Sistemática\nO padrão-ouro para síntese de evidências\n\n\nMeta-análise\nSíntese quantitativa de múltiplos estudos\n\n\nAcrônimos PICO\nEstruturação de perguntas de pesquisa\n\n\nRegistro de Protocolos\nOSF, PROSPERO e transparência científica\n\n\nAtividades Práticas\nExercícios para aplicação dos conceitos",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#autor",
+    "href": "index.html#autor",
+    "title": "Da Pergunta à Síntese",
+    "section": "Autor",
+    "text": "Autor\nHenrique Alvarenga da Silva\nMédico psiquiatra.\nProfessor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).\nProfessor de Métodos de Pesquisa em Medicina na AFYA.\n🌐 henriquealvarenga.com",
+    "crumbs": [
+      "Início",
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html",
+    "href": "07-acronimos-pico.html",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "",
+    "text": "Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.\nOs acrônimos como PICO funcionam como frameworks que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável (Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\nNotaPrincípio fundamental\n\n\n\nUma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#por-que-estruturar-a-pergunta-de-pesquisa",
+    "href": "07-acronimos-pico.html#por-que-estruturar-a-pergunta-de-pesquisa",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "",
+    "text": "Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.\nOs acrônimos como PICO funcionam como frameworks que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável (Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\nNotaPrincípio fundamental\n\n\n\nUma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#pico-o-acrônimo-clássico",
+    "href": "07-acronimos-pico.html#pico-o-acrônimo-clássico",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PICO: o acrônimo clássico",
+    "text": "PICO: o acrônimo clássico\nO acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre intervenções (Richardson et al., 1995; Santos; Pimenta; Nobre, 2007).\n\n\n\n\n\n\n\n\nElemento\nSignificado\nPergunta orientadora\n\n\n\n\nP\nPopulação / Paciente / Problema\nQuem são os pacientes? Qual a condição?\n\n\nI\nIntervenção\nO que está sendo testado ou avaliado?\n\n\nC\nComparação\nQual a alternativa? (pode ser ausente)\n\n\nO\nOutcome (Desfecho)\nQual o resultado esperado?\n\n\n\n\nExemplo de pergunta PICO\nPergunta narrativa: “Antidepressivos funcionam para depressão em idosos?”\nPergunta estruturada (PICO):\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nIdosos (≥ 65 anos) com transtorno depressivo maior\n\n\nI\nAntidepressivos (ISRS)\n\n\nC\nPlacebo\n\n\nO\nRemissão dos sintomas depressivos\n\n\n\nPergunta final: “Em idosos com transtorno depressivo maior, os inibidores seletivos de recaptação de serotonina são superiores ao placebo para alcançar remissão dos sintomas?”\n\n\n\n\n\n\nDicaDica prática\n\n\n\nO elemento C (comparação) nem sempre está presente. Em estudos descritivos ou de prevalência, pode não haver grupo de comparação.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#picot-adicionando-o-tempo",
+    "href": "07-acronimos-pico.html#picot-adicionando-o-tempo",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PICOT: adicionando o tempo",
+    "text": "PICOT: adicionando o tempo\nO acrônimo PICOT acrescenta o elemento T (Time / Tempo), útil quando a duração do seguimento ou o momento da avaliação são relevantes.\n\n\n\nElemento\nSignificado\n\n\n\n\nP\nPopulação\n\n\nI\nIntervenção\n\n\nC\nComparação\n\n\nO\nOutcome (Desfecho)\n\n\nT\nTime (Tempo)\n\n\n\n\nExemplo de pergunta PICOT\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nAdultos com transtorno de ansiedade generalizada\n\n\nI\nTerapia cognitivo-comportamental\n\n\nC\nLista de espera\n\n\nO\nRedução dos sintomas de ansiedade\n\n\nT\n12 semanas de seguimento",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#pico-para-estudos-qualitativos",
+    "href": "07-acronimos-pico.html#pico-para-estudos-qualitativos",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PICo: para estudos qualitativos",
+    "text": "PICo: para estudos qualitativos\nO acrônimo PICo (com “o” minúsculo) é uma adaptação para perguntas de pesquisa qualitativa, onde não há intervenção nem comparação no sentido tradicional.\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nP\nPopulação\nQuem são os participantes?\n\n\nI\nFenômeno de Interesse\nO que está sendo explorado?\n\n\nCo\nContexto\nEm que circunstância ou ambiente?\n\n\n\n\nExemplo de pergunta PICo\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nPacientes com esquizofrenia\n\n\nI\nExperiência de ouvir vozes\n\n\nCo\nAtendimento ambulatorial em serviço público\n\n\n\nPergunta final: “Como pacientes com esquizofrenia em atendimento ambulatorial no serviço público vivenciam a experiência de ouvir vozes?”",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#pcc-para-revisões-de-escopo",
+    "href": "07-acronimos-pico.html#pcc-para-revisões-de-escopo",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PCC: para revisões de escopo",
+    "text": "PCC: para revisões de escopo\nO framework PCC é recomendado pelo JBI para revisões de escopo, que têm caráter exploratório e mapeiam a literatura.\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nP\nPopulação\nQuem são os participantes ou público-alvo?\n\n\nC\nConceito\nQual o conceito ou fenômeno central?\n\n\nC\nContexto\nEm que setting ou circunstância?\n\n\n\n\nExemplo de pergunta PCC\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nProfissionais de saúde\n\n\nC\nEstratégias de prevenção de burnout\n\n\nC\nUnidades de terapia intensiva\n\n\n\nPergunta final: “Quais estratégias de prevenção de burnout têm sido estudadas em profissionais de saúde que atuam em unidades de terapia intensiva?”",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#spider-alternativa-para-estudos-qualitativos",
+    "href": "07-acronimos-pico.html#spider-alternativa-para-estudos-qualitativos",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "SPIDER: alternativa para estudos qualitativos",
+    "text": "SPIDER: alternativa para estudos qualitativos\nO acrônimo SPIDER foi proposto como alternativa ao PICO para revisões que incluem estudos qualitativos e mistos (Cooke; Smith; Booth, 2012).\n\n\n\nElemento\nSignificado\nDescrição\n\n\n\n\nS\nSample (Amostra)\nGrupo de interesse\n\n\nPI\nPhenomenon of Interest\nFenômeno estudado\n\n\nD\nDesign\nDelineamento do estudo\n\n\nE\nEvaluation\nComo o fenômeno é avaliado\n\n\nR\nResearch type\nTipo de pesquisa (quali, quanti, mista)\n\n\n\n\nExemplo de pergunta SPIDER\n\n\n\nElemento\nConteúdo\n\n\n\n\nS\nCuidadores de pacientes com demência\n\n\nPI\nSobrecarga do cuidador\n\n\nD\nEstudos qualitativos\n\n\nE\nEntrevistas, grupos focais\n\n\nR\nQualitativa",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#peco-para-estudos-de-etiologiaexposição",
+    "href": "07-acronimos-pico.html#peco-para-estudos-de-etiologiaexposição",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "PECO: para estudos de etiologia/exposição",
+    "text": "PECO: para estudos de etiologia/exposição\nO acrônimo PECO é usado para perguntas sobre fatores de risco ou exposição, comuns em estudos observacionais (coorte, caso-controle).\n\n\n\nElemento\nSignificado\n\n\n\n\nP\nPopulação\n\n\nE\nExposição (fator de risco)\n\n\nC\nComparação (não expostos)\n\n\nO\nOutcome (Desfecho)\n\n\n\n\nExemplo de pergunta PECO\n\n\n\nElemento\nConteúdo\n\n\n\n\nP\nAdultos jovens\n\n\nE\nUso de cannabis na adolescência\n\n\nC\nNão uso de cannabis\n\n\nO\nDesenvolvimento de transtornos psicóticos\n\n\n\nPergunta final: “O uso de cannabis na adolescência aumenta o risco de transtornos psicóticos em adultos jovens comparado a não usuários?”",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#qual-acrônimo-usar",
+    "href": "07-acronimos-pico.html#qual-acrônimo-usar",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Qual acrônimo usar?",
+    "text": "Qual acrônimo usar?\nA escolha depende do tipo de pergunta e do tipo de estudo:\n\n\n\nTipo de pergunta\nAcrônimo recomendado\n\n\n\n\nEficácia de intervenção\nPICO, PICOT\n\n\nEtiologia / Fatores de risco\nPECO\n\n\nExperiências e significados (quali)\nPICo, SPIDER\n\n\nMapeamento da literatura (escopo)\nPCC\n\n\nDiagnóstico\nPICO (adaptado)\n\n\nPrognóstico\nPICO (adaptado)\n\n\n\n\n\n\n\n\nflowchart TD\n    A[Qual é sua pergunta?] --&gt; B{Tipo de estudo?}\n    \n    B --&gt;|Intervenção| C[PICO / PICOT]\n    B --&gt;|Exposição / Risco| D[PECO]\n    B --&gt;|Qualitativo| E[PICo / SPIDER]\n    B --&gt;|Revisão de escopo| F[PCC]",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#da-pergunta-à-estratégia-de-busca",
+    "href": "07-acronimos-pico.html#da-pergunta-à-estratégia-de-busca",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Da pergunta à estratégia de busca",
+    "text": "Da pergunta à estratégia de busca\nApós estruturar a pergunta, cada elemento do acrônimo orienta a construção da estratégia de busca nas bases de dados.\n\nPasso a passo\n\nIdentifique os termos para cada elemento do acrônimo\nBusque sinônimos e termos relacionados\nIdentifique descritores controlados (MeSH, DeCS)\nCombine os termos com operadores booleanos\n\n\n\nOperadores booleanos\n\n\n\nOperador\nFunção\nExemplo\n\n\n\n\nAND\nIntersecção (restringe)\ndepression AND elderly\n\n\nOR\nUnião (amplia)\nelderly OR aged OR older\n\n\nNOT\nExclusão (use com cautela)\ndepression NOT bipolar\n\n\n\n\n\nExemplo de estratégia de busca\nPergunta PICO: “Em idosos com depressão, os ISRS são eficazes para remissão dos sintomas?”\n\n\n\n\n\n\n\nElemento\nTermos de busca\n\n\n\n\nP\nelderly OR aged OR “older adults” OR geriatric\n\n\nI\nSSRI OR “selective serotonin reuptake inhibitor” OR fluoxetine OR sertraline\n\n\nO\nremission OR response OR improvement\n\n\n\nEstratégia combinada:\n(elderly OR aged OR \"older adults\" OR geriatric)\nAND\n(SSRI OR \"selective serotonin reuptake inhibitor\" OR fluoxetine OR sertraline OR escitalopram)\nAND\n(depression OR \"depressive disorder\" OR \"major depression\")\nAND\n(remission OR response OR improvement)\n\n\n\n\n\n\nDicaDica prática\n\n\n\nComece com uma busca sensível (ampla) e depois refine conforme necessário. É melhor ter muitos resultados para triar do que perder estudos relevantes.",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#erros-comuns-na-formulação-da-pergunta",
+    "href": "07-acronimos-pico.html#erros-comuns-na-formulação-da-pergunta",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Erros comuns na formulação da pergunta",
+    "text": "Erros comuns na formulação da pergunta\n\n\n\n\n\n\nAvisoEvite estes erros\n\n\n\n\nPergunta muito ampla: “O que se sabe sobre depressão?” — impossível de responder sistematicamente\nPergunta muito restrita: “A fluoxetina 20mg por 8 semanas é eficaz para depressão leve em mulheres entre 30-35 anos no Brasil?” — pode não haver estudos\nAusência de desfecho claro: “Os ISRS são bons para idosos?” — bons em quê?\nConfundir intervenção com exposição: usar PICO quando deveria usar PECO\nMisturar múltiplas perguntas: “Os ISRS são eficazes e seguros e melhoram qualidade de vida?” — são três perguntas diferentes",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#resumo",
+    "href": "07-acronimos-pico.html#resumo",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nAcrônimos ajudam a estruturar perguntas de pesquisa de forma clara\nPICO é o padrão para perguntas sobre intervenções\nPICo e SPIDER são adaptações para estudos qualitativos\nPCC é recomendado para revisões de escopo\nPECO é usado para perguntas sobre exposição/risco\nCada elemento do acrônimo orienta a estratégia de busca\nUse operadores booleanos (AND, OR, NOT) para combinar termos\nEvite perguntas muito amplas ou muito restritas",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "07-acronimos-pico.html#leituras-recomendadas",
+    "href": "07-acronimos-pico.html#leituras-recomendadas",
+    "title": "Acrônimos PICO, PICo, PICOT e Variações",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nSantos; Pimenta; Nobre (2007) — A estratégia PICO para a construção da pergunta de pesquisa\nRichardson et al. (1995) — The well-built clinical question\nCooke; Smith; Booth (2012) — Beyond PICO: the SPIDER tool for qualitative evidence synthesis\nNobre; Bernardo; Jatene (2004) — A prática clínica baseada em evidências\n\n\nPróximo capítulo: Registro de Protocolos",
+    "crumbs": [
+      "Início",
+      "Ferramentas",
+      "Acrônimos PICO, PICo, PICOT"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html",
+    "href": "01-introducao.html",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "",
+    "text": "O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos (González-Márquez et al., 2024; National Library of Medicine, 2024). Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.\nDiante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.\nNem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#introdução",
+    "href": "01-introducao.html#introdução",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "",
+    "text": "O crescimento da produção científica na área biomédica tem sido constante ao longo do último século, atingindo proporções que tornam impossível o acompanhamento individual da literatura por qualquer profissional. Atualmente, mais de 1,5 milhão de artigos científicos em biomedicina e ciências da vida são publicados e indexados anualmente apenas na base de dados PubMed, que já contém mais de 35 milhões de trabalhos científicos dos últimos 50 anos (González-Márquez et al., 2024; National Library of Medicine, 2024). Esse rápido crescimento dificulta o acompanhamento da evolução das publicações como um todo, tornando desafiador observar como os tópicos de pesquisa evoluem ao longo do tempo, como diferentes campos se relacionam entre si, ou como novos métodos e técnicas são adotados em diferentes áreas.\nDiante desse cenário, as revisões de literatura tornam-se ferramentas essenciais para sintetizar, organizar e avaliar criticamente o conhecimento disponível, oferecendo uma visão panorâmica que seria impossível obter pela leitura individual dos estudos primários.\nNem toda revisão, porém, é igual. Existem diferentes métodos, cada um com finalidades, rigor metodológico e aplicações específicas. Escolher o tipo errado de revisão pode comprometer todo o trabalho — mesmo que a pergunta de pesquisa seja excelente.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#por-que-existem-diferentes-tipos-de-revisão",
+    "href": "01-introducao.html#por-que-existem-diferentes-tipos-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Por que existem diferentes tipos de revisão?",
+    "text": "Por que existem diferentes tipos de revisão?\nA diversidade de métodos reflete diferentes necessidades:\n\nFundamentar teoricamente um estudo ou discussão\nMapear o que existe sobre um tema amplo\nResponder a uma pergunta clínica específica\nQuantificar o efeito de uma intervenção\n\nCada objetivo demanda uma abordagem metodológica distinta.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#os-principais-tipos-de-revisão",
+    "href": "01-introducao.html#os-principais-tipos-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Os principais tipos de revisão",
+    "text": "Os principais tipos de revisão\n\nRevisão Narrativa\nA forma mais flexível e tradicional de revisão. O autor seleciona e discute a literatura de forma qualitativa, sem necessidade de protocolo rígido ou busca exaustiva. É útil para contextualização teórica, mas tem baixa reprodutibilidade.\nQuando usar: Fundamentação teórica de artigos, capítulos introdutórios, discussão de conceitos.\n➡️ Saiba mais em Revisão Narrativa\n\n\nRevisão Integrativa\nMétodo sistematizado que permite incluir estudos com diferentes delineamentos (quantitativos e qualitativos). Segue etapas definidas, mas com mais flexibilidade que a revisão sistemática. Muito utilizada na enfermagem e em outras áreas da saúde.\nQuando usar: Síntese ampla sobre um tema, quando há diversidade de tipos de estudo.\n➡️ Saiba mais em Revisão Integrativa\n\n\nRevisão de Escopo (Scoping Review)\nMapeia a extensão e a natureza da literatura sobre um tema amplo, identificando conceitos-chave, tipos de evidência disponíveis e lacunas no conhecimento. Não avalia a qualidade dos estudos — seu objetivo é exploratório.\nQuando usar: Temas amplos ou emergentes, antes de uma revisão sistemática, para identificar lacunas.\n➡️ Saiba mais em Revisão de Escopo\n\n\nRevisão Sistemática\nO padrão-ouro para síntese de evidências. Segue protocolo rígido, com busca exaustiva, critérios explícitos de inclusão/exclusão, avaliação da qualidade metodológica e síntese estruturada. Alta reprodutibilidade e transparência.\nQuando usar: Responder a perguntas clínicas específicas, fundamentar diretrizes, avaliar efetividade de intervenções.\n➡️ Saiba mais em Revisão Sistemática\n\n\nMeta-análise\nTécnica estatística que combina quantitativamente os resultados de múltiplos estudos, gerando uma estimativa sumária do efeito. Geralmente realizada dentro de uma revisão sistemática, quando os estudos são suficientemente homogêneos.\nQuando usar: Quando há estudos comparáveis e deseja-se estimar o tamanho do efeito combinado.\n➡️ Saiba mais em Meta-análise",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#quadro-comparativo",
+    "href": "01-introducao.html#quadro-comparativo",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Quadro comparativo",
+    "text": "Quadro comparativo\n\n\n\n\n\n\n\n\n\n\n\nCaracterística\nNarrativa\nIntegrativa\nEscopo\nSistemática\nMeta-análise\n\n\n\n\nPergunta\nAmpla\nAmpla a específica\nAmpla\nEspecífica\nEspecífica\n\n\nProtocolo prévio\nNão\nRecomendado\nRecomendado\nObrigatório\nObrigatório\n\n\nBusca\nNão sistemática\nSistemática\nSistemática\nExaustiva\nExaustiva\n\n\nSeleção de estudos\nSubjetiva\nCritérios definidos\nCritérios definidos\nCritérios rígidos\nCritérios rígidos\n\n\nAvaliação de qualidade\nNão\nOpcional\nNão\nObrigatória\nObrigatória\n\n\nTipos de estudo incluídos\nQualquer\nDiversos\nQualquer\nGeralmente homogêneos\nHomogêneos\n\n\nSíntese\nQualitativa\nQualitativa\nQualitativa\nQuali ou quanti\nQuantitativa\n\n\nReprodutibilidade\nBaixa\nModerada\nModerada\nAlta\nAlta\n\n\nTempo/recursos\nBaixo\nModerado\nModerado\nAlto\nAlto\n\n\nNível de evidência\nBaixo\nModerado\n—\nAlto\nAlto",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#como-escolher-o-tipo-de-revisão",
+    "href": "01-introducao.html#como-escolher-o-tipo-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Como escolher o tipo de revisão?",
+    "text": "Como escolher o tipo de revisão?\n\n\n\n\n\nflowchart TD\n    A[Qual é sua pergunta?] --&gt; B{É ampla ou&lt;br&gt;específica?}\n    \n    B --&gt;|Ampla| C{Quer mapear&lt;br&gt;o campo?}\n    B --&gt;|Específica| D{Quer quantificar&lt;br&gt;o efeito?}\n    \n    C --&gt;|Sim| E[Revisão de Escopo]\n    C --&gt;|Não| F{Inclui diferentes&lt;br&gt;tipos de estudo?}\n    \n    F --&gt;|Sim| G[Revisão Integrativa]\n    F --&gt;|Não| H[Revisão Narrativa]\n    \n    D --&gt;|Sim| I{Estudos são&lt;br&gt;comparáveis?}\n    D --&gt;|Não| J[Revisão Sistemática]\n    \n    I --&gt;|Sim| K[Meta-análise]\n    I --&gt;|Não| J\n\n\n\n\n\n\n\n\n\n\n\n\nDicaDica prática\n\n\n\nAntes de iniciar, faça uma busca exploratória para verificar:\n\nQuantos estudos existem sobre o tema\nQue tipos de estudo predominam\nSe já existem revisões sistemáticas publicadas\nSe o tema é amplo ou específico demais\n\nIsso ajuda a calibrar suas expectativas e escolher o método adequado.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#outros-tipos-de-revisão",
+    "href": "01-introducao.html#outros-tipos-de-revisão",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Outros tipos de revisão",
+    "text": "Outros tipos de revisão\nAlém dos cinco tipos principais, existem outras abordagens que você pode encontrar na literatura:\n\nRevisão rápida (Rapid Review): Versão acelerada da revisão sistemática, com simplificações metodológicas para atender demandas urgentes.\nRevisão guarda-chuva (Umbrella Review): Revisão de revisões sistemáticas sobre um tema.\nMeta-síntese qualitativa: Síntese interpretativa de estudos qualitativos.\nRevisão realista (Realist Review): Busca entender “o que funciona, para quem, em quais circunstâncias e por quê”.",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "01-introducao.html#resumo",
+    "href": "01-introducao.html#resumo",
+    "title": "Visão Geral dos Tipos de Revisão de Literatura",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nExistem diferentes tipos de revisão, cada um com finalidades específicas\nA pergunta de pesquisa determina o método mais adequado\nRevisões narrativas são flexíveis, mas têm baixa reprodutibilidade\nRevisões integrativas permitem incluir estudos diversos\nRevisões de escopo mapeiam campos amplos ou emergentes\nRevisões sistemáticas são o padrão-ouro para perguntas específicas\nMeta-análises combinam resultados quantitativamente\nEscolher o tipo errado compromete todo o trabalho\n\n\n\n\nPróximo capítulo: Revisão Narrativa",
+    "crumbs": [
+      "Início",
+      "Visão Geral dos Tipos de Revisão"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html",
+    "href": "06-metanalise.html",
+    "title": "Meta-análise",
+    "section": "",
+    "text": "A meta-análise é uma técnica estatística que combina quantitativamente os resultados de múltiplos estudos independentes sobre uma mesma questão, gerando uma estimativa sumária do efeito (Borenstein et al., 2009).\nO termo foi cunhado por Gene Glass em 1976, que a definiu como “a análise estatística de uma grande coleção de resultados de estudos individuais, com o propósito de integrar os achados” (Glass, 1976).\n\n\n\n\n\n\nNotaDefinição\n\n\n\nA meta-análise é um método estatístico que combina resultados de estudos independentes para obter uma estimativa mais precisa do efeito de uma intervenção ou da força de uma associação.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#o-que-é-uma-meta-análise",
+    "href": "06-metanalise.html#o-que-é-uma-meta-análise",
+    "title": "Meta-análise",
+    "section": "",
+    "text": "A meta-análise é uma técnica estatística que combina quantitativamente os resultados de múltiplos estudos independentes sobre uma mesma questão, gerando uma estimativa sumária do efeito (Borenstein et al., 2009).\nO termo foi cunhado por Gene Glass em 1976, que a definiu como “a análise estatística de uma grande coleção de resultados de estudos individuais, com o propósito de integrar os achados” (Glass, 1976).\n\n\n\n\n\n\nNotaDefinição\n\n\n\nA meta-análise é um método estatístico que combina resultados de estudos independentes para obter uma estimativa mais precisa do efeito de uma intervenção ou da força de uma associação.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#meta-análise-e-revisão-sistemática",
+    "href": "06-metanalise.html#meta-análise-e-revisão-sistemática",
+    "title": "Meta-análise",
+    "section": "Meta-análise e revisão sistemática",
+    "text": "Meta-análise e revisão sistemática\nÉ importante distinguir os dois conceitos:\n\nRevisão sistemática: método de revisão da literatura com busca exaustiva, seleção criteriosa e avaliação de qualidade\nMeta-análise: técnica estatística de combinação de resultados\n\nA meta-análise geralmente ocorre dentro de uma revisão sistemática, mas nem toda revisão sistemática inclui meta-análise. A combinação estatística só é apropriada quando os estudos são suficientemente semelhantes.\n\n\n\n\n\n\nImportanteAtenção\n\n\n\nMeta-análise não é sinônimo de revisão sistemática. É possível ter:\n\nRevisão sistemática com meta-análise\nRevisão sistemática sem meta-análise (síntese qualitativa)\nMeta-análise sem revisão sistemática (não recomendado)",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#características-principais",
+    "href": "06-metanalise.html#características-principais",
+    "title": "Meta-análise",
+    "section": "Características principais",
+    "text": "Características principais\n\n\n\n\n\n\n\nCaracterística\nDescrição\n\n\n\n\nObjetivo\nEstimar efeito combinado\n\n\nDados necessários\nResultados numéricos dos estudos primários\n\n\nPré-requisito\nEstudos comparáveis (homogeneidade mínima)\n\n\nProduto\nEstimativa sumária com intervalo de confiança\n\n\nApresentação visual\nForest plot (gráfico de floresta)",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#por-que-fazer-uma-meta-análise",
+    "href": "06-metanalise.html#por-que-fazer-uma-meta-análise",
+    "title": "Meta-análise",
+    "section": "Por que fazer uma meta-análise?",
+    "text": "Por que fazer uma meta-análise?\n\n1. Aumentar o poder estatístico\nEstudos individuais podem ter amostras pequenas e não detectar efeitos reais. Ao combinar dados, aumenta-se o poder para identificar diferenças significativas.\n\n\n2. Melhorar a precisão da estimativa\nA estimativa combinada tem intervalo de confiança mais estreito do que estudos individuais.\n\n\n3. Resolver controvérsias\nQuando estudos individuais apresentam resultados conflitantes, a meta-análise pode esclarecer a direção e magnitude do efeito.\n\n\n4. Explorar heterogeneidade\nPermite investigar por que estudos diferentes encontram resultados diferentes (análises de subgrupo e meta-regressão).",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#quando-fazer-uma-meta-análise",
+    "href": "06-metanalise.html#quando-fazer-uma-meta-análise",
+    "title": "Meta-análise",
+    "section": "Quando fazer uma meta-análise?",
+    "text": "Quando fazer uma meta-análise?\nA meta-análise é apropriada quando:\n\nOs estudos respondem à mesma pergunta de pesquisa\nAs populações são comparáveis\nAs intervenções são semelhantes\nOs desfechos são medidos de forma similar\nA heterogeneidade entre estudos é aceitável\n\n\n\n\n\n\n\nAvisoCuidado\n\n\n\nCombinar estudos muito diferentes pode gerar resultados enganosos. A máxima “garbage in, garbage out” (lixo entra, lixo sai) se aplica: uma meta-análise de estudos ruins produz uma estimativa combinada ruim.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#quando-não-fazer-uma-meta-análise",
+    "href": "06-metanalise.html#quando-não-fazer-uma-meta-análise",
+    "title": "Meta-análise",
+    "section": "Quando NÃO fazer uma meta-análise?",
+    "text": "Quando NÃO fazer uma meta-análise?\nEvite meta-análise quando:\n\nOs estudos são muito heterogêneos (populações, intervenções ou desfechos diferentes)\nHá poucos estudos disponíveis (geralmente menos de 3)\nOs dados necessários não estão disponíveis nos estudos primários\nA qualidade dos estudos é muito baixa\n\nNesses casos, opte por uma síntese qualitativa (narrativa estruturada).",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#conceitos-fundamentais",
+    "href": "06-metanalise.html#conceitos-fundamentais",
+    "title": "Meta-análise",
+    "section": "Conceitos fundamentais",
+    "text": "Conceitos fundamentais\n\nTamanho do efeito (effect size)\nÉ a medida padronizada que quantifica a magnitude do efeito. Os tipos mais comuns são:\n\n\n\n\n\n\n\nTipo de desfecho\nMedidas de efeito\n\n\n\n\nDicotômico (sim/não)\nRisco Relativo (RR), Odds Ratio (OR), Diferença de Risco (RD)\n\n\nContínuo (escalas, medidas)\nDiferença de Médias (MD), Diferença de Médias Padronizada (SMD)\n\n\nTempo até evento\nHazard Ratio (HR)\n\n\nCorrelação\nCoeficiente de correlação (r)\n\n\n\n\n\nPeso dos estudos\nCada estudo contribui para a estimativa combinada de acordo com seu peso, que geralmente é baseado no tamanho da amostra e na precisão (variância) dos resultados. Estudos maiores e mais precisos têm maior peso.\n\n\nModelos de análise\nModelo de efeito fixo: assume que todos os estudos estimam o mesmo efeito verdadeiro. A variação entre estudos é atribuída apenas ao acaso.\nModelo de efeitos aleatórios: assume que os estudos estimam efeitos diferentes, que variam em torno de uma média. É mais conservador e geralmente mais apropriado na prática clínica.\n\n\n\n\n\n\nDicaNa prática\n\n\n\nO modelo de efeitos aleatórios é recomendado na maioria das situações clínicas, pois é improvável que estudos realizados em diferentes contextos estimem exatamente o mesmo efeito.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#heterogeneidade",
+    "href": "06-metanalise.html#heterogeneidade",
+    "title": "Meta-análise",
+    "section": "Heterogeneidade",
+    "text": "Heterogeneidade\nA heterogeneidade refere-se à variabilidade nos resultados entre os estudos. Pode ser:\n\nClínica: diferenças nas populações, intervenções ou desfechos\nMetodológica: diferenças no desenho e condução dos estudos\nEstatística: variabilidade além do esperado pelo acaso\n\n\nComo avaliar a heterogeneidade?\n\n\n\n\n\n\n\nMedida\nInterpretação\n\n\n\n\nQ de Cochran\nTeste estatístico; p &lt; 0,10 sugere heterogeneidade\n\n\nI²\nPercentual da variabilidade devido à heterogeneidade (não ao acaso)\n\n\n\nInterpretação do I² (Higgins et al., 2003):\n\n0-40%: heterogeneidade baixa\n30-60%: heterogeneidade moderada\n50-90%: heterogeneidade substancial\n75-100%: heterogeneidade considerável\n\n\n\n\n\n\n\nAvisoAtenção\n\n\n\nAlta heterogeneidade (I² &gt; 75%) é um sinal de alerta. Antes de apresentar uma estimativa combinada, investigue as causas através de análises de subgrupo ou meta-regressão.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#forest-plot-gráfico-de-floresta",
+    "href": "06-metanalise.html#forest-plot-gráfico-de-floresta",
+    "title": "Meta-análise",
+    "section": "Forest plot (gráfico de floresta)",
+    "text": "Forest plot (gráfico de floresta)\nO forest plot é a representação visual padrão de uma meta-análise (Lewis; Clarke, 2001). Ele mostra:\n\nCada estudo como um quadrado (tamanho proporcional ao peso)\nO intervalo de confiança de cada estudo como linha horizontal\nA estimativa combinada como um losango na parte inferior\nA linha de nulidade (sem efeito) como referência vertical\n\n\n\n\nForest Plot\n\n\nNota: Representação esquemática ilustrativa.\n\nComo interpretar?\n\nSe o IC do losango não cruza a linha de nulidade: efeito estatisticamente significativo\nSe o IC cruza a linha de nulidade: efeito não significativo\nQuanto mais à direita (ou esquerda), maior a magnitude do efeito\nQuanto mais estreito o IC, maior a precisão",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#viés-de-publicação",
+    "href": "06-metanalise.html#viés-de-publicação",
+    "title": "Meta-análise",
+    "section": "Viés de publicação",
+    "text": "Viés de publicação\nEstudos com resultados positivos ou significativos têm maior probabilidade de serem publicados. Isso pode distorcer os resultados da meta-análise.\n\nComo detectar?\nFunnel plot (gráfico de funil): gráfico de dispersão do tamanho do efeito versus precisão (ou tamanho da amostra). Assimetria sugere viés de publicação.\nTeste de Egger: teste estatístico para assimetria do funnel plot (Egger et al., 1997).\n\n\n\n\n\n\nDicaDica prática\n\n\n\nO funnel plot é mais informativo quando há pelo menos 10 estudos. Com poucos estudos, é difícil avaliar assimetria.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#análises-de-sensibilidade-e-subgrupo",
+    "href": "06-metanalise.html#análises-de-sensibilidade-e-subgrupo",
+    "title": "Meta-análise",
+    "section": "Análises de sensibilidade e subgrupo",
+    "text": "Análises de sensibilidade e subgrupo\n\nAnálise de sensibilidade\nVerifica se os resultados são robustos a diferentes decisões metodológicas:\n\nExcluir estudos com alto risco de viés\nUsar modelo de efeito fixo vs. aleatório\nExcluir um estudo por vez (leave-one-out)\n\n\n\nAnálise de subgrupo\nInvestiga se o efeito difere entre grupos definidos a priori:\n\nPor característica da população (idade, sexo, gravidade)\nPor tipo de intervenção (dose, duração)\nPor qualidade metodológica\n\n\n\n\n\n\n\nAvisoCuidado com múltiplas comparações\n\n\n\nAnálises de subgrupo devem ser planejadas previamente no protocolo. Análises exploratórias post hoc aumentam o risco de achados espúrios.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#etapas-para-conduzir-uma-meta-análise",
+    "href": "06-metanalise.html#etapas-para-conduzir-uma-meta-análise",
+    "title": "Meta-análise",
+    "section": "Etapas para conduzir uma meta-análise",
+    "text": "Etapas para conduzir uma meta-análise\n\nVerificar viabilidade: os estudos são comparáveis?\nExtrair dados numéricos: médias, desvios-padrão, frequências\nEscolher a medida de efeito: RR, OR, MD, SMD\nEscolher o modelo: efeito fixo ou aleatórios\nCalcular a estimativa combinada: usando software apropriado\nAvaliar heterogeneidade: Q, I²\nInvestigar causas de heterogeneidade: subgrupos, meta-regressão\nAvaliar viés de publicação: funnel plot, teste de Egger\nRealizar análises de sensibilidade\nInterpretar e apresentar resultados: forest plot, tabelas",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#softwares-para-meta-análise",
+    "href": "06-metanalise.html#softwares-para-meta-análise",
+    "title": "Meta-análise",
+    "section": "Softwares para meta-análise",
+    "text": "Softwares para meta-análise\n\n\n\nSoftware\nCaracterísticas\n\n\n\n\nRevMan\nGratuito, desenvolvido pela Cochrane\n\n\nR (metafor, meta)\nGratuito, flexível, requer programação\n\n\nStata\nPago, comandos específicos (metan, metaan)\n\n\nComprehensive Meta-Analysis\nPago, interface amigável\n\n\nJASP\nGratuito, interface gráfica",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#vantagens",
+    "href": "06-metanalise.html#vantagens",
+    "title": "Meta-análise",
+    "section": "Vantagens",
+    "text": "Vantagens\n\nPrecisão: estimativa mais precisa que estudos individuais\nPoder estatístico: detecta efeitos que estudos pequenos não conseguem\nObjetividade: síntese quantitativa, não apenas narrativa\nExploração: permite investigar fontes de heterogeneidade\nClareza visual: forest plot facilita comunicação dos resultados",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#limitações",
+    "href": "06-metanalise.html#limitações",
+    "title": "Meta-análise",
+    "section": "Limitações",
+    "text": "Limitações\n\nDependência dos estudos primários: limitada pela qualidade dos dados disponíveis\nViés de publicação: estudos negativos podem estar ausentes\nHeterogeneidade: combinar estudos diferentes pode ser enganoso\nFalácia ecológica: resultados agregados podem não se aplicar a indivíduos\nComplexidade: requer conhecimento estatístico para condução e interpretação",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#resumo",
+    "href": "06-metanalise.html#resumo",
+    "title": "Meta-análise",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nMeta-análise é uma técnica estatística, não um tipo de revisão\nCombina resultados de estudos para obter estimativa mais precisa\nSó deve ser realizada quando os estudos são suficientemente semelhantes\nO forest plot é a apresentação visual padrão\nA heterogeneidade (I²) indica variabilidade entre estudos\nO viés de publicação deve ser investigado (funnel plot)\nAnálises de sensibilidade verificam a robustez dos resultados\nRequer conhecimento estatístico para condução adequada",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "06-metanalise.html#leituras-recomendadas",
+    "href": "06-metanalise.html#leituras-recomendadas",
+    "title": "Meta-análise",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nBorenstein et al. (2009) — Introduction to Meta-Analysis\nGlass (1976) — Primary, secondary, and meta-analysis of research\nHiggins et al. (2003) — Measuring inconsistency in meta-analyses\nEgger et al. (1997) — Bias in meta-analysis detected by a simple, graphical test\nLewis; Clarke (2001) — Forest plots: trying to see the wood and the trees\n\n\nPróximo capítulo: Acrônimos PICO",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Meta-análise"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html",
+    "href": "05-revisao-sistematica.html",
+    "title": "Revisão Sistemática",
+    "section": "",
+    "text": "A revisão sistemática é um tipo de estudo secundário que utiliza métodos rigorosos e explícitos para identificar, selecionar, avaliar criticamente e sintetizar todas as evidências disponíveis sobre uma pergunta de pesquisa específica (Higgins et al., 2019).\nÉ considerada o padrão-ouro para síntese de evidências porque minimiza vieses através de um processo transparente, reprodutível e abrangente. Seus resultados fundamentam diretrizes clínicas, políticas de saúde e decisões sobre práticas assistenciais.\n\n\n\n\n\n\nNotaDefinição\n\n\n\n“Uma revisão sistemática é uma revisão de uma pergunta claramente formulada que utiliza métodos sistemáticos e explícitos para identificar, selecionar e avaliar criticamente pesquisas relevantes, e para coletar e analisar dados dos estudos incluídos na revisão” (Higgins et al., 2019).",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#o-que-é-uma-revisão-sistemática",
+    "href": "05-revisao-sistematica.html#o-que-é-uma-revisão-sistemática",
+    "title": "Revisão Sistemática",
+    "section": "",
+    "text": "A revisão sistemática é um tipo de estudo secundário que utiliza métodos rigorosos e explícitos para identificar, selecionar, avaliar criticamente e sintetizar todas as evidências disponíveis sobre uma pergunta de pesquisa específica (Higgins et al., 2019).\nÉ considerada o padrão-ouro para síntese de evidências porque minimiza vieses através de um processo transparente, reprodutível e abrangente. Seus resultados fundamentam diretrizes clínicas, políticas de saúde e decisões sobre práticas assistenciais.\n\n\n\n\n\n\nNotaDefinição\n\n\n\n“Uma revisão sistemática é uma revisão de uma pergunta claramente formulada que utiliza métodos sistemáticos e explícitos para identificar, selecionar e avaliar criticamente pesquisas relevantes, e para coletar e analisar dados dos estudos incluídos na revisão” (Higgins et al., 2019).",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#características-principais",
+    "href": "05-revisao-sistematica.html#características-principais",
+    "title": "Revisão Sistemática",
+    "section": "Características principais",
+    "text": "Características principais\n\n\n\n\n\n\n\nCaracterística\nDescrição\n\n\n\n\nPergunta de pesquisa\nEspecífica, bem delimitada\n\n\nProtocolo\nObrigatório, registrado previamente\n\n\nEstratégia de busca\nExaustiva, em múltiplas bases\n\n\nSeleção de estudos\nCritérios rígidos, revisores independentes\n\n\nTipos de estudo\nGeralmente homogêneos (ex: apenas ECRs)\n\n\nAvaliação de qualidade\nObrigatória, com instrumentos validados\n\n\nSíntese dos resultados\nQualitativa e/ou quantitativa (meta-análise)\n\n\nReprodutibilidade\nAlta",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#o-que-diferencia-a-revisão-sistemática",
+    "href": "05-revisao-sistematica.html#o-que-diferencia-a-revisão-sistemática",
+    "title": "Revisão Sistemática",
+    "section": "O que diferencia a revisão sistemática?",
+    "text": "O que diferencia a revisão sistemática?\nTrês elementos fundamentais distinguem a revisão sistemática de outros tipos:\n\n1. Protocolo prévio\nO método é definido antes de iniciar a revisão e registrado publicamente (PROSPERO, OSF). Isso evita que decisões metodológicas sejam influenciadas pelos resultados encontrados.\n\n\n2. Busca exaustiva\nA busca visa identificar todos os estudos relevantes, incluindo literatura cinzenta e estudos não publicados, para minimizar o viés de publicação.\n\n\n3. Avaliação de qualidade\nCada estudo incluído é avaliado quanto ao risco de viés usando instrumentos padronizados. A qualidade da evidência influencia as conclusões.\n\n\n\n\n\n\nImportanteRigor metodológico\n\n\n\nA força da revisão sistemática está na transparência. Cada etapa é documentada de forma que outro pesquisador possa reproduzir o processo e chegar aos mesmos resultados.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#quando-usar-a-revisão-sistemática",
+    "href": "05-revisao-sistematica.html#quando-usar-a-revisão-sistemática",
+    "title": "Revisão Sistemática",
+    "section": "Quando usar a revisão sistemática?",
+    "text": "Quando usar a revisão sistemática?\nA revisão sistemática é indicada para:\n\nResponder a perguntas clínicas específicas sobre eficácia ou efetividade\nFundamentar diretrizes clínicas e protocolos assistenciais\nSubsidiar políticas de saúde baseadas em evidências\nResolver controvérsias quando estudos individuais são conflitantes\nIdentificar a necessidade de novos estudos primários\n\n\n\n\n\n\n\nDicaExemplos de perguntas adequadas\n\n\n\n\n“A terapia cognitivo-comportamental é eficaz para tratamento de insônia em adultos?”\n“Qual a acurácia diagnóstica da ultrassonografia para apendicite aguda?”\n“Antidepressivos são superiores ao placebo no tratamento de depressão leve?”\n\nObserve que são perguntas específicas, com população, intervenção e desfecho bem definidos.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#quando-não-usar-a-revisão-sistemática",
+    "href": "05-revisao-sistematica.html#quando-não-usar-a-revisão-sistemática",
+    "title": "Revisão Sistemática",
+    "section": "Quando NÃO usar a revisão sistemática?",
+    "text": "Quando NÃO usar a revisão sistemática?\nA revisão sistemática não é adequada quando:\n\nA pergunta é ampla ou exploratória (prefira revisão de escopo)\nHá poucos estudos primários disponíveis\nOs estudos são muito heterogêneos para síntese\nO objetivo é fundamentação teórica (prefira revisão narrativa)\nHá urgência e não há tempo para o processo completo (considere revisão rápida)",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#etapas-da-revisão-sistemática",
+    "href": "05-revisao-sistematica.html#etapas-da-revisão-sistemática",
+    "title": "Revisão Sistemática",
+    "section": "Etapas da revisão sistemática",
+    "text": "Etapas da revisão sistemática\nO processo segue etapas bem definidas, conforme o Cochrane Handbook (Higgins et al., 2019):\n\nFormular a pergunta PICO\nElaborar e registrar o protocolo\nBuscar estudos nas bases de dados\nSelecionar estudos por critérios\nExtrair dados dos estudos\nAvaliar risco de viés\nSintetizar resultados\nAvaliar certeza da evidência\nRedigir e publicar a revisão\n\n\nEtapa 1: Formulação da pergunta\nA pergunta deve seguir o formato PICO:\n\n\n\n\n\n\n\n\nElemento\nDescrição\nExemplo\n\n\n\n\nP - População\nQuem são os pacientes?\nAdultos com transtorno de ansiedade generalizada\n\n\nI - Intervenção\nO que está sendo avaliado?\nTerapia cognitivo-comportamental\n\n\nC - Comparação\nQual a alternativa?\nLista de espera ou tratamento usual\n\n\nO - Outcome\nQual o desfecho?\nRedução dos sintomas de ansiedade\n\n\n\n➡️ Veja mais em Acrônimos PICO\n\n\nEtapa 2: Elaboração e registro do protocolo\nO protocolo deve conter:\n\nPergunta de pesquisa (PICO)\nCritérios de inclusão e exclusão\nEstratégia de busca\nProcesso de seleção\nVariáveis a serem extraídas\nMétodo de avaliação de qualidade\nPlano de síntese dos dados\n\n\n\n\n\n\n\nImportanteRegistro obrigatório\n\n\n\nRegistre o protocolo no PROSPERO (para revisões de saúde) ou OSF antes de iniciar a busca. Isso aumenta a transparência e evita duplicação de esforços.\n➡️ Veja mais em Registro de Protocolos\n\n\n\n\nEtapa 3: Busca nas bases de dados\nA busca deve ser:\n\nSensível: capturar o máximo de estudos relevantes\nEspecífica: evitar excesso de estudos irrelevantes\nReprodutível: documentada em detalhes\n\nBases de dados recomendadas:\n\n\n\nÁrea\nBases principais\n\n\n\n\nMedicina/Saúde\nPubMed/MEDLINE, Embase, Cochrane CENTRAL\n\n\nEnfermagem\nCINAHL\n\n\nPsicologia\nPsycINFO\n\n\nAmérica Latina\nLILACS\n\n\nMultidisciplinar\nScopus, Web of Science\n\n\n\nInclua também:\n\nBusca manual em referências dos estudos incluídos\nLiteratura cinzenta (teses, dissertações, anais)\nContato com especialistas\nRegistros de ensaios clínicos (ClinicalTrials.gov)\n\n\n\nEtapa 4: Seleção dos estudos\nO processo de seleção deve ser realizado por dois revisores independentes:\n\nTriagem por título e resumo: excluir estudos claramente irrelevantes\nLeitura do texto completo: aplicar todos os critérios de elegibilidade\nResolução de discordâncias: consenso ou terceiro revisor\n\nDocumente o processo no fluxograma PRISMA (Page et al., 2021).\n\n\n\n\n\nflowchart TD\n    A[Registros identificados&lt;br&gt;nas bases de dados] --&gt; B[Registros após&lt;br&gt;remoção de duplicatas]\n    B --&gt; C[Registros triados&lt;br&gt;por título/resumo]\n    C --&gt; D[Registros excluídos]\n    C --&gt; E[Artigos em texto completo&lt;br&gt;avaliados para elegibilidade]\n    E --&gt; F[Artigos excluídos&lt;br&gt;com motivos]\n    E --&gt; G[Estudos incluídos&lt;br&gt;na revisão]\n\n\n\n\n\n\n\n\nEtapa 5: Extração de dados\nUtilize um formulário padronizado para extrair:\n\nCaracterísticas do estudo (autor, ano, país, delineamento)\nCaracterísticas dos participantes (n, idade, sexo, critérios diagnósticos)\nDetalhes da intervenção e comparação\nDesfechos e medidas utilizadas\nResultados numéricos (médias, desvios-padrão, razões de chance, etc.)\nFontes de financiamento e conflitos de interesse\n\n\n\n\n\n\n\nDicaDica prática\n\n\n\nFaça um piloto da extração com 2-3 estudos para calibrar os revisores e ajustar o formulário antes de prosseguir.\n\n\n\n\nEtapa 6: Avaliação do risco de viés\nCada estudo deve ser avaliado quanto à qualidade metodológica. Os instrumentos variam conforme o delineamento:\n\n\n\nTipo de estudo\nInstrumento recomendado\n\n\n\n\nEnsaios clínicos randomizados\nCochrane Risk of Bias (RoB 2)\n\n\nEstudos observacionais\nNewcastle-Ottawa Scale, ROBINS-I\n\n\nEstudos diagnósticos\nQUADAS-2\n\n\nEstudos qualitativos\nCASP, JBI Critical Appraisal\n\n\n\nA avaliação deve ser feita por dois revisores independentes.\n\n\nEtapa 7: Síntese dos resultados\nA síntese pode ser:\nQualitativa (narrativa): quando os estudos são muito heterogêneos para combinação estatística. Descreve os achados de forma estruturada, agrupando por características relevantes.\nQuantitativa (meta-análise): quando os estudos são suficientemente semelhantes, permite calcular uma estimativa combinada do efeito.\n➡️ Veja mais em Meta-análise\n\n\nEtapa 8: Avaliação da certeza da evidência\nO sistema GRADE (Guyatt et al., 2008) é o método recomendado para avaliar a qualidade geral da evidência para cada desfecho:\n\n\n\n\n\n\n\nNível\nSignificado\n\n\n\n\nAlta\nMuita confiança no efeito estimado\n\n\nModerada\nConfiança moderada; o efeito verdadeiro provavelmente é próximo\n\n\nBaixa\nConfiança limitada; o efeito pode ser diferente\n\n\nMuito baixa\nPouca confiança; o efeito é incerto\n\n\n\nFatores que reduzem a qualidade: risco de viés, inconsistência, imprecisão, evidência indireta, viés de publicação.\n\n\nEtapa 9: Redação e publicação\nO relato deve seguir as diretrizes PRISMA 2020 (Page et al., 2021), que incluem 27 itens obrigatórios para garantir transparência e completude.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#prisma-2020",
+    "href": "05-revisao-sistematica.html#prisma-2020",
+    "title": "Revisão Sistemática",
+    "section": "PRISMA 2020",
+    "text": "PRISMA 2020\nO PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) é o checklist padrão para relato de revisões sistemáticas (Page et al., 2021). A versão 2020 inclui:\n\nChecklist com 27 itens\nModelo de fluxograma\nOrientações para cada item\n\n\n\n\n\n\n\nAvisoAtenção\n\n\n\nMuitos periódicos exigem o checklist PRISMA preenchido como condição para submissão. Verifique as instruções aos autores antes de submeter.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#vantagens",
+    "href": "05-revisao-sistematica.html#vantagens",
+    "title": "Revisão Sistemática",
+    "section": "Vantagens",
+    "text": "Vantagens\n\nRigor metodológico: minimiza vieses na seleção e análise\nTransparência: processo reprodutível e auditável\nAbrangência: busca exaustiva da literatura\nConfiabilidade: avaliação de qualidade dos estudos incluídos\nForça de evidência: alto nível na hierarquia de evidências\nUtilidade clínica: fundamenta diretrizes e decisões",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#limitações",
+    "href": "05-revisao-sistematica.html#limitações",
+    "title": "Revisão Sistemática",
+    "section": "Limitações",
+    "text": "Limitações\n\nTempo e recursos: processo demorado (6-18 meses)\nDependência de estudos primários: qualidade limitada pela qualidade dos estudos originais\nViés de publicação: estudos negativos podem não estar publicados\nHeterogeneidade: estudos muito diferentes dificultam síntese\nDesatualização: pode ficar obsoleta rapidamente em áreas com muita produção",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#revisão-sistemática-vs.-outros-tipos",
+    "href": "05-revisao-sistematica.html#revisão-sistemática-vs.-outros-tipos",
+    "title": "Revisão Sistemática",
+    "section": "Revisão sistemática vs. outros tipos",
+    "text": "Revisão sistemática vs. outros tipos\n\n\n\nAspecto\nNarrativa\nIntegrativa\nEscopo\nSistemática\n\n\n\n\nPergunta\nAmpla\nAmpla\nAmpla\nEspecífica\n\n\nProtocolo\nNão\nRecomendado\nRecomendado\nObrigatório\n\n\nBusca\nNão sistemática\nSistemática\nSistemática\nExaustiva\n\n\nAvaliação de qualidade\nNão\nOpcional\nNão\nObrigatória\n\n\nSíntese\nQualitativa\nQualitativa\nDescritiva\nQuali/quanti\n\n\nNível de evidência\nBaixo\nModerado\n—\nAlto",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#resumo",
+    "href": "05-revisao-sistematica.html#resumo",
+    "title": "Revisão Sistemática",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nA revisão sistemática é o padrão-ouro para síntese de evidências\nExige protocolo registrado antes do início\nA busca deve ser exaustiva e documentada\nA seleção e extração são feitas por dois revisores independentes\nA avaliação de qualidade dos estudos é obrigatória\nO relato deve seguir as diretrizes PRISMA 2020 (Page et al., 2021)\nFundamenta diretrizes clínicas e decisões em saúde\nDemanda tempo e recursos significativos",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "05-revisao-sistematica.html#leituras-recomendadas",
+    "href": "05-revisao-sistematica.html#leituras-recomendadas",
+    "title": "Revisão Sistemática",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nHiggins et al. (2019) — Cochrane Handbook for Systematic Reviews of Interventions\nPage et al. (2021) — The PRISMA 2020 statement\nMoher et al. (2009) — PRISMA statement (versão original)\nSampaio; Mancini (2007) — Estudos de revisão sistemática: um guia para síntese criteriosa\n\n\nPróximo capítulo: Meta-análise",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Sistemática"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html",
+    "href": "02-revisao-narrativa.html",
+    "title": "Revisão Narrativa",
+    "section": "",
+    "text": "A revisão narrativa — também chamada de revisão tradicional ou revisão bibliográfica — é a forma mais antiga e flexível de síntese da literatura científica. Seu objetivo é descrever e discutir o “estado da arte” de um determinado tema, sob uma perspectiva teórica ou contextual (Rother, 2007).\nDiferente de outros tipos de revisão, a narrativa não exige protocolo rígido, busca exaustiva ou critérios explícitos de seleção. O autor tem liberdade para escolher as fontes que considera mais relevantes e construir uma argumentação fundamentada na literatura.\n\n\n\n\n\n\nNotaDefinição\n\n\n\nA revisão narrativa é uma síntese qualitativa da literatura, na qual o autor seleciona, analisa e interpreta os estudos de forma discursiva, sem a obrigatoriedade de critérios sistemáticos de busca e seleção (Cavalcante; Oliveira, 2020).",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#o-que-é-uma-revisão-narrativa",
+    "href": "02-revisao-narrativa.html#o-que-é-uma-revisão-narrativa",
+    "title": "Revisão Narrativa",
+    "section": "",
+    "text": "A revisão narrativa — também chamada de revisão tradicional ou revisão bibliográfica — é a forma mais antiga e flexível de síntese da literatura científica. Seu objetivo é descrever e discutir o “estado da arte” de um determinado tema, sob uma perspectiva teórica ou contextual (Rother, 2007).\nDiferente de outros tipos de revisão, a narrativa não exige protocolo rígido, busca exaustiva ou critérios explícitos de seleção. O autor tem liberdade para escolher as fontes que considera mais relevantes e construir uma argumentação fundamentada na literatura.\n\n\n\n\n\n\nNotaDefinição\n\n\n\nA revisão narrativa é uma síntese qualitativa da literatura, na qual o autor seleciona, analisa e interpreta os estudos de forma discursiva, sem a obrigatoriedade de critérios sistemáticos de busca e seleção (Cavalcante; Oliveira, 2020).",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#características-principais",
+    "href": "02-revisao-narrativa.html#características-principais",
+    "title": "Revisão Narrativa",
+    "section": "Características principais",
+    "text": "Características principais\n\n\n\nCaracterística\nDescrição\n\n\n\n\nPergunta de pesquisa\nAmpla, exploratória\n\n\nProtocolo\nNão obrigatório\n\n\nEstratégia de busca\nNão sistemática, definida pelo autor\n\n\nSeleção de estudos\nBaseada no julgamento do autor\n\n\nAvaliação de qualidade\nNão obrigatória\n\n\nSíntese dos resultados\nQualitativa, discursiva\n\n\nReprodutibilidade\nBaixa",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#quando-usar-a-revisão-narrativa",
+    "href": "02-revisao-narrativa.html#quando-usar-a-revisão-narrativa",
+    "title": "Revisão Narrativa",
+    "section": "Quando usar a revisão narrativa?",
+    "text": "Quando usar a revisão narrativa?\nA revisão narrativa é adequada para:\n\nFundamentação teórica de artigos, dissertações, teses e TCCs\nCapítulos introdutórios que contextualizam um problema de pesquisa\nDiscussão de conceitos e evolução histórica de ideias\nAtualização de conhecimentos para profissionais\nIdentificação de controvérsias e diferentes perspectivas sobre um tema\nMapeamento inicial antes de definir uma pesquisa mais específica\n\n\n\n\n\n\n\nDicaExemplo de pergunta adequada\n\n\n\n“Quais são as principais teorias sobre a relação entre inflamação e depressão?”\nEssa pergunta é ampla, conceitual e não busca quantificar um efeito — é ideal para revisão narrativa.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#quando-não-usar-a-revisão-narrativa",
+    "href": "02-revisao-narrativa.html#quando-não-usar-a-revisão-narrativa",
+    "title": "Revisão Narrativa",
+    "section": "Quando NÃO usar a revisão narrativa?",
+    "text": "Quando NÃO usar a revisão narrativa?\nA revisão narrativa não é adequada quando:\n\nO objetivo é avaliar a efetividade de uma intervenção\nÉ necessário quantificar resultados ou calcular tamanho de efeito\nA decisão clínica exige alto nível de evidência\nO tema já possui revisões sistemáticas recentes e de qualidade\nÉ preciso garantir reprodutibilidade metodológica\n\n\n\n\n\n\n\nAvisoAtenção\n\n\n\nMuitos trabalhos acadêmicos usam o termo “revisão de literatura” de forma genérica, quando na verdade realizaram uma revisão narrativa. É importante nomear corretamente o método utilizado.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#etapas-de-elaboração",
+    "href": "02-revisao-narrativa.html#etapas-de-elaboração",
+    "title": "Revisão Narrativa",
+    "section": "Etapas de elaboração",
+    "text": "Etapas de elaboração\nEmbora a revisão narrativa seja flexível, seguir algumas etapas ajuda a garantir qualidade:\n\n1. Definição do tema e objetivo\nDelimite claramente o que você quer discutir. Perguntas muito amplas resultam em textos superficiais; perguntas muito restritas podem não justificar uma revisão.\n\n\n2. Busca na literatura\nConsulte bases de dados relevantes (PubMed, LILACS, SciELO, Google Scholar) e outras fontes como livros, teses e documentos técnicos. Não há obrigatoriedade de busca exaustiva, mas a cobertura deve ser suficiente para sustentar a discussão.\n\n\n3. Seleção das fontes\nSelecione os estudos mais relevantes, clássicos e atuais sobre o tema. A escolha é baseada no seu julgamento, mas deve ser coerente com o objetivo da revisão.\n\n\n4. Leitura crítica e fichamento\nLeia os textos selecionados de forma crítica, identificando:\n\nPrincipais conceitos e definições\nPontos de convergência e divergência entre autores\nLacunas e questões em aberto\nEvolução histórica das ideias\n\n\n\n5. Organização e redação\nEstruture o texto de forma lógica e argumentativa. Não se trata de resumir artigo por artigo, mas de articular as ideias em uma narrativa coerente.\n\n\n\n\n\n\nImportanteErro comum\n\n\n\nEvite transformar sua revisão em uma “colcha de retalhos” — uma sequência de resumos desconectados. O valor da revisão narrativa está na síntese crítica e na articulação entre as fontes.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#como-escrever-bem-uma-revisão-narrativa",
+    "href": "02-revisao-narrativa.html#como-escrever-bem-uma-revisão-narrativa",
+    "title": "Revisão Narrativa",
+    "section": "Como escrever bem uma revisão narrativa?",
+    "text": "Como escrever bem uma revisão narrativa?\n\nFaça\n\nArticule os autores em torno de ideias, não o contrário\nIdentifique tendências, consensos e controvérsias\nPosicione-se criticamente quando apropriado\nUse transições claras entre os tópicos\nCite fontes primárias sempre que possível\n\n\n\nEvite\n\nApenas justapor resumos de artigos\nUsar excessivamente citações diretas longas\nIgnorar estudos com resultados contrários à sua tese\nApresentar informações sem conexão lógica\n\n\n\nExemplo de boa articulação\n“A relação entre neuroinflamação e transtornos do humor tem sido investigada por diferentes perspectivas. Estudos iniciais focaram em marcadores periféricos como a proteína C-reativa (Autor A), enquanto pesquisas mais recentes utilizam neuroimagem para identificar ativação microglial in vivo (Autor B). Apesar das diferenças metodológicas, ambos os enfoques convergem ao apontar o papel das citocinas pró-inflamatórias na fisiopatologia da depressão.”\nObserve como os autores são articulados em torno de uma ideia central, com transições lógicas.\n\n\nExemplo de má articulação\n“Autor A estudou a proteína C-reativa na depressão. Autor B usou neuroimagem para estudar inflamação. Autor C também pesquisou inflamação e humor.”\nObserve como os autores são apenas justapostos, sem conexão entre as ideias.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#vantagens",
+    "href": "02-revisao-narrativa.html#vantagens",
+    "title": "Revisão Narrativa",
+    "section": "Vantagens",
+    "text": "Vantagens\n\nFlexibilidade: permite abordar temas amplos e complexos\nAcessibilidade: não exige softwares especializados ou equipe grande\nRapidez: pode ser realizada em menos tempo que revisões sistemáticas\nVisão panorâmica: oferece contextualização ampla sobre um tema\nEspaço para interpretação: permite análise crítica e posicionamento do autor",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#limitações",
+    "href": "02-revisao-narrativa.html#limitações",
+    "title": "Revisão Narrativa",
+    "section": "Limitações",
+    "text": "Limitações\n\nBaixa reprodutibilidade: outro pesquisador pode chegar a conclusões diferentes\nViés de seleção: o autor pode privilegiar estudos que confirmam suas hipóteses\nMenor força de evidência: não é adequada para embasar decisões clínicas\nDificuldade de atualização: sem protocolo, é difícil replicar ou atualizar\nSubjetividade: critérios de inclusão implícitos podem não ser transparentes",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#revisão-narrativa-vs.-outros-tipos",
+    "href": "02-revisao-narrativa.html#revisão-narrativa-vs.-outros-tipos",
+    "title": "Revisão Narrativa",
+    "section": "Revisão narrativa vs. outros tipos",
+    "text": "Revisão narrativa vs. outros tipos\n\n\n\nAspecto\nNarrativa\nIntegrativa\nSistemática\n\n\n\n\nPergunta\nAmpla\nAmpla a moderada\nEspecífica\n\n\nProtocolo\nNão\nRecomendado\nObrigatório\n\n\nBusca\nNão sistemática\nSistemática\nExaustiva\n\n\nReprodutibilidade\nBaixa\nModerada\nAlta\n\n\nSíntese\nDiscursiva\nQuali/quanti\nQuali/quanti\n\n\nTempo necessário\nMenor\nModerado\nMaior",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#resumo",
+    "href": "02-revisao-narrativa.html#resumo",
+    "title": "Revisão Narrativa",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nA revisão narrativa é a forma mais flexível de síntese da literatura\nÉ adequada para fundamentação teórica e contextualização\nNão exige protocolo, busca exaustiva ou avaliação de qualidade\nSua principal limitação é a baixa reprodutibilidade\nO valor está na articulação crítica entre as fontes, não na mera justaposição\nNão deve ser usada para avaliar efetividade ou embasar decisões clínicas",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "02-revisao-narrativa.html#leituras-recomendadas",
+    "href": "02-revisao-narrativa.html#leituras-recomendadas",
+    "title": "Revisão Narrativa",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nRother (2007) — Revisão sistemática X revisão narrativa\nCavalcante; Oliveira (2020) — Métodos de revisão bibliográfica nos estudos científicos\n\n\nPróximo capítulo: Revisão Integrativa",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão Narrativa"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html",
+    "href": "04-revisao-escopo.html",
+    "title": "Revisão de Escopo",
+    "section": "",
+    "text": "A revisão de escopo (scoping review ou scoping study) é um tipo de revisão que visa mapear a extensão, natureza e características da literatura disponível sobre um tema amplo, identificando conceitos-chave, tipos de evidência existentes e lacunas no conhecimento (Arksey; O’Malley, 2005).\nDiferente da revisão sistemática, que busca responder a uma pergunta específica sobre eficácia ou efetividade, a revisão de escopo tem propósito exploratório. Ela oferece um panorama do campo antes de decisões sobre pesquisas mais aprofundadas.\n\n\n\n\n\n\nNotaDefinição\n\n\n\n“Scoping studies aim to map rapidly the key concepts underpinning a research area and the main sources and types of evidence available” (Arksey; O’Malley, 2005).\nTradução: Estudos de escopo visam mapear rapidamente os conceitos-chave que fundamentam uma área de pesquisa e as principais fontes e tipos de evidências disponíveis.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#o-que-é-uma-revisão-de-escopo",
+    "href": "04-revisao-escopo.html#o-que-é-uma-revisão-de-escopo",
+    "title": "Revisão de Escopo",
+    "section": "",
+    "text": "A revisão de escopo (scoping review ou scoping study) é um tipo de revisão que visa mapear a extensão, natureza e características da literatura disponível sobre um tema amplo, identificando conceitos-chave, tipos de evidência existentes e lacunas no conhecimento (Arksey; O’Malley, 2005).\nDiferente da revisão sistemática, que busca responder a uma pergunta específica sobre eficácia ou efetividade, a revisão de escopo tem propósito exploratório. Ela oferece um panorama do campo antes de decisões sobre pesquisas mais aprofundadas.\n\n\n\n\n\n\nNotaDefinição\n\n\n\n“Scoping studies aim to map rapidly the key concepts underpinning a research area and the main sources and types of evidence available” (Arksey; O’Malley, 2005).\nTradução: Estudos de escopo visam mapear rapidamente os conceitos-chave que fundamentam uma área de pesquisa e as principais fontes e tipos de evidências disponíveis.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#características-principais",
+    "href": "04-revisao-escopo.html#características-principais",
+    "title": "Revisão de Escopo",
+    "section": "Características principais",
+    "text": "Características principais\n\n\n\nCaracterística\nDescrição\n\n\n\n\nPergunta de pesquisa\nAmpla, exploratória\n\n\nProtocolo\nRecomendado (registro no OSF)\n\n\nEstratégia de busca\nSistemática, abrangente\n\n\nSeleção de estudos\nCritérios explícitos de inclusão/exclusão\n\n\nTipos de estudo\nQualquer tipo de evidência\n\n\nAvaliação de qualidade\nGeralmente não realizada\n\n\nSíntese dos resultados\nDescritiva, mapeamento\n\n\nReprodutibilidade\nModerada a alta",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#o-que-diferencia-a-revisão-de-escopo",
+    "href": "04-revisao-escopo.html#o-que-diferencia-a-revisão-de-escopo",
+    "title": "Revisão de Escopo",
+    "section": "O que diferencia a revisão de escopo?",
+    "text": "O que diferencia a revisão de escopo?\nA característica distintiva é o objetivo de mapeamento, não de síntese de resultados. A revisão de escopo responde a perguntas como:\n\nQue tipos de estudo existem sobre este tema?\nQuais conceitos e definições são utilizados?\nQuais populações têm sido estudadas?\nEm que contextos as pesquisas foram realizadas?\nQuais são as lacunas na literatura?\n\n\n\n\n\n\n\nImportanteDiferença fundamental\n\n\n\nA revisão de escopo não avalia a qualidade metodológica dos estudos incluídos. Seu objetivo é descrever o que existe, não julgar o quão confiável é a evidência.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#quando-usar-a-revisão-de-escopo",
+    "href": "04-revisao-escopo.html#quando-usar-a-revisão-de-escopo",
+    "title": "Revisão de Escopo",
+    "section": "Quando usar a revisão de escopo?",
+    "text": "Quando usar a revisão de escopo?\nArksey & O’Malley (2005) identificaram quatro razões principais para conduzir uma revisão de escopo:\n\n1. Examinar a extensão e natureza da literatura\nMapear o volume e as características dos estudos disponíveis sobre um tema, sem necessariamente descrevê-los em profundidade.\n\n\n2. Determinar a viabilidade de uma revisão sistemática\nAntes de investir tempo e recursos em uma revisão sistemática, verificar se há estudos suficientes e comparáveis.\n\n\n3. Sumarizar e disseminar achados de pesquisa\nApresentar um panorama da literatura para profissionais, gestores ou formuladores de políticas.\n\n\n4. Identificar lacunas na literatura\nApontar áreas que necessitam de mais pesquisa primária.\n\n\n\n\n\n\nDicaExemplos de perguntas adequadas\n\n\n\n\n“Quais intervenções têm sido estudadas para manejo de agitação em emergências psiquiátricas?”\n“Como a telemedicina em saúde mental tem sido implementada em países de baixa renda?”\n“Que instrumentos existem para avaliação de adesão ao tratamento em esquizofrenia?”\n\nObserve que são perguntas amplas, que buscam mapear o que existe — não avaliar o que funciona.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#quando-não-usar-a-revisão-de-escopo",
+    "href": "04-revisao-escopo.html#quando-não-usar-a-revisão-de-escopo",
+    "title": "Revisão de Escopo",
+    "section": "Quando NÃO usar a revisão de escopo?",
+    "text": "Quando NÃO usar a revisão de escopo?\nA revisão de escopo não é adequada quando:\n\nO objetivo é avaliar a eficácia de uma intervenção específica\nÉ necessário recomendar uma prática clínica baseada em evidências\nA pergunta exige avaliação de qualidade metodológica\nJá se sabe que a literatura é homogênea e uma revisão sistemática é viável",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#framework-metodológico",
+    "href": "04-revisao-escopo.html#framework-metodológico",
+    "title": "Revisão de Escopo",
+    "section": "Framework metodológico",
+    "text": "Framework metodológico\nO framework original de Arksey; O’Malley (2005), aprimorado por Levac; Colquhoun; O’Brien (2010) e atualizado pelo JBI (Peters et al., 2020), propõe cinco etapas principais:\n\n\n\n\n\nflowchart LR\n    A[\"Pergunta de pesquisa\"] --&gt; B[\"Identificação dos estudos\"]\n    B --&gt; C[\"Seleção dos estudos\"]\n    C --&gt; D[\"Extração dos dados\"]\n    D --&gt; E[\"Síntese e apresentação\"]\n\n\n\n\n\n\n\nEtapa 1: Definição da pergunta de pesquisa\nA pergunta deve ser ampla o suficiente para capturar a diversidade da literatura, mas focada o bastante para ser gerenciável. Recomenda-se o uso do framework PCC:\n\n\n\n\n\n\n\n\nElemento\nDescrição\nExemplo\n\n\n\n\nP - População\nQuem são os participantes?\nIdosos com demência\n\n\nC - Conceito\nQual o fenômeno de interesse?\nIntervenções não farmacológicas\n\n\nC - Contexto\nEm que setting ou circunstância?\nInstituições de longa permanência\n\n\n\n\n\nEtapa 2: Identificação dos estudos relevantes\nA busca deve ser abrangente, incluindo:\n\nBases de dados eletrônicas (PubMed, Embase, CINAHL, PsycINFO, LILACS)\nLiteratura cinzenta (teses, dissertações, relatórios técnicos)\nListas de referências dos estudos incluídos\nConsulta a especialistas na área\n\n\n\n\n\n\n\nAvisoAtenção\n\n\n\nDiferente da revisão sistemática, a revisão de escopo pode ser iterativa — a estratégia de busca pode ser refinada à medida que você conhece melhor a literatura.\n\n\n\n\nEtapa 3: Seleção dos estudos\nAplique critérios de inclusão e exclusão definidos a priori. A seleção deve ser feita por pelo menos dois revisores independentes, com resolução de discordâncias por consenso ou terceiro revisor.\nDocumente o processo usando o fluxograma PRISMA-ScR (Tricco et al., 2018).\n\n\nEtapa 4: Extração dos dados (charting)\nO charting é o processo de extração e organização das informações. Diferente da revisão sistemática, o foco não é extrair resultados numéricos, mas mapear características dos estudos:\n\nAutor, ano, país\nObjetivo do estudo\nPopulação e tamanho da amostra\nConceito ou intervenção estudada\nContexto\nTipo de estudo / delineamento\nPrincipais achados (descritivos)\n\n\n\n\n\n\n\nDicaDica prática\n\n\n\nCrie uma planilha com as variáveis de interesse antes de iniciar a extração. Faça um piloto com 5-10 estudos para verificar se as categorias são adequadas e se é necessário ajustar.\n\n\n\n\nEtapa 5: Síntese e apresentação dos resultados\nA síntese na revisão de escopo é descritiva e visual. Inclui:\n\nDescrição numérica (quantos estudos, de quais países, em que período)\nTabelas e gráficos de caracterização\nMapeamento temático dos conceitos identificados\nIdentificação de lacunas",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#prisma-scr-o-checklist-para-relato",
+    "href": "04-revisao-escopo.html#prisma-scr-o-checklist-para-relato",
+    "title": "Revisão de Escopo",
+    "section": "PRISMA-ScR: o checklist para relato",
+    "text": "PRISMA-ScR: o checklist para relato\nO PRISMA-ScR (Tricco et al., 2018) é a extensão do PRISMA específica para revisões de escopo. Contém 22 itens que orientam o relato transparente da revisão:\n\nTítulo identificando como scoping review\nProtocolo registrado\nCritérios de elegibilidade\nFontes de informação e estratégia de busca\nProcesso de seleção e extração\nResultados da busca (fluxograma)\nCaracterísticas dos estudos\nSíntese dos resultados\nLimitações",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#exemplo-de-quadro-de-caracterização",
+    "href": "04-revisao-escopo.html#exemplo-de-quadro-de-caracterização",
+    "title": "Revisão de Escopo",
+    "section": "Exemplo de quadro de caracterização",
+    "text": "Exemplo de quadro de caracterização\n\n\n\n\n\n\n\n\n\n\n\nAutor/Ano\nPaís\nDelineamento\nPopulação\nConceito estudado\nContexto\n\n\n\n\nAutor A, 2020\nBrasil\nTransversal\nResidentes de psiquiatria\nBurnout\nHospital universitário\n\n\nAutor B, 2019\nEUA\nQualitativo\nMédicos emergencistas\nEstratégias de coping\nPronto-socorro\n\n\nAutor C, 2021\nCanadá\nECR\nEnfermeiros de UTI\nMindfulness\nUTI adulto\n\n\n\nNota: Modelo ilustrativo. Em sua revisão, preencha com dados reais.",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#vantagens",
+    "href": "04-revisao-escopo.html#vantagens",
+    "title": "Revisão de Escopo",
+    "section": "Vantagens",
+    "text": "Vantagens\n\nAmplitude: permite explorar temas amplos ou emergentes\nFlexibilidade: não exige avaliação de qualidade metodológica\nVisão panorâmica: identifica o que existe antes de aprofundar\nIdentificação de lacunas: útil para justificar novas pesquisas\nRapidez relativa: menos demorada que revisão sistemática completa",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#limitações",
+    "href": "04-revisao-escopo.html#limitações",
+    "title": "Revisão de Escopo",
+    "section": "Limitações",
+    "text": "Limitações\n\nNão avalia qualidade: não permite concluir sobre a confiabilidade das evidências\nNão responde perguntas de eficácia: inadequada para decisões clínicas\nAmplitude pode ser problema: temas muito amplos geram revisões superficiais\nSíntese limitada: descreve, mas não integra ou interpreta profundamente",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#revisão-de-escopo-vs.-sistemática",
+    "href": "04-revisao-escopo.html#revisão-de-escopo-vs.-sistemática",
+    "title": "Revisão de Escopo",
+    "section": "Revisão de escopo vs. sistemática",
+    "text": "Revisão de escopo vs. sistemática\n\n\n\nAspecto\nEscopo\nSistemática\n\n\n\n\nPergunta\nAmpla, exploratória\nEspecífica, focada\n\n\nObjetivo\nMapear a literatura\nSintetizar evidências\n\n\nAvaliação de qualidade\nNão\nSim\n\n\nSíntese\nDescritiva\nAnalítica (quali ou quanti)\n\n\nMeta-análise\nNão\nPossível\n\n\nTempo/recursos\nModerado\nAlto\n\n\nUso principal\nExploração, lacunas\nDecisão clínica, diretrizes",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#resumo",
+    "href": "04-revisao-escopo.html#resumo",
+    "title": "Revisão de Escopo",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\n\n\n\nNotaPontos-chave\n\n\n\n\nA revisão de escopo mapeia a literatura, não sintetiza resultados\nÉ indicada para temas amplos ou emergentes\nSegue cinco etapas: pergunta, busca, seleção, extração, síntese\nUtiliza o framework PCC (População, Conceito, Contexto)\nNão avalia qualidade metodológica dos estudos\nDeve ser relatada conforme o PRISMA-ScR (Tricco et al., 2018)\nÚtil para identificar lacunas e avaliar viabilidade de revisão sistemática",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  },
+  {
+    "objectID": "04-revisao-escopo.html#leituras-recomendadas",
+    "href": "04-revisao-escopo.html#leituras-recomendadas",
+    "title": "Revisão de Escopo",
+    "section": "Leituras recomendadas",
+    "text": "Leituras recomendadas\n\nArksey; O’Malley (2005) — Scoping studies: towards a methodological framework\nLevac; Colquhoun; O’Brien (2010) — Scoping studies: advancing the methodology\nTricco et al. (2018) — PRISMA extension for scoping reviews (PRISMA-ScR)\nPeters et al. (2020) — Updated methodological guidance for the conduct of scoping reviews\n\n\nPróximo capítulo: Revisão Sistemática",
+    "crumbs": [
+      "Início",
+      "Tipos de Revisão",
+      "Revisão de Escopo"
+    ]
+  }
+]

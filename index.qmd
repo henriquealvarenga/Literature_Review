@@ -1,0 +1,50 @@
+---
+title: "Da Pergunta à Síntese"
+subtitle: "Revisões de Literatura em Saúde"
+---
+
+## Bem-vindo(a)
+
+Este material foi desenvolvido para **estudantes de medicina**, **residentes** e **pós-graduandos da área da saúde** que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.
+
+Ao longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.
+
+::: {.callout-note}
+## Mais do que um guia técnico
+A proposta é ajudar você a **pensar metodologicamente**, entendendo *por que* escolher um tipo de revisão — e não apenas *como* executá-la.
+:::
+
+## Por que aprender sobre revisão de literatura?
+
+Na prática clínica, na pesquisa e na tomada de decisão em saúde, somos constantemente confrontados com perguntas como:
+
+- *Este tratamento realmente funciona?*
+- *Qual é a melhor evidência disponível?*
+- *O que já se sabe — e o que ainda não se sabe — sobre esse tema?*
+
+Responder a essas perguntas exige mais do que "ler alguns artigos". Exige **método, critério e síntese**. Revisões de literatura bem conduzidas são a base da prática baseada em evidências, da formulação de diretrizes clínicas e do avanço do conhecimento científico.
+
+## O que você encontrará aqui
+
+| Seção | Conteúdo |
+|-------|----------|
+| [Visão geral](01-introducao.qmd) | Panorama de todos os tipos de revisão e suas diferenças |
+| [Revisão Narrativa](02-revisao-narrativa.qmd) | Fundamentação teórica e contextualização |
+| [Revisão Integrativa](03-revisao-integrativa.qmd) | Síntese de evidências com flexibilidade metodológica |
+| [Revisão de Escopo](04-revisao-escopo.qmd) | Mapeamento de campos de pesquisa |
+| [Revisão Sistemática](05-revisao-sistematica.qmd) | O padrão-ouro para síntese de evidências |
+| [Meta-análise](06-metanalise.qmd) | Síntese quantitativa de múltiplos estudos |
+| [Acrônimos PICO](07-acronimos-pico.qmd) | Estruturação de perguntas de pesquisa |
+| [Registro de Protocolos](08-registro-osf.qmd) | OSF, PROSPERO e transparência científica |
+| [Atividades Práticas](09-pratica.qmd) | Exercícios para aplicação dos conceitos |
+
+
+## Autor
+
+**Henrique Alvarenga da Silva**
+
+Médico psiquiatra.   
+Professor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).   
+Professor de Métodos de Pesquisa em Medicina na AFYA.
+
+🌐 [henriquealvarenga.com](https://www.henriquealvarenga.com)

@@ -1,0 +1,5 @@
+---
+title: "Atividades Práticas"
+subtitle: "Exercícios para aplicação dos conceitos"
+---
+

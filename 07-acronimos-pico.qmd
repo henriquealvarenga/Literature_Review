@@ -1,0 +1,262 @@
+---
+title: "Acrônimos PICO, PICo, PICOT e Variações"
+subtitle: "Estruturando perguntas de pesquisa e estratégias de busca"
+---
+
+## Por que estruturar a pergunta de pesquisa?
+
+Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.
+
+Os acrônimos como PICO funcionam como **frameworks** que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável [@santos2007].
+
+::: {.callout-note}
+## Princípio fundamental
+Uma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.
+:::
+
+## PICO: o acrônimo clássico
+
+O acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre **intervenções** [@richardson1995; @santos2007].
+
+| Elemento | Significado | Pergunta orientadora |
+|----------|-------------|----------------------|
+| **P** | População / Paciente / Problema | Quem são os pacientes? Qual a condição? |
+| **I** | Intervenção | O que está sendo testado ou avaliado? |
+| **C** | Comparação | Qual a alternativa? (pode ser ausente) |
+| **O** | Outcome (Desfecho) | Qual o resultado esperado? |
+
+### Exemplo de pergunta PICO
+
+**Pergunta narrativa:** "Antidepressivos funcionam para depressão em idosos?"
+
+**Pergunta estruturada (PICO):**
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **P** | Idosos (≥ 65 anos) com transtorno depressivo maior |
+| **I** | Antidepressivos (ISRS) |
+| **C** | Placebo |
+| **O** | Remissão dos sintomas depressivos |
+
+**Pergunta final:** "Em idosos com transtorno depressivo maior, os inibidores seletivos de recaptação de serotonina são superiores ao placebo para alcançar remissão dos sintomas?"
+
+::: {.callout-tip}
+## Dica prática
+O elemento **C** (comparação) nem sempre está presente. Em estudos descritivos ou de prevalência, pode não haver grupo de comparação.
+:::
+
+## PICOT: adicionando o tempo
+
+O acrônimo PICOT acrescenta o elemento **T** (Time / Tempo), útil quando a duração do seguimento ou o momento da avaliação são relevantes.
+
+| Elemento | Significado |
+|----------|-------------|
+| **P** | População |
+| **I** | Intervenção |
+| **C** | Comparação |
+| **O** | Outcome (Desfecho) |
+| **T** | Time (Tempo) |
+
+### Exemplo de pergunta PICOT
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **P** | Adultos com transtorno de ansiedade generalizada |
+| **I** | Terapia cognitivo-comportamental |
+| **C** | Lista de espera |
+| **O** | Redução dos sintomas de ansiedade |
+| **T** | 12 semanas de seguimento |
+
+## PICo: para estudos qualitativos
+
+O acrônimo **PICo** (com "o" minúsculo) é uma adaptação para perguntas de pesquisa **qualitativa**, onde não há intervenção nem comparação no sentido tradicional.
+
+| Elemento | Significado | Descrição |
+|----------|-------------|-----------|
+| **P** | População | Quem são os participantes? |
+| **I** | Fenômeno de Interesse | O que está sendo explorado? |
+| **Co** | Contexto | Em que circunstância ou ambiente? |
+
+### Exemplo de pergunta PICo
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **P** | Pacientes com esquizofrenia |
+| **I** | Experiência de ouvir vozes |
+| **Co** | Atendimento ambulatorial em serviço público |
+
+**Pergunta final:** "Como pacientes com esquizofrenia em atendimento ambulatorial no serviço público vivenciam a experiência de ouvir vozes?"
+
+## PCC: para revisões de escopo
+
+O framework **PCC** é recomendado pelo JBI para revisões de escopo, que têm caráter exploratório e mapeiam a literatura.
+
+| Elemento | Significado | Descrição |
+|----------|-------------|-----------|
+| **P** | População | Quem são os participantes ou público-alvo? |
+| **C** | Conceito | Qual o conceito ou fenômeno central? |
+| **C** | Contexto | Em que setting ou circunstância? |
+
+### Exemplo de pergunta PCC
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **P** | Profissionais de saúde |
+| **C** | Estratégias de prevenção de burnout |
+| **C** | Unidades de terapia intensiva |
+
+**Pergunta final:** "Quais estratégias de prevenção de burnout têm sido estudadas em profissionais de saúde que atuam em unidades de terapia intensiva?"
+
+## SPIDER: alternativa para estudos qualitativos
+
+O acrônimo **SPIDER** foi proposto como alternativa ao PICO para revisões que incluem estudos qualitativos e mistos [@cooke2012].
+
+| Elemento | Significado | Descrição |
+|----------|-------------|-----------|
+| **S** | Sample (Amostra) | Grupo de interesse |
+| **PI** | Phenomenon of Interest | Fenômeno estudado |
+| **D** | Design | Delineamento do estudo |
+| **E** | Evaluation | Como o fenômeno é avaliado |
+| **R** | Research type | Tipo de pesquisa (quali, quanti, mista) |
+
+### Exemplo de pergunta SPIDER
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **S** | Cuidadores de pacientes com demência |
+| **PI** | Sobrecarga do cuidador |
+| **D** | Estudos qualitativos |
+| **E** | Entrevistas, grupos focais |
+| **R** | Qualitativa |
+
+## PECO: para estudos de etiologia/exposição
+
+O acrônimo **PECO** é usado para perguntas sobre **fatores de risco ou exposição**, comuns em estudos observacionais (coorte, caso-controle).
+
+| Elemento | Significado |
+|----------|-------------|
+| **P** | População |
+| **E** | Exposição (fator de risco) |
+| **C** | Comparação (não expostos) |
+| **O** | Outcome (Desfecho) |
+
+### Exemplo de pergunta PECO
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **P** | Adultos jovens |
+| **E** | Uso de cannabis na adolescência |
+| **C** | Não uso de cannabis |
+| **O** | Desenvolvimento de transtornos psicóticos |
+
+**Pergunta final:** "O uso de cannabis na adolescência aumenta o risco de transtornos psicóticos em adultos jovens comparado a não usuários?"
+
+## Qual acrônimo usar?
+
+A escolha depende do **tipo de pergunta** e do **tipo de estudo**:
+
+| Tipo de pergunta | Acrônimo recomendado |
+|------------------|----------------------|
+| Eficácia de intervenção | PICO, PICOT |
+| Etiologia / Fatores de risco | PECO |
+| Experiências e significados (quali) | PICo, SPIDER |
+| Mapeamento da literatura (escopo) | PCC |
+| Diagnóstico | PICO (adaptado) |
+| Prognóstico | PICO (adaptado) |
+```{mermaid}
+flowchart TD
+    A[Qual é sua pergunta?] --> B{Tipo de estudo?}
+    
+    B -->|Intervenção| C[PICO / PICOT]
+    B -->|Exposição / Risco| D[PECO]
+    B -->|Qualitativo| E[PICo / SPIDER]
+    B -->|Revisão de escopo| F[PCC]
+```
+
+## Da pergunta à estratégia de busca
+
+Após estruturar a pergunta, cada elemento do acrônimo orienta a construção da **estratégia de busca** nas bases de dados.
+
+### Passo a passo
+
+1. **Identifique os termos** para cada elemento do acrônimo
+2. **Busque sinônimos** e termos relacionados
+3. **Identifique descritores controlados** (MeSH, DeCS)
+4. **Combine os termos** com operadores booleanos
+
+### Operadores booleanos
+
+| Operador | Função | Exemplo |
+|----------|--------|---------|
+| **AND** | Intersecção (restringe) | depression AND elderly |
+| **OR** | União (amplia) | elderly OR aged OR older |
+| **NOT** | Exclusão (use com cautela) | depression NOT bipolar |
+
+### Exemplo de estratégia de busca
+
+**Pergunta PICO:** "Em idosos com depressão, os ISRS são eficazes para remissão dos sintomas?"
+
+| Elemento | Termos de busca |
+|----------|-----------------|
+| **P** | elderly OR aged OR "older adults" OR geriatric |
+| **I** | SSRI OR "selective serotonin reuptake inhibitor" OR fluoxetine OR sertraline |
+| **O** | remission OR response OR improvement |
+
+**Estratégia combinada:**
+```
+(elderly OR aged OR "older adults" OR geriatric)
+AND
+(SSRI OR "selective serotonin reuptake inhibitor" OR fluoxetine OR sertraline OR escitalopram)
+AND
+(depression OR "depressive disorder" OR "major depression")
+AND
+(remission OR response OR improvement)
+```
+
+::: {.callout-tip}
+## Dica prática
+Comece com uma busca sensível (ampla) e depois refine conforme necessário. É melhor ter muitos resultados para triar do que perder estudos relevantes.
+:::
+
+## Erros comuns na formulação da pergunta
+
+::: {.callout-warning}
+## Evite estes erros
+
+1. **Pergunta muito ampla:** "O que se sabe sobre depressão?" — impossível de responder sistematicamente
+
+2. **Pergunta muito restrita:** "A fluoxetina 20mg por 8 semanas é eficaz para depressão leve em mulheres entre 30-35 anos no Brasil?" — pode não haver estudos
+
+3. **Ausência de desfecho claro:** "Os ISRS são bons para idosos?" — bons em quê?
+
+4. **Confundir intervenção com exposição:** usar PICO quando deveria usar PECO
+
+5. **Misturar múltiplas perguntas:** "Os ISRS são eficazes e seguros e melhoram qualidade de vida?" — são três perguntas diferentes
+:::
+
+## Resumo
+
+::: {.callout-note}
+## Pontos-chave
+
+- Acrônimos ajudam a **estruturar** perguntas de pesquisa de forma clara
+- **PICO** é o padrão para perguntas sobre intervenções
+- **PICo** e **SPIDER** são adaptações para estudos qualitativos
+- **PCC** é recomendado para revisões de escopo
+- **PECO** é usado para perguntas sobre exposição/risco
+- Cada elemento do acrônimo orienta a **estratégia de busca**
+- Use **operadores booleanos** (AND, OR, NOT) para combinar termos
+- Evite perguntas muito amplas ou muito restritas
+:::
+
+## Leituras recomendadas
+
+- @santos2007 — A estratégia PICO para a construção da pergunta de pesquisa
+- @richardson1995 — The well-built clinical question
+- @cooke2012 — Beyond PICO: the SPIDER tool for qualitative evidence synthesis
+- @nobre2004 — A prática clínica baseada em evidências
+
+---
+
+Próximo capítulo: **[Registro de Protocolos](08-registro-osf.qmd)**
+

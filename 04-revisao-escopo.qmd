@@ -1,0 +1,226 @@
+---
+title: "Revisão de Escopo"
+subtitle: "Mapeando a literatura para compreender um campo de pesquisa"
+---
+
+## O que é uma revisão de escopo?
+
+A revisão de escopo (*scoping review* ou *scoping study*) é um tipo de revisão que visa mapear a extensão, natureza e características da literatura disponível sobre um tema amplo, identificando conceitos-chave, tipos de evidência existentes e lacunas no conhecimento [@arksey2005].
+
+Diferente da revisão sistemática, que busca responder a uma pergunta específica sobre eficácia ou efetividade, a revisão de escopo tem propósito **exploratório**. Ela oferece um panorama do campo antes de decisões sobre pesquisas mais aprofundadas.
+
+::: {.callout-note}
+## Definição
+"Scoping studies aim to map rapidly the key concepts underpinning a research area and the main sources and types of evidence available" [@arksey2005].
+
+*Tradução: Estudos de escopo visam mapear rapidamente os conceitos-chave que fundamentam uma área de pesquisa e as principais fontes e tipos de evidências disponíveis.*
+:::
+
+## Características principais
+
+| Característica | Descrição |
+|----------------|-----------|
+| **Pergunta de pesquisa** | Ampla, exploratória |
+| **Protocolo** | Recomendado (registro no OSF) |
+| **Estratégia de busca** | Sistemática, abrangente |
+| **Seleção de estudos** | Critérios explícitos de inclusão/exclusão |
+| **Tipos de estudo** | Qualquer tipo de evidência |
+| **Avaliação de qualidade** | Geralmente não realizada |
+| **Síntese dos resultados** | Descritiva, mapeamento |
+| **Reprodutibilidade** | Moderada a alta |
+
+## O que diferencia a revisão de escopo?
+
+A característica distintiva é o **objetivo de mapeamento**, não de síntese de resultados. A revisão de escopo responde a perguntas como:
+
+- Que tipos de estudo existem sobre este tema?
+- Quais conceitos e definições são utilizados?
+- Quais populações têm sido estudadas?
+- Em que contextos as pesquisas foram realizadas?
+- Quais são as lacunas na literatura?
+
+::: {.callout-important}
+## Diferença fundamental
+A revisão de escopo **não avalia a qualidade metodológica** dos estudos incluídos. Seu objetivo é descrever o que existe, não julgar o quão confiável é a evidência.
+:::
+
+## Quando usar a revisão de escopo?
+
+Arksey & O’Malley [-@arksey2005] identificaram quatro razões principais para conduzir uma revisão de escopo:
+
+### 1. Examinar a extensão e natureza da literatura
+
+Mapear o volume e as características dos estudos disponíveis sobre um tema, sem necessariamente descrevê-los em profundidade.
+
+### 2. Determinar a viabilidade de uma revisão sistemática
+
+Antes de investir tempo e recursos em uma revisão sistemática, verificar se há estudos suficientes e comparáveis.
+
+### 3. Sumarizar e disseminar achados de pesquisa
+
+Apresentar um panorama da literatura para profissionais, gestores ou formuladores de políticas.
+
+### 4. Identificar lacunas na literatura
+
+Apontar áreas que necessitam de mais pesquisa primária.
+
+::: {.callout-tip}
+## Exemplos de perguntas adequadas
+- "Quais intervenções têm sido estudadas para manejo de agitação em emergências psiquiátricas?"
+- "Como a telemedicina em saúde mental tem sido implementada em países de baixa renda?"
+- "Que instrumentos existem para avaliação de adesão ao tratamento em esquizofrenia?"
+
+Observe que são perguntas amplas, que buscam mapear o que existe — não avaliar o que funciona.
+:::
+
+## Quando NÃO usar a revisão de escopo?
+
+A revisão de escopo **não é adequada** quando:
+
+- O objetivo é avaliar a **eficácia** de uma intervenção específica
+- É necessário **recomendar** uma prática clínica baseada em evidências
+- A pergunta exige **avaliação de qualidade** metodológica
+- Já se sabe que a literatura é **homogênea** e uma revisão sistemática é viável
+
+## Framework metodológico
+
+O framework original de @arksey2005, aprimorado por @levac2010 e atualizado pelo JBI [@peters2020], propõe cinco etapas principais:
+```{mermaid}
+flowchart LR
+    A["Pergunta de pesquisa"] --> B["Identificação dos estudos"]
+    B --> C["Seleção dos estudos"]
+    C --> D["Extração dos dados"]
+    D --> E["Síntese e apresentação"]
+```
+
+### Etapa 1: Definição da pergunta de pesquisa
+
+A pergunta deve ser ampla o suficiente para capturar a diversidade da literatura, mas focada o bastante para ser gerenciável. Recomenda-se o uso do framework **PCC**:
+
+| Elemento | Descrição | Exemplo |
+|----------|-----------|---------|
+| **P** - População | Quem são os participantes? | Idosos com demência |
+| **C** - Conceito | Qual o fenômeno de interesse? | Intervenções não farmacológicas |
+| **C** - Contexto | Em que setting ou circunstância? | Instituições de longa permanência |
+
+### Etapa 2: Identificação dos estudos relevantes
+
+A busca deve ser **abrangente**, incluindo:
+
+- Bases de dados eletrônicas (PubMed, Embase, CINAHL, PsycINFO, LILACS)
+- Literatura cinzenta (teses, dissertações, relatórios técnicos)
+- Listas de referências dos estudos incluídos
+- Consulta a especialistas na área
+
+::: {.callout-warning}
+## Atenção
+Diferente da revisão sistemática, a revisão de escopo pode ser **iterativa** — a estratégia de busca pode ser refinada à medida que você conhece melhor a literatura.
+:::
+
+### Etapa 3: Seleção dos estudos
+
+Aplique critérios de inclusão e exclusão definidos *a priori*. A seleção deve ser feita por **pelo menos dois revisores independentes**, com resolução de discordâncias por consenso ou terceiro revisor.
+
+Documente o processo usando o **fluxograma PRISMA-ScR** [@tricco2018].
+
+### Etapa 4: Extração dos dados (*charting*)
+
+O *charting* é o processo de extração e organização das informações. Diferente da revisão sistemática, o foco não é extrair resultados numéricos, mas **mapear características** dos estudos:
+
+- Autor, ano, país
+- Objetivo do estudo
+- População e tamanho da amostra
+- Conceito ou intervenção estudada
+- Contexto
+- Tipo de estudo / delineamento
+- Principais achados (descritivos)
+
+::: {.callout-tip}
+## Dica prática
+Crie uma planilha com as variáveis de interesse antes de iniciar a extração. Faça um piloto com 5-10 estudos para verificar se as categorias são adequadas e se é necessário ajustar.
+:::
+
+### Etapa 5: Síntese e apresentação dos resultados
+
+A síntese na revisão de escopo é **descritiva e visual**. Inclui:
+
+- Descrição numérica (quantos estudos, de quais países, em que período)
+- Tabelas e gráficos de caracterização
+- Mapeamento temático dos conceitos identificados
+- Identificação de lacunas
+
+## PRISMA-ScR: o checklist para relato
+
+O **PRISMA-ScR** [@tricco2018] é a extensão do PRISMA específica para revisões de escopo. Contém 22 itens que orientam o relato transparente da revisão:
+
+- Título identificando como scoping review
+- Protocolo registrado
+- Critérios de elegibilidade
+- Fontes de informação e estratégia de busca
+- Processo de seleção e extração
+- Resultados da busca (fluxograma)
+- Características dos estudos
+- Síntese dos resultados
+- Limitações
+
+## Exemplo de quadro de caracterização
+
+| Autor/Ano | País | Delineamento | População | Conceito estudado | Contexto |
+|-----------|------|--------------|-----------|-------------------|----------|
+| Autor A, 2020 | Brasil | Transversal | Residentes de psiquiatria | Burnout | Hospital universitário |
+| Autor B, 2019 | EUA | Qualitativo | Médicos emergencistas | Estratégias de coping | Pronto-socorro |
+| Autor C, 2021 | Canadá | ECR | Enfermeiros de UTI | Mindfulness | UTI adulto |
+
+*Nota: Modelo ilustrativo. Em sua revisão, preencha com dados reais.*
+
+## Vantagens
+
+- **Amplitude:** permite explorar temas amplos ou emergentes
+- **Flexibilidade:** não exige avaliação de qualidade metodológica
+- **Visão panorâmica:** identifica o que existe antes de aprofundar
+- **Identificação de lacunas:** útil para justificar novas pesquisas
+- **Rapidez relativa:** menos demorada que revisão sistemática completa
+
+## Limitações
+
+- **Não avalia qualidade:** não permite concluir sobre a confiabilidade das evidências
+- **Não responde perguntas de eficácia:** inadequada para decisões clínicas
+- **Amplitude pode ser problema:** temas muito amplos geram revisões superficiais
+- **Síntese limitada:** descreve, mas não integra ou interpreta profundamente
+
+## Revisão de escopo vs. sistemática
+
+| Aspecto | Escopo | Sistemática |
+|---------|:------:|:-----------:|
+| Pergunta | Ampla, exploratória | Específica, focada |
+| Objetivo | Mapear a literatura | Sintetizar evidências |
+| Avaliação de qualidade | Não | Sim |
+| Síntese | Descritiva | Analítica (quali ou quanti) |
+| Meta-análise | Não | Possível |
+| Tempo/recursos | Moderado | Alto |
+| Uso principal | Exploração, lacunas | Decisão clínica, diretrizes |
+
+## Resumo
+
+::: {.callout-note}
+## Pontos-chave
+
+- A revisão de escopo **mapeia** a literatura, não sintetiza resultados
+- É indicada para **temas amplos** ou **emergentes**
+- Segue cinco etapas: pergunta, busca, seleção, extração, síntese
+- Utiliza o framework **PCC** (População, Conceito, Contexto)
+- **Não avalia qualidade** metodológica dos estudos
+- Deve ser relatada conforme o **PRISMA-ScR** [@tricco2018]
+- Útil para **identificar lacunas** e avaliar viabilidade de revisão sistemática
+:::
+
+## Leituras recomendadas
+
+- @arksey2005 — Scoping studies: towards a methodological framework
+- @levac2010 — Scoping studies: advancing the methodology
+- @tricco2018 — PRISMA extension for scoping reviews (PRISMA-ScR)
+- @peters2020 — Updated methodological guidance for the conduct of scoping reviews
+
+---
+
+Próximo capítulo: **[Revisão Sistemática](05-revisao-sistematica.qmd)**

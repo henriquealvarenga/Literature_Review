@@ -1,0 +1,152 @@
+---
+title: "Revisão Integrativa"
+subtitle: "Síntese de evidências com rigor metodológico e flexibilidade"
+---
+
+
+## O que é uma revisão integrativa?
+
+A **revisão integrativa** é um método de síntese do conhecimento que permite **reunir, avaliar criticamente e integrar resultados de estudos empíricos e teóricos**, oriundos de **diferentes delineamentos metodológicos** (quantitativos, qualitativos, mistos e conceituais), de forma **explícita, sistemática e transparente**.
+
+Diferentemente de outras modalidades de revisão, a revisão integrativa não se define apenas pelo procedimento técnico de busca e seleção de estudos, mas sobretudo por sua **finalidade epistemológica**: **compreender fenômenos complexos, desenvolver ou refinar conceitos, mapear campos de conhecimento heterogêneos e articular evidências empíricas com modelos teóricos**.
+
+Historicamente, esse método surge no contexto da **Enfermagem**, associado à **Prática Baseada em Evidências (PBE)**, como resposta às limitações das revisões sistemáticas tradicionais para lidar com fenômenos relacionados ao cuidado, à experiência, ao significado e aos processos de saúde-doença [@broome1993; @whittemore2005].
+
+::: {.callout-note}
+
+## Definição clássica
+
+A revisão integrativa é um método de revisão da literatura que possibilita a síntese de estudos empíricos e teóricos, com diferentes delineamentos metodológicos, visando ao desenvolvimento de conceitos e à construção de uma compreensão abrangente de um fenômeno.
+
+Adaptado de @broome1993
+:::
+
+## Origem e fundamento conceitual
+
+A revisão integrativa **não nasce como um atalho metodológico**, mas como uma **estratégia rigorosa de desenvolvimento conceitual**. Em seu texto fundador, Broome (1993) a apresenta como ferramenta central para o *concept development*, isto é, para:
+
+* identificar como um conceito é definido e operacionalizado em diferentes estudos;
+* reconhecer atributos, antecedentes e consequências conceituais;
+* mapear convergências, divergências e lacunas conceituais;
+* integrar achados empíricos com formulações teóricas.
+
+Essa origem explica por que a revisão integrativa se consolidou inicialmente na Enfermagem, área historicamente comprometida com fenômenos que **não se deixam reduzir a desenhos experimentais homogêneos**.
+
+## Características principais
+
+| Característica             | Descrição                                             |
+| -------------------------- | ----------------------------------------------------- |
+| **Pergunta de pesquisa**   | Ampla a moderadamente específica                      |
+| **Finalidade central**     | Compreensão de fenômenos e desenvolvimento conceitual |
+| **Protocolo**              | Recomendado                                           |
+| **Estratégia de busca**    | Sistemática, em múltiplas bases                       |
+| **Seleção de estudos**     | Critérios explícitos de inclusão e exclusão           |
+| **Tipos de estudo**        | Quantitativos, qualitativos, mistos e teóricos        |
+| **Avaliação de qualidade** | Recomendada, dependente do objetivo                   |
+| **Síntese dos resultados** | Predominantemente qualitativa e integrativa           |
+| **Reprodutibilidade**      | Moderada a alta                                       |
+
+## O que diferencia a revisão integrativa?
+
+A marca distintiva da revisão integrativa é a **integração deliberada da heterogeneidade metodológica**. Enquanto a revisão sistemática clássica tende a restringir seu escopo a estudos homogêneos (frequentemente ensaios clínicos randomizados), a revisão integrativa permite combinar:
+
+* estudos experimentais e quase-experimentais;
+* estudos observacionais (coorte, caso-controle, transversais);
+* estudos qualitativos;
+* artigos teóricos e conceituais;
+* relatos de experiência com relevância analítica.
+
+Essa característica torna a revisão integrativa particularmente adequada para temas nos quais **a eficácia de intervenções é apenas uma dimensão do problema**, e não seu núcleo explicativo.
+
+## Quando usar a revisão integrativa?
+
+A revisão integrativa é especialmente indicada quando o objetivo é:
+
+* compreender um **fenômeno complexo e multidimensional**;
+* integrar evidências **empíricas e conceituais**;
+* analisar a **evolução histórica de conceitos**;
+* identificar **lacunas teóricas ou metodológicas**;
+* fundamentar práticas clínicas, educacionais ou organizacionais em campos heterogêneos.
+
+::: {.callout-tip}
+
+## Exemplos de perguntas adequadas
+
+* Como o conceito de *insight* é definido e operacionalizado na literatura psiquiátrica?
+* Como pacientes com esquizofrenia descrevem a experiência de ouvir vozes?
+* Quais fatores estão associados ao burnout em residentes médicos segundo diferentes abordagens metodológicas?
+:::
+
+## Quando NÃO usar a revisão integrativa?
+
+A revisão integrativa **não é a escolha mais apropriada** quando:
+
+* a pergunta é estritamente sobre **eficácia comparativa de intervenções**;
+* o objetivo central é **estimar tamanho de efeito**;
+* a elaboração de **diretrizes clínicas normativas** é o foco;
+* o campo possui literatura homogênea e bem delimitada.
+
+Nesses casos, revisões sistemáticas e meta-análises são metodologicamente superiores.
+
+## As seis etapas da revisão integrativa
+
+O modelo amplamente adotado na literatura brasileira propõe seis etapas principais [@mendes2008]:
+```{mermaid}
+flowchart LR
+A["Pergunta de pesquisa"] --> B["Busca na literatura"]
+B --> C["Coleta de dados"]
+C --> D["Análise crítica"]
+D --> E["Discussão e síntese"]
+E --> F["Apresentação da revisão"]
+```
+
+
+## Vantagens
+
+* **Abrangência epistemológica**;
+* **Integração de múltiplas formas de evidência**;
+* **Utilidade para desenvolvimento conceitual**;
+* **Aplicabilidade em áreas clínicas e psicossociais**;
+* **Maior rigor que revisões narrativas tradicionais**.
+
+## Limitações
+
+* Síntese conceitual e empírica **complexa**;
+* Maior risco de **subjetividade interpretativa**;
+* Dependência de **clareza teórica do pesquisador**;
+* Possibilidade de conclusões frágeis se a qualidade dos estudos não for considerada.
+
+## Revisão integrativa vs. sistemática
+
+| Aspecto         | Integrativa             | Sistemática              |
+| --------------- | ----------------------- | ------------------------ |
+| Tipos de estudo | Diversos                | Homogêneos               |
+| Pergunta        | Ampla                   | Específica               |
+| Síntese         | Qualitativa-integrativa | Quali ou quantitativa    |
+| Meta-análise    | Não usual               | Frequente                |
+| Uso principal   | Compreensão e conceitos | Eficácia de intervenções |
+
+## Resumo
+
+::: {.callout-note}
+
+## Pontos-chave
+
+* A revisão integrativa **integra heterogeneidade metodológica** de forma deliberada;
+* Tem origem histórica na **Enfermagem**, voltada ao desenvolvimento conceitual;
+* É mais rigorosa que a revisão narrativa e mais flexível que a sistemática;
+* Exige **transparência, documentação e clareza teórica**;
+* É especialmente útil para fenômenos complexos em saúde mental.
+:::
+
+## Leituras recomendadas
+
+* @broome1993 — Integrative literature reviews for the development of concepts
+* @whittemore2005 — The integrative review: updated methodology
+* @souza2010 — Revisão integrativa: o que é e como fazer
+* @mendes2008 — Revisão integrativa: método de pesquisa para a incorporação de evidências
+* @botelho2011 — O método da revisão integrativa nos estudos organizacionais
+
+---
+
+Próximo capítulo: **[Revisão de Escopo](04-revisao-escopo.qmd)**
