@@ -1,0 +1,57 @@
+---
+title: "Atividades Práticas"
+subtitle: "Revisões de Literatura em Saúde"
+---
+
+## Apresentação
+
+Ao longo deste módulo, os estudantes realizarão **duas atividades práticas complementares**, voltadas ao desenvolvimento de competências essenciais para a **leitura crítica, o planejamento metodológico e a compreensão dos diferentes tipos de revisão de literatura em saúde**.
+
+As atividades foram desenhadas para enfatizar que **cada tipo de revisão responde a objetivos distintos** e exige **decisões metodológicas específicas**, indo além da simples busca de artigos.
+
+---
+
+## Atividade 1  
+### Análise Crítica de uma Revisão de Escopo (PRISMA-ScR)
+
+Nesta atividade, os estudantes irão **analisar criticamente uma revisão de escopo publicada**, com foco na **transparência metodológica e na qualidade do relato científico**.
+
+O objetivo central é que o aluno aprenda a:
+
+- Reconhecer as **etapas metodológicas de uma revisão de escopo**;
+- Utilizar o **checklist PRISMA-ScR** como instrumento de análise crítica;
+- Diferenciar a revisão de escopo de outros tipos de revisão de literatura;
+- Desenvolver senso crítico quanto à forma como o conhecimento é organizado e apresentado.
+
+👉 **Acesse a atividade:**  
+[Atividade 1 – Revisão de Escopo (PRISMA-ScR)](09-pratica-1.qmd)
+
+---
+
+## Atividade 2  
+### Planejamento de Revisões Narrativa e Integrativa
+
+Nesta atividade, os estudantes irão **planejar duas estratégias distintas de revisão de literatura** — uma **revisão narrativa** e uma **revisão integrativa** — a partir de um mesmo cenário clínico ou pergunta de pesquisa.
+
+O foco da atividade não é executar a revisão completa, mas **compreender como o tipo de revisão influencia todas as decisões metodológicas**, incluindo:
+
+- Formulação da pergunta de pesquisa;
+- Estratégia de busca bibliográfica;
+- Definição de critérios de inclusão e exclusão;
+- Forma de síntese e apresentação dos dados.
+
+A atividade enfatiza a comparação explícita entre as duas abordagens, promovendo uma compreensão mais profunda das **diferenças conceituais e metodológicas** entre elas.
+
+👉 **Acesse a atividade:**  
+[Atividade 2 – Planejamento de Revisões Narrativa e Integrativa](09-pratica-2.qmd)
+
+---
+
+## Considerações finais
+
+As duas atividades devem ser compreendidas como **complementares**:
+
+- A **primeira** foca na **leitura crítica de um produto científico já publicado**;
+- A **segunda** foca no **planejamento metodológico da produção científica**.
+
+Juntas, elas oferecem uma base sólida para que o estudante compreenda **como revisões de literatura são avaliadas, planejadas e utilizadas na prática científica em saúde**.

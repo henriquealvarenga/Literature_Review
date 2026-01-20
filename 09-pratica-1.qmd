@@ -1,0 +1,195 @@
+---
+title: "Atividade Prática 1"
+subtitle: "Análise crítica de revisões de escopo (PRISMA-ScR)"
+---
+
+## Objetivos da atividade
+
+Esta atividade prática tem como objetivo consolidar os conhecimentos metodológicos discutidos em aula por meio da análise crítica de uma **revisão de escopo publicada**. Ao final da atividade, espera-se que o estudante seja capaz de:
+
+- Analisar a **estrutura, clareza e transparência metodológica** de uma revisão de escopo;
+- Reconhecer as **etapas metodológicas descritas no checklist PRISMA-ScR**;
+- Desenvolver **senso crítico** para distinguir revisões de escopo de outros tipos de revisão (narrativa, sistemática, integrativa, entre outras).
+
+---
+
+## Descrição geral da atividade
+
+Os estudantes, organizados em grupos, deverão **localizar, selecionar e analisar criticamente** um artigo de **revisão de escopo** relacionado a um dos temas propostos.
+
+O foco da atividade **não está apenas no tema**, mas principalmente na **qualidade do relato metodológico** do estudo, especialmente no que diz respeito à aderência às recomendações do **PRISMA-ScR**.
+
+---
+
+
+## Onde o aluno deve pesquisar?
+
+A busca pelo artigo de revisão de escopo deve ser realizada em **bases de dados científicas**, preferencialmente nas seguintes:
+
+- [**PubMed / MEDLINE**](https://pubmed.ncbi.nlm.nih.gov/)
+
+- [**Scopus**](https://www.scopus.com/)
+
+- [**Web of Science**](https://www.webofscience.com/)
+
+- [**Scielo**](https://www.scielo.br)
+
+- [**Biblioteca Virtual em Saúde (BVS)**](https://bvsalud.org/)
+
+📌 Sempre que possível, priorize bases que permitam identificar claramente o **tipo de estudo** (scoping review, systematic review, etc.).
+
+---
+
+## Como realizar a busca?
+
+1. Acesse uma das bases de dados indicadas;
+2. Localize o **campo de busca avançada** (Advanced Search);
+3. Copie e cole a **estratégia de busca sugerida** para o tema escolhido;
+4. Ajuste filtros, se necessário (idioma, período, tipo de estudo);
+5. Identifique artigos que se declarem explicitamente como **scoping review**.
+
+::: {.callout-tip}
+### Dica importante
+Nem todo artigo que se autodenomina “revisão” é uma revisão de escopo. O aluno deve verificar se o estudo:
+- Utiliza o **modelo PCC**;
+- Declara seguir o **PRISMA-ScR**;
+- Apresenta um **fluxograma de seleção** e descrição clara da metodologia.
+:::
+
+---
+
+## Tarefa a ser entregue
+
+- **Checklist PRISMA-ScR preenchido**
+
+Para cada item do checklist, o grupo deverá:
+
+- Indicar se o artigo **cumpre ou não** o critério;
+- **Justificar a resposta**, citando trechos específicos do artigo analisado.
+
+O checklist oficial pode ser acessado em:
+
+- [PRISMA-ScR Checklist (PDF)](https://www.prisma-statement.org/Extensions/ScopingReviews)
+
+
+Para **cada item** do checklist, você deve:
+
+1. ✅ ou ❌ — Indicar se o artigo **cumpre** ou **não cumpre** o critério
+2. 📝 — Escrever uma **justificativa** baseada no conteúdo do artigo
+
+### Exemplo de como preencher
+
+| Item | Cumpre? | Justificativa |
+|------|---------|---------------|
+| **Item 1 - Título** | ✅ Sim | O título indica claramente que é uma revisão de escopo: "A scoping review of..." |
+| **Item 5 - Objetivos** | ❌ Não | Os autores apresentam o objetivo geral, mas não formulam as perguntas de pesquisa de forma explícita conforme recomendado pelo PRISMA-ScR |
+
+::: {.callout-important}
+## Atenção
+Não basta marcar "sim" ou "não"! Suas justificativas devem demonstrar que você **leu o artigo** e **entendeu os critérios** do PRISMA-ScR.
+:::
+
+
+## Temas propostos (Estrutura PCC)
+
+Os grupos deverão escolher **um** dos temas abaixo. Todos estão estruturados segundo o modelo **PCC (População, Conceito, Contexto)**.
+
+---
+
+## 1. Impacto da Telemedicina no Acesso aos Cuidados de Saúde Primários
+
+### Estrutura PCC
+
+- **P (População):** Pacientes que buscam cuidados primários  
+- **C (Conceito):** Telemedicina e acesso aos cuidados de saúde  
+- **C (Contexto):** Cuidados de saúde primários  
+
+### Pergunta PCC
+
+> Quais são as evidências existentes sobre o impacto da telemedicina no acesso aos cuidados de saúde primários?
+
+### Estratégia de busca (exemplo)
+
+Copiar e colar no campo de busca avançada da base de dados:
+
+```text
+("Telemedicine" OR "Telehealth" OR "eHealth")
+AND ("Access to Healthcare" OR "Healthcare Access" OR "Primary Care Access")
+AND ("Primary Care" OR "Primary Healthcare" OR "Family Medicine")
+```
+
+---
+
+## 2. Envelhecimento Populacional e Desafios para a Saúde Mental
+
+### Estrutura PCC
+
+* **P (População):** Idosos
+* **C (Conceito):** Saúde mental e seus desafios
+* **C (Contexto):** Sistema de saúde pública e serviços de saúde
+
+### Pergunta PCC
+
+> Quais são os principais desafios de saúde mental enfrentados pela população idosa no contexto dos sistemas de saúde pública?
+
+### Estratégia de busca (exemplo)
+
+```text
+("Aging Population" OR "Elderly" OR "Older Adults")
+AND ("Mental Health Challenges" OR "Psychological Health" OR "Mental Health Issues")
+AND ("Public Health" OR "Healthcare System" OR "Health Services")
+```
+
+---
+
+## 3. Uso de Inteligência Artificial na Detecção Precoce de Doenças Cardiovasculares
+
+### Estrutura PCC
+
+* **P (População):** Pacientes em risco de doenças cardiovasculares
+* **C (Conceito):** Inteligência artificial aplicada à detecção precoce
+* **C (Contexto):** Detecção e diagnóstico de doenças cardiovasculares
+
+### Pergunta PCC
+
+> Quais são as evidências sobre o uso da inteligência artificial na detecção precoce de doenças cardiovasculares?
+
+### Estratégia de busca (exemplo)
+
+```text
+("Artificial Intelligence" OR "AI" OR "Machine Learning")
+AND ("Early Detection" OR "Screening" OR "Diagnosis")
+AND ("Cardiovascular Diseases" OR "Heart Diseases" OR "Cardiac Disorders")
+```
+
+---
+
+## 4. Políticas Públicas para a Promoção da Vacinação em Populações Vulneráveis
+
+### Estrutura PCC
+
+* **P (População):** Populações vulneráveis ou em risco
+* **C (Conceito):** Políticas públicas para promoção da vacinação
+* **C (Contexto):** Aumento da cobertura vacinal
+
+### Pergunta PCC
+
+> Quais políticas públicas têm sido implementadas para promover a vacinação em populações vulneráveis, e quais foram seus impactos na cobertura vacinal?
+
+### Estratégia de busca (exemplo)
+
+```text
+("Vaccination Policies" OR "Immunization Programs" OR "Public Health Policies")
+AND ("Vulnerable Populations" OR "At-risk Populations" OR "Underserved Populations")
+AND ("Vaccine Uptake" OR "Immunization Coverage" OR "Vaccination Rates")
+```
+
+---
+
+## Considerações finais
+
+Esta atividade foi concebida para desenvolver no estudante uma **postura ativa diante da literatura científica**, estimulando a leitura crítica, o entendimento dos métodos e a distinção entre diferentes tipos de revisão.
+
+Mais do que responder à pergunta temática, o objetivo central é avaliar **como o conhecimento foi produzido, organizado e relatado**, à luz das recomendações do **PRISMA-ScR**.
+
+

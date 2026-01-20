@@ -36,7 +36,7 @@ Responder a essas perguntas exige mais do que "ler alguns artigos". Exige **mét
 | [Meta-análise](06-metanalise.qmd) | Síntese quantitativa de múltiplos estudos |
 | [Acrônimos PICO](07-acronimos-pico.qmd) | Estruturação de perguntas de pesquisa |
 | [Registro de Protocolos](08-registro-osf.qmd) | OSF, PROSPERO e transparência científica |
-| [Atividades Práticas](09-pratica.qmd) | Exercícios para aplicação dos conceitos |
+| [Atividades Práticas](09-pratica-0.qmd) | Exercícios para aplicação dos conceitos |
 
 
 ## Autor
