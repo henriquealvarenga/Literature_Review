@@ -19,6 +19,8 @@ website:
         href: 07-acronimos-pico.qmd
       - text: "Atividades Práticas"
         href: 09-pratica-0.qmd
+      - text: "About"
+        href: About.qmd
 
   sidebar:
     style: "docked"
