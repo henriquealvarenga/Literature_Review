@@ -7,15 +7,14 @@ subtitle: "Informações sobre o autor, tecnologias e licenciamento"
 
 **Henrique Alvarenga da Silva**
 
-Médico psiquiatra. Professor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).   
+Médico psiquiatra. Professor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).\
 Professor de Métodos de Pesquisa em Medicina na AFYA.
 
 🌐 [henriquealvarenga.com](https://www.henriquealvarenga.com)
 
-📧 [mailto:henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
+📧 [mailto:henriquealvarenga\@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
 
-<!-- Adicionar ORCID se desejar -->
-<!-- 🆔 ORCID: [0000-0001-9799-5240](https://orcid.org/0000-0001-9799-5240) -->
+🆔 ORCID: [0000-0001-9799-5240](https://orcid.org/0000-0001-9799-5240)
 
 ## Sobre a obra
 
@@ -26,7 +25,7 @@ Este material foi desenvolvido como recurso educacional para estudantes de medic
 Este material foi produzido utilizando ferramentas de código aberto e ciência aberta:
 
 | Tecnologia | Finalidade |
-|------------|------------|
+|------------------------------------|------------------------------------|
 | [Quarto](https://quarto.org/) | Sistema de publicação científica e técnica |
 | [Markdown](https://www.markdownguide.org/) | Linguagem de marcação para escrita do conteúdo |
 | [Positron](https://github.com/posit-dev/positron) | Ambiente de desenvolvimento integrado (IDE) |
@@ -35,18 +34,18 @@ Este material foi produzido utilizando ferramentas de código aberto e ciência 
 | [GitHub Pages](https://pages.github.com/) | Publicação e hospedagem do site |
 | [BibTeX](http://www.bibtex.org/) | Gerenciamento de referências bibliográficas |
 
-
 ### Inteligência artificial
 
 O desenvolvimento deste material contou com o auxílio de ferramentas de inteligência artificial generativa:
 
-- **Claude** (Anthropic) — assistência na estruturação do conteúdo, revisão textual e organização das referências
-- **ChatGPT** (OpenAI) — apoio na elaboração de seções específicas e revisão de conteúdo
+-   **Claude** (Anthropic) — assistência na estruturação do conteúdo, revisão textual e organização das referências
+-   **ChatGPT** (OpenAI) — apoio na elaboração de seções específicas e revisão de conteúdo
 
 O uso dessas ferramentas seguiu princípios de transparência e verificação: todo o conteúdo gerado foi revisado, verificado e validado pelo autor. As referências bibliográficas foram conferidas individualmente para garantir precisão e veracidade.
 
-::: {.callout-note}
+::: callout-note
 ## Nota sobre o uso de IA
+
 A inteligência artificial foi utilizada como ferramenta de apoio, não como substituto do trabalho intelectual. A responsabilidade pelo conteúdo final, incluindo a precisão das informações e a adequação das referências, é integralmente do autor.
 :::
 
@@ -56,8 +55,6 @@ O código-fonte deste projeto está disponível publicamente:
 
 🔗 **Repositório:** [github.com/henriquealvarenga/Literature_Review](https://github.com/henriquealvarenga/Literature_Review)
 
-<!-- Atualizar com o link correto do repositório -->
-
 Contribuições, sugestões e correções são bem-vindas por meio de *issues* ou *pull requests*.
 
 ## Licença
@@ -66,14 +63,14 @@ Este trabalho está licenciado sob uma Licença **Creative Commons Atribuição-
 
 Você tem o direito de:
 
-- **Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato
-- **Adaptar** — remixar, transformar e criar a partir do material
+-   **Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato
+-   **Adaptar** — remixar, transformar e criar a partir do material
 
 Sob os seguintes termos:
 
-- **Atribuição** — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se mudanças foram feitas
-- **NãoComercial** — Você não pode usar o material para fins comerciais
-- **CompartilhaIgual** — Se você remixar, transformar ou criar a partir do material, deve distribuir suas contribuições sob a mesma licença
+-   **Atribuição** — Você deve dar o crédito apropriado, fornecer um link para a licença e indicar se mudanças foram feitas
+-   **NãoComercial** — Você não pode usar o material para fins comerciais
+-   **CompartilhaIgual** — Se você remixar, transformar ou criar a partir do material, deve distribuir suas contribuições sob a mesma licença
 
 🔗 [Texto completo da licença](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
 
@@ -83,10 +80,9 @@ Para citar este material, utilize:
 
 > Silva, H. A. (2025). *Da pergunta à síntese: Revisões de literatura em saúde*. Disponível em: http://www.henriquealvarenga.com/Literature_Review/
 
-
-
 Formato BibTeX:
-```bibtex
+
+``` bibtex
 @book{silva2025revisoes,
   author    = {Silva, Henrique Alvarenga da},
   title     = {Da Pergunta à Síntese: Revisões de Literatura em Saúde},
@@ -99,63 +95,36 @@ Formato BibTeX:
 
 ## ISBN
 
-::: {.callout-warning}
-## Em tramitação
-ISBN em processo de registro. Esta seção será atualizada após a obtenção do número.
-:::
+::: callout-warning
+**ISBN:** 978-65-01-96182-8 (versão digital)
 
-<!-- 
-Inserir ISBN quando disponível:
-**ISBN:** XXX-XX-XXXXX-XX-X (versão digital)
--->
+![](images/barcode.jpeg)
+:::
 
 ## Ficha catalográfica
 
-::: {.callout-warning}
-## Em elaboração
-A ficha catalográfica será inserida após a conclusão do registro bibliográfico.
+::: callout-warning
+![](images/ficha-catalografica.png)
 :::
-
-<!--
-Inserir ficha catalográfica aqui:
-```
-Silva, Henrique Alvarenga da
-    Da pergunta à síntese: revisões de literatura em saúde / 
-    Henrique Alvarenga da Silva. – São João del-Rei, 2025.
-    
-    XX p. : il.
-    
-    ISBN XXX-XX-XXXXX-XX-X
-    
-    1. Revisão de literatura. 2. Revisão sistemática. 
-    3. Meta-análise. 4. Metodologia científica. 
-    5. Pesquisa em saúde. I. Título.
-    
-                                          CDD XXX.XX
-                                          CDU XXX.XX
-```
--->
 
 ## Agradecimentos
 
 Agradeço aos estudantes e colegas que, ao longo dos anos, motivaram a criação deste material com suas dúvidas, sugestões e entusiasmo pela pesquisa científica.
 
-
 ## Histórico de versões
 
-| Versão | Data | Descrição |
-|--------|------|-----------|
-| 1.0.0 | Janeiro/2025 | Versão inicial |
-
+| Versão | Data           | Descrição      |
+|--------|----------------|----------------|
+| 1.0.0  | Fevereiro/2025 | Versão inicial |
 
 ## Contato
 
 Dúvidas, sugestões ou correções podem ser enviadas para:
 
-📧 [henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
+📧 [henriquealvarenga\@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
 
 Ou por meio de *issues* no repositório do projeto no GitHub.
 
----
+------------------------------------------------------------------------
 
-*Última atualização: Janeiro de 2025*
+*Última atualização: Fevereiro de 2025*
