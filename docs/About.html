@@ -21,41 +21,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -284,6 +249,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Apresentação</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./00-sinopse.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sinopse</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -557,46 +528,95 @@ Professor de Métodos de Pesquisa em Medicina na AFYA.</p>
 </section>
 <section id="citação" class="level2">
 <h2 class="anchored" data-anchor-id="citação">Citação</h2>
-<p>Para citar este material, utilize:</p>
-<blockquote class="blockquote">
-<p>Silva, H. A. (2025). <em>Da pergunta à síntese: Revisões de literatura em saúde</em>. Disponível em: http://www.henriquealvarenga.com/Literature_Review/</p>
-</blockquote>
-<p>Formato BibTeX:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@book</span>{<span class="ot">silva2025revisoes</span>,</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Silva, Henrique Alvarenga da},</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {Da Pergunta à Síntese: Revisões de Literatura em Saúde},</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2025},</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span> = {Publicação independente},</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">url</span>       = {http://www.henriquealvarenga.com/Literature_Review/},</span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">note</span>      = {Recurso educacional aberto}</span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Selecione o formato desejado e clique em <strong>Copiar</strong> para copiar a citação:</p>
+<div style="margin: 1.5em 0;">
+  <div style="display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap;">
+    <button onclick="showCitation('abnt')" id="btn-abnt" style="padding: 8px 18px; border: 2px solid #0066cc; background: #0066cc; color: white; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">ABNT</button>
+    <button onclick="showCitation('vancouver')" id="btn-vancouver" style="padding: 8px 18px; border: 2px solid #0066cc; background: white; color: #0066cc; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">Vancouver</button>
+    <button onclick="showCitation('apa')" id="btn-apa" style="padding: 8px 18px; border: 2px solid #0066cc; background: white; color: #0066cc; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">APA 7ª ed.</button>
+    <button onclick="showCitation('bibtex')" id="btn-bibtex" style="padding: 8px 18px; border: 2px solid #0066cc; background: white; color: #0066cc; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">BibTeX</button>
+  </div>
+  <div id="citation-box" style="background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 8px; padding: 16px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 0.85em; line-height: 1.6; white-space: pre-wrap; min-height: 60px;">SILVA, Henrique Alvarenga da. <b>Da Pergunta à Síntese</b>: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/</div>
+  <button onclick="copyCitation()" id="btn-copy" style="margin-top: 10px; padding: 8px 20px; background: #10B981; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">📋 Copiar</button>
+  <span id="copy-msg" style="margin-left: 10px; color: #10B981; font-weight: 600; display: none;">Copiado!</span>
+</div>
+
+<script>
+const citations = {
+  abnt: 'SILVA, Henrique Alvarenga da. <b>Da Pergunta à Síntese</b>: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/',
+  vancouver: 'Silva HA. Da pergunta à síntese: revisões de literatura em saúde [Internet]. Publicação independente; 2025 [cited ' + new Date().getFullYear() + ']. ISBN 978-65-01-96182-8. Available from: https://henriquealvarenga.com/Literature_Review/',
+  apa: 'Silva, H. A. (2025). <i>Da pergunta à síntese: Revisões de literatura em saúde</i>. Publicação independente. ISBN 978-65-01-96182-8. https://henriquealvarenga.com/Literature_Review/',
+  bibtex: `@book{silva2025revisoes,
+  author    = {Silva, Henrique Alvarenga da},
+  title     = {Da Pergunta à Síntese: Revisões de Literatura em Saúde},
+  year      = {2025},
+  publisher = {Publicação independente},
+  url       = {https://henriquealvarenga.com/Literature_Review/},
+  isbn      = {978-65-01-96182-8},
+  note      = {Recurso educacional aberto}
+}`
+};
+
+const citationsPlain = {
+  abnt: 'SILVA, Henrique Alvarenga da. Da Pergunta à Síntese: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/',
+  vancouver: 'Silva HA. Da pergunta à síntese: revisões de literatura em saúde [Internet]. Publicação independente; 2025 [cited ' + new Date().getFullYear() + ']. ISBN 978-65-01-96182-8. Available from: https://henriquealvarenga.com/Literature_Review/',
+  apa: 'Silva, H. A. (2025). Da pergunta à síntese: Revisões de literatura em saúde. Publicação independente. ISBN 978-65-01-96182-8. https://henriquealvarenga.com/Literature_Review/',
+  bibtex: citations.bibtex
+};
+
+let currentFormat = 'abnt';
+
+function showCitation(format) {
+  currentFormat = format;
+  document.getElementById('citation-box').innerHTML = citations[format];
+  ['abnt','vancouver','apa','bibtex'].forEach(f => {
+    const btn = document.getElementById('btn-' + f);
+    if (f === format) {
+      btn.style.background = '#0066cc';
+      btn.style.color = 'white';
+    } else {
+      btn.style.background = 'white';
+      btn.style.color = '#0066cc';
+    }
+  });
+  document.getElementById('copy-msg').style.display = 'none';
+}
+
+function copyCitation() {
+  const text = citationsPlain[currentFormat];
+  navigator.clipboard.writeText(text).then(() => {
+    const msg = document.getElementById('copy-msg');
+    msg.style.display = 'inline';
+    setTimeout(() => { msg.style.display = 'none'; }, 2000);
+  });
+}
+</script>
 </section>
 <section id="isbn" class="level2">
 <h2 class="anchored" data-anchor-id="isbn">ISBN</h2>
-<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout callout-style-default callout-note no-icon callout-titled" title="ISBN: 978-65-01-96182-8 (versão digital)">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class="callout-icon"></i>
+<i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Aviso
+<span class="screen-reader-only">Nota</span>ISBN: 978-65-01-96182-8 (versão digital)
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>ISBN:</strong> 978-65-01-96182-8 (versão digital)</p>
 <p><img src="images/barcode.jpeg" class="img-fluid"></p>
 </div>
 </div>
 </section>
 <section id="ficha-catalográfica" class="level2">
 <h2 class="anchored" data-anchor-id="ficha-catalográfica">Ficha catalográfica</h2>
-<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout callout-style-default callout-note no-icon callout-titled" title="">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
-<i class="callout-icon"></i>
+<i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Aviso
+Nota
 </div>
 </div>
 <div class="callout-body-container callout-body">

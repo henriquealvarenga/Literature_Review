@@ -76,34 +76,83 @@ Sob os seguintes termos:
 
 ## Citação
 
-Para citar este material, utilize:
+Selecione o formato desejado e clique em **Copiar** para copiar a citação:
 
-> Silva, H. A. (2025). *Da pergunta à síntese: Revisões de literatura em saúde*. Disponível em: http://www.henriquealvarenga.com/Literature_Review/
+```{=html}
+<div style="margin: 1.5em 0;">
+  <div style="display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap;">
+    <button onclick="showCitation('abnt')" id="btn-abnt" style="padding: 8px 18px; border: 2px solid #0066cc; background: #0066cc; color: white; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">ABNT</button>
+    <button onclick="showCitation('vancouver')" id="btn-vancouver" style="padding: 8px 18px; border: 2px solid #0066cc; background: white; color: #0066cc; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">Vancouver</button>
+    <button onclick="showCitation('apa')" id="btn-apa" style="padding: 8px 18px; border: 2px solid #0066cc; background: white; color: #0066cc; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">APA 7ª ed.</button>
+    <button onclick="showCitation('bibtex')" id="btn-bibtex" style="padding: 8px 18px; border: 2px solid #0066cc; background: white; color: #0066cc; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">BibTeX</button>
+  </div>
+  <div id="citation-box" style="background: #f8f9fa; border: 1px solid #dee2e6; border-radius: 8px; padding: 16px; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 0.85em; line-height: 1.6; white-space: pre-wrap; min-height: 60px;">SILVA, Henrique Alvarenga da. <b>Da Pergunta à Síntese</b>: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/</div>
+  <button onclick="copyCitation()" id="btn-copy" style="margin-top: 10px; padding: 8px 20px; background: #10B981; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.9em;">📋 Copiar</button>
+  <span id="copy-msg" style="margin-left: 10px; color: #10B981; font-weight: 600; display: none;">Copiado!</span>
+</div>
 
-Formato BibTeX:
-
-``` bibtex
-@book{silva2025revisoes,
+<script>
+const citations = {
+  abnt: 'SILVA, Henrique Alvarenga da. <b>Da Pergunta à Síntese</b>: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/',
+  vancouver: 'Silva HA. Da pergunta à síntese: revisões de literatura em saúde [Internet]. Publicação independente; 2025 [cited ' + new Date().getFullYear() + ']. ISBN 978-65-01-96182-8. Available from: https://henriquealvarenga.com/Literature_Review/',
+  apa: 'Silva, H. A. (2025). <i>Da pergunta à síntese: Revisões de literatura em saúde</i>. Publicação independente. ISBN 978-65-01-96182-8. https://henriquealvarenga.com/Literature_Review/',
+  bibtex: `@book{silva2025revisoes,
   author    = {Silva, Henrique Alvarenga da},
   title     = {Da Pergunta à Síntese: Revisões de Literatura em Saúde},
   year      = {2025},
   publisher = {Publicação independente},
-  url       = {http://www.henriquealvarenga.com/Literature_Review/},
+  url       = {https://henriquealvarenga.com/Literature_Review/},
+  isbn      = {978-65-01-96182-8},
   note      = {Recurso educacional aberto}
+}`
+};
+
+const citationsPlain = {
+  abnt: 'SILVA, Henrique Alvarenga da. Da Pergunta à Síntese: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/',
+  vancouver: 'Silva HA. Da pergunta à síntese: revisões de literatura em saúde [Internet]. Publicação independente; 2025 [cited ' + new Date().getFullYear() + ']. ISBN 978-65-01-96182-8. Available from: https://henriquealvarenga.com/Literature_Review/',
+  apa: 'Silva, H. A. (2025). Da pergunta à síntese: Revisões de literatura em saúde. Publicação independente. ISBN 978-65-01-96182-8. https://henriquealvarenga.com/Literature_Review/',
+  bibtex: citations.bibtex
+};
+
+let currentFormat = 'abnt';
+
+function showCitation(format) {
+  currentFormat = format;
+  document.getElementById('citation-box').innerHTML = citations[format];
+  ['abnt','vancouver','apa','bibtex'].forEach(f => {
+    const btn = document.getElementById('btn-' + f);
+    if (f === format) {
+      btn.style.background = '#0066cc';
+      btn.style.color = 'white';
+    } else {
+      btn.style.background = 'white';
+      btn.style.color = '#0066cc';
+    }
+  });
+  document.getElementById('copy-msg').style.display = 'none';
 }
+
+function copyCitation() {
+  const text = citationsPlain[currentFormat];
+  navigator.clipboard.writeText(text).then(() => {
+    const msg = document.getElementById('copy-msg');
+    msg.style.display = 'inline';
+    setTimeout(() => { msg.style.display = 'none'; }, 2000);
+  });
+}
+</script>
 ```
 
 ## ISBN
 
-::: callout-warning
-**ISBN:** 978-65-01-96182-8 (versão digital)
-
+::: {.callout-note title="ISBN: 978-65-01-96182-8 (versão digital)" icon=false}
 ![](images/barcode.jpeg)
 :::
 
+
 ## Ficha catalográfica
 
-::: callout-warning
+::: {.callout-note title="" icon=false}
 ![](images/ficha-catalografica.png)
 :::
 

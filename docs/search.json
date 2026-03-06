@@ -460,7 +460,11 @@
     "href": "00-sinopse.html",
     "title": "Sinopse",
     "section": "",
-    "text": "Sinopse\nEste livro é um guia metodológico voltado a estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular perguntas de pesquisa e conduzi-las por meio de revisões de literatura bem planejadas. A obra apresenta, de forma didática e progressiva, os principais tipos de revisão — narrativa, integrativa, de escopo, sistemática e meta-análise —, detalhando suas características, finalidades, etapas de elaboração, vantagens e limitações. Cada modalidade é contextualizada historicamente e comparada às demais, permitindo ao leitor compreender não apenas como executar cada método, mas sobretudo por que escolhê-lo diante de diferentes objetivos de pesquisa. O material aborda ainda a estruturação de perguntas de pesquisa por meio dos acrônimos PICO, PICo, PCC, PECO e SPIDER, a construção de estratégias de busca com operadores booleanos e o registro de protocolos em plataformas como PROSPERO e OSF, promovendo a transparência e a integridade científica. A obra inclui um capítulo sobre a história das revisões de literatura, desde os trabalhos pioneiros de Karl Pearson em 1904 até a consolidação da Cochrane Collaboration e da medicina baseada em evidências, além de atividades práticas que contemplam a análise crítica de revisões publicadas e o planejamento metodológico comparado. Trata-se de um recurso educacional aberto, produzido com auxílio de ferramentas de ciência aberta e inteligência artificial generativa."
+    "text": "Sinopse\nEste livro é um guia metodológico voltado a estudantes de medicina, residentes e pós-graduandos da área da saúde que desejam compreender como formular perguntas de pesquisa e conduzi-las por meio de revisões de literatura bem planejadas. A obra apresenta, de forma didática e progressiva, os principais tipos de revisão — narrativa, integrativa, de escopo, sistemática e meta-análise —, detalhando suas características, finalidades, etapas de elaboração, vantagens e limitações. Cada modalidade é contextualizada historicamente e comparada às demais, permitindo ao leitor compreender não apenas como executar cada método, mas sobretudo por que escolhê-lo diante de diferentes objetivos de pesquisa. O material aborda ainda a estruturação de perguntas de pesquisa por meio dos acrônimos PICO, PICo, PCC, PECO e SPIDER, a construção de estratégias de busca com operadores booleanos e o registro de protocolos em plataformas como PROSPERO e OSF, promovendo a transparência e a integridade científica. A obra inclui um capítulo sobre a história das revisões de literatura, desde os trabalhos pioneiros de Karl Pearson em 1904 até a consolidação da Cochrane Collaboration e da medicina baseada em evidências, além de atividades práticas que contemplam a análise crítica de revisões publicadas e o planejamento metodológico comparado. Trata-se de um recurso educacional aberto, produzido com auxílio de ferramentas de ciência aberta e inteligência artificial generativa.",
+    "crumbs": [
+      "Início",
+      "Sinopse"
+    ]
   },
   {
     "objectID": "index.html",
@@ -1290,21 +1294,21 @@
     "href": "About.html#citação",
     "title": "Sobre este projeto",
     "section": "Citação",
-    "text": "Citação\nPara citar este material, utilize:\n\nSilva, H. A. (2025). Da pergunta à síntese: Revisões de literatura em saúde. Disponível em: http://www.henriquealvarenga.com/Literature_Review/\n\nFormato BibTeX:\n@book{silva2025revisoes,\n  author    = {Silva, Henrique Alvarenga da},\n  title     = {Da Pergunta à Síntese: Revisões de Literatura em Saúde},\n  year      = {2025},\n  publisher = {Publicação independente},\n  url       = {http://www.henriquealvarenga.com/Literature_Review/},\n  note      = {Recurso educacional aberto}\n}"
+    "text": "Citação\nSelecione o formato desejado e clique em Copiar para copiar a citação:\n\n  \n    ABNT\n    Vancouver\n    APA 7ª ed.\n    BibTeX\n  \n  SILVA, Henrique Alvarenga da. Da Pergunta à Síntese: Revisões de Literatura em Saúde. Publicação independente, 2025. ISBN 978-65-01-96182-8. Disponível em: https://henriquealvarenga.com/Literature_Review/\n  📋 Copiar\n  Copiado!"
   },
   {
     "objectID": "About.html#isbn",
     "href": "About.html#isbn",
     "title": "Sobre este projeto",
     "section": "ISBN",
-    "text": "ISBN\n\n\n\n\n\n\nAviso\n\n\n\nISBN: 978-65-01-96182-8 (versão digital)"
+    "text": "ISBN\n\n\n\n\n\n\nNotaISBN: 978-65-01-96182-8 (versão digital)"
   },
   {
     "objectID": "About.html#ficha-catalográfica",
     "href": "About.html#ficha-catalográfica",
     "title": "Sobre este projeto",
     "section": "Ficha catalográfica",
-    "text": "Ficha catalográfica\n\n\n\n\n\n\nAviso"
+    "text": "Ficha catalográfica\n\n\n\n\n\n\nNota"
   },
   {
     "objectID": "About.html#agradecimentos",
