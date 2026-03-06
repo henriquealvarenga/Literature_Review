@@ -8,7 +8,7 @@
 
 <meta name="author" content="Henrique Alvarenga da Silva">
 
-<title>Revisão de Escopo – Revisões de Literatura em Saúde: Da Pergunta à Síntese</title>
+<title>Revisão de Escopo</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -132,6 +97,7 @@ div.csl-indent {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="landing.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light">
@@ -141,8 +107,9 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Revisões de Literatura em Saúde: Da Pergunta à Síntese</span>
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo light-content">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -152,24 +119,114 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house" role="img">
+</i> 
 <span class="menu-text">Início</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./01-introducao.html"> 
-<span class="menu-text">Tipos de Revisão</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-introdução" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Introdução</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-introdução">    
+        <li>
+    <a class="dropdown-item" href="./00-sinopse.html"><i class="bi bi-book" role="img">
+</i> 
+ <span class="dropdown-text">Sinopse</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./07-acronimos-pico.html"> 
-<span class="menu-text">Acrônimos PICO</span></a>
+        <li>
+    <a class="dropdown-item" href="./01-introducao.html"><i class="bi bi-info-circle" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral dos Tipos de Revisão</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./09-pratica-0.html"> 
-<span class="menu-text">Atividades Práticas</span></a>
+        <li>
+    <a class="dropdown-item" href="./01.1-historia.html"><i class="bi bi-clock-history" role="img">
+</i> 
+ <span class="dropdown-text">Uma Breve História das Revisões</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-tipos-de-revisão" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Tipos de Revisão</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-tipos-de-revisão">    
+        <li>
+    <a class="dropdown-item" href="./02-revisao-narrativa.html"><i class="bi bi-file-text" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Narrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./03-revisao-integrativa.html"><i class="bi bi-grid" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Integrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./04-revisao-escopo.html"><i class="bi bi-search" role="img">
+</i> 
+ <span class="dropdown-text">Revisão de Escopo</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./05-revisao-sistematica.html"><i class="bi bi-clipboard-check" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Sistemática</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./06-metanalise.html"><i class="bi bi-bar-chart" role="img">
+</i> 
+ <span class="dropdown-text">Meta-análise</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ferramentas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Ferramentas</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-ferramentas">    
+        <li>
+    <a class="dropdown-item" href="./07-acronimos-pico.html"><i class="bi bi-question-circle" role="img">
+</i> 
+ <span class="dropdown-text">Acrônimos PICO, PICo, PICOT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./08-registro-osf.html"><i class="bi bi-lock" role="img">
+</i> 
+ <span class="dropdown-text">Registro de Protocolos (OSF)</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-prática" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Prática</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-prática">    
+        <li>
+    <a class="dropdown-item" href="./09-pratica-0.html"><i class="bi bi-star" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral das Atividades</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-1.html"><i class="bi bi-pencil-square" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 1: Análise Crítica</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-2.html"><i class="bi bi-signpost-split" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 2: Planejamento</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./About.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./About.html"> <i class="bi bi-info-circle" role="img">
+</i> 
+<span class="menu-text">Sobre</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -368,7 +425,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-revisao-narrativa.html">Tipos de Revisão</a></li><li class="breadcrumb-item"><a href="./04-revisao-escopo.html">Revisão de Escopo</a></li></ol></nav>
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title">Revisão de Escopo</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Código</button></div></div>
+<h1 class="title">Revisão de Escopo</h1>
 <p class="subtitle lead">Mapeando a literatura para compreender um campo de pesquisa</p>
 </div>
 
@@ -537,7 +594,7 @@ div.csl-indent {
 </section>
 <section id="framework-metodológico" class="level2">
 <h2 class="anchored" data-anchor-id="framework-metodológico">Framework metodológico</h2>
-<p>O framework original de <span class="citation" data-cites="arksey2005">Arksey; O’Malley (<a href="#ref-arksey2005" role="doc-biblioref">2005</a>)</span>, aprimorado por <span class="citation" data-cites="levac2010">Levac; Colquhoun; O’Brien (<a href="#ref-levac2010" role="doc-biblioref">2010</a>)</span> e atualizado pelo JBI <span class="citation" data-cites="peters2020">(<a href="#ref-peters2020" role="doc-biblioref">Peters et al., 2020</a>)</span>, propõe cinco etapas principais:</p>
+<p>O framework original de <span class="citation" data-cites="arksey2005">Arksey; O’Malley (<a href="#ref-arksey2005" role="doc-biblioref">2005</a>)</span>, aprimorado por <span class="citation" data-cites="levac2010">Levac; Colquhoun; O’Brien (<a href="#ref-levac2010" role="doc-biblioref">2010</a>)</span> e atualizado pelo JBI <span class="citation" data-cites="peters2020">(<a href="#ref-peters2020" role="doc-biblioref">Peters <em>et al.</em>, 2020</a>)</span>, propõe cinco etapas principais:</p>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -615,7 +672,7 @@ div.csl-indent {
 <section id="etapa-3-seleção-dos-estudos" class="level3">
 <h3 class="anchored" data-anchor-id="etapa-3-seleção-dos-estudos">Etapa 3: Seleção dos estudos</h3>
 <p>Aplique critérios de inclusão e exclusão definidos <em>a priori</em>. A seleção deve ser feita por <strong>pelo menos dois revisores independentes</strong>, com resolução de discordâncias por consenso ou terceiro revisor.</p>
-<p>Documente o processo usando o <strong>fluxograma PRISMA-ScR</strong> <span class="citation" data-cites="tricco2018">(<a href="#ref-tricco2018" role="doc-biblioref">Tricco et al., 2018</a>)</span>.</p>
+<p>Documente o processo usando o <strong>fluxograma PRISMA-ScR</strong> <span class="citation" data-cites="tricco2018">(<a href="#ref-tricco2018" role="doc-biblioref">Tricco <em>et al.</em>, 2018</a>)</span>.</p>
 </section>
 <section id="etapa-4-extração-dos-dados-charting" class="level3">
 <h3 class="anchored" data-anchor-id="etapa-4-extração-dos-dados-charting">Etapa 4: Extração dos dados (<em>charting</em>)</h3>
@@ -656,7 +713,7 @@ div.csl-indent {
 </section>
 <section id="prisma-scr-o-checklist-para-relato" class="level2">
 <h2 class="anchored" data-anchor-id="prisma-scr-o-checklist-para-relato">PRISMA-ScR: o checklist para relato</h2>
-<p>O <strong>PRISMA-ScR</strong> <span class="citation" data-cites="tricco2018">(<a href="#ref-tricco2018" role="doc-biblioref">Tricco et al., 2018</a>)</span> é a extensão do PRISMA específica para revisões de escopo. Contém 22 itens que orientam o relato transparente da revisão:</p>
+<p>O <strong>PRISMA-ScR</strong> <span class="citation" data-cites="tricco2018">(<a href="#ref-tricco2018" role="doc-biblioref">Tricco <em>et al.</em>, 2018</a>)</span> é a extensão do PRISMA específica para revisões de escopo. Contém 22 itens que orientam o relato transparente da revisão:</p>
 <ul>
 <li>Título identificando como scoping review</li>
 <li>Protocolo registrado</li>
@@ -805,7 +862,7 @@ div.csl-indent {
 <li>Segue cinco etapas: pergunta, busca, seleção, extração, síntese</li>
 <li>Utiliza o framework <strong>PCC</strong> (População, Conceito, Contexto)</li>
 <li><strong>Não avalia qualidade</strong> metodológica dos estudos</li>
-<li>Deve ser relatada conforme o <strong>PRISMA-ScR</strong> <span class="citation" data-cites="tricco2018">(<a href="#ref-tricco2018" role="doc-biblioref">Tricco et al., 2018</a>)</span></li>
+<li>Deve ser relatada conforme o <strong>PRISMA-ScR</strong> <span class="citation" data-cites="tricco2018">(<a href="#ref-tricco2018" role="doc-biblioref">Tricco <em>et al.</em>, 2018</a>)</span></li>
 <li>Útil para <strong>identificar lacunas</strong> e avaliar viabilidade de revisão sistemática</li>
 </ul>
 </div>
@@ -816,30 +873,28 @@ div.csl-indent {
 <ul>
 <li><span class="citation" data-cites="arksey2005">Arksey; O’Malley (<a href="#ref-arksey2005" role="doc-biblioref">2005</a>)</span> — Scoping studies: towards a methodological framework</li>
 <li><span class="citation" data-cites="levac2010">Levac; Colquhoun; O’Brien (<a href="#ref-levac2010" role="doc-biblioref">2010</a>)</span> — Scoping studies: advancing the methodology</li>
-<li><span class="citation" data-cites="tricco2018">Tricco et al. (<a href="#ref-tricco2018" role="doc-biblioref">2018</a>)</span> — PRISMA extension for scoping reviews (PRISMA-ScR)</li>
-<li><span class="citation" data-cites="peters2020">Peters et al. (<a href="#ref-peters2020" role="doc-biblioref">2020</a>)</span> — Updated methodological guidance for the conduct of scoping reviews</li>
+<li><span class="citation" data-cites="tricco2018">Tricco <em>et al.</em> (<a href="#ref-tricco2018" role="doc-biblioref">2018</a>)</span> — PRISMA extension for scoping reviews (PRISMA-ScR)</li>
+<li><span class="citation" data-cites="peters2020">Peters <em>et al.</em> (<a href="#ref-peters2020" role="doc-biblioref">2020</a>)</span> — Updated methodological guidance for the conduct of scoping reviews</li>
 </ul>
 <hr>
 <p>Próximo capítulo: <strong><a href="./05-revisao-sistematica.html">Revisão Sistemática</a></strong></p>
 
-
-<!-- -->
 
 
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referências</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
 <div id="ref-arksey2005" class="csl-entry" role="listitem">
-ARKSEY, Hilary; O’MALLEY, Lisa. <a href="https://doi.org/10.1080/1364557032000119616">Scoping studies: towards a methodological framework</a>. <strong>International Journal of Social Research Methodology</strong>, v. 8, n. 1, p. 19–32, 2005.
+ARKSEY, Hilary; O’MALLEY, Lisa. <a href="https://doi.org/10.1080/1364557032000119616">Scoping studies: towards a methodological framework</a>. <strong>International Journal of Social Research Methodology</strong>, [<em>s. l.</em>], vol. 8, nº 1, p. 19–32, 2005.
 </div>
 <div id="ref-levac2010" class="csl-entry" role="listitem">
-LEVAC, Danielle; COLQUHOUN, Heather; O’BRIEN, Kelly K. <a href="https://doi.org/10.1186/1748-5908-5-69">Scoping studies: advancing the methodology</a>. <strong>Implementation Science</strong>, v. 5, n. 1, p. 69, 2010.
+LEVAC, Danielle; COLQUHOUN, Heather; O’BRIEN, Kelly K. <a href="https://doi.org/10.1186/1748-5908-5-69">Scoping studies: advancing the methodology</a>. <strong>Implementation Science</strong>, [<em>s. l.</em>], vol. 5, nº 1, p. 69, 2010.
 </div>
 <div id="ref-peters2020" class="csl-entry" role="listitem">
-PETERS, Micah D. J. <em>et al.</em> <a href="https://doi.org/10.11124/JBIES-20-00167">Updated methodological guidance for the conduct of scoping reviews</a>. <strong>JBI Evidence Synthesis</strong>, v. 18, n. 10, p. 2119–2126, 2020.
+PETERS, Micah D. J. <em>et al.</em> <a href="https://doi.org/10.11124/JBIES-20-00167">Updated methodological guidance for the conduct of scoping reviews</a>. <strong>JBI Evidence Synthesis</strong>, [<em>s. l.</em>], vol. 18, nº 10, p. 2119–2126, 2020.
 </div>
 <div id="ref-tricco2018" class="csl-entry" role="listitem">
-TRICCO, Andrea C. <em>et al.</em> <a href="https://doi.org/10.7326/M18-0850"><span>PRISMA</span> extension for scoping reviews (<span>PRISMA-ScR</span>): checklist and explanation</a>. <strong>Annals of Internal Medicine</strong>, v. 169, n. 7, p. 467–473, 2018.
+TRICCO, Andrea C. <em>et al.</em> <a href="https://doi.org/10.7326/M18-0850"><span>PRISMA</span> extension for scoping reviews (<span>PRISMA-ScR</span>): checklist and explanation</a>. <strong>Annals of Internal Medicine</strong>, [<em>s. l.</em>], vol. 169, nº 7, p. 467–473, 2018.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -912,57 +967,6 @@ TRICCO, Andrea C. <em>et al.</em> <a href="https://doi.org/10.7326/M18-0850"><sp
         container: window.document.getElementById('quarto-embedded-source-code-modal')
       });
       clipboardModal.on('success', onCopySuccess);
-    }
-    const viewSource = window.document.getElementById('quarto-view-source') ||
-                       window.document.getElementById('quarto-code-tools-source');
-    if (viewSource) {
-      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
-      viewSource.addEventListener("click", function(e) {
-        if (sourceUrl) {
-          // rstudio viewer pane
-          if (/\bcapabilities=\b/.test(window.location)) {
-            window.open(sourceUrl);
-          } else {
-            window.location.href = sourceUrl;
-          }
-        } else {
-          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
-          modal.show();
-        }
-        return false;
-      });
-    }
-    function toggleCodeHandler(show) {
-      return function(e) {
-        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
-        for (let i=0; i<detailsSrc.length; i++) {
-          const details = detailsSrc[i].parentElement;
-          if (show) {
-            details.open = true;
-          } else {
-            details.removeAttribute("open");
-          }
-        }
-        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
-        const fromCls = show ? "hidden" : "unhidden";
-        const toCls = show ? "unhidden" : "hidden";
-        for (let i=0; i<cellCodeDivs.length; i++) {
-          const codeDiv = cellCodeDivs[i];
-          if (codeDiv.classList.contains(fromCls)) {
-            codeDiv.classList.remove(fromCls);
-            codeDiv.classList.add(toCls);
-          } 
-        }
-        return false;
-      }
-    }
-    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
-    if (hideAllCode) {
-      hideAllCode.addEventListener("click", toggleCodeHandler(false));
-    }
-    const showAllCode = window.document.getElementById("quarto-show-all-code");
-    if (showAllCode) {
-      showAllCode.addEventListener("click", toggleCodeHandler(true));
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
@@ -1297,240 +1301,12 @@ TRICCO, Andrea C. <em>et al.</em> <a href="https://doi.org/10.7326/M18-0850"><sp
       }
     }
   });
-  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Código fonte</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Revisão de Escopo"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "Mapeando a literatura para compreender um campo de pesquisa"</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">## O que é uma revisão de escopo?</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>A revisão de escopo (*scoping review* ou *scoping study*) é um tipo de revisão que visa mapear a extensão, natureza e características da literatura disponível sobre um tema amplo, identificando conceitos-chave, tipos de evidência existentes e lacunas no conhecimento <span class="co">[</span><span class="ot">@arksey2005</span><span class="co">]</span>.</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>Diferente da revisão sistemática, que busca responder a uma pergunta específica sobre eficácia ou efetividade, a revisão de escopo tem propósito **exploratório**. Ela oferece um panorama do campo antes de decisões sobre pesquisas mais aprofundadas.</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">## Definição</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>"Scoping studies aim to map rapidly the key concepts underpinning a research area and the main sources and types of evidence available" <span class="co">[</span><span class="ot">@arksey2005</span><span class="co">]</span>.</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>*Tradução: Estudos de escopo visam mapear rapidamente os conceitos-chave que fundamentam uma área de pesquisa e as principais fontes e tipos de evidências disponíveis.*</span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="fu">## Características principais</span></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Característica <span class="pp">|</span> Descrição <span class="pp">|</span></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------------|-----------|</span></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Pergunta de pesquisa** <span class="pp">|</span> Ampla, exploratória <span class="pp">|</span></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Protocolo** <span class="pp">|</span> Recomendado (registro no OSF) <span class="pp">|</span></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Estratégia de busca** <span class="pp">|</span> Sistemática, abrangente <span class="pp">|</span></span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Seleção de estudos** <span class="pp">|</span> Critérios explícitos de inclusão/exclusão <span class="pp">|</span></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Tipos de estudo** <span class="pp">|</span> Qualquer tipo de evidência <span class="pp">|</span></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Avaliação de qualidade** <span class="pp">|</span> Geralmente não realizada <span class="pp">|</span></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Síntese dos resultados** <span class="pp">|</span> Descritiva, mapeamento <span class="pp">|</span></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Reprodutibilidade** <span class="pp">|</span> Moderada a alta <span class="pp">|</span></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="fu">## O que diferencia a revisão de escopo?</span></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>A característica distintiva é o **objetivo de mapeamento**, não de síntese de resultados. A revisão de escopo responde a perguntas como:</span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Que tipos de estudo existem sobre este tema?</span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Quais conceitos e definições são utilizados?</span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Quais populações têm sido estudadas?</span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Em que contextos as pesquisas foram realizadas?</span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Quais são as lacunas na literatura?</span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>::: {.callout-important}</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a><span class="fu">## Diferença fundamental</span></span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>A revisão de escopo **não avalia a qualidade metodológica** dos estudos incluídos. Seu objetivo é descrever o que existe, não julgar o quão confiável é a evidência.</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="fu">## Quando usar a revisão de escopo?</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>Arksey &amp; O’Malley <span class="co">[</span><span class="ot">-@arksey2005</span><span class="co">]</span> identificaram quatro razões principais para conduzir uma revisão de escopo:</span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="fu">### 1. Examinar a extensão e natureza da literatura</span></span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>Mapear o volume e as características dos estudos disponíveis sobre um tema, sem necessariamente descrevê-los em profundidade.</span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="fu">### 2. Determinar a viabilidade de uma revisão sistemática</span></span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>Antes de investir tempo e recursos em uma revisão sistemática, verificar se há estudos suficientes e comparáveis.</span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a><span class="fu">### 3. Sumarizar e disseminar achados de pesquisa</span></span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>Apresentar um panorama da literatura para profissionais, gestores ou formuladores de políticas.</span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="fu">### 4. Identificar lacunas na literatura</span></span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a>Apontar áreas que necessitam de mais pesquisa primária.</span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip}</span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a><span class="fu">## Exemplos de perguntas adequadas</span></span>
-<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>"Quais intervenções têm sido estudadas para manejo de agitação em emergências psiquiátricas?"</span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>"Como a telemedicina em saúde mental tem sido implementada em países de baixa renda?"</span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>"Que instrumentos existem para avaliação de adesão ao tratamento em esquizofrenia?"</span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>Observe que são perguntas amplas, que buscam mapear o que existe — não avaliar o que funciona.</span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a><span class="fu">## Quando NÃO usar a revisão de escopo?</span></span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a>A revisão de escopo **não é adequada** quando:</span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>O objetivo é avaliar a **eficácia** de uma intervenção específica</span>
-<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>É necessário **recomendar** uma prática clínica baseada em evidências</span>
-<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A pergunta exige **avaliação de qualidade** metodológica</span>
-<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Já se sabe que a literatura é **homogênea** e uma revisão sistemática é viável</span>
-<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a><span class="fu">## Framework metodológico</span></span>
-<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a>O framework original de @arksey2005, aprimorado por @levac2010 e atualizado pelo JBI <span class="co">[</span><span class="ot">@peters2020</span><span class="co">]</span>, propõe cinco etapas principais:</span>
-<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a><span class="in">```{mermaid}</span></span>
-<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a>flowchart LR</span>
-<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a>    A[<span class="ot">"</span><span class="st">Pergunta de pesquisa</span><span class="ot">"</span>] --&gt; B[<span class="ot">"</span><span class="st">Identificação dos estudos</span><span class="ot">"</span>]</span>
-<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>    B --&gt; C[<span class="ot">"</span><span class="st">Seleção dos estudos</span><span class="ot">"</span>]</span>
-<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a>    C --&gt; D[<span class="ot">"</span><span class="st">Extração dos dados</span><span class="ot">"</span>]</span>
-<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a>    D --&gt; E[<span class="ot">"</span><span class="st">Síntese e apresentação</span><span class="ot">"</span>]</span>
-<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
-<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 1: Definição da pergunta de pesquisa</span></span>
-<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a>A pergunta deve ser ampla o suficiente para capturar a diversidade da literatura, mas focada o bastante para ser gerenciável. Recomenda-se o uso do framework **PCC**:</span>
-<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Descrição <span class="pp">|</span> Exemplo <span class="pp">|</span></span>
-<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-----------|---------|</span></span>
-<span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** - População <span class="pp">|</span> Quem são os participantes? <span class="pp">|</span> Idosos com demência <span class="pp">|</span></span>
-<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** - Conceito <span class="pp">|</span> Qual o fenômeno de interesse? <span class="pp">|</span> Intervenções não farmacológicas <span class="pp">|</span></span>
-<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** - Contexto <span class="pp">|</span> Em que setting ou circunstância? <span class="pp">|</span> Instituições de longa permanência <span class="pp">|</span></span>
-<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 2: Identificação dos estudos relevantes</span></span>
-<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a>A busca deve ser **abrangente**, incluindo:</span>
-<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Bases de dados eletrônicas (PubMed, Embase, CINAHL, PsycINFO, LILACS)</span>
-<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Literatura cinzenta (teses, dissertações, relatórios técnicos)</span>
-<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Listas de referências dos estudos incluídos</span>
-<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Consulta a especialistas na área</span>
-<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a>::: {.callout-warning}</span>
-<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="fu">## Atenção</span></span>
-<span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a>Diferente da revisão sistemática, a revisão de escopo pode ser **iterativa** — a estratégia de busca pode ser refinada à medida que você conhece melhor a literatura.</span>
-<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 3: Seleção dos estudos</span></span>
-<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a>Aplique critérios de inclusão e exclusão definidos *a priori*. A seleção deve ser feita por **pelo menos dois revisores independentes**, com resolução de discordâncias por consenso ou terceiro revisor.</span>
-<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a>Documente o processo usando o **fluxograma PRISMA-ScR** <span class="co">[</span><span class="ot">@tricco2018</span><span class="co">]</span>.</span>
-<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 4: Extração dos dados (*charting*)</span></span>
-<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a>O *charting* é o processo de extração e organização das informações. Diferente da revisão sistemática, o foco não é extrair resultados numéricos, mas **mapear características** dos estudos:</span>
-<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Autor, ano, país</span>
-<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Objetivo do estudo</span>
-<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>População e tamanho da amostra</span>
-<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Conceito ou intervenção estudada</span>
-<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Contexto</span>
-<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Tipo de estudo / delineamento</span>
-<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Principais achados (descritivos)</span>
-<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip}</span>
-<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a><span class="fu">## Dica prática</span></span>
-<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a>Crie uma planilha com as variáveis de interesse antes de iniciar a extração. Faça um piloto com 5-10 estudos para verificar se as categorias são adequadas e se é necessário ajustar.</span>
-<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a><span class="fu">### Etapa 5: Síntese e apresentação dos resultados</span></span>
-<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a>A síntese na revisão de escopo é **descritiva e visual**. Inclui:</span>
-<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Descrição numérica (quantos estudos, de quais países, em que período)</span>
-<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Tabelas e gráficos de caracterização</span>
-<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Mapeamento temático dos conceitos identificados</span>
-<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Identificação de lacunas</span>
-<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a><span class="fu">## PRISMA-ScR: o checklist para relato</span></span>
-<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a>O **PRISMA-ScR** <span class="co">[</span><span class="ot">@tricco2018</span><span class="co">]</span> é a extensão do PRISMA específica para revisões de escopo. Contém 22 itens que orientam o relato transparente da revisão:</span>
-<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Título identificando como scoping review</span>
-<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Protocolo registrado</span>
-<span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Critérios de elegibilidade</span>
-<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Fontes de informação e estratégia de busca</span>
-<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Processo de seleção e extração</span>
-<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Resultados da busca (fluxograma)</span>
-<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Características dos estudos</span>
-<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Síntese dos resultados</span>
-<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Limitações</span>
-<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a><span class="fu">## Exemplo de quadro de caracterização</span></span>
-<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Autor/Ano <span class="pp">|</span> País <span class="pp">|</span> Delineamento <span class="pp">|</span> População <span class="pp">|</span> Conceito estudado <span class="pp">|</span> Contexto <span class="pp">|</span></span>
-<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a><span class="pp">|-----------|------|--------------|-----------|-------------------|----------|</span></span>
-<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Autor A, 2020 <span class="pp">|</span> Brasil <span class="pp">|</span> Transversal <span class="pp">|</span> Residentes de psiquiatria <span class="pp">|</span> Burnout <span class="pp">|</span> Hospital universitário <span class="pp">|</span></span>
-<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Autor B, 2019 <span class="pp">|</span> EUA <span class="pp">|</span> Qualitativo <span class="pp">|</span> Médicos emergencistas <span class="pp">|</span> Estratégias de coping <span class="pp">|</span> Pronto-socorro <span class="pp">|</span></span>
-<span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Autor C, 2021 <span class="pp">|</span> Canadá <span class="pp">|</span> ECR <span class="pp">|</span> Enfermeiros de UTI <span class="pp">|</span> Mindfulness <span class="pp">|</span> UTI adulto <span class="pp">|</span></span>
-<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a>*Nota: Modelo ilustrativo. Em sua revisão, preencha com dados reais.*</span>
-<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a><span class="fu">## Vantagens</span></span>
-<span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Amplitude:** permite explorar temas amplos ou emergentes</span>
-<span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Flexibilidade:** não exige avaliação de qualidade metodológica</span>
-<span id="cb1-182"><a href="#cb1-182" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Visão panorâmica:** identifica o que existe antes de aprofundar</span>
-<span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Identificação de lacunas:** útil para justificar novas pesquisas</span>
-<span id="cb1-184"><a href="#cb1-184" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Rapidez relativa:** menos demorada que revisão sistemática completa</span>
-<span id="cb1-185"><a href="#cb1-185" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-186"><a href="#cb1-186" aria-hidden="true" tabindex="-1"></a><span class="fu">## Limitações</span></span>
-<span id="cb1-187"><a href="#cb1-187" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-188"><a href="#cb1-188" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Não avalia qualidade:** não permite concluir sobre a confiabilidade das evidências</span>
-<span id="cb1-189"><a href="#cb1-189" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Não responde perguntas de eficácia:** inadequada para decisões clínicas</span>
-<span id="cb1-190"><a href="#cb1-190" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Amplitude pode ser problema:** temas muito amplos geram revisões superficiais</span>
-<span id="cb1-191"><a href="#cb1-191" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Síntese limitada:** descreve, mas não integra ou interpreta profundamente</span>
-<span id="cb1-192"><a href="#cb1-192" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-193"><a href="#cb1-193" aria-hidden="true" tabindex="-1"></a><span class="fu">## Revisão de escopo vs. sistemática</span></span>
-<span id="cb1-194"><a href="#cb1-194" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-195"><a href="#cb1-195" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Aspecto <span class="pp">|</span> Escopo <span class="pp">|</span> Sistemática <span class="pp">|</span></span>
-<span id="cb1-196"><a href="#cb1-196" aria-hidden="true" tabindex="-1"></a><span class="pp">|---------|:------:|:-----------:|</span></span>
-<span id="cb1-197"><a href="#cb1-197" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Pergunta <span class="pp">|</span> Ampla, exploratória <span class="pp">|</span> Específica, focada <span class="pp">|</span></span>
-<span id="cb1-198"><a href="#cb1-198" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Objetivo <span class="pp">|</span> Mapear a literatura <span class="pp">|</span> Sintetizar evidências <span class="pp">|</span></span>
-<span id="cb1-199"><a href="#cb1-199" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Avaliação de qualidade <span class="pp">|</span> Não <span class="pp">|</span> Sim <span class="pp">|</span></span>
-<span id="cb1-200"><a href="#cb1-200" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Síntese <span class="pp">|</span> Descritiva <span class="pp">|</span> Analítica (quali ou quanti) <span class="pp">|</span></span>
-<span id="cb1-201"><a href="#cb1-201" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Meta-análise <span class="pp">|</span> Não <span class="pp">|</span> Possível <span class="pp">|</span></span>
-<span id="cb1-202"><a href="#cb1-202" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Tempo/recursos <span class="pp">|</span> Moderado <span class="pp">|</span> Alto <span class="pp">|</span></span>
-<span id="cb1-203"><a href="#cb1-203" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Uso principal <span class="pp">|</span> Exploração, lacunas <span class="pp">|</span> Decisão clínica, diretrizes <span class="pp">|</span></span>
-<span id="cb1-204"><a href="#cb1-204" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-205"><a href="#cb1-205" aria-hidden="true" tabindex="-1"></a><span class="fu">## Resumo</span></span>
-<span id="cb1-206"><a href="#cb1-206" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-207"><a href="#cb1-207" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
-<span id="cb1-208"><a href="#cb1-208" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pontos-chave</span></span>
-<span id="cb1-209"><a href="#cb1-209" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-210"><a href="#cb1-210" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>A revisão de escopo **mapeia** a literatura, não sintetiza resultados</span>
-<span id="cb1-211"><a href="#cb1-211" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>É indicada para **temas amplos** ou **emergentes**</span>
-<span id="cb1-212"><a href="#cb1-212" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Segue cinco etapas: pergunta, busca, seleção, extração, síntese</span>
-<span id="cb1-213"><a href="#cb1-213" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Utiliza o framework **PCC** (População, Conceito, Contexto)</span>
-<span id="cb1-214"><a href="#cb1-214" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**Não avalia qualidade** metodológica dos estudos</span>
-<span id="cb1-215"><a href="#cb1-215" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Deve ser relatada conforme o **PRISMA-ScR** <span class="co">[</span><span class="ot">@tricco2018</span><span class="co">]</span></span>
-<span id="cb1-216"><a href="#cb1-216" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Útil para **identificar lacunas** e avaliar viabilidade de revisão sistemática</span>
-<span id="cb1-217"><a href="#cb1-217" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-218"><a href="#cb1-218" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-219"><a href="#cb1-219" aria-hidden="true" tabindex="-1"></a><span class="fu">## Leituras recomendadas</span></span>
-<span id="cb1-220"><a href="#cb1-220" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-221"><a href="#cb1-221" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@arksey2005 — Scoping studies: towards a methodological framework</span>
-<span id="cb1-222"><a href="#cb1-222" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@levac2010 — Scoping studies: advancing the methodology</span>
-<span id="cb1-223"><a href="#cb1-223" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@tricco2018 — PRISMA extension for scoping reviews (PRISMA-ScR)</span>
-<span id="cb1-224"><a href="#cb1-224" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@peters2020 — Updated methodological guidance for the conduct of scoping reviews</span>
-<span id="cb1-225"><a href="#cb1-225" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-226"><a href="#cb1-226" aria-hidden="true" tabindex="-1"></a>---</span>
-<span id="cb1-227"><a href="#cb1-227" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-228"><a href="#cb1-228" aria-hidden="true" tabindex="-1"></a>Próximo capítulo: **[Revisão Sistemática](05-revisao-sistematica.qmd)**</span>
-</code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
-</div></div></div></div></div>
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 Henrique Alvarenga da Silva - UFSJ</p>
+<p>© 2025 <a href="https://henriquealvarenga.com">Henrique Alvarenga da Silva</a> · UFSJ · AFYA</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -1538,7 +1314,18 @@ TRICCO, Andrea C. <em>et al.</em> <a href="https://doi.org/10.7326/M18-0850"><sp
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://henriquealvarenga.com">
+    <a class="nav-link" href="mailto:henriquealvarenga@ufsj.edu.br">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0000-0001-9799-5240">
+<p>ORCID</p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review">
       <i class="bi bi-github" role="img">
 </i> 
     </a>

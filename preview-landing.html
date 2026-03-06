@@ -1,32 +1,140 @@
----
-pagetitle: "Revisões de Literatura em Saúde — Da Pergunta à Síntese"
-toc: false
-sidebar: false
-page-layout: full
-author: []
-date: ""
----
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Preview — Landing Page</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 1.1rem; line-height: 1.7; color: #1e293b; }
+a { text-decoration: none; }
 
-```{=html}
+/* ========== LANDING CSS (inline for preview) ========== */
+.cover {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(135deg, #f0f4f8 0%, #e2e8f0 50%, #eef2ff 100%);
+  position: relative;
+}
+.cover-content { max-width: 680px; }
+.cover-visual svg {
+  width: 130px; height: 130px; margin-bottom: 1.5rem;
+  filter: drop-shadow(0 4px 12px rgba(30,58,95,0.15));
+}
+.cover h1 {
+  font-size: clamp(2.2rem, 5vw, 3.4rem); font-weight: 800;
+  line-height: 1.15; color: #1E3A5F; margin: 0 0 1.2rem; letter-spacing: -0.02em;
+}
+.cover h1 .highlight {
+  background: linear-gradient(135deg, #2563EB, #6366F1);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.cover-subtitle { font-size: 1.15rem; color: #475569; line-height: 1.65; margin-bottom: 2rem; }
+.cover-author { font-size: 0.95rem; margin-bottom: 2.5rem; }
+.cover-author a { color: #1E3A5F; font-weight: 600; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color 0.2s; }
+.cover-author a:hover { border-bottom-color: #2563EB; }
+.cover-author .affiliation { color: #64748b; font-size: 0.88rem; }
+.cover-cta {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.75rem 1.8rem; border: 2px solid #1E3A5F; border-radius: 999px;
+  color: #1E3A5F; font-weight: 600; font-size: 0.95rem; transition: all 0.25s ease;
+}
+.cover-cta:hover { background: #1E3A5F; color: #fff; }
+.cover-cta .arrow { transition: transform 0.25s ease; }
+.cover-cta:hover .arrow { transform: translateX(4px); }
+.cover-scroll-hint {
+  position: absolute; bottom: 1.5rem; font-size: 0.78rem; color: #94a3b8;
+  letter-spacing: 0.08em; animation: fadeUpDown 2.5s ease-in-out infinite;
+}
+@keyframes fadeUpDown {
+  0%,100% { opacity: 0.4; transform: translateY(0); }
+  50% { opacity: 1; transform: translateY(-6px); }
+}
+#conteudo { max-width: 1100px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }
+.content-section { margin-bottom: 2rem; }
+.section-header { margin-bottom: 1.8rem; }
+.section-label {
+  display: inline-block; font-size: 0.72rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.1em;
+  padding: 0.25rem 0.75rem; border-radius: 999px; margin-bottom: 0.6rem;
+}
+.section-label.inicio { background: #1E3A5F10; color: #1E3A5F; }
+.section-label.tipos { background: #2563EB10; color: #2563EB; }
+.section-label.ferramentas { background: #05966910; color: #059669; }
+.section-label.pratica { background: #D9770610; color: #D97706; }
+.section-title { font-size: 1.65rem; font-weight: 700; color: #1e293b; margin: 0; }
+.section-divider { border: none; border-top: 1px solid #e2e8f0; margin: 2.5rem 0; }
+.cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.2rem; }
+.card-new {
+  display: flex; flex-direction: column; background: #fff; border-radius: 12px;
+  overflow: hidden; text-decoration: none; color: inherit;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card-new:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08), 0 4px 10px rgba(0,0,0,0.04);
+}
+.card-accent { height: 4px; }
+.card-accent.inicio { background: linear-gradient(90deg, #1E3A5F, #334155); }
+.card-accent.tipos { background: linear-gradient(90deg, #2563EB, #3B82F6); }
+.card-accent.ferramentas { background: linear-gradient(90deg, #059669, #10B981); }
+.card-accent.pratica { background: linear-gradient(90deg, #D97706, #F59E0B); }
+.card-body-new { padding: 1.4rem 1.4rem 0.8rem; flex: 1; }
+.card-icon-container {
+  width: 42px; height: 42px; border-radius: 10px;
+  display: flex; align-items: center; justify-content: center; margin-bottom: 0.9rem;
+}
+.card-icon-container svg { width: 22px; height: 22px; }
+.card-icon-container.inicio { background: #1E3A5F0D; }
+.card-icon-container.tipos { background: #2563EB0D; }
+.card-icon-container.ferramentas { background: #0596690D; }
+.card-icon-container.pratica { background: #D977060D; }
+.card-body-new h3 { font-size: 1.05rem; font-weight: 700; color: #1e293b; margin: 0 0 0.5rem; line-height: 1.3; }
+.card-body-new p { font-size: 0.88rem; color: #64748b; line-height: 1.55; margin: 0; }
+.card-footer-new {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 0.8rem 1.4rem; border-top: 1px solid #f1f5f9; font-size: 0.78rem;
+}
+.card-chapter { color: #94a3b8; font-weight: 500; }
+.card-arrow { color: #94a3b8; transition: transform 0.2s ease, color 0.2s ease; }
+.card-new:hover .card-arrow { transform: translateX(3px); color: #2563EB; }
+@media (max-width: 768px) {
+  .cover { padding: 1.5rem; min-height: 90vh; }
+  .cover-visual svg { width: 100px; height: 100px; }
+  .cover-subtitle br { display: none; }
+  #conteudo { padding: 2rem 1rem 3rem; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .section-title { font-size: 1.35rem; }
+}
+@media (max-width: 480px) {
+  .cover h1 { font-size: 1.8rem; }
+  .cover-subtitle { font-size: 1rem; }
+}
+</style>
+</head>
+<body>
+
 <!-- ========== CAPA ========== -->
 <section class="cover">
   <div class="cover-content">
-
     <div class="cover-visual">
       <svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <!-- Documento base -->
         <rect x="25" y="15" width="50" height="65" rx="4" fill="#1E3A5F" opacity="0.15" stroke="#1E3A5F" stroke-width="1.5"/>
         <line x1="35" y1="30" x2="65" y2="30" stroke="#1E3A5F" stroke-width="1.5" opacity="0.4"/>
         <line x1="35" y1="38" x2="60" y2="38" stroke="#1E3A5F" stroke-width="1.5" opacity="0.3"/>
         <line x1="35" y1="46" x2="65" y2="46" stroke="#1E3A5F" stroke-width="1.5" opacity="0.4"/>
         <line x1="35" y1="54" x2="55" y2="54" stroke="#1E3A5F" stroke-width="1.5" opacity="0.3"/>
         <line x1="35" y1="62" x2="62" y2="62" stroke="#1E3A5F" stroke-width="1.5" opacity="0.4"/>
-        <!-- Lupa -->
         <circle cx="78" cy="72" r="18" fill="none" stroke="#2563EB" stroke-width="2.5" opacity="0.7"/>
         <line x1="91" y1="85" x2="105" y2="99" stroke="#2563EB" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
-        <!-- Check marks dentro da lupa -->
         <path d="M70 68 L75 73 L86 62" stroke="#10B981" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.8"/>
-        <!-- Setas de síntese -->
         <path d="M15 95 L50 95" stroke="#6366F1" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
         <path d="M15 103 L50 103" stroke="#6366F1" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
         <path d="M50 90 L50 108" stroke="#6366F1" stroke-width="1" opacity="0.3"/>
@@ -34,41 +142,33 @@ date: ""
         <polygon points="65,95 65,103 72,99" fill="#6366F1" opacity="0.5"/>
       </svg>
     </div>
-
     <h1>Revisões de<br>Literatura em <span class="highlight">Saúde</span></h1>
-
     <p class="cover-subtitle">
       Da pergunta à síntese: um guia para estudantes,<br>
       residentes e pesquisadores da área da saúde.
     </p>
-
     <div class="cover-author">
       <a href="https://www.henriquealvarenga.com" target="_blank">Prof. Henrique Alvarenga da Silva</a><br>
       <span class="affiliation">UFSJ · AFYA</span>
     </div>
-
     <a href="#conteudo" class="cover-cta">
       Começar a explorar
       <span class="arrow">→</span>
     </a>
   </div>
-
   <div class="cover-scroll-hint">scroll ↓</div>
 </section>
 
 <!-- ========== CONTEÚDO ========== -->
 <div id="conteudo">
 
-<!-- INÍCIO -->
 <section class="content-section">
   <div class="section-header">
     <div class="section-label inicio">Introdução</div>
     <h2 class="section-title">Primeiros Passos</h2>
   </div>
-
   <div class="cards-grid">
-
-    <a href="00-sinopse.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent inicio"></div>
       <div class="card-body-new">
         <div class="card-icon-container inicio">
@@ -82,8 +182,7 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="01-introducao.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent inicio"></div>
       <div class="card-body-new">
         <div class="card-icon-container inicio">
@@ -97,8 +196,7 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="01.1-historia.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent inicio"></div>
       <div class="card-body-new">
         <div class="card-icon-container inicio">
@@ -112,22 +210,18 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
   </div>
 </section>
 
 <hr class="section-divider">
 
-<!-- TIPOS DE REVISÃO -->
 <section class="content-section">
   <div class="section-header">
     <div class="section-label tipos">Parte Central</div>
     <h2 class="section-title">Tipos de Revisão</h2>
   </div>
-
   <div class="cards-grid">
-
-    <a href="02-revisao-narrativa.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent tipos"></div>
       <div class="card-body-new">
         <div class="card-icon-container tipos">
@@ -141,23 +235,21 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="03-revisao-integrativa.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent tipos"></div>
       <div class="card-body-new">
         <div class="card-icon-container tipos">
           <svg viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
         </div>
         <h3>Revisão Integrativa</h3>
-        <p>Síntese de evidências com flexibilidade metodológica. Combina estudos experimentais e não experimentais num mesmo panorama.</p>
+        <p>Síntese de evidências com flexibilidade metodológica. Combina estudos experimentais e não experimentais.</p>
       </div>
       <div class="card-footer-new">
         <span class="card-chapter">Capítulo 3</span>
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="04-revisao-escopo.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent tipos"></div>
       <div class="card-body-new">
         <div class="card-icon-container tipos">
@@ -171,23 +263,21 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="05-revisao-sistematica.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent tipos"></div>
       <div class="card-body-new">
         <div class="card-icon-container tipos">
           <svg viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/><rect x="9" y="3" width="6" height="4" rx="1"/><path d="M9 14l2 2 4-4"/></svg>
         </div>
         <h3>Revisão Sistemática</h3>
-        <p>O padrão-ouro para síntese de evidências. Protocolo rigoroso, busca exaustiva e avaliação de viés — passo a passo.</p>
+        <p>O padrão-ouro para síntese de evidências. Protocolo rigoroso, busca exaustiva e avaliação de viés.</p>
       </div>
       <div class="card-footer-new">
         <span class="card-chapter">Capítulo 5</span>
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="06-metanalise.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent tipos"></div>
       <div class="card-body-new">
         <div class="card-icon-container tipos">
@@ -201,22 +291,18 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
   </div>
 </section>
 
 <hr class="section-divider">
 
-<!-- FERRAMENTAS -->
 <section class="content-section">
   <div class="section-header">
     <div class="section-label ferramentas">Metodologia</div>
     <h2 class="section-title">Ferramentas</h2>
   </div>
-
   <div class="cards-grid">
-
-    <a href="07-acronimos-pico.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent ferramentas"></div>
       <div class="card-body-new">
         <div class="card-icon-container ferramentas">
@@ -230,8 +316,7 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="08-registro-osf.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent ferramentas"></div>
       <div class="card-body-new">
         <div class="card-icon-container ferramentas">
@@ -245,22 +330,18 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
   </div>
 </section>
 
 <hr class="section-divider">
 
-<!-- PRÁTICA -->
 <section class="content-section">
   <div class="section-header">
     <div class="section-label pratica">Aplicação</div>
     <h2 class="section-title">Atividades Práticas</h2>
   </div>
-
   <div class="cards-grid">
-
-    <a href="09-pratica-0.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent pratica"></div>
       <div class="card-body-new">
         <div class="card-icon-container pratica">
@@ -274,8 +355,7 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="09-pratica-1.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent pratica"></div>
       <div class="card-body-new">
         <div class="card-icon-container pratica">
@@ -289,8 +369,7 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
-    <a href="09-pratica-2.html" class="card-new">
+    <a href="#" class="card-new">
       <div class="card-accent pratica"></div>
       <div class="card-body-new">
         <div class="card-icon-container pratica">
@@ -304,9 +383,9 @@ date: ""
         <span class="card-arrow">→</span>
       </div>
     </a>
-
   </div>
 </section>
 
 </div>
-```
+</body>
+</html>

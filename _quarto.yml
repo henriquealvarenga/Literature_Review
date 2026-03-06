@@ -3,24 +3,72 @@ project:
   output-dir: docs
 
 website:
-  title: "Revisões de Literatura em Saúde: Da Pergunta à Síntese"
+  title: ""
   site-url: "https://henriquealvarenga.com"
   site-path: "/Literature_Review"
   favicon: favicon.ico
-  
+
   navbar:
     background: primary
+    logo: images/logo-navbar.svg
+    logo-alt: "Revisões de Literatura em Saúde"
     left:
       - text: "Início"
         href: index.qmd
+        icon: house
+      - text: "Introdução"
+        menu:
+          - text: "Sinopse"
+            href: 00-sinopse.qmd
+            icon: book
+          - text: "Visão Geral dos Tipos de Revisão"
+            href: 01-introducao.qmd
+            icon: info-circle
+          - text: "Uma Breve História das Revisões"
+            href: 01.1-historia.qmd
+            icon: clock-history
       - text: "Tipos de Revisão"
-        href: 01-introducao.qmd
-      - text: "Acrônimos PICO"
-        href: 07-acronimos-pico.qmd
-      - text: "Atividades Práticas"
-        href: 09-pratica-0.qmd
-      - text: "About"
+        menu:
+          - text: "Revisão Narrativa"
+            href: 02-revisao-narrativa.qmd
+            icon: file-text
+          - text: "Revisão Integrativa"
+            href: 03-revisao-integrativa.qmd
+            icon: grid
+          - text: "Revisão de Escopo"
+            href: 04-revisao-escopo.qmd
+            icon: search
+          - text: "Revisão Sistemática"
+            href: 05-revisao-sistematica.qmd
+            icon: clipboard-check
+          - text: "Meta-análise"
+            href: 06-metanalise.qmd
+            icon: bar-chart
+      - text: "Ferramentas"
+        menu:
+          - text: "Acrônimos PICO, PICo, PICOT"
+            href: 07-acronimos-pico.qmd
+            icon: question-circle
+          - text: "Registro de Protocolos (OSF)"
+            href: 08-registro-osf.qmd
+            icon: lock
+      - text: "Prática"
+        menu:
+          - text: "Visão Geral das Atividades"
+            href: 09-pratica-0.qmd
+            icon: star
+          - text: "Atividade 1: Análise Crítica"
+            href: 09-pratica-1.qmd
+            icon: pencil-square
+          - text: "Atividade 2: Planejamento"
+            href: 09-pratica-2.qmd
+            icon: signpost-split
+    right:
+      - text: "Sobre"
         href: About.qmd
+        icon: info-circle
+      - icon: github
+        href: https://github.com/henriquealvarenga/Literature_Review
 
   sidebar:
     style: "docked"
@@ -62,22 +110,29 @@ website:
             href: 09-pratica-2.qmd
 
   page-footer:
-    left: "© 2025 Henrique Alvarenga da Silva - UFSJ"
-    right: 
+    left: |
+      © 2025 [Henrique Alvarenga da Silva](https://henriquealvarenga.com) · UFSJ · AFYA
+    right:
+      - icon: envelope
+        href: mailto:henriquealvarenga@ufsj.edu.br
+      - text: "ORCID"
+        href: https://orcid.org/0000-0001-9799-5240
       - icon: github
-        href: https://henriquealvarenga.com
+        href: https://github.com/henriquealvarenga/Literature_Review
 
 format:
   html:
     theme: 
       light: [cosmo, custom.scss]
-    css: styles.css
+    css:
+      - styles.css
+      - landing.css
     toc: true
     toc-depth: 3
     toc-location: right
     number-sections: false
-    code-fold: true
-    code-tools: true
+    code-fold: false
+    code-tools: false
     smooth-scroll: true
     link-external-newwindow: true
     

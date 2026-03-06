@@ -8,7 +8,7 @@
 
 <meta name="author" content="Henrique Alvarenga da Silva">
 
-<title>Meta-análise – Revisões de Literatura em Saúde: Da Pergunta à Síntese</title>
+<title>Meta-análise</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -129,6 +94,7 @@ div.csl-indent {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="landing.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light">
@@ -138,8 +104,9 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Revisões de Literatura em Saúde: Da Pergunta à Síntese</span>
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo light-content">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -149,24 +116,114 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house" role="img">
+</i> 
 <span class="menu-text">Início</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./01-introducao.html"> 
-<span class="menu-text">Tipos de Revisão</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-introdução" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Introdução</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-introdução">    
+        <li>
+    <a class="dropdown-item" href="./00-sinopse.html"><i class="bi bi-book" role="img">
+</i> 
+ <span class="dropdown-text">Sinopse</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./07-acronimos-pico.html"> 
-<span class="menu-text">Acrônimos PICO</span></a>
+        <li>
+    <a class="dropdown-item" href="./01-introducao.html"><i class="bi bi-info-circle" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral dos Tipos de Revisão</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./09-pratica-0.html"> 
-<span class="menu-text">Atividades Práticas</span></a>
+        <li>
+    <a class="dropdown-item" href="./01.1-historia.html"><i class="bi bi-clock-history" role="img">
+</i> 
+ <span class="dropdown-text">Uma Breve História das Revisões</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-tipos-de-revisão" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Tipos de Revisão</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-tipos-de-revisão">    
+        <li>
+    <a class="dropdown-item" href="./02-revisao-narrativa.html"><i class="bi bi-file-text" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Narrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./03-revisao-integrativa.html"><i class="bi bi-grid" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Integrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./04-revisao-escopo.html"><i class="bi bi-search" role="img">
+</i> 
+ <span class="dropdown-text">Revisão de Escopo</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./05-revisao-sistematica.html"><i class="bi bi-clipboard-check" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Sistemática</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./06-metanalise.html"><i class="bi bi-bar-chart" role="img">
+</i> 
+ <span class="dropdown-text">Meta-análise</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ferramentas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Ferramentas</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-ferramentas">    
+        <li>
+    <a class="dropdown-item" href="./07-acronimos-pico.html"><i class="bi bi-question-circle" role="img">
+</i> 
+ <span class="dropdown-text">Acrônimos PICO, PICo, PICOT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./08-registro-osf.html"><i class="bi bi-lock" role="img">
+</i> 
+ <span class="dropdown-text">Registro de Protocolos (OSF)</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-prática" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Prática</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-prática">    
+        <li>
+    <a class="dropdown-item" href="./09-pratica-0.html"><i class="bi bi-star" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral das Atividades</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-1.html"><i class="bi bi-pencil-square" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 1: Análise Crítica</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-2.html"><i class="bi bi-signpost-split" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 2: Planejamento</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./About.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./About.html"> <i class="bi bi-info-circle" role="img">
+</i> 
+<span class="menu-text">Sobre</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -380,7 +437,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-revisao-narrativa.html">Tipos de Revisão</a></li><li class="breadcrumb-item"><a href="./06-metanalise.html">Meta-análise</a></li></ol></nav>
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title">Meta-análise</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Código</button></div></div>
+<h1 class="title">Meta-análise</h1>
 <p class="subtitle lead">Síntese quantitativa de resultados de múltiplos estudos</p>
 </div>
 
@@ -413,7 +470,7 @@ div.csl-indent {
 
 <section id="o-que-é-uma-meta-análise" class="level2">
 <h2 class="anchored" data-anchor-id="o-que-é-uma-meta-análise">O que é uma meta-análise?</h2>
-<p>A meta-análise é uma técnica estatística que combina quantitativamente os resultados de múltiplos estudos independentes sobre uma mesma questão, gerando uma estimativa sumária do efeito <span class="citation" data-cites="borenstein2009">(<a href="#ref-borenstein2009" role="doc-biblioref">Borenstein et al., 2009</a>)</span>.</p>
+<p>A meta-análise é uma técnica estatística que combina quantitativamente os resultados de múltiplos estudos independentes sobre uma mesma questão, gerando uma estimativa sumária do efeito <span class="citation" data-cites="borenstein2009">(<a href="#ref-borenstein2009" role="doc-biblioref">Borenstein <em>et al.</em>, 2009</a>)</span>.</p>
 <p>O termo foi cunhado por Gene Glass em 1976, que a definiu como “a análise estatística de uma grande coleção de resultados de estudos individuais, com o propósito de integrar os achados” <span class="citation" data-cites="glass1976">(<a href="#ref-glass1976" role="doc-biblioref">Glass, 1976</a>)</span>.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -638,7 +695,7 @@ div.csl-indent {
 </tr>
 </tbody>
 </table>
-<p>Interpretação do I² <span class="citation" data-cites="higgins2003">(<a href="#ref-higgins2003" role="doc-biblioref">Higgins et al., 2003</a>)</span>:</p>
+<p>Interpretação do I² <span class="citation" data-cites="higgins2003">(<a href="#ref-higgins2003" role="doc-biblioref">Higgins <em>et al.</em>, 2003</a>)</span>:</p>
 <ul>
 <li>0-40%: heterogeneidade baixa</li>
 <li>30-60%: heterogeneidade moderada</li>
@@ -692,7 +749,7 @@ div.csl-indent {
 <section id="como-detectar" class="level3">
 <h3 class="anchored" data-anchor-id="como-detectar">Como detectar?</h3>
 <p><strong>Funnel plot (gráfico de funil):</strong> gráfico de dispersão do tamanho do efeito versus precisão (ou tamanho da amostra). Assimetria sugere viés de publicação.</p>
-<p><strong>Teste de Egger:</strong> teste estatístico para assimetria do funnel plot <span class="citation" data-cites="egger1997">(<a href="#ref-egger1997" role="doc-biblioref">Egger et al., 1997</a>)</span>.</p>
+<p><strong>Teste de Egger:</strong> teste estatístico para assimetria do funnel plot <span class="citation" data-cites="egger1997">(<a href="#ref-egger1997" role="doc-biblioref">Egger <em>et al.</em>, 1997</a>)</span>.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -838,17 +895,15 @@ div.csl-indent {
 <section id="leituras-recomendadas" class="level2">
 <h2 class="anchored" data-anchor-id="leituras-recomendadas">Leituras recomendadas</h2>
 <ul>
-<li><span class="citation" data-cites="borenstein2009">Borenstein et al. (<a href="#ref-borenstein2009" role="doc-biblioref">2009</a>)</span> — Introduction to Meta-Analysis</li>
+<li><span class="citation" data-cites="borenstein2009">Borenstein <em>et al.</em> (<a href="#ref-borenstein2009" role="doc-biblioref">2009</a>)</span> — Introduction to Meta-Analysis</li>
 <li><span class="citation" data-cites="glass1976">Glass (<a href="#ref-glass1976" role="doc-biblioref">1976</a>)</span> — Primary, secondary, and meta-analysis of research</li>
-<li><span class="citation" data-cites="higgins2003">Higgins et al. (<a href="#ref-higgins2003" role="doc-biblioref">2003</a>)</span> — Measuring inconsistency in meta-analyses</li>
-<li><span class="citation" data-cites="egger1997">Egger et al. (<a href="#ref-egger1997" role="doc-biblioref">1997</a>)</span> — Bias in meta-analysis detected by a simple, graphical test</li>
+<li><span class="citation" data-cites="higgins2003">Higgins <em>et al.</em> (<a href="#ref-higgins2003" role="doc-biblioref">2003</a>)</span> — Measuring inconsistency in meta-analyses</li>
+<li><span class="citation" data-cites="egger1997">Egger <em>et al.</em> (<a href="#ref-egger1997" role="doc-biblioref">1997</a>)</span> — Bias in meta-analysis detected by a simple, graphical test</li>
 <li><span class="citation" data-cites="lewis2001">Lewis; Clarke (<a href="#ref-lewis2001" role="doc-biblioref">2001</a>)</span> — Forest plots: trying to see the wood and the trees</li>
 </ul>
 <hr>
 <p>Próximo capítulo: <a href="./07-acronimos-pico.html"><strong>Acrônimos PICO</strong></a></p>
 
-
-<!-- -->
 
 
 </section>
@@ -858,16 +913,16 @@ div.csl-indent {
 BORENSTEIN, Michael <em>et al.</em> <strong><a href="https://doi.org/10.1002/9780470743386">Introduction to Meta-Analysis</a></strong>. Chichester: John Wiley &amp; Sons, 2009.
 </div>
 <div id="ref-egger1997" class="csl-entry" role="listitem">
-EGGER, Matthias <em>et al.</em> <a href="https://doi.org/10.1136/bmj.315.7109.629">Bias in meta-analysis detected by a simple, graphical test</a>. <strong>BMJ</strong>, v. 315, n. 7109, p. 629–634, 1997.
+EGGER, Matthias <em>et al.</em> <a href="https://doi.org/10.1136/bmj.315.7109.629">Bias in meta-analysis detected by a simple, graphical test</a>. <strong>BMJ</strong>, [<em>s. l.</em>], vol. 315, nº 7109, p. 629–634, 1997.
 </div>
 <div id="ref-glass1976" class="csl-entry" role="listitem">
-GLASS, Gene V. <a href="https://doi.org/10.3102/0013189X005010003">Primary, secondary, and meta-analysis of research</a>. <strong>Educational Researcher</strong>, v. 5, n. 10, p. 3–8, 1976.
+GLASS, Gene V. <a href="https://doi.org/10.3102/0013189X005010003">Primary, secondary, and meta-analysis of research</a>. <strong>Educational Researcher</strong>, [<em>s. l.</em>], vol. 5, nº 10, p. 3–8, 1976.
 </div>
 <div id="ref-higgins2003" class="csl-entry" role="listitem">
-HIGGINS, Julian P. T. <em>et al.</em> <a href="https://doi.org/10.1136/bmj.327.7414.557">Measuring inconsistency in meta-analyses</a>. <strong>BMJ</strong>, v. 327, n. 7414, p. 557–560, 2003.
+HIGGINS, Julian P. T. <em>et al.</em> <a href="https://doi.org/10.1136/bmj.327.7414.557">Measuring inconsistency in meta-analyses</a>. <strong>BMJ</strong>, [<em>s. l.</em>], vol. 327, nº 7414, p. 557–560, 2003.
 </div>
 <div id="ref-lewis2001" class="csl-entry" role="listitem">
-LEWIS, Steff; CLARKE, Mike. <a href="https://doi.org/10.1136/bmj.322.7300.1479">Forest plots: trying to see the wood and the trees</a>. <strong>BMJ</strong>, v. 322, n. 7300, p. 1479–1480, jun. 2001.
+LEWIS, Steff; CLARKE, Mike. Forest plots: trying to see the wood and the trees. <strong>BMJ</strong>, [<em>s. l.</em>], vol. 322, nº 7300, p. 1479–1480, 2001. Disponível em: <a href="https://www.bmj.com/content/322/7300/1479">https://www.bmj.com/content/322/7300/1479. </a>
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -940,57 +995,6 @@ LEWIS, Steff; CLARKE, Mike. <a href="https://doi.org/10.1136/bmj.322.7300.1479">
         container: window.document.getElementById('quarto-embedded-source-code-modal')
       });
       clipboardModal.on('success', onCopySuccess);
-    }
-    const viewSource = window.document.getElementById('quarto-view-source') ||
-                       window.document.getElementById('quarto-code-tools-source');
-    if (viewSource) {
-      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
-      viewSource.addEventListener("click", function(e) {
-        if (sourceUrl) {
-          // rstudio viewer pane
-          if (/\bcapabilities=\b/.test(window.location)) {
-            window.open(sourceUrl);
-          } else {
-            window.location.href = sourceUrl;
-          }
-        } else {
-          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
-          modal.show();
-        }
-        return false;
-      });
-    }
-    function toggleCodeHandler(show) {
-      return function(e) {
-        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
-        for (let i=0; i<detailsSrc.length; i++) {
-          const details = detailsSrc[i].parentElement;
-          if (show) {
-            details.open = true;
-          } else {
-            details.removeAttribute("open");
-          }
-        }
-        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
-        const fromCls = show ? "hidden" : "unhidden";
-        const toCls = show ? "unhidden" : "hidden";
-        for (let i=0; i<cellCodeDivs.length; i++) {
-          const codeDiv = cellCodeDivs[i];
-          if (codeDiv.classList.contains(fromCls)) {
-            codeDiv.classList.remove(fromCls);
-            codeDiv.classList.add(toCls);
-          } 
-        }
-        return false;
-      }
-    }
-    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
-    if (hideAllCode) {
-      hideAllCode.addEventListener("click", toggleCodeHandler(false));
-    }
-    const showAllCode = window.document.getElementById("quarto-show-all-code");
-    if (showAllCode) {
-      showAllCode.addEventListener("click", toggleCodeHandler(true));
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
@@ -1325,286 +1329,12 @@ LEWIS, Steff; CLARKE, Mike. <a href="https://doi.org/10.1136/bmj.322.7300.1479">
       }
     }
   });
-  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Código fonte</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Meta-análise"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "Síntese quantitativa de resultados de múltiplos estudos"</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">## O que é uma meta-análise?</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>A meta-análise é uma técnica estatística que combina quantitativamente os resultados de múltiplos estudos independentes sobre uma mesma questão, gerando uma estimativa sumária do efeito <span class="co">[</span><span class="ot">@borenstein2009</span><span class="co">]</span>.</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>O termo foi cunhado por Gene Glass em 1976, que a definiu como "a análise estatística de uma grande coleção de resultados de estudos individuais, com o propósito de integrar os achados" <span class="co">[</span><span class="ot">@glass1976</span><span class="co">]</span>.</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>::: callout-note</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">## Definição</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>A meta-análise é um método estatístico que combina resultados de estudos independentes para obter uma estimativa mais precisa do efeito de uma intervenção ou da força de uma associação.</span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="fu">## Meta-análise e revisão sistemática</span></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>É importante distinguir os dois conceitos:</span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Revisão sistemática:** método de revisão da literatura com busca exaustiva, seleção criteriosa e avaliação de qualidade</span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Meta-análise:** técnica estatística de combinação de resultados</span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>A meta-análise **geralmente ocorre dentro** de uma revisão sistemática, mas nem toda revisão sistemática inclui meta-análise. A combinação estatística só é apropriada quando os estudos são suficientemente semelhantes.</span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>::: callout-important</span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="fu">## Atenção</span></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>Meta-análise não é sinônimo de revisão sistemática. É possível ter:</span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Revisão sistemática **com** meta-análise</span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Revisão sistemática **sem** meta-análise (síntese qualitativa)</span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Meta-análise **sem** revisão sistemática (não recomendado)</span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="fu">## Características principais</span></span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Característica          <span class="pp">|</span> Descrição                                     <span class="pp">|</span></span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------------------------|-----------------------------------------------|</span></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Objetivo**            <span class="pp">|</span> Estimar efeito combinado                      <span class="pp">|</span></span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Dados necessários**   <span class="pp">|</span> Resultados numéricos dos estudos primários    <span class="pp">|</span></span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Pré-requisito**       <span class="pp">|</span> Estudos comparáveis (homogeneidade mínima)    <span class="pp">|</span></span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Produto**             <span class="pp">|</span> Estimativa sumária com intervalo de confiança <span class="pp">|</span></span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Apresentação visual** <span class="pp">|</span> Forest plot (gráfico de floresta)             <span class="pp">|</span></span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="fu">## Por que fazer uma meta-análise?</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a><span class="fu">### 1. Aumentar o poder estatístico</span></span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>Estudos individuais podem ter amostras pequenas e não detectar efeitos reais. Ao combinar dados, aumenta-se o poder para identificar diferenças significativas.</span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a><span class="fu">### 2. Melhorar a precisão da estimativa</span></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>A estimativa combinada tem intervalo de confiança mais estreito do que estudos individuais.</span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a><span class="fu">### 3. Resolver controvérsias</span></span>
-<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>Quando estudos individuais apresentam resultados conflitantes, a meta-análise pode esclarecer a direção e magnitude do efeito.</span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a><span class="fu">### 4. Explorar heterogeneidade</span></span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>Permite investigar por que estudos diferentes encontram resultados diferentes (análises de subgrupo e meta-regressão).</span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="fu">## Quando fazer uma meta-análise?</span></span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>A meta-análise é apropriada quando:</span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Os estudos respondem à **mesma pergunta** de pesquisa</span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>As **populações** são comparáveis</span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>As **intervenções** são semelhantes</span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Os **desfechos** são medidos de forma similar</span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>A **heterogeneidade** entre estudos é aceitável</span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a>::: callout-warning</span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a><span class="fu">## Cuidado</span></span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a>Combinar estudos muito diferentes pode gerar resultados enganosos. A máxima "garbage in, garbage out" (lixo entra, lixo sai) se aplica: uma meta-análise de estudos ruins produz uma estimativa combinada ruim.</span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a><span class="fu">## Quando NÃO fazer uma meta-análise?</span></span>
-<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a>Evite meta-análise quando:</span>
-<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Os estudos são **muito heterogêneos** (populações, intervenções ou desfechos diferentes)</span>
-<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Há **poucos estudos** disponíveis (geralmente menos de 3)</span>
-<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Os dados necessários **não estão disponíveis** nos estudos primários</span>
-<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>A **qualidade dos estudos** é muito baixa</span>
-<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a>Nesses casos, opte por uma **síntese qualitativa** (narrativa estruturada).</span>
-<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a><span class="fu">## Conceitos fundamentais</span></span>
-<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a><span class="fu">### Tamanho do efeito (effect size)</span></span>
-<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a>É a medida padronizada que quantifica a magnitude do efeito. Os tipos mais comuns são:</span>
-<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Tipo de desfecho <span class="pp">|</span> Medidas de efeito <span class="pp">|</span></span>
-<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a><span class="pp">|-----------------------------------|-------------------------------------|</span></span>
-<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Dicotômico** (sim/não) <span class="pp">|</span> Risco Relativo (RR), Odds Ratio (OR), Diferença de Risco (RD) <span class="pp">|</span></span>
-<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Contínuo** (escalas, medidas) <span class="pp">|</span> Diferença de Médias (MD), Diferença de Médias Padronizada (SMD) <span class="pp">|</span></span>
-<span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Tempo até evento** <span class="pp">|</span> Hazard Ratio (HR) <span class="pp">|</span></span>
-<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Correlação** <span class="pp">|</span> Coeficiente de correlação (r) <span class="pp">|</span></span>
-<span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a><span class="fu">### Peso dos estudos</span></span>
-<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a>Cada estudo contribui para a estimativa combinada de acordo com seu **peso**, que geralmente é baseado no tamanho da amostra e na precisão (variância) dos resultados. Estudos maiores e mais precisos têm maior peso.</span>
-<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a><span class="fu">### Modelos de análise</span></span>
-<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a>**Modelo de efeito fixo:** assume que todos os estudos estimam o mesmo efeito verdadeiro. A variação entre estudos é atribuída apenas ao acaso.</span>
-<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a>**Modelo de efeitos aleatórios:** assume que os estudos estimam efeitos diferentes, que variam em torno de uma média. É mais conservador e geralmente mais apropriado na prática clínica.</span>
-<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a>::: callout-tip</span>
-<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="fu">## Na prática</span></span>
-<span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a>O modelo de **efeitos aleatórios** é recomendado na maioria das situações clínicas, pois é improvável que estudos realizados em diferentes contextos estimem exatamente o mesmo efeito.</span>
-<span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a><span class="fu">## Heterogeneidade</span></span>
-<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a>A heterogeneidade refere-se à variabilidade nos resultados entre os estudos. Pode ser:</span>
-<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Clínica:** diferenças nas populações, intervenções ou desfechos</span>
-<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Metodológica:** diferenças no desenho e condução dos estudos</span>
-<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Estatística:** variabilidade além do esperado pelo acaso</span>
-<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a><span class="fu">### Como avaliar a heterogeneidade?</span></span>
-<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Medida <span class="pp">|</span> Interpretação <span class="pp">|</span></span>
-<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------------------------|----------------------------------------------|</span></span>
-<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Q de Cochran** <span class="pp">|</span> Teste estatístico; p <span class="sc">\&lt;</span> 0,10 sugere heterogeneidade <span class="pp">|</span></span>
-<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I²** <span class="pp">|</span> Percentual da variabilidade devido à heterogeneidade (não ao acaso) <span class="pp">|</span></span>
-<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a>Interpretação do I² <span class="co">[</span><span class="ot">@higgins2003</span><span class="co">]</span>:</span>
-<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>0-40%: heterogeneidade baixa</span>
-<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>30-60%: heterogeneidade moderada</span>
-<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>50-90%: heterogeneidade substancial</span>
-<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>75-100%: heterogeneidade considerável</span>
-<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a>::: callout-warning</span>
-<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a><span class="fu">## Atenção</span></span>
-<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a>Alta heterogeneidade (I² <span class="sc">\&gt;</span> 75%) é um sinal de alerta. Antes de apresentar uma estimativa combinada, investigue as causas através de análises de subgrupo ou meta-regressão.</span>
-<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a><span class="fu">## Forest plot (gráfico de floresta)</span></span>
-<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a>O forest plot é a representação visual padrão de uma meta-análise <span class="co">[</span><span class="ot">@lewis2001</span><span class="co">]</span>. Ele mostra:</span>
-<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Cada estudo como um **quadrado** (tamanho proporcional ao peso)</span>
-<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>O **intervalo de confiança** de cada estudo como linha horizontal</span>
-<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>A **estimativa combinada** como um losango na parte inferior</span>
-<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>A **linha de nulidade** (sem efeito) como referência vertical</span>
-<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a><span class="al">![Forest Plot ](images/forest_plot.png)</span></span>
-<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a>*Nota: Representação esquemática ilustrativa.*</span>
-<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a><span class="fu">### Como interpretar?</span></span>
-<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Se o IC do losango **não cruza** a linha de nulidade: efeito estatisticamente significativo</span>
-<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Se o IC **cruza** a linha de nulidade: efeito não significativo</span>
-<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Quanto mais à direita (ou esquerda), maior a magnitude do efeito</span>
-<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Quanto mais estreito o IC, maior a precisão</span>
-<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a><span class="fu">## Viés de publicação</span></span>
-<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a>Estudos com resultados positivos ou significativos têm maior probabilidade de serem publicados. Isso pode distorcer os resultados da meta-análise.</span>
-<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a><span class="fu">### Como detectar?</span></span>
-<span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a>**Funnel plot (gráfico de funil):** gráfico de dispersão do tamanho do efeito versus precisão (ou tamanho da amostra). Assimetria sugere viés de publicação.</span>
-<span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a>**Teste de Egger:** teste estatístico para assimetria do funnel plot <span class="co">[</span><span class="ot">@egger1997</span><span class="co">]</span>.</span>
-<span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a>::: callout-tip</span>
-<span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a><span class="fu">## Dica prática</span></span>
-<span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-182"><a href="#cb1-182" aria-hidden="true" tabindex="-1"></a>O funnel plot é mais informativo quando há pelo menos 10 estudos. Com poucos estudos, é difícil avaliar assimetria.</span>
-<span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-184"><a href="#cb1-184" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-185"><a href="#cb1-185" aria-hidden="true" tabindex="-1"></a><span class="fu">## Análises de sensibilidade e subgrupo</span></span>
-<span id="cb1-186"><a href="#cb1-186" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-187"><a href="#cb1-187" aria-hidden="true" tabindex="-1"></a><span class="fu">### Análise de sensibilidade</span></span>
-<span id="cb1-188"><a href="#cb1-188" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-189"><a href="#cb1-189" aria-hidden="true" tabindex="-1"></a>Verifica se os resultados são robustos a diferentes decisões metodológicas:</span>
-<span id="cb1-190"><a href="#cb1-190" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-191"><a href="#cb1-191" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Excluir estudos com alto risco de viés</span>
-<span id="cb1-192"><a href="#cb1-192" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Usar modelo de efeito fixo vs. aleatório</span>
-<span id="cb1-193"><a href="#cb1-193" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Excluir um estudo por vez (leave-one-out)</span>
-<span id="cb1-194"><a href="#cb1-194" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-195"><a href="#cb1-195" aria-hidden="true" tabindex="-1"></a><span class="fu">### Análise de subgrupo</span></span>
-<span id="cb1-196"><a href="#cb1-196" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-197"><a href="#cb1-197" aria-hidden="true" tabindex="-1"></a>Investiga se o efeito difere entre grupos definidos *a priori*:</span>
-<span id="cb1-198"><a href="#cb1-198" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-199"><a href="#cb1-199" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Por característica da população (idade, sexo, gravidade)</span>
-<span id="cb1-200"><a href="#cb1-200" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Por tipo de intervenção (dose, duração)</span>
-<span id="cb1-201"><a href="#cb1-201" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Por qualidade metodológica</span>
-<span id="cb1-202"><a href="#cb1-202" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-203"><a href="#cb1-203" aria-hidden="true" tabindex="-1"></a>::: callout-warning</span>
-<span id="cb1-204"><a href="#cb1-204" aria-hidden="true" tabindex="-1"></a><span class="fu">## Cuidado com múltiplas comparações</span></span>
-<span id="cb1-205"><a href="#cb1-205" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-206"><a href="#cb1-206" aria-hidden="true" tabindex="-1"></a>Análises de subgrupo devem ser planejadas previamente no protocolo. Análises exploratórias post hoc aumentam o risco de achados espúrios.</span>
-<span id="cb1-207"><a href="#cb1-207" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-208"><a href="#cb1-208" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-209"><a href="#cb1-209" aria-hidden="true" tabindex="-1"></a><span class="fu">## Etapas para conduzir uma meta-análise</span></span>
-<span id="cb1-210"><a href="#cb1-210" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-211"><a href="#cb1-211" aria-hidden="true" tabindex="-1"></a><span class="ss">1.  </span>**Verificar viabilidade:** os estudos são comparáveis?</span>
-<span id="cb1-212"><a href="#cb1-212" aria-hidden="true" tabindex="-1"></a><span class="ss">2.  </span>**Extrair dados numéricos:** médias, desvios-padrão, frequências</span>
-<span id="cb1-213"><a href="#cb1-213" aria-hidden="true" tabindex="-1"></a><span class="ss">3.  </span>**Escolher a medida de efeito:** RR, OR, MD, SMD</span>
-<span id="cb1-214"><a href="#cb1-214" aria-hidden="true" tabindex="-1"></a><span class="ss">4.  </span>**Escolher o modelo:** efeito fixo ou aleatórios</span>
-<span id="cb1-215"><a href="#cb1-215" aria-hidden="true" tabindex="-1"></a><span class="ss">5.  </span>**Calcular a estimativa combinada:** usando software apropriado</span>
-<span id="cb1-216"><a href="#cb1-216" aria-hidden="true" tabindex="-1"></a><span class="ss">6.  </span>**Avaliar heterogeneidade:** Q, I²</span>
-<span id="cb1-217"><a href="#cb1-217" aria-hidden="true" tabindex="-1"></a><span class="ss">7.  </span>**Investigar causas de heterogeneidade:** subgrupos, meta-regressão</span>
-<span id="cb1-218"><a href="#cb1-218" aria-hidden="true" tabindex="-1"></a><span class="ss">8.  </span>**Avaliar viés de publicação:** funnel plot, teste de Egger</span>
-<span id="cb1-219"><a href="#cb1-219" aria-hidden="true" tabindex="-1"></a><span class="ss">9.  </span>**Realizar análises de sensibilidade**</span>
-<span id="cb1-220"><a href="#cb1-220" aria-hidden="true" tabindex="-1"></a><span class="ss">10. </span>**Interpretar e apresentar resultados:** forest plot, tabelas</span>
-<span id="cb1-221"><a href="#cb1-221" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-222"><a href="#cb1-222" aria-hidden="true" tabindex="-1"></a><span class="fu">## Softwares para meta-análise</span></span>
-<span id="cb1-223"><a href="#cb1-223" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-224"><a href="#cb1-224" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Software <span class="pp">|</span> Características <span class="pp">|</span></span>
-<span id="cb1-225"><a href="#cb1-225" aria-hidden="true" tabindex="-1"></a><span class="pp">|----|----|</span></span>
-<span id="cb1-226"><a href="#cb1-226" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **RevMan** <span class="pp">|</span> Gratuito, desenvolvido pela Cochrane <span class="pp">|</span></span>
-<span id="cb1-227"><a href="#cb1-227" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **R (metafor, meta)** <span class="pp">|</span> Gratuito, flexível, requer programação <span class="pp">|</span></span>
-<span id="cb1-228"><a href="#cb1-228" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Stata** <span class="pp">|</span> Pago, comandos específicos (metan, metaan) <span class="pp">|</span></span>
-<span id="cb1-229"><a href="#cb1-229" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Comprehensive Meta-Analysis** <span class="pp">|</span> Pago, interface amigável <span class="pp">|</span></span>
-<span id="cb1-230"><a href="#cb1-230" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **JASP** <span class="pp">|</span> Gratuito, interface gráfica <span class="pp">|</span></span>
-<span id="cb1-231"><a href="#cb1-231" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-232"><a href="#cb1-232" aria-hidden="true" tabindex="-1"></a><span class="fu">## Vantagens</span></span>
-<span id="cb1-233"><a href="#cb1-233" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-234"><a href="#cb1-234" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Precisão:** estimativa mais precisa que estudos individuais</span>
-<span id="cb1-235"><a href="#cb1-235" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Poder estatístico:** detecta efeitos que estudos pequenos não conseguem</span>
-<span id="cb1-236"><a href="#cb1-236" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Objetividade:** síntese quantitativa, não apenas narrativa</span>
-<span id="cb1-237"><a href="#cb1-237" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Exploração:** permite investigar fontes de heterogeneidade</span>
-<span id="cb1-238"><a href="#cb1-238" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Clareza visual:** forest plot facilita comunicação dos resultados</span>
-<span id="cb1-239"><a href="#cb1-239" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-240"><a href="#cb1-240" aria-hidden="true" tabindex="-1"></a><span class="fu">## Limitações</span></span>
-<span id="cb1-241"><a href="#cb1-241" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-242"><a href="#cb1-242" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Dependência dos estudos primários:** limitada pela qualidade dos dados disponíveis</span>
-<span id="cb1-243"><a href="#cb1-243" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Viés de publicação:** estudos negativos podem estar ausentes</span>
-<span id="cb1-244"><a href="#cb1-244" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Heterogeneidade:** combinar estudos diferentes pode ser enganoso</span>
-<span id="cb1-245"><a href="#cb1-245" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Falácia ecológica:** resultados agregados podem não se aplicar a indivíduos</span>
-<span id="cb1-246"><a href="#cb1-246" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>**Complexidade:** requer conhecimento estatístico para condução e interpretação</span>
-<span id="cb1-247"><a href="#cb1-247" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-248"><a href="#cb1-248" aria-hidden="true" tabindex="-1"></a><span class="fu">## Resumo</span></span>
-<span id="cb1-249"><a href="#cb1-249" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-250"><a href="#cb1-250" aria-hidden="true" tabindex="-1"></a>::: callout-note</span>
-<span id="cb1-251"><a href="#cb1-251" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pontos-chave</span></span>
-<span id="cb1-252"><a href="#cb1-252" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-253"><a href="#cb1-253" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Meta-análise é uma **técnica estatística**, não um tipo de revisão</span>
-<span id="cb1-254"><a href="#cb1-254" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Combina resultados de estudos para obter **estimativa mais precisa**</span>
-<span id="cb1-255"><a href="#cb1-255" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Só deve ser realizada quando os estudos são **suficientemente semelhantes**</span>
-<span id="cb1-256"><a href="#cb1-256" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>O **forest plot** é a apresentação visual padrão</span>
-<span id="cb1-257"><a href="#cb1-257" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>A **heterogeneidade** (I²) indica variabilidade entre estudos</span>
-<span id="cb1-258"><a href="#cb1-258" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>O **viés de publicação** deve ser investigado (funnel plot)</span>
-<span id="cb1-259"><a href="#cb1-259" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Análises de **sensibilidade** verificam a robustez dos resultados</span>
-<span id="cb1-260"><a href="#cb1-260" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>Requer **conhecimento estatístico** para condução adequada</span>
-<span id="cb1-261"><a href="#cb1-261" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-262"><a href="#cb1-262" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-263"><a href="#cb1-263" aria-hidden="true" tabindex="-1"></a><span class="fu">## Leituras recomendadas</span></span>
-<span id="cb1-264"><a href="#cb1-264" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-265"><a href="#cb1-265" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>@borenstein2009 — Introduction to Meta-Analysis</span>
-<span id="cb1-266"><a href="#cb1-266" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>@glass1976 — Primary, secondary, and meta-analysis of research</span>
-<span id="cb1-267"><a href="#cb1-267" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>@higgins2003 — Measuring inconsistency in meta-analyses</span>
-<span id="cb1-268"><a href="#cb1-268" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>@egger1997 — Bias in meta-analysis detected by a simple, graphical test</span>
-<span id="cb1-269"><a href="#cb1-269" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span>@lewis2001 — Forest plots: trying to see the wood and the trees</span>
-<span id="cb1-270"><a href="#cb1-270" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-271"><a href="#cb1-271" aria-hidden="true" tabindex="-1"></a>------------------------------------------------------------------------</span>
-<span id="cb1-272"><a href="#cb1-272" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-273"><a href="#cb1-273" aria-hidden="true" tabindex="-1"></a>Próximo capítulo: <span class="co">[</span><span class="ot">**Acrônimos PICO**</span><span class="co">](07-acronimos-pico.qmd)</span></span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
-</div></div></div></div></div>
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 Henrique Alvarenga da Silva - UFSJ</p>
+<p>© 2025 <a href="https://henriquealvarenga.com">Henrique Alvarenga da Silva</a> · UFSJ · AFYA</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -1612,7 +1342,18 @@ LEWIS, Steff; CLARKE, Mike. <a href="https://doi.org/10.1136/bmj.322.7300.1479">
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://henriquealvarenga.com">
+    <a class="nav-link" href="mailto:henriquealvarenga@ufsj.edu.br">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0000-0001-9799-5240">
+<p>ORCID</p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review">
       <i class="bi bi-github" role="img">
 </i> 
     </a>

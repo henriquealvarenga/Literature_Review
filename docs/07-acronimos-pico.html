@@ -8,7 +8,7 @@
 
 <meta name="author" content="Henrique Alvarenga da Silva">
 
-<title>Acrônimos PICO, PICo, PICOT e Variações – Revisões de Literatura em Saúde: Da Pergunta à Síntese</title>
+<title>Acrônimos PICO, PICo, PICOT e Variações</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 /* CSS for citations */
 div.csl-bib-body { }
@@ -132,6 +97,7 @@ div.csl-indent {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="landing.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light">
@@ -141,8 +107,9 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Revisões de Literatura em Saúde: Da Pergunta à Síntese</span>
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo light-content">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -152,24 +119,114 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house" role="img">
+</i> 
 <span class="menu-text">Início</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./01-introducao.html"> 
-<span class="menu-text">Tipos de Revisão</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-introdução" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Introdução</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-introdução">    
+        <li>
+    <a class="dropdown-item" href="./00-sinopse.html"><i class="bi bi-book" role="img">
+</i> 
+ <span class="dropdown-text">Sinopse</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./07-acronimos-pico.html"> 
-<span class="menu-text">Acrônimos PICO</span></a>
+        <li>
+    <a class="dropdown-item" href="./01-introducao.html"><i class="bi bi-info-circle" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral dos Tipos de Revisão</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./09-pratica-0.html"> 
-<span class="menu-text">Atividades Práticas</span></a>
+        <li>
+    <a class="dropdown-item" href="./01.1-historia.html"><i class="bi bi-clock-history" role="img">
+</i> 
+ <span class="dropdown-text">Uma Breve História das Revisões</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-tipos-de-revisão" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Tipos de Revisão</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-tipos-de-revisão">    
+        <li>
+    <a class="dropdown-item" href="./02-revisao-narrativa.html"><i class="bi bi-file-text" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Narrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./03-revisao-integrativa.html"><i class="bi bi-grid" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Integrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./04-revisao-escopo.html"><i class="bi bi-search" role="img">
+</i> 
+ <span class="dropdown-text">Revisão de Escopo</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./05-revisao-sistematica.html"><i class="bi bi-clipboard-check" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Sistemática</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./06-metanalise.html"><i class="bi bi-bar-chart" role="img">
+</i> 
+ <span class="dropdown-text">Meta-análise</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ferramentas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Ferramentas</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-ferramentas">    
+        <li>
+    <a class="dropdown-item" href="./07-acronimos-pico.html"><i class="bi bi-question-circle" role="img">
+</i> 
+ <span class="dropdown-text">Acrônimos PICO, PICo, PICOT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./08-registro-osf.html"><i class="bi bi-lock" role="img">
+</i> 
+ <span class="dropdown-text">Registro de Protocolos (OSF)</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-prática" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Prática</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-prática">    
+        <li>
+    <a class="dropdown-item" href="./09-pratica-0.html"><i class="bi bi-star" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral das Atividades</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-1.html"><i class="bi bi-pencil-square" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 1: Análise Crítica</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-2.html"><i class="bi bi-signpost-split" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 2: Planejamento</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./About.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./About.html"> <i class="bi bi-info-circle" role="img">
+</i> 
+<span class="menu-text">Sobre</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -377,7 +434,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-acronimos-pico.html">Ferramentas</a></li><li class="breadcrumb-item"><a href="./07-acronimos-pico.html">Acrônimos PICO, PICo, PICOT</a></li></ol></nav>
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title">Acrônimos PICO, PICo, PICOT e Variações</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Código</button></div></div>
+<h1 class="title">Acrônimos PICO, PICo, PICOT e Variações</h1>
 <p class="subtitle lead">Estruturando perguntas de pesquisa e estratégias de busca</p>
 </div>
 
@@ -428,7 +485,7 @@ div.csl-indent {
 </section>
 <section id="pico-o-acrônimo-clássico" class="level2">
 <h2 class="anchored" data-anchor-id="pico-o-acrônimo-clássico">PICO: o acrônimo clássico</h2>
-<p>O acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre <strong>intervenções</strong> <span class="citation" data-cites="richardson1995 santos2007">(<a href="#ref-richardson1995" role="doc-biblioref">Richardson et al., 1995</a>; <a href="#ref-santos2007" role="doc-biblioref">Santos; Pimenta; Nobre, 2007</a>)</span>.</p>
+<p>O acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre <strong>intervenções</strong> <span class="citation" data-cites="richardson1995 santos2007">(<a href="#ref-richardson1995" role="doc-biblioref">Richardson <em>et al.</em>, 1995</a>; <a href="#ref-santos2007" role="doc-biblioref">Santos; Pimenta; Nobre, 2007</a>)</span>.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 22%">
@@ -1023,7 +1080,7 @@ AND
 <h2 class="anchored" data-anchor-id="leituras-recomendadas">Leituras recomendadas</h2>
 <ul>
 <li><span class="citation" data-cites="santos2007">Santos; Pimenta; Nobre (<a href="#ref-santos2007" role="doc-biblioref">2007</a>)</span> — A estratégia PICO para a construção da pergunta de pesquisa</li>
-<li><span class="citation" data-cites="richardson1995">Richardson et al. (<a href="#ref-richardson1995" role="doc-biblioref">1995</a>)</span> — The well-built clinical question</li>
+<li><span class="citation" data-cites="richardson1995">Richardson <em>et al.</em> (<a href="#ref-richardson1995" role="doc-biblioref">1995</a>)</span> — The well-built clinical question</li>
 <li><span class="citation" data-cites="cooke2012">Cooke; Smith; Booth (<a href="#ref-cooke2012" role="doc-biblioref">2012</a>)</span> — Beyond PICO: the SPIDER tool for qualitative evidence synthesis</li>
 <li><span class="citation" data-cites="nobre2004">Nobre; Bernardo; Jatene (<a href="#ref-nobre2004" role="doc-biblioref">2004</a>)</span> — A prática clínica baseada em evidências</li>
 </ul>
@@ -1031,23 +1088,21 @@ AND
 <p>Próximo capítulo: <strong><a href="./08-registro-osf.html">Registro de Protocolos</a></strong></p>
 
 
-<!-- -->
-
 
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referências</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
 <div id="ref-cooke2012" class="csl-entry" role="listitem">
-COOKE, Alison; SMITH, Debbie; BOOTH, Andrew. <a href="https://doi.org/10.1177/1049732312452938">Beyond <span>PICO</span>: the <span>SPIDER</span> tool for qualitative evidence synthesis</a>. <strong>Qualitative Health Research</strong>, v. 22, n. 10, p. 1435–1443, 2012.
+COOKE, Alison; SMITH, Debbie; BOOTH, Andrew. <a href="https://doi.org/10.1177/1049732312452938">Beyond <span>PICO</span>: the <span>SPIDER</span> tool for qualitative evidence synthesis</a>. <strong>Qualitative Health Research</strong>, [<em>s. l.</em>], vol. 22, nº 10, p. 1435–1443, 2012.
 </div>
 <div id="ref-nobre2004" class="csl-entry" role="listitem">
-NOBRE, Moacyr Roberto Cuce; BERNARDO, Wanderley Marques; JATENE, Fábio Biscegli. <a href="https://doi.org/10.1590/S0104-42302004000400041">A prática clínica baseada em evidências. <span>Parte I</span>: questões clínicas bem construídas</a>. <strong>Revista da Associação Médica Brasileira</strong>, v. 50, n. 4, p. 445–449, 2004.
+NOBRE, Moacyr Roberto Cuce; BERNARDO, Wanderley Marques; JATENE, Fábio Biscegli. <a href="https://doi.org/10.1590/S0104-42302004000400041">A prática clínica baseada em evidências. <span>Parte I</span>: questões clínicas bem construídas</a>. <strong>Revista da Associação Médica Brasileira</strong>, [<em>s. l.</em>], vol. 50, nº 4, p. 445–449, 2004.
 </div>
 <div id="ref-richardson1995" class="csl-entry" role="listitem">
-RICHARDSON, W. Scott <em>et al.</em> The well-built clinical question: a key to evidence-based decisions. <strong>ACP Journal Club</strong>, v. 123, n. 3, p. A12–A13, 1995.
+RICHARDSON, W. Scott <em>et al.</em> The well-built clinical question: a key to evidence-based decisions. <strong>ACP Journal Club</strong>, [<em>s. l.</em>], vol. 123, nº 3, p. A12–A13, 1995.
 </div>
 <div id="ref-santos2007" class="csl-entry" role="listitem">
-SANTOS, Cristina Mamédio da Costa; PIMENTA, Cibele Andrucioli de Mattos; NOBRE, Moacyr Roberto Cuce. <a href="https://doi.org/10.1590/S0104-11692007000300023">A estratégia <span>PICO</span> para a construção da pergunta de pesquisa e busca de evidências</a>. <strong>Revista Latino-Americana de Enfermagem</strong>, v. 15, n. 3, p. 508–511, 2007.
+SANTOS, Cristina Mamédio da Costa; PIMENTA, Cibele Andrucioli de Mattos; NOBRE, Moacyr Roberto Cuce. <a href="https://doi.org/10.1590/S0104-11692007000300023">A estratégia <span>PICO</span> para a construção da pergunta de pesquisa e busca de evidências</a>. <strong>Revista Latino-Americana de Enfermagem</strong>, [<em>s. l.</em>], vol. 15, nº 3, p. 508–511, 2007.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1120,57 +1175,6 @@ SANTOS, Cristina Mamédio da Costa; PIMENTA, Cibele Andrucioli de Mattos; NOBRE,
         container: window.document.getElementById('quarto-embedded-source-code-modal')
       });
       clipboardModal.on('success', onCopySuccess);
-    }
-    const viewSource = window.document.getElementById('quarto-view-source') ||
-                       window.document.getElementById('quarto-code-tools-source');
-    if (viewSource) {
-      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
-      viewSource.addEventListener("click", function(e) {
-        if (sourceUrl) {
-          // rstudio viewer pane
-          if (/\bcapabilities=\b/.test(window.location)) {
-            window.open(sourceUrl);
-          } else {
-            window.location.href = sourceUrl;
-          }
-        } else {
-          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
-          modal.show();
-        }
-        return false;
-      });
-    }
-    function toggleCodeHandler(show) {
-      return function(e) {
-        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
-        for (let i=0; i<detailsSrc.length; i++) {
-          const details = detailsSrc[i].parentElement;
-          if (show) {
-            details.open = true;
-          } else {
-            details.removeAttribute("open");
-          }
-        }
-        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
-        const fromCls = show ? "hidden" : "unhidden";
-        const toCls = show ? "unhidden" : "hidden";
-        for (let i=0; i<cellCodeDivs.length; i++) {
-          const codeDiv = cellCodeDivs[i];
-          if (codeDiv.classList.contains(fromCls)) {
-            codeDiv.classList.remove(fromCls);
-            codeDiv.classList.add(toCls);
-          } 
-        }
-        return false;
-      }
-    }
-    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
-    if (hideAllCode) {
-      hideAllCode.addEventListener("click", toggleCodeHandler(false));
-    }
-    const showAllCode = window.document.getElementById("quarto-show-all-code");
-    if (showAllCode) {
-      showAllCode.addEventListener("click", toggleCodeHandler(true));
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
@@ -1505,275 +1509,12 @@ SANTOS, Cristina Mamédio da Costa; PIMENTA, Cibele Andrucioli de Mattos; NOBRE,
       }
     }
   });
-  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Código fonte</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Acrônimos PICO, PICo, PICOT e Variações"</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "Estruturando perguntas de pesquisa e estratégias de busca"</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="fu">## Por que estruturar a pergunta de pesquisa?</span></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>Uma pergunta de pesquisa bem formulada é o ponto de partida para qualquer revisão de literatura. Perguntas vagas ou mal definidas resultam em buscas imprecisas, seleção inconsistente de estudos e conclusões frágeis.</span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>Os acrônimos como PICO funcionam como **frameworks** que ajudam a decompor a pergunta em elementos essenciais, tornando-a clara, específica e pesquisável <span class="co">[</span><span class="ot">@santos2007</span><span class="co">]</span>.</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="fu">## Princípio fundamental</span></span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>Uma boa pergunta de pesquisa deve ser específica o suficiente para ser respondida, mas ampla o suficiente para ter relevância clínica ou científica.</span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## PICO: o acrônimo clássico</span></span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>O acrônimo PICO foi desenvolvido no contexto da Medicina Baseada em Evidências para formular perguntas clínicas sobre **intervenções** <span class="co">[</span><span class="ot">@richardson1995; @santos2007</span><span class="co">]</span>.</span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Significado <span class="pp">|</span> Pergunta orientadora <span class="pp">|</span></span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-------------|----------------------|</span></span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> População / Paciente / Problema <span class="pp">|</span> Quem são os pacientes? Qual a condição? <span class="pp">|</span></span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> Intervenção <span class="pp">|</span> O que está sendo testado ou avaliado? <span class="pp">|</span></span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Comparação <span class="pp">|</span> Qual a alternativa? (pode ser ausente) <span class="pp">|</span></span>
-<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> Outcome (Desfecho) <span class="pp">|</span> Qual o resultado esperado? <span class="pp">|</span></span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de pergunta PICO</span></span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>**Pergunta narrativa:** "Antidepressivos funcionam para depressão em idosos?"</span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>**Pergunta estruturada (PICO):**</span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|----------|</span></span>
-<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> Idosos (≥ 65 anos) com transtorno depressivo maior <span class="pp">|</span></span>
-<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> Antidepressivos (ISRS) <span class="pp">|</span></span>
-<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Placebo <span class="pp">|</span></span>
-<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> Remissão dos sintomas depressivos <span class="pp">|</span></span>
-<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a>**Pergunta final:** "Em idosos com transtorno depressivo maior, os inibidores seletivos de recaptação de serotonina são superiores ao placebo para alcançar remissão dos sintomas?"</span>
-<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip}</span>
-<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a><span class="fu">## Dica prática</span></span>
-<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>O elemento **C** (comparação) nem sempre está presente. Em estudos descritivos ou de prevalência, pode não haver grupo de comparação.</span>
-<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a><span class="fu">## PICOT: adicionando o tempo</span></span>
-<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a>O acrônimo PICOT acrescenta o elemento **T** (Time / Tempo), útil quando a duração do seguimento ou o momento da avaliação são relevantes.</span>
-<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Significado <span class="pp">|</span></span>
-<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-------------|</span></span>
-<span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> População <span class="pp">|</span></span>
-<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> Intervenção <span class="pp">|</span></span>
-<span id="cb2-56"><a href="#cb2-56" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Comparação <span class="pp">|</span></span>
-<span id="cb2-57"><a href="#cb2-57" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> Outcome (Desfecho) <span class="pp">|</span></span>
-<span id="cb2-58"><a href="#cb2-58" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **T** <span class="pp">|</span> Time (Tempo) <span class="pp">|</span></span>
-<span id="cb2-59"><a href="#cb2-59" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-60"><a href="#cb2-60" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de pergunta PICOT</span></span>
-<span id="cb2-61"><a href="#cb2-61" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-62"><a href="#cb2-62" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb2-63"><a href="#cb2-63" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|----------|</span></span>
-<span id="cb2-64"><a href="#cb2-64" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> Adultos com transtorno de ansiedade generalizada <span class="pp">|</span></span>
-<span id="cb2-65"><a href="#cb2-65" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> Terapia cognitivo-comportamental <span class="pp">|</span></span>
-<span id="cb2-66"><a href="#cb2-66" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Lista de espera <span class="pp">|</span></span>
-<span id="cb2-67"><a href="#cb2-67" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> Redução dos sintomas de ansiedade <span class="pp">|</span></span>
-<span id="cb2-68"><a href="#cb2-68" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **T** <span class="pp">|</span> 12 semanas de seguimento <span class="pp">|</span></span>
-<span id="cb2-69"><a href="#cb2-69" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-70"><a href="#cb2-70" aria-hidden="true" tabindex="-1"></a><span class="fu">## PICo: para estudos qualitativos</span></span>
-<span id="cb2-71"><a href="#cb2-71" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-72"><a href="#cb2-72" aria-hidden="true" tabindex="-1"></a>O acrônimo **PICo** (com "o" minúsculo) é uma adaptação para perguntas de pesquisa **qualitativa**, onde não há intervenção nem comparação no sentido tradicional.</span>
-<span id="cb2-73"><a href="#cb2-73" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-74"><a href="#cb2-74" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Significado <span class="pp">|</span> Descrição <span class="pp">|</span></span>
-<span id="cb2-75"><a href="#cb2-75" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-------------|-----------|</span></span>
-<span id="cb2-76"><a href="#cb2-76" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> População <span class="pp">|</span> Quem são os participantes? <span class="pp">|</span></span>
-<span id="cb2-77"><a href="#cb2-77" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> Fenômeno de Interesse <span class="pp">|</span> O que está sendo explorado? <span class="pp">|</span></span>
-<span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Co** <span class="pp">|</span> Contexto <span class="pp">|</span> Em que circunstância ou ambiente? <span class="pp">|</span></span>
-<span id="cb2-79"><a href="#cb2-79" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de pergunta PICo</span></span>
-<span id="cb2-81"><a href="#cb2-81" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb2-83"><a href="#cb2-83" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|----------|</span></span>
-<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> Pacientes com esquizofrenia <span class="pp">|</span></span>
-<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> Experiência de ouvir vozes <span class="pp">|</span></span>
-<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **Co** <span class="pp">|</span> Atendimento ambulatorial em serviço público <span class="pp">|</span></span>
-<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a>**Pergunta final:** "Como pacientes com esquizofrenia em atendimento ambulatorial no serviço público vivenciam a experiência de ouvir vozes?"</span>
-<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a><span class="fu">## PCC: para revisões de escopo</span></span>
-<span id="cb2-91"><a href="#cb2-91" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-92"><a href="#cb2-92" aria-hidden="true" tabindex="-1"></a>O framework **PCC** é recomendado pelo JBI para revisões de escopo, que têm caráter exploratório e mapeiam a literatura.</span>
-<span id="cb2-93"><a href="#cb2-93" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-94"><a href="#cb2-94" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Significado <span class="pp">|</span> Descrição <span class="pp">|</span></span>
-<span id="cb2-95"><a href="#cb2-95" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-------------|-----------|</span></span>
-<span id="cb2-96"><a href="#cb2-96" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> População <span class="pp">|</span> Quem são os participantes ou público-alvo? <span class="pp">|</span></span>
-<span id="cb2-97"><a href="#cb2-97" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Conceito <span class="pp">|</span> Qual o conceito ou fenômeno central? <span class="pp">|</span></span>
-<span id="cb2-98"><a href="#cb2-98" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Contexto <span class="pp">|</span> Em que setting ou circunstância? <span class="pp">|</span></span>
-<span id="cb2-99"><a href="#cb2-99" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-100"><a href="#cb2-100" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de pergunta PCC</span></span>
-<span id="cb2-101"><a href="#cb2-101" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-102"><a href="#cb2-102" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb2-103"><a href="#cb2-103" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|----------|</span></span>
-<span id="cb2-104"><a href="#cb2-104" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> Profissionais de saúde <span class="pp">|</span></span>
-<span id="cb2-105"><a href="#cb2-105" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Estratégias de prevenção de burnout <span class="pp">|</span></span>
-<span id="cb2-106"><a href="#cb2-106" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Unidades de terapia intensiva <span class="pp">|</span></span>
-<span id="cb2-107"><a href="#cb2-107" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-108"><a href="#cb2-108" aria-hidden="true" tabindex="-1"></a>**Pergunta final:** "Quais estratégias de prevenção de burnout têm sido estudadas em profissionais de saúde que atuam em unidades de terapia intensiva?"</span>
-<span id="cb2-109"><a href="#cb2-109" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-110"><a href="#cb2-110" aria-hidden="true" tabindex="-1"></a><span class="fu">## SPIDER: alternativa para estudos qualitativos</span></span>
-<span id="cb2-111"><a href="#cb2-111" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-112"><a href="#cb2-112" aria-hidden="true" tabindex="-1"></a>O acrônimo **SPIDER** foi proposto como alternativa ao PICO para revisões que incluem estudos qualitativos e mistos <span class="co">[</span><span class="ot">@cooke2012</span><span class="co">]</span>.</span>
-<span id="cb2-113"><a href="#cb2-113" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-114"><a href="#cb2-114" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Significado <span class="pp">|</span> Descrição <span class="pp">|</span></span>
-<span id="cb2-115"><a href="#cb2-115" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-------------|-----------|</span></span>
-<span id="cb2-116"><a href="#cb2-116" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **S** <span class="pp">|</span> Sample (Amostra) <span class="pp">|</span> Grupo de interesse <span class="pp">|</span></span>
-<span id="cb2-117"><a href="#cb2-117" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **PI** <span class="pp">|</span> Phenomenon of Interest <span class="pp">|</span> Fenômeno estudado <span class="pp">|</span></span>
-<span id="cb2-118"><a href="#cb2-118" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **D** <span class="pp">|</span> Design <span class="pp">|</span> Delineamento do estudo <span class="pp">|</span></span>
-<span id="cb2-119"><a href="#cb2-119" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **E** <span class="pp">|</span> Evaluation <span class="pp">|</span> Como o fenômeno é avaliado <span class="pp">|</span></span>
-<span id="cb2-120"><a href="#cb2-120" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **R** <span class="pp">|</span> Research type <span class="pp">|</span> Tipo de pesquisa (quali, quanti, mista) <span class="pp">|</span></span>
-<span id="cb2-121"><a href="#cb2-121" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-122"><a href="#cb2-122" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de pergunta SPIDER</span></span>
-<span id="cb2-123"><a href="#cb2-123" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-124"><a href="#cb2-124" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb2-125"><a href="#cb2-125" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|----------|</span></span>
-<span id="cb2-126"><a href="#cb2-126" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **S** <span class="pp">|</span> Cuidadores de pacientes com demência <span class="pp">|</span></span>
-<span id="cb2-127"><a href="#cb2-127" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **PI** <span class="pp">|</span> Sobrecarga do cuidador <span class="pp">|</span></span>
-<span id="cb2-128"><a href="#cb2-128" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **D** <span class="pp">|</span> Estudos qualitativos <span class="pp">|</span></span>
-<span id="cb2-129"><a href="#cb2-129" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **E** <span class="pp">|</span> Entrevistas, grupos focais <span class="pp">|</span></span>
-<span id="cb2-130"><a href="#cb2-130" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **R** <span class="pp">|</span> Qualitativa <span class="pp">|</span></span>
-<span id="cb2-131"><a href="#cb2-131" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-132"><a href="#cb2-132" aria-hidden="true" tabindex="-1"></a><span class="fu">## PECO: para estudos de etiologia/exposição</span></span>
-<span id="cb2-133"><a href="#cb2-133" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-134"><a href="#cb2-134" aria-hidden="true" tabindex="-1"></a>O acrônimo **PECO** é usado para perguntas sobre **fatores de risco ou exposição**, comuns em estudos observacionais (coorte, caso-controle).</span>
-<span id="cb2-135"><a href="#cb2-135" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-136"><a href="#cb2-136" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Significado <span class="pp">|</span></span>
-<span id="cb2-137"><a href="#cb2-137" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-------------|</span></span>
-<span id="cb2-138"><a href="#cb2-138" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> População <span class="pp">|</span></span>
-<span id="cb2-139"><a href="#cb2-139" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **E** <span class="pp">|</span> Exposição (fator de risco) <span class="pp">|</span></span>
-<span id="cb2-140"><a href="#cb2-140" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Comparação (não expostos) <span class="pp">|</span></span>
-<span id="cb2-141"><a href="#cb2-141" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> Outcome (Desfecho) <span class="pp">|</span></span>
-<span id="cb2-142"><a href="#cb2-142" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-143"><a href="#cb2-143" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de pergunta PECO</span></span>
-<span id="cb2-144"><a href="#cb2-144" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-145"><a href="#cb2-145" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb2-146"><a href="#cb2-146" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|----------|</span></span>
-<span id="cb2-147"><a href="#cb2-147" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> Adultos jovens <span class="pp">|</span></span>
-<span id="cb2-148"><a href="#cb2-148" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **E** <span class="pp">|</span> Uso de cannabis na adolescência <span class="pp">|</span></span>
-<span id="cb2-149"><a href="#cb2-149" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **C** <span class="pp">|</span> Não uso de cannabis <span class="pp">|</span></span>
-<span id="cb2-150"><a href="#cb2-150" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> Desenvolvimento de transtornos psicóticos <span class="pp">|</span></span>
-<span id="cb2-151"><a href="#cb2-151" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-152"><a href="#cb2-152" aria-hidden="true" tabindex="-1"></a>**Pergunta final:** "O uso de cannabis na adolescência aumenta o risco de transtornos psicóticos em adultos jovens comparado a não usuários?"</span>
-<span id="cb2-153"><a href="#cb2-153" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-154"><a href="#cb2-154" aria-hidden="true" tabindex="-1"></a><span class="fu">## Qual acrônimo usar?</span></span>
-<span id="cb2-155"><a href="#cb2-155" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-156"><a href="#cb2-156" aria-hidden="true" tabindex="-1"></a>A escolha depende do **tipo de pergunta** e do **tipo de estudo**:</span>
-<span id="cb2-157"><a href="#cb2-157" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-158"><a href="#cb2-158" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Tipo de pergunta <span class="pp">|</span> Acrônimo recomendado <span class="pp">|</span></span>
-<span id="cb2-159"><a href="#cb2-159" aria-hidden="true" tabindex="-1"></a><span class="pp">|------------------|----------------------|</span></span>
-<span id="cb2-160"><a href="#cb2-160" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Eficácia de intervenção <span class="pp">|</span> PICO, PICOT <span class="pp">|</span></span>
-<span id="cb2-161"><a href="#cb2-161" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Etiologia / Fatores de risco <span class="pp">|</span> PECO <span class="pp">|</span></span>
-<span id="cb2-162"><a href="#cb2-162" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Experiências e significados (quali) <span class="pp">|</span> PICo, SPIDER <span class="pp">|</span></span>
-<span id="cb2-163"><a href="#cb2-163" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Mapeamento da literatura (escopo) <span class="pp">|</span> PCC <span class="pp">|</span></span>
-<span id="cb2-164"><a href="#cb2-164" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Diagnóstico <span class="pp">|</span> PICO (adaptado) <span class="pp">|</span></span>
-<span id="cb2-165"><a href="#cb2-165" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Prognóstico <span class="pp">|</span> PICO (adaptado) <span class="pp">|</span></span>
-<span id="cb2-168"><a href="#cb2-168" aria-hidden="true" tabindex="-1"></a><span class="in">```{mermaid}</span></span>
-<span id="cb2-169"><a href="#cb2-169" aria-hidden="true" tabindex="-1"></a>flowchart TD</span>
-<span id="cb2-170"><a href="#cb2-170" aria-hidden="true" tabindex="-1"></a>    A[Qual é sua pergunta?] --&gt; B{Tipo de estudo?}</span>
-<span id="cb2-171"><a href="#cb2-171" aria-hidden="true" tabindex="-1"></a>    </span>
-<span id="cb2-172"><a href="#cb2-172" aria-hidden="true" tabindex="-1"></a>    B --&gt;|Intervenção| C[PICO / PICOT]</span>
-<span id="cb2-173"><a href="#cb2-173" aria-hidden="true" tabindex="-1"></a>    B --&gt;|Exposição / Risco| D[PECO]</span>
-<span id="cb2-174"><a href="#cb2-174" aria-hidden="true" tabindex="-1"></a>    B --&gt;|Qualitativo| E[PICo / SPIDER]</span>
-<span id="cb2-175"><a href="#cb2-175" aria-hidden="true" tabindex="-1"></a>    B --&gt;|Revisão de escopo| F[PCC]</span>
-<span id="cb2-176"><a href="#cb2-176" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
-<span id="cb2-177"><a href="#cb2-177" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-178"><a href="#cb2-178" aria-hidden="true" tabindex="-1"></a><span class="fu">## Da pergunta à estratégia de busca</span></span>
-<span id="cb2-179"><a href="#cb2-179" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-180"><a href="#cb2-180" aria-hidden="true" tabindex="-1"></a>Após estruturar a pergunta, cada elemento do acrônimo orienta a construção da **estratégia de busca** nas bases de dados.</span>
-<span id="cb2-181"><a href="#cb2-181" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-182"><a href="#cb2-182" aria-hidden="true" tabindex="-1"></a><span class="fu">### Passo a passo</span></span>
-<span id="cb2-183"><a href="#cb2-183" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-184"><a href="#cb2-184" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**Identifique os termos** para cada elemento do acrônimo</span>
-<span id="cb2-185"><a href="#cb2-185" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**Busque sinônimos** e termos relacionados</span>
-<span id="cb2-186"><a href="#cb2-186" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**Identifique descritores controlados** (MeSH, DeCS)</span>
-<span id="cb2-187"><a href="#cb2-187" aria-hidden="true" tabindex="-1"></a><span class="ss">4. </span>**Combine os termos** com operadores booleanos</span>
-<span id="cb2-188"><a href="#cb2-188" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-189"><a href="#cb2-189" aria-hidden="true" tabindex="-1"></a><span class="fu">### Operadores booleanos</span></span>
-<span id="cb2-190"><a href="#cb2-190" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-191"><a href="#cb2-191" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Operador <span class="pp">|</span> Função <span class="pp">|</span> Exemplo <span class="pp">|</span></span>
-<span id="cb2-192"><a href="#cb2-192" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|--------|---------|</span></span>
-<span id="cb2-193"><a href="#cb2-193" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **AND** <span class="pp">|</span> Intersecção (restringe) <span class="pp">|</span> depression AND elderly <span class="pp">|</span></span>
-<span id="cb2-194"><a href="#cb2-194" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **OR** <span class="pp">|</span> União (amplia) <span class="pp">|</span> elderly OR aged OR older <span class="pp">|</span></span>
-<span id="cb2-195"><a href="#cb2-195" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **NOT** <span class="pp">|</span> Exclusão (use com cautela) <span class="pp">|</span> depression NOT bipolar <span class="pp">|</span></span>
-<span id="cb2-196"><a href="#cb2-196" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-197"><a href="#cb2-197" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplo de estratégia de busca</span></span>
-<span id="cb2-198"><a href="#cb2-198" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-199"><a href="#cb2-199" aria-hidden="true" tabindex="-1"></a>**Pergunta PICO:** "Em idosos com depressão, os ISRS são eficazes para remissão dos sintomas?"</span>
-<span id="cb2-200"><a href="#cb2-200" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-201"><a href="#cb2-201" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Elemento <span class="pp">|</span> Termos de busca <span class="pp">|</span></span>
-<span id="cb2-202"><a href="#cb2-202" aria-hidden="true" tabindex="-1"></a><span class="pp">|----------|-----------------|</span></span>
-<span id="cb2-203"><a href="#cb2-203" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **P** <span class="pp">|</span> elderly OR aged OR "older adults" OR geriatric <span class="pp">|</span></span>
-<span id="cb2-204"><a href="#cb2-204" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **I** <span class="pp">|</span> SSRI OR "selective serotonin reuptake inhibitor" OR fluoxetine OR sertraline <span class="pp">|</span></span>
-<span id="cb2-205"><a href="#cb2-205" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> **O** <span class="pp">|</span> remission OR response OR improvement <span class="pp">|</span></span>
-<span id="cb2-206"><a href="#cb2-206" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-207"><a href="#cb2-207" aria-hidden="true" tabindex="-1"></a>**Estratégia combinada:**</span>
-<span id="cb2-208"><a href="#cb2-208" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
-<span id="cb2-209"><a href="#cb2-209" aria-hidden="true" tabindex="-1"></a><span class="in">(elderly OR aged OR "older adults" OR geriatric)</span></span>
-<span id="cb2-210"><a href="#cb2-210" aria-hidden="true" tabindex="-1"></a><span class="in">AND</span></span>
-<span id="cb2-211"><a href="#cb2-211" aria-hidden="true" tabindex="-1"></a><span class="in">(SSRI OR "selective serotonin reuptake inhibitor" OR fluoxetine OR sertraline OR escitalopram)</span></span>
-<span id="cb2-212"><a href="#cb2-212" aria-hidden="true" tabindex="-1"></a><span class="in">AND</span></span>
-<span id="cb2-213"><a href="#cb2-213" aria-hidden="true" tabindex="-1"></a><span class="in">(depression OR "depressive disorder" OR "major depression")</span></span>
-<span id="cb2-214"><a href="#cb2-214" aria-hidden="true" tabindex="-1"></a><span class="in">AND</span></span>
-<span id="cb2-215"><a href="#cb2-215" aria-hidden="true" tabindex="-1"></a><span class="in">(remission OR response OR improvement)</span></span>
-<span id="cb2-216"><a href="#cb2-216" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
-<span id="cb2-217"><a href="#cb2-217" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-218"><a href="#cb2-218" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip}</span>
-<span id="cb2-219"><a href="#cb2-219" aria-hidden="true" tabindex="-1"></a><span class="fu">## Dica prática</span></span>
-<span id="cb2-220"><a href="#cb2-220" aria-hidden="true" tabindex="-1"></a>Comece com uma busca sensível (ampla) e depois refine conforme necessário. É melhor ter muitos resultados para triar do que perder estudos relevantes.</span>
-<span id="cb2-221"><a href="#cb2-221" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-222"><a href="#cb2-222" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-223"><a href="#cb2-223" aria-hidden="true" tabindex="-1"></a><span class="fu">## Erros comuns na formulação da pergunta</span></span>
-<span id="cb2-224"><a href="#cb2-224" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-225"><a href="#cb2-225" aria-hidden="true" tabindex="-1"></a>::: {.callout-warning}</span>
-<span id="cb2-226"><a href="#cb2-226" aria-hidden="true" tabindex="-1"></a><span class="fu">## Evite estes erros</span></span>
-<span id="cb2-227"><a href="#cb2-227" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-228"><a href="#cb2-228" aria-hidden="true" tabindex="-1"></a><span class="ss">1. </span>**Pergunta muito ampla:** "O que se sabe sobre depressão?" — impossível de responder sistematicamente</span>
-<span id="cb2-229"><a href="#cb2-229" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-230"><a href="#cb2-230" aria-hidden="true" tabindex="-1"></a><span class="ss">2. </span>**Pergunta muito restrita:** "A fluoxetina 20mg por 8 semanas é eficaz para depressão leve em mulheres entre 30-35 anos no Brasil?" — pode não haver estudos</span>
-<span id="cb2-231"><a href="#cb2-231" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-232"><a href="#cb2-232" aria-hidden="true" tabindex="-1"></a><span class="ss">3. </span>**Ausência de desfecho claro:** "Os ISRS são bons para idosos?" — bons em quê?</span>
-<span id="cb2-233"><a href="#cb2-233" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-234"><a href="#cb2-234" aria-hidden="true" tabindex="-1"></a><span class="ss">4. </span>**Confundir intervenção com exposição:** usar PICO quando deveria usar PECO</span>
-<span id="cb2-235"><a href="#cb2-235" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-236"><a href="#cb2-236" aria-hidden="true" tabindex="-1"></a><span class="ss">5. </span>**Misturar múltiplas perguntas:** "Os ISRS são eficazes e seguros e melhoram qualidade de vida?" — são três perguntas diferentes</span>
-<span id="cb2-237"><a href="#cb2-237" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-238"><a href="#cb2-238" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-239"><a href="#cb2-239" aria-hidden="true" tabindex="-1"></a><span class="fu">## Resumo</span></span>
-<span id="cb2-240"><a href="#cb2-240" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-241"><a href="#cb2-241" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
-<span id="cb2-242"><a href="#cb2-242" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pontos-chave</span></span>
-<span id="cb2-243"><a href="#cb2-243" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-244"><a href="#cb2-244" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Acrônimos ajudam a **estruturar** perguntas de pesquisa de forma clara</span>
-<span id="cb2-245"><a href="#cb2-245" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**PICO** é o padrão para perguntas sobre intervenções</span>
-<span id="cb2-246"><a href="#cb2-246" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**PICo** e **SPIDER** são adaptações para estudos qualitativos</span>
-<span id="cb2-247"><a href="#cb2-247" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**PCC** é recomendado para revisões de escopo</span>
-<span id="cb2-248"><a href="#cb2-248" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>**PECO** é usado para perguntas sobre exposição/risco</span>
-<span id="cb2-249"><a href="#cb2-249" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Cada elemento do acrônimo orienta a **estratégia de busca**</span>
-<span id="cb2-250"><a href="#cb2-250" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Use **operadores booleanos** (AND, OR, NOT) para combinar termos</span>
-<span id="cb2-251"><a href="#cb2-251" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Evite perguntas muito amplas ou muito restritas</span>
-<span id="cb2-252"><a href="#cb2-252" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-253"><a href="#cb2-253" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-254"><a href="#cb2-254" aria-hidden="true" tabindex="-1"></a><span class="fu">## Leituras recomendadas</span></span>
-<span id="cb2-255"><a href="#cb2-255" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-256"><a href="#cb2-256" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@santos2007 — A estratégia PICO para a construção da pergunta de pesquisa</span>
-<span id="cb2-257"><a href="#cb2-257" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@richardson1995 — The well-built clinical question</span>
-<span id="cb2-258"><a href="#cb2-258" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@cooke2012 — Beyond PICO: the SPIDER tool for qualitative evidence synthesis</span>
-<span id="cb2-259"><a href="#cb2-259" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>@nobre2004 — A prática clínica baseada em evidências</span>
-<span id="cb2-260"><a href="#cb2-260" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-261"><a href="#cb2-261" aria-hidden="true" tabindex="-1"></a>---</span>
-<span id="cb2-262"><a href="#cb2-262" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-263"><a href="#cb2-263" aria-hidden="true" tabindex="-1"></a>Próximo capítulo: **[Registro de Protocolos](08-registro-osf.qmd)**</span>
-</code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
-</div></div></div></div></div>
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 Henrique Alvarenga da Silva - UFSJ</p>
+<p>© 2025 <a href="https://henriquealvarenga.com">Henrique Alvarenga da Silva</a> · UFSJ · AFYA</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -1781,7 +1522,18 @@ SANTOS, Cristina Mamédio da Costa; PIMENTA, Cibele Andrucioli de Mattos; NOBRE,
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://henriquealvarenga.com">
+    <a class="nav-link" href="mailto:henriquealvarenga@ufsj.edu.br">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0000-0001-9799-5240">
+<p>ORCID</p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review">
       <i class="bi bi-github" role="img">
 </i> 
     </a>

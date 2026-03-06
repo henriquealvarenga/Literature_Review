@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Henrique Alvarenga da Silva">
 
-<title>Revisões de Literatura em Saúde – Revisões de Literatura em Saúde: Da Pergunta à Síntese</title>
+<title>Revisões de Literatura em Saúde — Da Pergunta à Síntese</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,41 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -109,17 +73,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="landing.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Revisões de Literatura em Saúde: Da Pergunta à Síntese</span>
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo light-content">
+    <img src="./images/logo-navbar.svg" alt="Revisões de Literatura em Saúde" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -129,24 +95,114 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> <i class="bi bi-house" role="img">
+</i> 
 <span class="menu-text">Início</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./01-introducao.html"> 
-<span class="menu-text">Tipos de Revisão</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-introdução" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Introdução</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-introdução">    
+        <li>
+    <a class="dropdown-item" href="./00-sinopse.html"><i class="bi bi-book" role="img">
+</i> 
+ <span class="dropdown-text">Sinopse</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./07-acronimos-pico.html"> 
-<span class="menu-text">Acrônimos PICO</span></a>
+        <li>
+    <a class="dropdown-item" href="./01-introducao.html"><i class="bi bi-info-circle" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral dos Tipos de Revisão</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./09-pratica-0.html"> 
-<span class="menu-text">Atividades Práticas</span></a>
+        <li>
+    <a class="dropdown-item" href="./01.1-historia.html"><i class="bi bi-clock-history" role="img">
+</i> 
+ <span class="dropdown-text">Uma Breve História das Revisões</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-tipos-de-revisão" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Tipos de Revisão</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-tipos-de-revisão">    
+        <li>
+    <a class="dropdown-item" href="./02-revisao-narrativa.html"><i class="bi bi-file-text" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Narrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./03-revisao-integrativa.html"><i class="bi bi-grid" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Integrativa</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./04-revisao-escopo.html"><i class="bi bi-search" role="img">
+</i> 
+ <span class="dropdown-text">Revisão de Escopo</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./05-revisao-sistematica.html"><i class="bi bi-clipboard-check" role="img">
+</i> 
+ <span class="dropdown-text">Revisão Sistemática</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./06-metanalise.html"><i class="bi bi-bar-chart" role="img">
+</i> 
+ <span class="dropdown-text">Meta-análise</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ferramentas" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Ferramentas</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-ferramentas">    
+        <li>
+    <a class="dropdown-item" href="./07-acronimos-pico.html"><i class="bi bi-question-circle" role="img">
+</i> 
+ <span class="dropdown-text">Acrônimos PICO, PICo, PICOT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./08-registro-osf.html"><i class="bi bi-lock" role="img">
+</i> 
+ <span class="dropdown-text">Registro de Protocolos (OSF)</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-prática" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Prática</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-prática">    
+        <li>
+    <a class="dropdown-item" href="./09-pratica-0.html"><i class="bi bi-star" role="img">
+</i> 
+ <span class="dropdown-text">Visão Geral das Atividades</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-1.html"><i class="bi bi-pencil-square" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 1: Análise Crítica</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./09-pratica-2.html"><i class="bi bi-signpost-split" role="img">
+</i> 
+ <span class="dropdown-text">Atividade 2: Planejamento</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./About.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./About.html"> <i class="bi bi-info-circle" role="img">
+</i> 
+<span class="menu-text">Sobre</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -154,197 +210,30 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Início</a></li><li class="breadcrumb-item"><a href="./index.html">Apresentação</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-        </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
-        <i class="bi bi-search"></i>
-      </button>
-    </div>
-  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-        <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Procurar"></div>
-        </div>
-        </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Início</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar seção">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Apresentação</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./01-introducao.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Visão Geral dos Tipos de Revisão</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./01.1-historia.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Uma Breve História das Revisões</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Tipos de Revisão</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Alternar seção">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./02-revisao-narrativa.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Revisão Narrativa</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./03-revisao-integrativa.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Revisão Integrativa</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./04-revisao-escopo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Revisão de Escopo</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./05-revisao-sistematica.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Revisão Sistemática</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./06-metanalise.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Meta-análise</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Ferramentas</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Alternar seção">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./07-acronimos-pico.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Acrônimos PICO, PICo, PICOT</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./08-registro-osf.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Registro de Protocolos (OSF)</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
- <span class="menu-text">Prática</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Alternar seção">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./09-pratica-0.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Atividades Práticas</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./09-pratica-1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Revisão de Escopo</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./09-pratica-2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Revisão Narrativa e Integrativa</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Nesta página</h2>
-   
-  <ul>
-  <li><a href="#bem-vindoa" id="toc-bem-vindoa" class="nav-link active" data-scroll-target="#bem-vindoa">Bem-vindo(a)</a></li>
-  <li><a href="#por-que-aprender-sobre-revisão-de-literatura" id="toc-por-que-aprender-sobre-revisão-de-literatura" class="nav-link" data-scroll-target="#por-que-aprender-sobre-revisão-de-literatura">Por que aprender sobre revisão de literatura?</a></li>
-  <li><a href="#o-que-você-encontrará-aqui" id="toc-o-que-você-encontrará-aqui" class="nav-link" data-scroll-target="#o-que-você-encontrará-aqui">O que você encontrará aqui</a></li>
-  <li><a href="#autor" id="toc-autor" class="nav-link" data-scroll-target="#autor">Autor</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Início</a></li><li class="breadcrumb-item"><a href="./index.html">Apresentação</a></li></ol></nav>
 <div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title">Revisões de Literatura em Saúde</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Código</button></div></div>
-<p class="subtitle lead">Da Pergunta à Síntese</p>
 </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Autor</div>
-  <div class="quarto-title-meta-heading">Afiliação</div>
-  
+
+<div class="quarto-title-meta column-page">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autor</div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Henrique Alvarenga da Silva <a href="mailto:henriquealvarenga@ufsj.edu.br" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> <a href="https://orcid.org/0000-0001-9799-5240" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+             <p> </p>
+          </div>
   </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Universidade Federal de São João del-Rei (UFSJ)
-          </p>
-      </div>
-  </div>
-
-<div class="quarto-title-meta">
-
-      
+    
   
     
   </div>
@@ -354,95 +243,309 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<section id="bem-vindoa" class="level2">
-<h2 class="anchored" data-anchor-id="bem-vindoa">Bem-vindo(a)</h2>
-<p>Este material foi desenvolvido para <strong>estudantes de medicina</strong>, <strong>residentes</strong> e <strong>pós-graduandos da área da saúde</strong> que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.</p>
-<p>Ao longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Nota</span>Mais do que um guia técnico
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>A proposta é ajudar você a <strong>pensar metodologicamente</strong>, entendendo <em>por que</em> escolher um tipo de revisão — e não apenas <em>como</em> executá-la.</p>
-</div>
-</div>
+<!-- ========== CAPA ========== -->
+<section class="cover">
+  <div class="cover-content">
+
+    <div class="cover-visual">
+      <svg viewbox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <!-- Documento base -->
+        <rect x="25" y="15" width="50" height="65" rx="4" fill="#1E3A5F" opacity="0.15" stroke="#1E3A5F" stroke-width="1.5"></rect>
+        <line x1="35" y1="30" x2="65" y2="30" stroke="#1E3A5F" stroke-width="1.5" opacity="0.4"></line>
+        <line x1="35" y1="38" x2="60" y2="38" stroke="#1E3A5F" stroke-width="1.5" opacity="0.3"></line>
+        <line x1="35" y1="46" x2="65" y2="46" stroke="#1E3A5F" stroke-width="1.5" opacity="0.4"></line>
+        <line x1="35" y1="54" x2="55" y2="54" stroke="#1E3A5F" stroke-width="1.5" opacity="0.3"></line>
+        <line x1="35" y1="62" x2="62" y2="62" stroke="#1E3A5F" stroke-width="1.5" opacity="0.4"></line>
+        <!-- Lupa -->
+        <circle cx="78" cy="72" r="18" fill="none" stroke="#2563EB" stroke-width="2.5" opacity="0.7"></circle>
+        <line x1="91" y1="85" x2="105" y2="99" stroke="#2563EB" stroke-width="3" stroke-linecap="round" opacity="0.7"></line>
+        <!-- Check marks dentro da lupa -->
+        <path d="M70 68 L75 73 L86 62" stroke="#10B981" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.8"></path>
+        <!-- Setas de síntese -->
+        <path d="M15 95 L50 95" stroke="#6366F1" stroke-width="1.5" stroke-linecap="round" opacity="0.5"></path>
+        <path d="M15 103 L50 103" stroke="#6366F1" stroke-width="1.5" stroke-linecap="round" opacity="0.5"></path>
+        <path d="M50 90 L50 108" stroke="#6366F1" stroke-width="1" opacity="0.3"></path>
+        <path d="M50 99 L65 99" stroke="#6366F1" stroke-width="2" stroke-linecap="round" opacity="0.6"></path>
+        <polygon points="65,95 65,103 72,99" fill="#6366F1" opacity="0.5"></polygon>
+      </svg>
+    </div>
+
+    <h1>Revisões de<br>Literatura em <span class="highlight">Saúde</span></h1>
+
+    <p class="cover-subtitle">
+      Da pergunta à síntese: um guia para estudantes,<br>
+      residentes e pesquisadores da área da saúde.
+    </p>
+
+    <div class="cover-author">
+      <a href="https://www.henriquealvarenga.com" target="_blank">Prof. Henrique Alvarenga da Silva</a><br>
+      <span class="affiliation">UFSJ · AFYA</span>
+    </div>
+
+    <a href="#conteudo" class="cover-cta">
+      Começar a explorar
+      <span class="arrow">→</span>
+    </a>
+  </div>
+
+  <div class="cover-scroll-hint">scroll ↓</div>
 </section>
-<section id="por-que-aprender-sobre-revisão-de-literatura" class="level2">
-<h2 class="anchored" data-anchor-id="por-que-aprender-sobre-revisão-de-literatura">Por que aprender sobre revisão de literatura?</h2>
-<p>Na prática clínica, na pesquisa e na tomada de decisão em saúde, somos constantemente confrontados com perguntas como:</p>
-<ul>
-<li><em>Este tratamento realmente funciona?</em></li>
-<li><em>Qual é a melhor evidência disponível?</em></li>
-<li><em>O que já se sabe — e o que ainda não se sabe — sobre esse tema?</em></li>
-</ul>
-<p>Responder a essas perguntas exige mais do que “ler alguns artigos”. Exige <strong>método, critério e síntese</strong>. Revisões de literatura bem conduzidas são a base da prática baseada em evidências, da formulação de diretrizes clínicas e do avanço do conhecimento científico.</p>
+
+<!-- ========== CONTEÚDO ========== -->
+<div id="conteudo">
+
+<!-- INÍCIO -->
+<section class="content-section">
+  <div class="section-header">
+    <div class="section-label inicio">Introdução</div>
+    <h2 class="section-title anchored">Primeiros Passos</h2>
+  </div>
+
+  <div class="cards-grid">
+
+    <a href="00-sinopse.html" class="card-new">
+      <div class="card-accent inicio"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container inicio">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#1E3A5F" stroke-width="2" stroke-linecap="round"><path d="M2 3h6a4 4 0 014 4v14a3 3 0 00-3-3H2z"></path><path d="M22 3h-6a4 4 0 00-4 4v14a3 3 0 013-3h7z"></path></svg>
+        </div>
+        <h3 class="anchored">Sinopse</h3>
+        <p>Uma visão geral do material: para quem é, o que cobre, e como aproveitar ao máximo cada capítulo.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Apresentação</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="01-introducao.html" class="card-new">
+      <div class="card-accent inicio"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container inicio">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#1E3A5F" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+        </div>
+        <h3 class="anchored">Visão Geral dos Tipos de Revisão</h3>
+        <p>Panorama comparativo: narrativa, integrativa, escopo, sistemática e meta-análise. Quando usar cada uma?</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 1</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="01.1-historia.html" class="card-new">
+      <div class="card-accent inicio"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container inicio">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#1E3A5F" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+        </div>
+        <h3 class="anchored">Uma Breve História das Revisões</h3>
+        <p>De Karl Pearson a Archie Cochrane: como as revisões de literatura se tornaram pilar da medicina baseada em evidências.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 1.1</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+  </div>
 </section>
-<section id="o-que-você-encontrará-aqui" class="level2">
-<h2 class="anchored" data-anchor-id="o-que-você-encontrará-aqui">O que você encontrará aqui</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Seção</th>
-<th>Conteúdo</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="./01-introducao.html">Visão geral</a></td>
-<td>Panorama de todos os tipos de revisão e suas diferenças</td>
-</tr>
-<tr class="even">
-<td><a href="./02-revisao-narrativa.html">Revisão Narrativa</a></td>
-<td>Fundamentação teórica e contextualização</td>
-</tr>
-<tr class="odd">
-<td><a href="./03-revisao-integrativa.html">Revisão Integrativa</a></td>
-<td>Síntese de evidências com flexibilidade metodológica</td>
-</tr>
-<tr class="even">
-<td><a href="./04-revisao-escopo.html">Revisão de Escopo</a></td>
-<td>Mapeamento de campos de pesquisa</td>
-</tr>
-<tr class="odd">
-<td><a href="./05-revisao-sistematica.html">Revisão Sistemática</a></td>
-<td>O padrão-ouro para síntese de evidências</td>
-</tr>
-<tr class="even">
-<td><a href="./06-metanalise.html">Meta-análise</a></td>
-<td>Síntese quantitativa de múltiplos estudos</td>
-</tr>
-<tr class="odd">
-<td><a href="./07-acronimos-pico.html">Acrônimos PICO</a></td>
-<td>Estruturação de perguntas de pesquisa</td>
-</tr>
-<tr class="even">
-<td><a href="./08-registro-osf.html">Registro de Protocolos</a></td>
-<td>OSF, PROSPERO e transparência científica</td>
-</tr>
-<tr class="odd">
-<td><a href="./09-pratica-0.html">Atividades Práticas</a></td>
-<td>Exercícios para aplicação dos conceitos</td>
-</tr>
-</tbody>
-</table>
+
+<hr class="section-divider">
+
+<!-- TIPOS DE REVISÃO -->
+<section class="content-section">
+  <div class="section-header">
+    <div class="section-label tipos">Parte Central</div>
+    <h2 class="section-title anchored">Tipos de Revisão</h2>
+  </div>
+
+  <div class="cards-grid">
+
+    <a href="02-revisao-narrativa.html" class="card-new">
+      <div class="card-accent tipos"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container tipos">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><line x1="10" y1="9" x2="8" y2="9"></line></svg>
+        </div>
+        <h3 class="anchored">Revisão Narrativa</h3>
+        <p>Fundamentação teórica e contextualização ampla de um tema. Flexível, mas com critérios de qualidade bem definidos.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 2</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="03-revisao-integrativa.html" class="card-new">
+      <div class="card-accent tipos"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container tipos">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><rect x="3" y="3" width="7" height="7" rx="1"></rect><rect x="14" y="3" width="7" height="7" rx="1"></rect><rect x="3" y="14" width="7" height="7" rx="1"></rect><rect x="14" y="14" width="7" height="7" rx="1"></rect></svg>
+        </div>
+        <h3 class="anchored">Revisão Integrativa</h3>
+        <p>Síntese de evidências com flexibilidade metodológica. Combina estudos experimentais e não experimentais num mesmo panorama.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 3</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="04-revisao-escopo.html" class="card-new">
+      <div class="card-accent tipos"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container tipos">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
+        </div>
+        <h3 class="anchored">Revisão de Escopo</h3>
+        <p>Mapeamento da extensão e natureza da literatura disponível. Ideal para explorar campos emergentes ou amplos.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 4</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="05-revisao-sistematica.html" class="card-new">
+      <div class="card-accent tipos"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container tipos">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"></path><rect x="9" y="3" width="6" height="4" rx="1"></rect><path d="M9 14l2 2 4-4"></path></svg>
+        </div>
+        <h3 class="anchored">Revisão Sistemática</h3>
+        <p>O padrão-ouro para síntese de evidências. Protocolo rigoroso, busca exaustiva e avaliação de viés — passo a passo.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 5</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="06-metanalise.html" class="card-new">
+      <div class="card-accent tipos"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container tipos">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="2" stroke-linecap="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line><line x1="3" y1="12" x2="21" y2="12" stroke-dasharray="2 2" opacity="0.5"></line><polygon points="12,2 10,6 14,6" fill="#2563EB" opacity="0.6"></polygon></svg>
+        </div>
+        <h3 class="anchored">Meta-análise</h3>
+        <p>Síntese quantitativa: combinando resultados de múltiplos estudos. Forest plots, heterogeneidade e tamanho de efeito.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 6</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+  </div>
 </section>
-<section id="autor" class="level2">
-<h2 class="anchored" data-anchor-id="autor">Autor</h2>
-<p><strong>Henrique Alvarenga da Silva</strong></p>
-<p>Médico psiquiatra.<br>
-Professor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).<br>
-Professor de Métodos de Pesquisa em Medicina na AFYA.</p>
-<p>🌐 <a href="https://www.henriquealvarenga.com">henriquealvarenga.com</a></p>
+
+<hr class="section-divider">
+
+<!-- FERRAMENTAS -->
+<section class="content-section">
+  <div class="section-header">
+    <div class="section-label ferramentas">Metodologia</div>
+    <h2 class="section-title anchored">Ferramentas</h2>
+  </div>
+
+  <div class="cards-grid">
+
+    <a href="07-acronimos-pico.html" class="card-new">
+      <div class="card-accent ferramentas"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container ferramentas">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 015.83 1c0 2-3 3-3 3"></path><circle cx="12" cy="17" r="0.5" fill="#059669"></circle></svg>
+        </div>
+        <h3 class="anchored">Acrônimos PICO, PICo, PICOT</h3>
+        <p>Como estruturar perguntas de pesquisa. PICO, PICo, PICOT, PCC, PECO e SPIDER — cada framework no seu contexto.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 7</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="08-registro-osf.html" class="card-new">
+      <div class="card-accent ferramentas"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container ferramentas">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round"><rect x="3" y="11" width="18" height="10" rx="2"></rect><circle cx="12" cy="16" r="1"></circle><path d="M7 11V7a5 5 0 0110 0v4"></path></svg>
+        </div>
+        <h3 class="anchored">Registro de Protocolos</h3>
+        <p>PROSPERO e OSF: por que registrar seu protocolo antes de começar. Transparência e reprodutibilidade na prática.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Capítulo 8</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+  </div>
+</section>
+
+<hr class="section-divider">
+
+<!-- PRÁTICA -->
+<section class="content-section">
+  <div class="section-header">
+    <div class="section-label pratica">Aplicação</div>
+    <h2 class="section-title anchored">Atividades Práticas</h2>
+  </div>
+
+  <div class="cards-grid">
+
+    <a href="09-pratica-0.html" class="card-new">
+      <div class="card-accent pratica"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container pratica">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26"></polygon></svg>
+        </div>
+        <h3 class="anchored">Visão Geral das Atividades</h3>
+        <p>Introdução às duas atividades práticas complementares: análise crítica e planejamento de revisões.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Prática</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="09-pratica-1.html" class="card-new">
+      <div class="card-accent pratica"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container pratica">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round"><path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+        </div>
+        <h3 class="anchored">Atividade 1: Análise Crítica</h3>
+        <p>Análise de revisões de escopo publicadas usando o checklist PRISMA-ScR. Identificar pontos fortes e fragilidades.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Prática 1</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+    <a href="09-pratica-2.html" class="card-new">
+      <div class="card-accent pratica"></div>
+      <div class="card-body-new">
+        <div class="card-icon-container pratica">
+          <svg viewbox="0 0 24 24" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round"><polyline points="16,3 21,3 21,8"></polyline><line x1="4" y1="20" x2="21" y2="3"></line><polyline points="21,16 21,21 16,21"></polyline><line x1="15" y1="15" x2="21" y2="21"></line><line x1="4" y1="4" x2="9" y2="9"></line></svg>
+        </div>
+        <h3 class="anchored">Atividade 2: Planejamento</h3>
+        <p>Planejando duas revisões paralelas — narrativa e integrativa — a partir da mesma pergunta de pesquisa.</p>
+      </div>
+      <div class="card-footer-new">
+        <span class="card-chapter">Prática 2</span>
+        <span class="card-arrow">→</span>
+      </div>
+    </a>
+
+  </div>
+</section>
+
+</div>
 
 
-<!-- -->
-
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -515,57 +618,6 @@ Professor de Métodos de Pesquisa em Medicina na AFYA.</p>
         container: window.document.getElementById('quarto-embedded-source-code-modal')
       });
       clipboardModal.on('success', onCopySuccess);
-    }
-    const viewSource = window.document.getElementById('quarto-view-source') ||
-                       window.document.getElementById('quarto-code-tools-source');
-    if (viewSource) {
-      const sourceUrl = viewSource.getAttribute("data-quarto-source-url");
-      viewSource.addEventListener("click", function(e) {
-        if (sourceUrl) {
-          // rstudio viewer pane
-          if (/\bcapabilities=\b/.test(window.location)) {
-            window.open(sourceUrl);
-          } else {
-            window.location.href = sourceUrl;
-          }
-        } else {
-          const modal = new bootstrap.Modal(document.getElementById('quarto-embedded-source-code-modal'));
-          modal.show();
-        }
-        return false;
-      });
-    }
-    function toggleCodeHandler(show) {
-      return function(e) {
-        const detailsSrc = window.document.querySelectorAll(".cell > details > .sourceCode");
-        for (let i=0; i<detailsSrc.length; i++) {
-          const details = detailsSrc[i].parentElement;
-          if (show) {
-            details.open = true;
-          } else {
-            details.removeAttribute("open");
-          }
-        }
-        const cellCodeDivs = window.document.querySelectorAll(".cell > .sourceCode");
-        const fromCls = show ? "hidden" : "unhidden";
-        const toCls = show ? "unhidden" : "hidden";
-        for (let i=0; i<cellCodeDivs.length; i++) {
-          const codeDiv = cellCodeDivs[i];
-          if (codeDiv.classList.contains(fromCls)) {
-            codeDiv.classList.remove(fromCls);
-            codeDiv.classList.add(toCls);
-          } 
-        }
-        return false;
-      }
-    }
-    const hideAllCode = window.document.getElementById("quarto-hide-all-code");
-    if (hideAllCode) {
-      hideAllCode.addEventListener("click", toggleCodeHandler(false));
-    }
-    const showAllCode = window.document.getElementById("quarto-show-all-code");
-    if (showAllCode) {
-      showAllCode.addEventListener("click", toggleCodeHandler(true));
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
@@ -900,63 +952,12 @@ Professor de Métodos de Pesquisa em Medicina na AFYA.</p>
       }
     }
   });
-  </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Código fonte</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Revisões de Literatura em Saúde"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "Da Pergunta à Síntese"</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">## Bem-vindo(a)</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>Este material foi desenvolvido para **estudantes de medicina**, **residentes** e **pós-graduandos da área da saúde** que desejam compreender como formular boas perguntas de pesquisa e transformá-las em revisões de literatura bem conduzidas.</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>Ao longo dos capítulos, você encontrará explicações sobre os principais tipos de revisão de literatura, com exemplos clínicos, comparações metodológicas e orientações práticas.</span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>::: {.callout-note}</span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="fu">## Mais do que um guia técnico</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>A proposta é ajudar você a **pensar metodologicamente**, entendendo *por que* escolher um tipo de revisão — e não apenas *como* executá-la.</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## Por que aprender sobre revisão de literatura?</span></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>Na prática clínica, na pesquisa e na tomada de decisão em saúde, somos constantemente confrontados com perguntas como:</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>*Este tratamento realmente funciona?*</span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>*Qual é a melhor evidência disponível?*</span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>*O que já se sabe — e o que ainda não se sabe — sobre esse tema?*</span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>Responder a essas perguntas exige mais do que "ler alguns artigos". Exige **método, critério e síntese**. Revisões de literatura bem conduzidas são a base da prática baseada em evidências, da formulação de diretrizes clínicas e do avanço do conhecimento científico.</span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="fu">## O que você encontrará aqui</span></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> Seção <span class="pp">|</span> Conteúdo <span class="pp">|</span></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="pp">|-------|----------|</span></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Visão geral</span><span class="co">](01-introducao.qmd)</span> <span class="pp">|</span> Panorama de todos os tipos de revisão e suas diferenças <span class="pp">|</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Revisão Narrativa</span><span class="co">](02-revisao-narrativa.qmd)</span> <span class="pp">|</span> Fundamentação teórica e contextualização <span class="pp">|</span></span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Revisão Integrativa</span><span class="co">](03-revisao-integrativa.qmd)</span> <span class="pp">|</span> Síntese de evidências com flexibilidade metodológica <span class="pp">|</span></span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Revisão de Escopo</span><span class="co">](04-revisao-escopo.qmd)</span> <span class="pp">|</span> Mapeamento de campos de pesquisa <span class="pp">|</span></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Revisão Sistemática</span><span class="co">](05-revisao-sistematica.qmd)</span> <span class="pp">|</span> O padrão-ouro para síntese de evidências <span class="pp">|</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Meta-análise</span><span class="co">](06-metanalise.qmd)</span> <span class="pp">|</span> Síntese quantitativa de múltiplos estudos <span class="pp">|</span></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Acrônimos PICO</span><span class="co">](07-acronimos-pico.qmd)</span> <span class="pp">|</span> Estruturação de perguntas de pesquisa <span class="pp">|</span></span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Registro de Protocolos</span><span class="co">](08-registro-osf.qmd)</span> <span class="pp">|</span> OSF, PROSPERO e transparência científica <span class="pp">|</span></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> <span class="co">[</span><span class="ot">Atividades Práticas</span><span class="co">](09-pratica-0.qmd)</span> <span class="pp">|</span> Exercícios para aplicação dos conceitos <span class="pp">|</span></span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="fu">## Autor</span></span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>**Henrique Alvarenga da Silva**</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>Médico psiquiatra.   </span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>Professor de Psiquiatria e Psicopatologia no curso de Medicina da Universidade Federal de São João del-Rei (UFSJ).   </span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>Professor de Métodos de Pesquisa em Medicina na AFYA.</span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>🌐 <span class="co">[</span><span class="ot">henriquealvarenga.com</span><span class="co">](https://www.henriquealvarenga.com)</span></span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
-</div></div></div></div></div>
+  </script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2025 Henrique Alvarenga da Silva - UFSJ</p>
+<p>© 2025 <a href="https://henriquealvarenga.com">Henrique Alvarenga da Silva</a> · UFSJ · AFYA</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -964,7 +965,18 @@ Professor de Métodos de Pesquisa em Medicina na AFYA.</p>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://henriquealvarenga.com">
+    <a class="nav-link" href="mailto:henriquealvarenga@ufsj.edu.br">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0000-0001-9799-5240">
+<p>ORCID</p>
+</a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/henriquealvarenga/Literature_Review">
       <i class="bi bi-github" role="img">
 </i> 
     </a>
