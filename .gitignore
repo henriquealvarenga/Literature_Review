@@ -1,36 +1,65 @@
-# Quarto
-/.quarto/
-/_site/
-/.luarc.json
+# =============================================================================
+# Output do Quarto — gerado pelo CI (GitHub Actions), NÃO versionado
+# =============================================================================
+docs/
+_site/
+_book/
+.quarto/
+**/*_cache/
+**/*_files/
+**/*.quarto_ipynb
 
-# Arquivos de referência grandes
-references/books/
-references/PDFs/books/
-references/_PDFs/books/
+# =============================================================================
+# Sandbox do Claude Code (worktrees, settings locais)
+# =============================================================================
+.claude/
 
-# R and RStudio
+# =============================================================================
+# R / RStudio / Positron
+# =============================================================================
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 *.Rproj
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/staging/
 
+# =============================================================================
+# Python
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
 
-# VS Code / Positron
+# =============================================================================
+# Editores
+# =============================================================================
 .vscode/
 *.code-workspace
+.idea/
 
-# MacOS
+# =============================================================================
+# macOS / Windows
+# =============================================================================
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Temporary files
+# =============================================================================
+# Temporários e logs
+# =============================================================================
 *~
 *.swp
 *.swo
@@ -39,20 +68,22 @@ Desktop.ini
 *.temp
 *.bak
 *.backup
-
-# Output files (não ignorar docs/ pois é necessário para GitHub Pages)
-# mas ignorar arquivos temporários dentro dela
-docs/.DS_Store
-
-**/*.quarto_ipynb
-
-
-# Logs
 *.log
 
-# Node (se usar)
+# =============================================================================
+# Node (se for usar)
+# =============================================================================
 node_modules/
 
-# Arquivos de ambiente
+# =============================================================================
+# Variáveis de ambiente
+# =============================================================================
 .env
 .env.local
+
+# =============================================================================
+# Arquivos de referência grandes (não publicados)
+# =============================================================================
+references/books/
+references/PDFs/books/
+references/_PDFs/books/
