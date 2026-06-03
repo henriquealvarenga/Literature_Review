@@ -82,8 +82,11 @@ node_modules/
 .env.local
 
 # =============================================================================
-# Arquivos de referência grandes (não publicados)
+# PDFs de referência — artigos de terceiros (direitos autorais), não publicados.
+# Versiona-se apenas references/references.bib e os estilos CSL.
 # =============================================================================
+references/PDFs/
 references/books/
-references/PDFs/books/
 references/_PDFs/books/
+
+/.quarto/

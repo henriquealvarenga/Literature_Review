@@ -43,7 +43,7 @@ O desenvolvimento deste material contou com o auxílio de ferramentas de intelig
 
 O uso dessas ferramentas seguiu princípios de transparência e verificação: todo o conteúdo gerado foi revisado, verificado e validado pelo autor. As referências bibliográficas foram conferidas individualmente para garantir precisão e veracidade.
 
-::: callout-note
+::: {.callout-note}
 ## Nota sobre o uso de IA
 
 A inteligência artificial foi utilizada como ferramenta de apoio, não como substituto do trabalho intelectual. A responsabilidade pelo conteúdo final, incluindo a precisão das informações e a adequação das referências, é integralmente do autor.

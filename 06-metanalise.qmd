@@ -9,7 +9,7 @@ A meta-análise é uma técnica estatística que combina quantitativamente os re
 
 O termo foi cunhado por Gene Glass em 1976, que a definiu como "a análise estatística de uma grande coleção de resultados de estudos individuais, com o propósito de integrar os achados" [@glass1976].
 
-::: callout-note
+::: {.callout-note}
 ## Definição
 
 A meta-análise é um método estatístico que combina resultados de estudos independentes para obter uma estimativa mais precisa do efeito de uma intervenção ou da força de uma associação.
@@ -24,7 +24,7 @@ A meta-análise é um método estatístico que combina resultados de estudos ind
 
 A meta-análise **geralmente ocorre dentro** de uma revisão sistemática, mas nem toda revisão sistemática inclui meta-análise. A combinação estatística só é apropriada quando os estudos são suficientemente semelhantes.
 
-::: callout-important
+::: {.callout-important}
 ## Atenção
 
 Meta-análise não é sinônimo de revisão sistemática. É possível ter:
@@ -72,7 +72,7 @@ A meta-análise é apropriada quando:
 -   Os **desfechos** são medidos de forma similar
 -   A **heterogeneidade** entre estudos é aceitável
 
-::: callout-warning
+::: {.callout-warning}
 ## Cuidado
 
 Combinar estudos muito diferentes pode gerar resultados enganosos. A máxima "garbage in, garbage out" (lixo entra, lixo sai) se aplica: uma meta-análise de estudos ruins produz uma estimativa combinada ruim.
@@ -112,7 +112,7 @@ Cada estudo contribui para a estimativa combinada de acordo com seu **peso**, qu
 
 **Modelo de efeitos aleatórios:** assume que os estudos estimam efeitos diferentes, que variam em torno de uma média. É mais conservador e geralmente mais apropriado na prática clínica.
 
-::: callout-tip
+::: {.callout-tip}
 ## Na prática
 
 O modelo de **efeitos aleatórios** é recomendado na maioria das situações clínicas, pois é improvável que estudos realizados em diferentes contextos estimem exatamente o mesmo efeito.
@@ -140,7 +140,7 @@ Interpretação do I² [@higgins2003]:
 -   50-90%: heterogeneidade substancial
 -   75-100%: heterogeneidade considerável
 
-::: callout-warning
+::: {.callout-warning}
 ## Atenção
 
 Alta heterogeneidade (I² \> 75%) é um sinal de alerta. Antes de apresentar uma estimativa combinada, investigue as causas através de análises de subgrupo ou meta-regressão.
@@ -176,7 +176,7 @@ Estudos com resultados positivos ou significativos têm maior probabilidade de s
 
 **Teste de Egger:** teste estatístico para assimetria do funnel plot [@egger1997].
 
-::: callout-tip
+::: {.callout-tip}
 ## Dica prática
 
 O funnel plot é mais informativo quando há pelo menos 10 estudos. Com poucos estudos, é difícil avaliar assimetria.
@@ -200,7 +200,7 @@ Investiga se o efeito difere entre grupos definidos *a priori*:
 -   Por tipo de intervenção (dose, duração)
 -   Por qualidade metodológica
 
-::: callout-warning
+::: {.callout-warning}
 ## Cuidado com múltiplas comparações
 
 Análises de subgrupo devem ser planejadas previamente no protocolo. Análises exploratórias post hoc aumentam o risco de achados espúrios.
@@ -247,7 +247,7 @@ Análises de subgrupo devem ser planejadas previamente no protocolo. Análises e
 
 ## Resumo
 
-::: callout-note
+::: {.callout-note}
 ## Pontos-chave
 
 -   Meta-análise é uma **técnica estatística**, não um tipo de revisão
