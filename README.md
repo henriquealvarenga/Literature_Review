@@ -1,4 +1,4 @@
-# Literature Review — Revisões de Literatura em Saúde
+# Literature Review — Revisões de Literatura: Da pergunta à síntese
 
 Site Quarto com material didático sobre tipos de revisão de literatura em saúde (narrativa, integrativa, escopo, sistemática, meta-análise), ferramentas (PICO, OSF) e atividades práticas. Material da disciplina ministrada na UFSJ / AFYA.
 

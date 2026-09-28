@@ -1,5 +1,5 @@
 ---
-pagetitle: "Revisões de Literatura em Saúde — Da Pergunta à Síntese"
+pagetitle: "Revisões de Literatura: Da pergunta à síntese"
 toc: false
 sidebar: false
 page-layout: full
@@ -35,7 +35,7 @@ date: ""
       </svg>
     </div>
 
-    <h1>Revisões de<br>Literatura em <span class="highlight">Saúde</span></h1>
+    <h1>Revisões de<br><span class="highlight">Literatura</span></h1>
 
     <p class="cover-subtitle">
       Da pergunta à síntese: um guia para estudantes,<br>

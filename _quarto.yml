@@ -11,7 +11,7 @@ website:
   navbar:
     background: primary
     logo: images/logo-navbar.svg
-    logo-alt: "Revisões de Literatura em Saúde"
+    logo-alt: "Revisões de Literatura: Da pergunta à síntese"
     left:
       - text: "Início"
         href: index.qmd
