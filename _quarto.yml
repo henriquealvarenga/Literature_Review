@@ -64,8 +64,8 @@ website:
             href: 09-pratica-2.qmd
             icon: signpost-split
     right:
-      - text: "Sobre"
-        href: About.qmd
+      - text: "Créditos"
+        href: creditos.qmd
         icon: info-circle
       - icon: github
         href: https://github.com/henriquealvarenga/Literature_Review
@@ -113,7 +113,7 @@ website:
 
   page-footer:
     left: |
-      © 2025 [Henrique Alvarenga da Silva](https://henriquealvarenga.com) · UFSJ · AFYA
+      © 2026 [Henrique Alvarenga da Silva](https://henriquealvarenga.com) · UFSJ · AFYA
     right:
       - icon: envelope
         href: mailto:henriquealvarenga@ufsj.edu.br
