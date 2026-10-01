@@ -147,11 +147,11 @@ Evite transformar sua revisão em uma "colcha de retalhos" — uma sequência de
 
 | Aspecto | Narrativa | Integrativa | Sistemática |
 |---------|:---------:|:-----------:|:-----------:|
-| Pergunta | Ampla | Ampla a moderada | Específica |
+| Pergunta | Ampla | Ampla a específica | Específica |
 | Protocolo | Não | Recomendado | Obrigatório |
 | Busca | Não sistemática | Sistemática | Exaustiva |
 | Reprodutibilidade | Baixa | Moderada | Alta |
-| Síntese | Discursiva | Quali/quanti | Quali/quanti |
+| Síntese | Discursiva | Qualitativa | Quali/quanti |
 | Tempo necessário | Menor | Moderado | Maior |
 
 ## Resumo

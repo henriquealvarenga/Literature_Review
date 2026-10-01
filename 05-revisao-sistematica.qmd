@@ -257,10 +257,10 @@ Muitos periódicos exigem o checklist PRISMA preenchido como condição para sub
 
 | Aspecto | Narrativa | Integrativa | Escopo | Sistemática |
 |---------|:---------:|:-----------:|:------:|:-----------:|
-| Pergunta | Ampla | Ampla | Ampla | Específica |
+| Pergunta | Ampla | Ampla a específica | Ampla | Específica |
 | Protocolo | Não | Recomendado | Recomendado | Obrigatório |
 | Busca | Não sistemática | Sistemática | Sistemática | Exaustiva |
-| Avaliação de qualidade | Não | Opcional | Não | Obrigatória |
+| Avaliação de qualidade | Não | Recomendada | Não | Obrigatória |
 | Síntese | Qualitativa | Qualitativa | Descritiva | Quali/quanti |
 | Nível de evidência | Baixo | Moderado | — | Alto |
 

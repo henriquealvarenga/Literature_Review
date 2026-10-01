@@ -36,15 +36,26 @@ Essa origem explica por que a revisão integrativa se consolidou inicialmente na
 
 | Característica             | Descrição                                             |
 | -------------------------- | ----------------------------------------------------- |
-| **Pergunta de pesquisa**   | Ampla a moderadamente específica                      |
+| **Pergunta de pesquisa**   | Ampla a específica                                    |
 | **Finalidade central**     | Compreensão de fenômenos e desenvolvimento conceitual |
 | **Protocolo**              | Recomendado                                           |
 | **Estratégia de busca**    | Sistemática, em múltiplas bases                       |
 | **Seleção de estudos**     | Critérios explícitos de inclusão e exclusão           |
 | **Tipos de estudo**        | Quantitativos, qualitativos, mistos e teóricos        |
-| **Avaliação de qualidade** | Recomendada, dependente do objetivo                   |
+| **Avaliação de qualidade** | Recomendada; a forma varia conforme os estudos incluídos |
 | **Síntese dos resultados** | Predominantemente qualitativa e integrativa           |
-| **Reprodutibilidade**      | Moderada a alta                                       |
+| **Reprodutibilidade**      | Moderada                                              |
+
+::: {.callout-note}
+
+## Avaliação da qualidade na revisão integrativa
+
+A avaliação da qualidade dos estudos incluídos é uma **etapa do próprio método**: a "avaliação dos dados" de @whittemore2005 e a "análise crítica dos estudos incluídos" de @mendes2008 e @souza2010. Por isso, não deve ser tratada como opcional.
+
+Como a revisão integrativa reúne delineamentos diferentes, **não existe um instrumento único**: a forma de avaliar varia conforme os tipos de estudo incluídos [@whittemore2005]. Uma alternativa frequente é classificar o nível de evidência de cada estudo [@souza2010].
+
+Em geral, a qualidade serve para **qualificar a síntese, e não para excluir estudos**. @mendes2008 recomendam incluir todos os estudos e verificar se a metodologia influencia os resultados; no exemplo de @whittemore2005, nenhum estudo foi excluído pela nota de qualidade, que entrou como variável na análise.
+:::
 
 ## O que diferencia a revisão integrativa?
 
@@ -121,7 +132,7 @@ E --> F["Apresentação da revisão"]
 | Aspecto         | Integrativa             | Sistemática              |
 | --------------- | ----------------------- | ------------------------ |
 | Tipos de estudo | Diversos                | Homogêneos               |
-| Pergunta        | Ampla                   | Específica               |
+| Pergunta        | Ampla a específica      | Específica               |
 | Síntese         | Qualitativa-integrativa | Quali ou quantitativa    |
 | Meta-análise    | Não usual               | Frequente                |
 | Uso principal   | Compreensão e conceitos | Eficácia de intervenções |

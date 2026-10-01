@@ -73,10 +73,10 @@ Técnica estatística que combina quantitativamente os resultados de múltiplos 
 | **Protocolo prévio** | Não | Recomendado | Recomendado | Obrigatório | Obrigatório |
 | **Busca** | Não sistemática | Sistemática | Sistemática | Exaustiva | Exaustiva |
 | **Seleção de estudos** | Subjetiva | Critérios definidos | Critérios definidos | Critérios rígidos | Critérios rígidos |
-| **Avaliação de qualidade** | Não | Opcional | Não | Obrigatória | Obrigatória |
+| **Avaliação de qualidade** | Não | Recomendada | Não | Obrigatória | Obrigatória |
 | **Tipos de estudo incluídos** | Qualquer | Diversos | Qualquer | Geralmente homogêneos | Homogêneos |
-| **Síntese** | Qualitativa | Qualitativa | Qualitativa | Quali ou quanti | Quantitativa |
-| **Reprodutibilidade** | Baixa | Moderada | Moderada | Alta | Alta |
+| **Síntese** | Qualitativa | Qualitativa | Descritiva | Quali ou quanti | Quantitativa |
+| **Reprodutibilidade** | Baixa | Moderada | Moderada a alta | Alta | Alta |
 | **Tempo/recursos** | Baixo | Moderado | Moderado | Alto | Alto |
 | **Nível de evidência** | Baixo | Moderado | — | Alto | Alto |
 
