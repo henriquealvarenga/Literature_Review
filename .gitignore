@@ -90,3 +90,6 @@ references/books/
 references/_PDFs/books/
 
 /.quarto/
+
+# PDFs de trabalho dos slides (a cópia publicada fica em materiais/)
+_slides/

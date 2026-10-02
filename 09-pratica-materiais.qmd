@@ -1,0 +1,40 @@
+---
+title: "Materiais para download"
+subtitle: "Planilha-modelo da Atividade 2 e slides da aula"
+---
+
+## Planilha-modelo da revisão integrativa
+
+Uma planilha do Excel com **uma aba para cada etapa** da [Atividade 2 — Simulação de uma revisão integrativa](09-pratica-2.qmd). Use **um único arquivo por grupo** e preencha as abas na ordem.
+
+[📥 Baixar a planilha (Excel, .xlsx)](materiais/planilha-revisao-integrativa.xlsx){.btn .btn-primary download="planilha-revisao-integrativa.xlsx"}
+
+| Aba | Etapa | O que registrar |
+|-----|-------|-----------------|
+| **1 Pergunta e critérios** | Etapa 1 e item 2.1 | Cenário, acrônimo, pergunta norteadora e critérios de inclusão e exclusão |
+| **2 Busca** | Itens 2.2 e 2.3 | Uma linha por base: data, estratégia completa, filtros e número de registros |
+| **2 Triagem** | Item 2.4 | Registros encontrados, duplicatas e decisão por título e resumo |
+| **2 Texto completo** | Item 2.4 | Leitura do texto completo, motivo de cada exclusão e os 4 ou 5 estudos selecionados |
+| **2 Fluxograma** | Item 2.5 | Números do fluxograma, **calculados automaticamente** a partir das abas anteriores |
+| **3 Matriz de síntese** | Etapa 3 | Dados extraídos de cada estudo, uma linha por estudo |
+| **4 Análise crítica** | Etapa 4 | Nível de evidência (escala de Melnyk) e as cinco perguntas sobre o rigor |
+| **5 Categorias** | Etapa 5 | Categorias temáticas, convergências, divergências, lacunas e implicações |
+
+A Etapa 6 (apresentação) é o relatório do grupo: as abas da planilha fornecem o fluxograma, o quadro-síntese e as categorias.
+
+::: {.callout-tip}
+## Como usar a planilha
+- **Células amarelas:** preencha. **Células verdes:** calculadas automaticamente — não edite.
+- A **linha cinza** de cada aba é um exemplo fictício (Cenário 10, insônia em idosos). Ela não entra nas contagens e pode ser apagada.
+- Onde houver uma **lista** (seta ao clicar na célula), escolha um dos valores: as contagens do fluxograma dependem disso.
+- A aba **2 Fluxograma** tem uma área de **conferências** que avisa, por exemplo, se falta decisão em algum registro ou motivo em alguma exclusão.
+- A planilha também funciona no **Google Planilhas** (Arquivo › Importar) e no **LibreOffice**.
+:::
+
+---
+
+## Slides da aula
+
+Slides da aula sobre os tipos de revisão de literatura, os acrônimos PO, PICO, PICOT e PCC, o PRISMA e o registro no OSF, incluindo as etapas da revisão integrativa usadas na Atividade 2.
+
+[📥 Baixar os slides (PDF)](materiais/revisoes-de-literatura-slides.pdf){.btn .btn-primary download="revisoes-de-literatura-slides.pdf"}

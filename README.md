@@ -73,6 +73,8 @@ para ver o build.
 ├── 08-registro-osf.qmd
 ├── 09-pratica-{0,1,2}.qmd   # atividades práticas
 ├── 09-pratica-cenarios.qmd  # cenários da Atividade 2
+├── 09-pratica-materiais.qmd # downloads: planilha-modelo e slides
+├── materiais/               # arquivos para download (.xlsx, .pdf)
 ├── creditos.qmd
 │
 ├── custom.scss              # tema (variáveis Bootstrap)

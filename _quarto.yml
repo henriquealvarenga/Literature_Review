@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - materiais/
 
 website:
   title: ""
@@ -66,6 +68,9 @@ website:
           - text: "Cenários"
             href: 09-pratica-cenarios.qmd
             icon: list-ul
+          - text: "Materiais para download"
+            href: 09-pratica-materiais.qmd
+            icon: download
     right:
       - text: "Créditos"
         href: creditos.qmd
@@ -115,6 +120,8 @@ website:
             href: 09-pratica-2.qmd
           - text: "Cenários"
             href: 09-pratica-cenarios.qmd
+          - text: "Materiais para download"
+            href: 09-pratica-materiais.qmd
 
   page-footer:
     left: |

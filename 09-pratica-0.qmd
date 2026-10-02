@@ -41,7 +41,7 @@ O foco está em **vivenciar o processo**, incluindo:
 - Extração de dados em uma planilha padronizada;
 - Integração de estudos com diferentes delineamentos.
 
-Cada grupo escolhe o tema entre os [cenários propostos](09-pratica-cenarios.qmd).
+Cada grupo escolhe o tema entre os [cenários propostos](09-pratica-cenarios.qmd). A [planilha-modelo](09-pratica-materiais.qmd), com uma aba para cada etapa, e os slides da aula estão em **Materiais para download**.
 
 👉 **Acesse a atividade:**
 [Atividade 2 – Simulação de uma Revisão Integrativa](09-pratica-2.qmd)

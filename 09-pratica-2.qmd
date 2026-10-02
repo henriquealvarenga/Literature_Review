@@ -22,6 +22,8 @@ Os estudantes, organizados em **grupos de 4 a 5 participantes**, realizarão uma
 
 📌 **Tema:** cada grupo escolhe um dos [cenários propostos](09-pratica-cenarios.qmd). O foco indicado em cada cenário é o ponto de partida para a pergunta norteadora.
 
+📥 **Planilha-modelo:** baixe na página [Materiais para download](09-pratica-materiais.qmd). Ela tem uma aba para cada etapa e calcula sozinha os números do fluxograma.
+
 ::: {.callout-important}
 ## Por que só 4 ou 5 artigos?
 É uma **simplificação didática**. Em uma revisão integrativa real, **todos** os estudos que atendem aos critérios de elegibilidade entram na análise — muitas vezes, dezenas. Aqui, o objetivo é aprender o processo, e não esgotar o tema. Por isso, o relatório do grupo deve deixar claro que se trata de uma **simulação** e o fluxograma deve mostrar em que ponto a amostra foi reduzida.
@@ -116,7 +118,7 @@ Represente a seleção em um fluxograma adaptado do **PRISMA 2020** [@page2021]:
 
 ## Etapa 3 — Coleta de dados: a matriz de síntese
 
-Nesta etapa, o grupo extrai as **mesmas informações de todos os estudos** usando um instrumento elaborado antes da leitura. O instrumento serve para garantir que todos os dados relevantes sejam extraídos, reduzir erros de transcrição e funcionar como registro do processo [@souza2010]. Na prática, ele é uma **planilha** (Excel ou Google Planilhas) com **uma linha por estudo**.
+Nesta etapa, o grupo extrai as **mesmas informações de todos os estudos** usando um instrumento elaborado antes da leitura. O instrumento serve para garantir que todos os dados relevantes sejam extraídos, reduzir erros de transcrição e funcionar como registro do processo [@souza2010]. Na prática, ele é uma **planilha** (Excel ou Google Planilhas) com **uma linha por estudo** — a aba **3 Matriz de síntese** da [planilha-modelo](09-pratica-materiais.qmd) já traz essas colunas.
 
 **Como dividir o trabalho:** cada integrante extrai os dados do seu artigo; em seguida, **outro integrante confere** a extração, comparando a planilha com o texto original.
 
