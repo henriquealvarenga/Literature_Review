@@ -143,7 +143,7 @@ Nesta etapa, o grupo extrai as **mesmas informações de todos os estudos** usan
 
 | ID | Referência | Delineamento | Participantes | Intervenção | Principais resultados | Nível |
 |----|------------|--------------|---------------|-------------|-----------------------|-------|
-| E1 | Autor A et al., 2021 | Ensaio clínico randomizado | 120 idosos atendidos em ambulatório | Melatonina × placebo, por 8 semanas | Menor latência do sono no grupo melatonina; sem diferença em quedas | 2 |
+| E1 | Autor A et al., 2021 | Ensaio clínico randomizado | 120 idosos atendidos em ambulatório | Melatonina × placebo, por 8 semanas | Menor latência do sono no grupo melatonina; sem diferença em quedas | II |
 
 *Nota: linha ilustrativa, com dados fictícios. Na planilha real, preencha todas as colunas.*
 
@@ -160,18 +160,19 @@ Esta etapa corresponde à análise de dados de uma pesquisa convencional: cada e
 
 ### 4.1 Nível de evidência
 
-Classifique cada estudo segundo a hierarquia de evidências apresentada por @souza2010:
+Classifique cada estudo segundo a hierarquia de evidências de Melnyk e Fineout-Overholt (2005), reproduzida por @dantas2022:
 
 | Nível | Tipo de evidência |
 |-------|-------------------|
-| **1** | Metanálise de múltiplos estudos clínicos controlados e randomizados |
-| **2** | Estudos individuais com delineamento experimental |
-| **3** | Estudos quase-experimentais |
-| **4** | Estudos descritivos (não experimentais) ou com abordagem qualitativa |
-| **5** | Relatos de caso ou de experiência |
-| **6** | Opiniões de especialistas |
+| **I** | Revisão sistemática ou metanálise de ensaios clínicos randomizados; diretrizes clínicas baseadas nessas revisões |
+| **II** | Pelo menos um ensaio clínico randomizado controlado bem delineado |
+| **III** | Pelo menos um ensaio clínico bem delineado, não randomizado |
+| **IV** | Estudos de coorte e de caso-controle |
+| **V** | Revisão sistemática de estudos descritivos ou qualitativos |
+| **VI** | Um único estudo descritivo ou qualitativo |
+| **VII** | Opinião de especialistas ou relatório de comitês de especialistas |
 
-Outras classificações também podem ser usadas, como as do Centro de Medicina Baseada em Evidências de Oxford e de Melnyk e Fineout-Overholt [@dantas2022]. O importante é **declarar qual foi adotada**.
+Outras classificações também podem ser usadas, como a hierarquia de seis níveis apresentada por @souza2010 e a do Centro de Medicina Baseada em Evidências de Oxford [@dantas2022]. O importante é **declarar qual foi adotada**.
 
 ### 4.2 Rigor metodológico
 
