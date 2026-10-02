@@ -72,6 +72,7 @@ para ver o build.
 ├── 07-acronimos-pico.qmd
 ├── 08-registro-osf.qmd
 ├── 09-pratica-{0,1,2}.qmd   # atividades práticas
+├── 09-pratica-cenarios.qmd  # cenários da Atividade 2
 ├── creditos.qmd
 │
 ├── custom.scss              # tema (variáveis Bootstrap)

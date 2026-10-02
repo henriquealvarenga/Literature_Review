@@ -1,0 +1,86 @@
+---
+title: "Cenários"
+subtitle: "Temas para a Atividade 2 — Simulação de uma revisão integrativa"
+---
+
+## Como usar os cenários
+
+Cada grupo deverá escolher **um** dos cenários abaixo para realizar a [Atividade 2](09-pratica-2.qmd).
+
+O **foco** indicado em cada cenário é apenas o ponto de partida: na Etapa 1 da atividade, o grupo deve transformá-lo em uma **pergunta norteadora estruturada**, com o acrônimo adequado (PICO, PO ou PICo).
+
+Os focos combinam dois tipos de pergunta: sobre **efeitos** (eficácia, segurança, desempenho) e sobre **experiência e adesão** (percepções, barreiras, facilitadores). É essa combinação que permite reunir estudos de **delineamentos diferentes** — ensaios clínicos, estudos observacionais e estudos qualitativos —, como pede a revisão integrativa. O grupo pode delimitar o foco, desde que a pergunta continue admitindo mais de um delineamento.
+
+---
+
+### Cenário 1
+**Impacto da Atividade Física na Prevenção de Doenças Cardiovasculares em Idosos**
+
+- **Foco:** sintetizar evidências sobre os efeitos da atividade física em parâmetros cardiovasculares, como pressão arterial, colesterol e índice de massa corporal, e sobre os fatores que facilitam ou dificultam a adesão dos idosos à prática regular.
+
+---
+
+### Cenário 2
+**Uso da Inteligência Artificial no Diagnóstico Precoce de Câncer de Mama**
+
+- **Foco:** sintetizar evidências sobre a acurácia da IA na detecção precoce do câncer de mama, em comparação com os métodos tradicionais, e sobre a percepção de profissionais e pacientes quanto ao seu uso.
+
+---
+
+### Cenário 3
+**Abordagens Nutricionais para o Controle da Diabetes Mellitus Tipo 2**
+
+- **Foco:** sintetizar evidências sobre o impacto de diferentes abordagens nutricionais no controle glicêmico e sobre as barreiras e os facilitadores para a adesão dos pacientes à dieta.
+
+---
+
+### Cenário 4
+**Eficácia de Programas de Vacinação contra o HPV na Redução do Câncer Cervical**
+
+- **Foco:** sintetizar evidências de ensaios clínicos e estudos populacionais sobre o impacto da vacinação contra o HPV nas lesões precursoras e no câncer cervical, e sobre os fatores associados à adesão e à hesitação vacinal.
+
+---
+
+### Cenário 5
+**Estratégias de Saúde Mental para Redução do Estresse em Profissionais de Saúde durante a Pandemia de COVID-19**
+
+- **Foco:** sintetizar evidências sobre a eficácia de intervenções específicas, como TCC, mindfulness e suporte psicológico online, e sobre a experiência dos profissionais com essas intervenções (aceitação e barreiras de acesso).
+
+---
+
+### Cenário 6
+**Uso de Antidepressivos em Transtornos Depressivos Leves a Moderados**
+
+- **Foco:** sintetizar evidências sobre eficácia e efeitos adversos de antidepressivos, em comparação com placebo ou intervenções não farmacológicas, e sobre as experiências e preferências dos pacientes em relação ao tratamento.
+
+---
+
+### Cenário 7
+**Teletrabalho e Saúde Mental em Profissionais da Saúde**
+
+- **Foco:** sintetizar evidências sobre os impactos do teletrabalho em desfechos como estresse, burnout, ansiedade e depressão, e sobre como os profissionais percebem e vivenciam essa forma de trabalho.
+
+---
+
+### Cenário 8
+**Uso de Canabinoides Medicinais no Tratamento da Dor Crônica**
+
+- **Foco:** sintetizar evidências sobre eficácia, segurança e eventos adversos dos canabinoides no tratamento da dor crônica, e sobre a percepção de pacientes e profissionais quanto ao seu uso.
+
+---
+
+### Cenário 9
+**Intervenções Não Farmacológicas para Prevenção de Quedas em Idosos**
+
+- **Foco:** sintetizar evidências sobre a efetividade dessas intervenções na redução de quedas, hospitalizações e mortalidade, e sobre os fatores que influenciam a adesão dos idosos aos programas de prevenção.
+
+---
+
+### Cenário 10 (usado nos exemplos da atividade)
+**Uso de Psicofármacos no Tratamento da Insônia em Idosos**
+
+- **Foco:** sintetizar evidências sobre a eficácia e a segurança de diferentes classes de psicofármacos (benzodiazepínicos, Z-drugs, antidepressivos sedativos e melatonina) no tratamento da insônia em idosos, e sobre a experiência dos idosos com o uso desses medicamentos.
+
+---
+
+👉 **Voltar para a atividade:** [Atividade 2 – Simulação de uma Revisão Integrativa](09-pratica-2.qmd)

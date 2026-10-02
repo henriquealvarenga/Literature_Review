@@ -28,22 +28,23 @@ O objetivo central é que o aluno aprenda a:
 
 ---
 
-## Atividade 2  
-### Planejamento de Revisões Narrativa e Integrativa
+## Atividade 2
+### Simulação de uma Revisão Integrativa
 
-Nesta atividade, os estudantes irão **planejar duas estratégias distintas de revisão de literatura** — uma **revisão narrativa** e uma **revisão integrativa** — a partir de um mesmo cenário clínico ou pergunta de pesquisa.
+Nesta atividade, os estudantes irão **planejar e executar, em pequena escala, as seis etapas de uma revisão integrativa**: da pergunta norteadora à apresentação da síntese. A análise detalhada fica restrita a **4 ou 5 artigos** — um por integrante do grupo —, o suficiente para construir a **matriz de síntese** (planilha), classificar o nível de evidência e integrar os achados em categorias temáticas.
 
-O foco da atividade não é executar a revisão completa, mas **compreender como o tipo de revisão influencia todas as decisões metodológicas**, incluindo:
+O foco está em **vivenciar o processo**, incluindo:
 
-- Formulação da pergunta de pesquisa;
-- Estratégia de busca bibliográfica;
-- Definição de critérios de inclusão e exclusão;
-- Forma de síntese e apresentação dos dados.
+- Formulação de uma pergunta norteadora estruturada;
+- Busca documentada e reprodutível em mais de uma base;
+- Seleção transparente, registrada em um fluxograma;
+- Extração de dados em uma planilha padronizada;
+- Integração de estudos com diferentes delineamentos.
 
-A atividade enfatiza a comparação explícita entre as duas abordagens, promovendo uma compreensão mais profunda das **diferenças conceituais e metodológicas** entre elas.
+Cada grupo escolhe o tema entre os [cenários propostos](09-pratica-cenarios.qmd).
 
-👉 **Acesse a atividade:**  
-[Atividade 2 – Planejamento de Revisões Narrativa e Integrativa](09-pratica-2.qmd)
+👉 **Acesse a atividade:**
+[Atividade 2 – Simulação de uma Revisão Integrativa](09-pratica-2.qmd)
 
 ---
 
@@ -52,6 +53,6 @@ A atividade enfatiza a comparação explícita entre as duas abordagens, promove
 As duas atividades devem ser compreendidas como **complementares**:
 
 - A **primeira** foca na **leitura crítica de um produto científico já publicado**;
-- A **segunda** foca no **planejamento metodológico da produção científica**.
+- A **segunda** foca no **planejamento e na execução** de uma revisão integrativa, em pequena escala.
 
-Juntas, elas oferecem uma base sólida para que o estudante compreenda **como revisões de literatura são avaliadas, planejadas e utilizadas na prática científica em saúde**.
+Juntas, elas oferecem uma base sólida para que o estudante compreenda **como revisões de literatura são avaliadas, planejadas e conduzidas na prática científica em saúde**.

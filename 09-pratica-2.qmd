@@ -1,243 +1,289 @@
 ---
 title: "Atividade Prática 2"
-subtitle: "Planejamento de Revisões Narrativa e Integrativa"
+subtitle: "Simulação de uma revisão integrativa, da pergunta à síntese"
 ---
 
-## Objetivo da atividade
+## Objetivos da atividade
 
-Esta atividade prática tem como objetivo desenvolver a capacidade do estudante de **planejar estratégias de revisão de literatura**, diferenciando de forma clara e consciente a **revisão narrativa** da **revisão integrativa**, a partir de um mesmo cenário clínico ou pergunta de pesquisa.
+Nesta atividade, os grupos vão **executar, em pequena escala, as seis etapas de uma revisão integrativa** [@mendes2008; @souza2010]. Ao final, espera-se que o estudante seja capaz de:
 
-Ao final da atividade, espera-se que o aluno seja capaz de:
-
-- Compreender as **diferenças conceituais, metodológicas e epistemológicas** entre revisão narrativa e revisão integrativa;
-- Formular **perguntas de pesquisa adequadas** a cada tipo de revisão;
-- Planejar **estratégias de busca bibliográfica** coerentes com os objetivos de cada abordagem;
-- Definir **critérios de inclusão e exclusão** compatíveis com o grau de rigor metodológico esperado;
-- Refletir criticamente sobre **formas distintas de síntese e apresentação dos dados**.
+- Formular uma **pergunta norteadora** estruturada (PICO, PO ou PICo);
+- Construir e **documentar** uma estratégia de busca reprodutível;
+- Aplicar **critérios de inclusão e exclusão** e registrar a seleção em um **fluxograma**;
+- Extrair dados de estudos com **diferentes delineamentos** em uma **matriz de síntese** (planilha);
+- Classificar o **nível de evidência** e analisar criticamente os estudos incluídos;
+- **Integrar** os achados em categorias temáticas e redigir uma síntese crítica.
 
 ---
 
 ## Descrição geral da atividade
 
-Os alunos deverão ser organizados em **grupos de 4 a 5 participantes**. Cada grupo trabalhará com **um cenário temático**, que deverá ser explorado **em paralelo** por meio de:
+Os estudantes, organizados em **grupos de 4 a 5 participantes**, realizarão uma revisão integrativa **simulada**: todas as etapas são feitas de verdade, mas a análise detalhada fica restrita a **4 ou 5 artigos** — de preferência, **um artigo por integrante**.
 
-- uma **revisão narrativa**;  
-- uma **revisão integrativa**.
+📌 **Tema:** cada grupo escolhe um dos [cenários propostos](09-pratica-cenarios.qmd). O foco indicado em cada cenário é o ponto de partida para a pergunta norteadora.
 
-A proposta central da atividade é que os estudantes **planejem conscientemente duas estratégias distintas de revisão**, partindo do mesmo tema, e sejam capazes de **justificar as diferenças metodológicas entre elas**.
-
-📌 O foco da atividade **não é executar a revisão completa**, mas **planejar adequadamente** cada tipo de revisão e compreender seus pressupostos.
-
----
-
-## Etapas da atividade
-
-Cada grupo deverá desenvolver as etapas abaixo, sempre considerando **duas abordagens paralelas**:  
-uma para a **revisão narrativa** e outra para a **revisão integrativa**.
-
----
-
-### 1. Formulação da pergunta de pesquisa
-
-Os grupos deverão formular **duas perguntas de pesquisa**, uma para cada tipo de revisão:
-
-- **Revisão narrativa:**  
-  A pergunta deve ser **ampla, exploratória e contextual**, permitindo abordagem histórica, conceitual ou interpretativa.
-
-- **Revisão integrativa:**  
-  A pergunta deve ser **mais delimitada e estruturada**, voltada para a síntese de evidências, podendo utilizar modelos como PICO, PICo ou variações semelhantes.
-
-📌 *O objetivo é compreender como o tipo de revisão condiciona a forma da pergunta.*
-
----
-
-### 2. Elaboração da estratégia de busca bibliográfica
-
-Os grupos deverão planejar **como a busca seria realizada**, definindo:
-
-- **Bases de dados**, como:
-  - [PubMed / MEDLINE](https://pubmed.ncbi.nlm.nih.gov)
-  - [SciELO](https://scielo.org)
-  - [Biblioteca Virtual em Saúde (BVS)](https://bvsalud.org)
-
-- **Descritores e palavras-chave**
-- **Operadores booleanos** (AND, OR, NOT)
-
-Deve ficar claro que:
-
-- Na **revisão narrativa**, a busca pode ser **mais flexível, iterativa e exploratória**;
-- Na **revisão integrativa**, a busca deve ser **mais sistemática, transparente e potencialmente reprodutível**.
-
----
-
-### 3. Definição de critérios de inclusão e exclusão
-
-Os grupos deverão propor critérios distintos para cada tipo de revisão:
-
-- **Revisão narrativa:**  
-  Critérios mais amplos, podendo incluir estudos observacionais, revisões anteriores, textos conceituais e análises históricas.
-
-- **Revisão integrativa:**  
-  Critérios mais **explícitos e rigorosos**, como:
-  - tipo de estudo;
-  - população;
-  - período de publicação;
-  - idioma;
-  - desfechos de interesse.
-
----
-
-### 4. Planejamento da síntese dos dados
-
-Os grupos deverão descrever **como os dados seriam organizados e apresentados**:
-
-- **Revisão narrativa:**  
-  Síntese temática, interpretativa e integradora, com maior liberdade analítica.
-
-- **Revisão integrativa:**  
-  Síntese comparativa e estruturada, frequentemente com tabelas, categorias analíticas e descrição sistemática dos resultados.
-
----
-
-### 5. Apresentação da atividade
-
-Cada grupo deverá apresentar um **resumo do planejamento**, incluindo:
-
-- as duas perguntas de pesquisa;
-- as estratégias de busca;
-- os critérios de inclusão e exclusão;
-- o plano de síntese dos dados;
-- uma **justificativa clara das diferenças** entre a revisão narrativa e a integrativa.
-
----
-
-## Cenários propostos
-
-Cada grupo deverá escolher **um** dos cenários abaixo.
-
----
-
-### Cenário 1  
-**Impacto da Atividade Física na Prevenção de Doenças Cardiovasculares em Idosos**
-
-- **Revisão Narrativa:**  
-  Explorar de forma ampla como diferentes formas de atividade física têm sido utilizadas ao longo do tempo na prevenção de doenças cardiovasculares em idosos.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências sobre os efeitos da atividade física em parâmetros específicos, como pressão arterial, colesterol e índice de massa corporal.
-
----
-
-### Cenário 2  
-**Uso da Inteligência Artificial no Diagnóstico Precoce de Câncer de Mama**
-
-- **Revisão Narrativa:**  
-  Explorar a evolução histórica do uso da inteligência artificial na saúde, com foco no diagnóstico do câncer de mama.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências sobre acurácia e sensibilidade da IA na detecção precoce do câncer de mama em comparação com métodos tradicionais.
-
----
-
-### Cenário 3  
-**Abordagens Nutricionais para o Controle da Diabetes Mellitus Tipo 2**
-
-- **Revisão Narrativa:**  
-  Revisar a evolução das abordagens nutricionais ao longo das últimas décadas, considerando diferentes contextos culturais e socioeconômicos.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências clínicas sobre o impacto de diferentes abordagens nutricionais no controle glicêmico.
-
----
-
-### Cenário 4  
-**Eficácia de Programas de Vacinação contra o HPV na Redução do Câncer Cervical**
-
-- **Revisão Narrativa:**  
-  Explorar o impacto dos programas de vacinação em diferentes regiões, enfatizando barreiras culturais, políticas e econômicas.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências de ensaios clínicos e estudos populacionais sobre a eficácia da vacinação contra o HPV.
-
----
-
-### Cenário 5  
-**Estratégias de Saúde Mental para Redução do Estresse em Profissionais de Saúde durante a Pandemia de COVID-19**
-
-- **Revisão Narrativa:**  
-  Explorar estratégias utilizadas em pandemias anteriores e durante a COVID-19 para apoio à saúde mental de profissionais de saúde.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências sobre a eficácia de intervenções específicas, como TCC, mindfulness e suporte psicológico online.
-
----
-
-### Cenário 6  
-**Uso de Antidepressivos em Transtornos Depressivos Leves a Moderados**
-
-- **Revisão Narrativa:**  
-  Explorar a evolução histórica do uso de antidepressivos, incluindo debates sobre medicalização e mudanças nas classificações diagnósticas.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências clínicas sobre eficácia e efeitos adversos de antidepressivos em comparação com placebo ou intervenções não farmacológicas.
-
----
-
-### Cenário 7  
-**Teletrabalho e Saúde Mental em Profissionais da Saúde**
-
-- **Revisão Narrativa:**  
-  Explorar transformações organizacionais e percepções subjetivas relacionadas ao teletrabalho e à saúde mental.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências sobre impactos do teletrabalho em desfechos como estresse, burnout, ansiedade e depressão.
-
----
-
-### Cenário 8  
-**Uso de Canabinoides Medicinais no Tratamento da Dor Crônica**
-
-- **Revisão Narrativa:**  
-  Revisar o contexto histórico, regulatório e sociocultural do uso de canabinoides medicinais.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências clínicas sobre eficácia, segurança e eventos adversos no tratamento da dor crônica.
-
----
-
-### Cenário 9  
-**Intervenções Não Farmacológicas para Prevenção de Quedas em Idosos**
-
-- **Revisão Narrativa:**  
-  Explorar diferentes abordagens preventivas considerando contextos de cuidado e aspectos culturais.
-
-- **Revisão Integrativa:**  
-  Sintetizar evidências sobre a efetividade dessas intervenções na redução de quedas, hospitalizações e mortalidade.
-
----
-
-::: {.callout-important title="Exemplo de entrega – Resultado esperado da atividade"}
-O quadro abaixo exemplifica **como um grupo de alunos poderia redigir o planejamento final** da atividade, a partir do **Cenário 10**.  
-Trata-se de um **modelo orientador**: o conteúdo pode variar, desde que o raciocínio metodológico esteja correto e as diferenças entre **revisão narrativa** e **revisão integrativa** estejam claramente explicitadas.
+::: {.callout-important}
+## Por que só 4 ou 5 artigos?
+É uma **simplificação didática**. Em uma revisão integrativa real, **todos** os estudos que atendem aos critérios de elegibilidade entram na análise — muitas vezes, dezenas. Aqui, o objetivo é aprender o processo, e não esgotar o tema. Por isso, o relatório do grupo deve deixar claro que se trata de uma **simulação** e o fluxograma deve mostrar em que ponto a amostra foi reduzida.
 :::
 
-## Exemplo de planejamento entregue pelo grupo  
-### Cenário 10 – Uso de Psicofármacos no Tratamento da Insônia em Idosos
+::: {.callout-tip}
+## Como escolher os 4 ou 5 artigos
+- Inclua pelo menos **dois delineamentos diferentes** (por exemplo, um ensaio clínico e um estudo observacional). Integrar delineamentos é a marca da revisão integrativa; com apenas ensaios clínicos, o trabalho vira uma pequena revisão sistemática.
+- Se a literatura permitir, inclua **pelo menos um estudo qualitativo**.
+- Use apenas artigos com **texto completo acessível** (SciELO, PubMed Central, periódicos de acesso aberto ou o acervo da biblioteca da instituição).
+- Escolha os artigos pela **pergunta e pelos critérios de elegibilidade**, nunca pelo resultado que "combina" com o que o grupo espera encontrar.
+:::
 
-| Item | Revisão Narrativa | Revisão Integrativa |
-|---|---|---|
-| **Pergunta de pesquisa** | Como o tratamento farmacológico da insônia em idosos tem sido abordado ao longo do tempo, considerando mudanças nas recomendações clínicas, preocupações com segurança, risco de quedas, dependência e alternativas terapêuticas? | Quais são as evidências sobre a eficácia e a segurança de diferentes classes de psicofármacos (benzodiazepínicos, Z-drugs, antidepressivos sedativos e melatonina) no tratamento da insônia em idosos? |
-| **Justificativa da abordagem** | Optamos pela revisão narrativa porque o tema envolve transformações históricas, debates conceituais e mudanças em diretrizes clínicas. Essa abordagem permite integrar diferentes perspectivas e discutir o contexto da medicalização do sono em idosos. | Optamos pela revisão integrativa porque há necessidade de sintetizar evidências clínicas de forma estruturada, comparando classes de medicamentos quanto à eficácia e aos eventos adversos, o que exige maior rigor metodológico. |
-| **Bases de dados** | PubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS). | PubMed/MEDLINE, SciELO e Biblioteca Virtual em Saúde (BVS). |
-| **Estratégia de busca inicial** | ```text ("insomnia" AND "elderly") AND ("hypnotics" OR "sleep medication" OR "pharmacological treatment") ``` | ```text ("insomnia" AND "elderly") AND ("benzodiazepines" OR "z-drugs" OR "melatonin" OR "sedating antidepressants") AND ("efficacy" OR "safety" OR "adverse effects" OR "falls") ``` |
-| **Ajustes planejados na busca** | Inclusão posterior de termos relacionados a diretrizes e recomendações clínicas (ex.: “guideline”, “Beers criteria”), priorizando textos conceituais e revisões relevantes. | Refinamento por descritores MeSH, filtros de idade, tipo de estudo e desfechos clínicos, visando maior precisão e reprodutibilidade. |
-| **Critérios de inclusão** | Estudos em português, inglês ou espanhol; revisões, diretrizes, estudos observacionais e textos conceituais relevantes; foco em população idosa (≥60 anos); sem restrição rígida de período para permitir análise histórica. | Ensaios clínicos e estudos observacionais; população ≥60 anos; avaliação de eficácia e/ou segurança farmacológica; desfechos clínicos relacionados ao sono e eventos adversos; preferência por estudos dos últimos 10 anos. |
-| **Critérios de exclusão** | Estudos exclusivamente pediátricos ou sem foco em idosos; artigos sem relação com tratamento farmacológico da insônia; textos de opinião sem base bibliográfica relevante. | Estudos sem desfechos clínicos claros; metodologia inadequada ou pouco descrita; populações mistas sem análise específica de idosos; estudos apenas com intervenções não farmacológicas. |
-| **Plano de síntese** | Síntese temática e interpretativa, organizada em eixos: evolução histórica do uso de hipnóticos, mudanças em diretrizes, riscos clínicos e tendências atuais no tratamento da insônia em idosos. | Síntese estruturada e comparativa, com tabelas por classe farmacológica, descrição dos desfechos avaliados, comparação entre estudos e discussão das convergências e divergências dos resultados. |
-| **Justificativa das diferenças** | A revisão narrativa permite contextualizar e interpretar o tema de forma ampla, integrando aspectos históricos, conceituais e clínicos. | A revisão integrativa exige delimitação, padronização e maior rigor metodológico para produzir uma síntese comparável e baseada em evidências. |
+---
 
+## Etapa 1 — Pergunta norteadora
 
+A pergunta norteadora é a etapa mais importante da revisão, porque determina quais estudos serão incluídos e quais informações serão extraídas de cada um [@souza2010].
+
+**O que fazer:**
+
+1. Defina o tema e o objetivo da revisão;
+2. Escolha o acrônimo adequado ao tipo de pergunta (veja [Acrônimos PICO, PICo, PICOT](07-acronimos-pico.qmd)):
+    - **PICO / PICOT** — eficácia ou segurança de intervenções;
+    - **PO** — perguntas descritivas (prevalência, frequência, perfil);
+    - **PICo** — experiências e significados (estudos qualitativos);
+3. Redija a pergunta de forma clara e específica.
+
+**Exemplo** (Cenário 10 da página de [cenários](09-pratica-cenarios.qmd)):
+
+> Quais são as evidências sobre a eficácia, a segurança e a experiência de uso de diferentes classes de psicofármacos no tratamento da insônia em idosos?
+
+| Elemento | Conteúdo |
+|----------|----------|
+| **P** | Idosos (≥ 60 anos) com insônia |
+| **I** | Psicofármacos: benzodiazepínicos, Z-drugs, antidepressivos sedativos, melatonina |
+| **C** | Outras classes de psicofármacos ou placebo |
+| **O** | Eficácia sobre o sono, eventos adversos (quedas, dependência) e experiência de uso relatada pelos idosos |
+
+---
+
+## Etapa 2 — Busca e seleção dos estudos
+
+### 2.1 Critérios de elegibilidade
+
+Defina os critérios **antes** de iniciar a busca. Eles devem decorrer da pergunta:
+
+- **População:** quem pode (e quem não pode) estar nos estudos;
+- **Tipos de estudo:** quais delineamentos serão aceitos;
+- **Período e idioma:** por exemplo, últimos 10 anos; português, inglês e espanhol;
+- **Desfechos ou fenômenos de interesse:** o que o estudo precisa ter investigado.
+
+### 2.2 Estratégia de busca
+
+- Pesquise em **pelo menos duas bases**, por exemplo [PubMed / MEDLINE](https://pubmed.ncbi.nlm.nih.gov), [BVS / LILACS](https://bvsalud.org) e [SciELO](https://scielo.org);
+- Combine **descritores controlados** (MeSH no PubMed; DeCS na BVS) com **sinônimos em texto livre**;
+- Use **OR** dentro de cada bloco de sinônimos e **AND** entre os blocos.
+
+### 2.3 Registro da busca
+
+Registre cada busca em uma tabela. Esse registro é o que torna a busca **reprodutível**:
+
+| Base | Data da busca | Estratégia completa | Filtros aplicados | Registros encontrados |
+|------|---------------|---------------------|-------------------|-----------------------|
+| PubMed | dd/mm/aaaa | (copiar a estratégia exata) | ex.: 2016–2026; humanos | n = ___ |
+| BVS | dd/mm/aaaa | (copiar a estratégia exata) | ex.: português, inglês, espanhol | n = ___ |
+
+### 2.4 Seleção
+
+1. **Remova as duplicatas** encontradas em mais de uma base;
+2. **Faça a triagem por título e resumo**, aplicando os critérios de elegibilidade. A seleção deve ser feita, de preferência, por **dois integrantes de forma independente**, com as divergências resolvidas por consenso [@mendes2008];
+3. **Leia o texto completo** dos estudos que passaram na triagem e registre o **motivo de cada exclusão**;
+4. Entre os estudos elegíveis, escolha os **4 ou 5** que farão parte da simulação, seguindo as orientações do quadro "Como escolher os 4 ou 5 artigos".
+
+::: {.callout-note}
+## Se a busca retornar centenas de registros
+Para manter a atividade viável, o grupo pode triar apenas os **primeiros 50 registros de cada base** (ordenados por relevância). Essa decisão deve ser **registrada no método** e citada como limitação no relatório.
+:::
+
+### 2.5 Fluxograma
+
+Represente a seleção em um fluxograma adaptado do **PRISMA 2020** [@page2021]:
+
+- Registros identificados em cada base (n);
+- Duplicatas removidas (n);
+- Registros triados por título e resumo (n) → excluídos (n);
+- Textos completos avaliados (n) → excluídos, com os motivos (n);
+- Estudos elegíveis (n);
+- **Estudos selecionados para esta simulação (n = 4 ou 5).**
+
+---
+
+## Etapa 3 — Coleta de dados: a matriz de síntese
+
+Nesta etapa, o grupo extrai as **mesmas informações de todos os estudos** usando um instrumento elaborado antes da leitura. O instrumento serve para garantir que todos os dados relevantes sejam extraídos, reduzir erros de transcrição e funcionar como registro do processo [@souza2010]. Na prática, ele é uma **planilha** (Excel ou Google Planilhas) com **uma linha por estudo**.
+
+**Como dividir o trabalho:** cada integrante extrai os dados do seu artigo; em seguida, **outro integrante confere** a extração, comparando a planilha com o texto original.
+
+### Colunas da planilha
+
+| Coluna | O que registrar |
+|--------|-----------------|
+| **ID** | Código do estudo (E1, E2, E3…) |
+| **Referência** | Autores, ano e periódico |
+| **País** | Onde o estudo foi realizado |
+| **Objetivo** | Objetivo ou pergunta do estudo |
+| **Delineamento** | Ensaio clínico, coorte, caso-controle, transversal, qualitativo, revisão… |
+| **Participantes** | Quem foi estudado, quantos e onde |
+| **Intervenção ou fenômeno** | O que foi testado, medido ou explorado |
+| **Desfechos ou variáveis** | O que foi medido e com qual instrumento |
+| **Principais resultados** | Achados centrais, com números quando houver (efeito, intervalo de confiança, valor de p) |
+| **Conclusão dos autores** | O que os autores concluem |
+| **Limitações** | As apontadas pelos autores e as percebidas pelo grupo |
+| **Nível de evidência** | Preenchido na Etapa 4 |
+| **Rigor metodológico** | Preenchido na Etapa 4 |
+| **Categoria temática** | Preenchida na Etapa 5 |
+
+### Exemplo de uma linha
+
+| ID | Referência | Delineamento | Participantes | Intervenção | Principais resultados | Nível |
+|----|------------|--------------|---------------|-------------|-----------------------|-------|
+| E1 | Autor A et al., 2021 | Ensaio clínico randomizado | 120 idosos atendidos em ambulatório | Melatonina × placebo, por 8 semanas | Menor latência do sono no grupo melatonina; sem diferença em quedas | 2 |
+
+*Nota: linha ilustrativa, com dados fictícios. Na planilha real, preencha todas as colunas.*
+
+::: {.callout-tip}
+## Dica prática
+Teste a planilha com **um artigo** antes de distribuir os demais. Se alguma coluna ficar sempre vazia ou confusa, ajuste o instrumento antes de continuar.
+:::
+
+---
+
+## Etapa 4 — Análise crítica dos estudos incluídos
+
+Esta etapa corresponde à análise de dados de uma pesquisa convencional: cada estudo é examinado em detalhe, procurando explicações para resultados diferentes ou conflitantes [@mendes2008].
+
+### 4.1 Nível de evidência
+
+Classifique cada estudo segundo a hierarquia de evidências apresentada por @souza2010:
+
+| Nível | Tipo de evidência |
+|-------|-------------------|
+| **1** | Metanálise de múltiplos estudos clínicos controlados e randomizados |
+| **2** | Estudos individuais com delineamento experimental |
+| **3** | Estudos quase-experimentais |
+| **4** | Estudos descritivos (não experimentais) ou com abordagem qualitativa |
+| **5** | Relatos de caso ou de experiência |
+| **6** | Opiniões de especialistas |
+
+Outras classificações também podem ser usadas, como as do Centro de Medicina Baseada em Evidências de Oxford e de Melnyk e Fineout-Overholt [@dantas2022]. O importante é **declarar qual foi adotada**.
+
+### 4.2 Rigor metodológico
+
+Para cada estudo, responda de forma breve, com base no próprio texto do artigo [@mendes2008; @souza2010]:
+
+1. A pergunta ou o objetivo do estudo está claro?
+2. O delineamento é adequado para responder a essa pergunta?
+3. Os participantes e os critérios de inclusão e exclusão estão descritos?
+4. Os resultados respondem ao objetivo e as conclusões são justificadas pelos resultados?
+5. Os autores reconhecem limitações e possíveis vieses?
+
+::: {.callout-warning}
+## Não exclua estudos pela qualidade
+Na revisão integrativa, a avaliação da qualidade serve para **qualificar a síntese**, e não para eliminar estudos: a recomendação é manter os estudos e verificar se a metodologia influencia os resultados [@mendes2008]. Registre o nível de evidência e o rigor na planilha e leve-os em conta na discussão.
+:::
+
+---
+
+## Etapa 5 — Discussão: das linhas às categorias
+
+Aqui acontece a **integração**. A análise segue a lógica proposta por @whittemore2005: reduzir os dados (a planilha), organizá-los em quadros, compará-los e só então tirar conclusões, sempre voltando aos artigos para verificar.
+
+**O que fazer:**
+
+1. **Leia a planilha por colunas, e não por linhas.** Compare o que cada estudo diz sobre o mesmo aspecto;
+2. **Agrupe os achados em 2 ou 3 categorias temáticas.** Uma boa categoria, de preferência, reúne estudos de **delineamentos diferentes**;
+3. Para cada categoria, descreva:
+    - o que os estudos mostram;
+    - onde **concordam** e onde **divergem** — e por quê (população, delineamento, contexto);
+    - qual é a **força da evidência** (níveis da Etapa 4);
+4. Identifique **lacunas** do conhecimento e **implicações para a prática**.
+
+### Exemplo de quadro de categorias
+
+| Categoria | Estudos | Delineamentos | O que os estudos mostram em conjunto |
+|-----------|---------|---------------|--------------------------------------|
+| Eficácia sobre o sono | E1, E4 | Ensaio clínico; revisão sistemática | … |
+| Segurança: quedas e dependência | E2, E5 | Coorte; transversal | … |
+| Experiência do idoso com o tratamento | E3 | Qualitativo | … |
+
+*Nota: modelo ilustrativo, a partir do exemplo da insônia em idosos.*
+
+::: {.callout-important}
+## Evite a "colcha de retalhos"
+A discussão **não** é um resumo de cada artigo, um após o outro. O valor da síntese está em **articular** os estudos em torno das categorias (veja o exemplo de boa e má articulação no capítulo [Revisão Narrativa](02-revisao-narrativa.qmd)).
+:::
+
+---
+
+## Etapa 6 — Apresentação da revisão
+
+A apresentação deve ser clara e completa, para permitir que o leitor avalie criticamente os resultados [@souza2010]. O relatório do grupo deve conter:
+
+1. **Título** — indicando que se trata de uma revisão integrativa (simulação);
+2. **Introdução** — justificativa do tema e pergunta norteadora;
+3. **Método** — as Etapas 1 a 4: critérios, bases, estratégias, registro da busca, processo de seleção e classificação adotada;
+4. **Resultados** — fluxograma, quadro-síntese dos estudos (versão resumida da planilha) e quadro de categorias;
+5. **Discussão** — síntese por categorias, lacunas e implicações para a prática;
+6. **Limitações** — incluindo o fato de ser uma simulação com amostra reduzida;
+7. **Referências** — todos os estudos citados, em formato padronizado.
+
+---
+
+## O que entregar
+
+- [ ] Pergunta norteadora e tabela do acrônimo
+- [ ] Critérios de elegibilidade
+- [ ] Tabela de registro da busca
+- [ ] Fluxograma da seleção
+- [ ] Planilha (matriz de síntese) com 4 ou 5 estudos
+- [ ] Nível de evidência e análise de rigor de cada estudo
+- [ ] Quadro de categorias temáticas
+- [ ] Relatório final
+
+---
+
+## Critérios de avaliação (sugestão)
+
+| Critério | O que se espera |
+|----------|-----------------|
+| **Pergunta** | Clara, delimitada e estruturada com o acrônimo adequado |
+| **Busca** | Duas ou mais bases, descritores e sinônimos, registro completo e reprodutível |
+| **Seleção** | Critérios definidos antes da busca, exclusões justificadas, fluxograma coerente |
+| **Matriz de síntese** | Colunas completas, dados fiéis aos artigos, conferência por outro integrante |
+| **Análise crítica** | Nível de evidência correto e rigor avaliado com base no texto dos artigos |
+| **Síntese** | Categorias que integram estudos diferentes; convergências, divergências e lacunas discutidas |
+| **Apresentação** | Relatório completo, organizado e com as limitações reconhecidas |
+
+---
+
+## Erros comuns
+
+- Escolher apenas ensaios clínicos — o trabalho deixa de ser integrativo;
+- Não registrar a data, a estratégia e o número de registros de cada busca;
+- Excluir estudos pela qualidade sem relatar essa decisão;
+- Resumir artigo por artigo, sem integração entre eles;
+- Tirar conclusões que vão além do que 4 ou 5 estudos permitem afirmar.
+
+---
+
+## Leituras de apoio
+
+- @mendes2008 — Revisão integrativa: método de pesquisa para a incorporação de evidências na saúde e na enfermagem
+- @souza2010 — Revisão integrativa: o que é e como fazer
+- @whittemore2005 — The integrative review: updated methodology
+- @dantas2022 — Como elaborar uma revisão integrativa: sistematização do método científico
+- @younas2021 — Five tips for developing useful literature summary tables for writing review articles
+
+---
 
 ## Considerações finais
 
-Esta atividade enfatiza que **diferentes tipos de revisão respondem a diferentes tipos de perguntas** e exigem **níveis distintos de rigor metodológico**. O objetivo central é desenvolver **consciência metodológica, pensamento crítico e capacidade de planejamento científico**, fundamentais para a leitura e produção qualificada de literatura em saúde.
+Esta atividade completa a anterior: na Atividade 1, o estudante **avalia** uma revisão publicada; nesta, **planeja e executa** — em pequena escala — todas as etapas de uma revisão integrativa.
+
+Mais do que o resultado sobre o tema, o que se avalia é o **processo**: a pergunta bem formulada, a busca documentada, a seleção transparente, a extração cuidadosa e, principalmente, a capacidade de **integrar** estudos diferentes em uma síntese crítica.

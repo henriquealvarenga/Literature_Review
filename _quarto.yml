@@ -60,9 +60,12 @@ website:
           - text: "Atividade 1: Análise Crítica"
             href: 09-pratica-1.qmd
             icon: pencil-square
-          - text: "Atividade 2: Planejamento"
+          - text: "Atividade 2: Simulação"
             href: 09-pratica-2.qmd
-            icon: signpost-split
+            icon: table
+          - text: "Cenários"
+            href: 09-pratica-cenarios.qmd
+            icon: list-ul
     right:
       - text: "Créditos"
         href: creditos.qmd
@@ -108,8 +111,10 @@ website:
             href: 09-pratica-0.qmd
           - text: "Revisão de Escopo"
             href: 09-pratica-1.qmd
-          - text: "Revisão Narrativa e Integrativa"
+          - text: "Simulação de Revisão Integrativa"
             href: 09-pratica-2.qmd
+          - text: "Cenários"
+            href: 09-pratica-cenarios.qmd
 
   page-footer:
     left: |
